@@ -1,0 +1,85 @@
+{
+  "packaged_on": "2026-09-15",
+  "sources": [
+    {
+      "file": "602-IIQ - Elektron imza və elektron sənəd haqqında_rag_chunks.md",
+      "title": "Elektron imza və elektron sənəd haqqında",
+      "official_url": "https://e-qanun.az/framework/5916",
+      "official_pdf": "https://frameworks.e-qanun.az/5/5916.pdf",
+      "snapshot_date": "2026-06-09",
+      "bytes": 70403,
+      "sha256": "f4c5a48c4bdc6d98dfb1b9e3d30057f83455e6b423f8489166adbf0cecdf3af5",
+      "lines": 1478
+    },
+    {
+      "file": "Azərbaycan Respublikasının Mülki Məcəlləsi_rag_chunks.md",
+      "title": "Azərbaycan Respublikasının Mülki Məcəlləsi",
+      "official_url": "https://e-qanun.az/framework/46944",
+      "official_pdf": "https://frameworks.e-qanun.az/46/46944.pdf",
+      "snapshot_date": "2026-06-09",
+      "bytes": 2318600,
+      "sha256": "d5f4095a0ee73f0cdb48cb120fb54260f05dc6f8e2bf3a42ddbdbfddb0c930dd",
+      "lines": 32238
+    },
+    {
+      "file": "Azərbaycan Respublikasının Vergi Məcəlləsi_rag_chunks.md",
+      "title": "Azərbaycan Respublikasının Vergi Məcəlləsi",
+      "official_url": "https://e-qanun.az/framework/46948",
+      "official_pdf": "https://frameworks.e-qanun.az/46/46948.pdf",
+      "snapshot_date": "2026-06-09",
+      "bytes": 1807838,
+      "sha256": "f50186dd1493488472c1bb05a9ec72e21dfb7d055402b7a71b487a1441fdbb4c",
+      "lines": 20230
+    },
+    {
+      "file": "Azərbaycan Respublikasının Əmək Məcəlləsi_rag_chunks.md",
+      "title": "Azərbaycan Respublikasının Əmək Məcəlləsi",
+      "official_url": "https://e-qanun.az/framework/46943",
+      "official_pdf": "https://frameworks.e-qanun.az/46/46943.pdf",
+      "snapshot_date": "2026-06-09",
+      "bytes": 684616,
+      "sha256": "0ab56aad28563d015a7b80ad00362a862af288bdc678e1200eb5735b53ec7877",
+      "lines": 8542
+    },
+    {
+      "file": "Cinayət yolu ilə əldə edilmiş əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında_rag_chunks.md",
+      "title": "Cinayət yolu ilə əldə edilmiş əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında",
+      "official_url": "https://e-qanun.az/framework/53369",
+      "official_pdf": "https://frameworks.e-qanun.az/53/53369.pdf",
+      "snapshot_date": "2026-06-09",
+      "bytes": 119359,
+      "sha256": "2770ac8666bf7d11a5e8ac88bd3d2a0f5bb1cea0773bc9d547264ab98714229b",
+      "lines": 1294
+    },
+    {
+      "file": "Elektron ticarət haqqında_rag_chunks.md",
+      "title": "Elektron ticarət haqqında",
+      "official_url": "https://e-qanun.az/framework/10406",
+      "official_pdf": "https://frameworks.e-qanun.az/10/10406.pdf",
+      "snapshot_date": "2026-06-09",
+      "bytes": 31937,
+      "sha256": "de4df375e902337e8e014aaafcdc32705ab76d7d2bdee1ad9c01f8103ed04861",
+      "lines": 582
+    },
+    {
+      "file": "Fərdi məlumatlar haqqında_rag_chunks.md",
+      "title": "Fərdi məlumatlar haqqında",
+      "official_url": "https://e-qanun.az/framework/19675",
+      "official_pdf": "https://frameworks.e-qanun.az/19/19675.pdf",
+      "snapshot_date": "2026-06-09",
+      "bytes": 48597,
+      "sha256": "e40457532de765fb1534a1acee96bac969245a11da91b4a588117e1e4ba6fbfe",
+      "lines": 846
+    },
+    {
+      "file": "İstehlakçıların hüquqlarının müdafiəsi haqqında Azərbaycan Respublikası Qanununun qüvvəyə minməsi barədə_rag_chunks.md",
+      "title": "İstehlakçıların hüquqlarının müdafiəsi haqqında",
+      "official_url": "https://e-qanun.az/framework/9479",
+      "official_pdf": "https://frameworks.e-qanun.az/9/9479.pdf",
+      "snapshot_date": "2026-06-09",
+      "bytes": 88335,
+      "sha256": "73922c3ff71b566cc5407335d8b230bf114e45a4ac2cfedf78b2dfbad02e16c5",
+      "lines": 866
+    }
+  ]
+}

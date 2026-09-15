@@ -1,0 +1,21 @@
+{
+  "checked_at_utc": "2026-09-15T12:19:07.854798+00:00",
+  "plugin": "kontaktlaw",
+  "version": "1.0.0",
+  "archive": "kontaktlaw-1.0.0.zip",
+  "archive_sha256": "2b19af9b06f24870600f85efe7578231236dce80445cf5f531e8280640e43ff8",
+  "archive_files": 61,
+  "archive_matches_source": true,
+  "knowledge_hashes_verified": 8,
+  "prompt_hashes_verified": 42,
+  "literal_chunk_line_ranges_verified": 14078,
+  "article_lookup": "passed",
+  "transliteration_equivalence": "passed",
+  "empty_result_handling": "passed",
+  "source_readback": "passed",
+  "invalid_read_requests_rejected": 3,
+  "portable_archive_lookup": "passed",
+  "reviewer_model_scenarios": "prepared; not yet executed end to end",
+  "current_law_verification": "not performed; corpus integrity checks only",
+  "marketplace_state": "not submitted or published by this validation"
+}

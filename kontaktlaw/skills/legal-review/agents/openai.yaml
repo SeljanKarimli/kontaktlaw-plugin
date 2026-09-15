@@ -1,0 +1,4 @@
+interface:
+  display_name: "KontaktLaw"
+  short_description: "Müqavilə analizi, redaktə və qanun mənbələri"
+  default_prompt: "Use $legal-review to review this contract from my selected party’s perspective."
