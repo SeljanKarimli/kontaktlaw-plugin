@@ -4,7 +4,7 @@ An installable Codex plugin for contract review, Azerbaijani legal-source lookup
 
 ## Included
 
-- Eight original MD knowledge files (5.17 MB), with official-source links and source hashes.
+- Eight processed MD knowledge snapshots with official-source links and source hashes. Local diff markup is removed while numbered legal footnotes are preserved.
 - Twelve Codex-adapted legal workflows. Gemini prompts and inactive website stages are excluded.
 - A task-focused skill and a read-only Python 3 knowledge search helper. No extra Python packages or API keys are needed.
 

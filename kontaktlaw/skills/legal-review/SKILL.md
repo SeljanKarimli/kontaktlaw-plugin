@@ -46,7 +46,7 @@ Before returning each legal finding, check that its quotation is exact, the affe
 
 ## Knowledge lookup and citations
 
-Read [the corpus catalog](references/knowledge/catalog.md) to choose the law. The eight MDs are snapshots whose headers say 9 June 2026; packaging date is not a legal effective date. They are bundled byte-for-byte with original filenames, official-source URLs and amendment annotations.
+Read [the corpus catalog](references/knowledge/catalog.md) to choose the law. The eight MDs are snapshots whose headers say 9 June 2026; packaging date is not a legal effective date. Their original filenames, official-source URLs, text, line structure, and numbered [N] amendment footnotes are preserved. Red HTML markers from a local file comparison are removed during packaging and must never be treated as legal amendment evidence.
 
 Use the dependency-free Python helper, resolving paths relative to this skill directory:
 

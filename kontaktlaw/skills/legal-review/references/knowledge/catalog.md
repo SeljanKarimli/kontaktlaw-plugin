@@ -1,6 +1,6 @@
 # KontaktLaw legal knowledge
 
-Eight original MDs copied byte-for-byte. All headers report an update date of 9 June 2026. These dates describe the supplied corpus, not independent verification of the current legal text. Preserve amendment/deletion annotations and check their context before relying on a provision.
+Eight MD snapshots derived from the supplied corpus. All headers report an update date of 9 June 2026. These dates describe the supplied corpus, not independent verification of the current legal text. Packaging removes red HTML markers created by a local file comparison; those markers are not legal amendment evidence. Numbered [N] footnotes are preserved as the corpus's actual amendment and deletion notes. Check each footnote and its context before relying on a provision.
 
 | Law | Bundled file | Official source |
 | --- | --- | --- |
