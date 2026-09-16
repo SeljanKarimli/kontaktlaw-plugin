@@ -5,7 +5,7 @@ An installable Codex plugin for contract review, Azerbaijani legal-source lookup
 ## Included
 
 - Eight original MD knowledge files (5.17 MB), with official-source links and source hashes.
-- All 42 prompt texts from the GPT and Gemini dashboard profiles, captured on 15 September 2026; inactive legacy stages are labelled.
+- All 21 GPT prompt texts captured on 15 September 2026; Gemini prompts are intentionally excluded and inactive legacy stages are labelled.
 - A task-focused skill and a read-only Python 3 knowledge search helper. No extra Python packages or API keys are needed.
 
 After installing, start a new task, invoke KontaktLaw and supply a document. Specify the party whose interests should be protected, or request general review. The plugin uses the host assistant's configured model.

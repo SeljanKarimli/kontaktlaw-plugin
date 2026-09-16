@@ -9,7 +9,7 @@ Use the supplied document and the bundled Azerbaijani legislation to produce evi
 
 ## Select the task
 
-Read [the prompt guide](references/prompt-guide.md), then only the prompt files relevant to the request. The captured dashboard prompts include GPT and Gemini versions; use GPT wording in Codex unless the user asks for the Gemini profile. These are instructions, not a connection to either provider. Use the host's configured model.
+Read [the prompt guide](references/prompt-guide.md), then only the GPT prompt files relevant to the request. These are static instructions, not a connection to OpenAI or another provider. Use the host's configured model.
 
 | Request | Prompt stage(s) |
 | --- | --- |

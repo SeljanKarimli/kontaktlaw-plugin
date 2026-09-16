@@ -20,7 +20,7 @@ Each recipient installs the plugin on their own computer. Use an up-to-date Code
 
 - The complete plugin in [`kontaktlaw/`](kontaktlaw/), including `.codex-plugin/plugin.json`.
 - Eight Azerbaijani legal knowledge files and their source hashes.
-- 42 GPT and Gemini prompt snapshots captured on 15 September 2026.
+- 21 GPT prompt snapshots captured on 15 September 2026. Gemini prompts are intentionally excluded.
 - A legal-review skill and a read-only Python knowledge search helper.
 - A ZIP containing the same plugin files, published as a release asset.
 
@@ -32,4 +32,4 @@ This repository is public and discoverable. Anyone can download the bundled know
 
 ## Validation
 
-Package validation checks the manifest, eight law-file hashes, 42 prompt hashes, 14,078 literal chunk line ranges, article lookup, Azerbaijani/ASCII search equivalence, invalid read handling, and ZIP/source consistency. These checks do not establish that the law snapshot is current or that model responses have passed end-to-end testing.
+Package validation checks the manifest, eight law-file hashes, 21 prompt hashes, 14,078 literal chunk line ranges, article lookup, Azerbaijani/ASCII search equivalence, invalid read handling, and ZIP/source consistency. These checks do not establish that the law snapshot is current or that model responses have passed end-to-end testing.
