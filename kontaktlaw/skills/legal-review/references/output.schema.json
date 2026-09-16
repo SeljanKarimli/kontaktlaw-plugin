@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "KontaktLaw requested JSON response",
+  "type": "object",
+  "required": [
+    "task",
+    "summary",
+    "findings",
+    "limitations"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "task": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "limitations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "findings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "location",
+          "quote",
+          "affected_party",
+          "severity",
+          "effect",
+          "status",
+          "legal_basis",
+          "proposed_text"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "location": {
+            "type": "string"
+          },
+          "quote": {
+            "type": "string"
+          },
+          "affected_party": {
+            "type": "string"
+          },
+          "severity": {
+            "type": "string",
+            "enum": [
+              "high",
+              "medium",
+              "low"
+            ]
+          },
+          "effect": {
+            "type": "string"
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "established",
+              "conditional"
+            ]
+          },
+          "legal_basis": {
+            "type": "string"
+          },
+          "proposed_text": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

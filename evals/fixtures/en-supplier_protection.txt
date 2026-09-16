@@ -1,0 +1,5 @@
+1. Cedar Buyer LLC and Willow Supplier LLC agree to supply chairs.
+2. Delivery is due 10 days after payment.
+3. No penalty applies to Supplier for delay caused by Buyer.
+4. Buyer may delay payment indefinitely without interest or termination rights for Supplier.
+5. Supplier retains title until payment.

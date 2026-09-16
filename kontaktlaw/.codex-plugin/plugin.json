@@ -1,6 +1,6 @@
 {
   "name": "kontaktlaw",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Azərbaycan hüquqi bilikləri və KontaktLaw promptları ilə müqavilə analizi və sənəd redaktəsi.",
   "author": {
     "name": "KontaktLaw"
@@ -16,7 +16,7 @@
   "interface": {
     "displayName": "KontaktLaw",
     "shortDescription": "Müqavilə analizi və Azərbaycan hüquqi bilikləri",
-    "longDescription": "Review contracts from a selected party perspective, check grammar, explain and rewrite clauses, and cite the eight bundled Azerbaijani legal MDs. Includes GPT and Gemini dashboard prompt snapshots captured on 15 September 2026. Runs with your host assistant and supplied documents.",
+    "longDescription": "Review supplied contracts, correct grammar, explain and revise clauses, and inspect eight bundled Azerbaijani legal-source snapshots. Uses the host assistant model and tools.",
     "developerName": "KontaktLaw",
     "category": "Productivity",
     "capabilities": [

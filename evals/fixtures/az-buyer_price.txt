@@ -1,0 +1,5 @@
+1. Sidr Alıcı MMC Söyüd Təchizatçı MMC-dən mal alır.
+2. Miqdar: 2 server. Vahid qiyməti: 700 avro. Yekun: 700 avro.
+3. Alıcı çatdırılmadan əvvəl 100% ödəyir.
+4. Satıcı ödənişdən sonra Alıcının razılığı olmadan qiyməti dəyişə bilər.
+5. Azərbaycan hüququ tətbiq edilir.
