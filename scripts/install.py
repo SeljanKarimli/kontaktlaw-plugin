@@ -5,12 +5,22 @@ Never overwrite an unmanaged or user-modified installation. Retain old versions.
 import argparse
 import hashlib
 import json
+import os
 from pathlib import Path, PurePosixPath
 import tempfile
 import zipfile
 
 STATE='.kontaktlaw-install.json'
+def full_path(path):
+    path=path.resolve()
+    value=str(path)
+    if os.name=='nt' and not value.startswith('\\\\?\\'):
+        value='\\\\?\\UNC\\'+value[2:] if value.startswith('\\\\') else '\\\\?\\'+value
+        return Path(value)
+    return path
+
 def hashes(root):
+    root=full_path(root)
     return {p.relative_to(root).as_posix():hashlib.sha256(p.read_bytes()).hexdigest()
             for p in root.rglob('*') if p.is_file() and p.name!=STATE and '__pycache__' not in p.parts}
 
@@ -18,7 +28,7 @@ def install(archive, manifest_path, parent):
     manifest=json.loads(manifest_path.read_text(encoding='utf-8'))
     if hashlib.sha256(archive.read_bytes()).hexdigest()!=manifest['sha256']:
         raise ValueError('ZIP checksum mismatch')
-    parent=parent.resolve(); parent.mkdir(parents=True,exist_ok=True)
+    parent=full_path(parent); parent.mkdir(parents=True,exist_ok=True)
     target=parent/'kontaktlaw'
     if target.is_symlink() or target.resolve()!=parent/'kontaktlaw': raise ValueError('Installation target must not be a symlink or junction')
     if target.exists():

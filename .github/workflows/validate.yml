@@ -19,8 +19,11 @@ jobs:
       - run: python -B -m unittest discover -s tests -v
       - run: python -B scripts/validate.py --output build/coverage.json
       - run: python -B scripts/package.py --candidate --output build/release
+      - run: python -B scripts/check_package.py
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
           name: candidate-${{ matrix.os }}-${{ github.sha }}
-          path: build/release/
+          path: |
+            build/release/
+            build/package-check.json
           if-no-files-found: error
