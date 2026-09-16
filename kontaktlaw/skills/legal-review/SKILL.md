@@ -36,7 +36,9 @@ Ground every finding in an exact, contiguous document quotation and a traceable 
 
 Infer governing law only from an express clause or explicit user context, never from language or currency. Use the Azerbaijani corpus only when applicable. Retrieve legal support for specific assertions; a retrieval hit alone does not establish a violation. If support is missing, say so and omit invented law/article references.
 
-Use readable sections or a table unless the user requests JSON. A useful finding contains: location, exact quote, affected party, risk and severity, practical effect, legal basis and verification status, proposed minimal replacement. If the user supplies a schema, honor it. Do not claim the website's server validators ran here.
+Use readable sections or a table unless the user requests JSON. If JSON is requested, use the user's schema or the same documented finding fields. A useful finding contains: location, exact quote, affected party, risk and severity, practical effect, legal basis and verification status, proposed minimal replacement. Do not claim the website's server validators ran here.
+
+Before returning each legal finding, check that its quotation is exact, the affected party is correct, relevant exceptions elsewhere were considered, the disadvantage is material, and every specific legal reference is supported by inspected bundled or official source text. Keep conditional concerns separate from established defects.
 
 ## Knowledge lookup and citations
 
