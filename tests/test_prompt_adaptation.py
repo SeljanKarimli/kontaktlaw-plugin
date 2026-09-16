@@ -1,4 +1,5 @@
 from pathlib import Path
+import re
 import unittest
 
 
@@ -50,6 +51,45 @@ class PluginPromptAdaptationTests(unittest.TestCase):
             text = (PROMPTS / name).read_text(encoding="utf-8")
             for dead_reference in DEAD_RUNTIME_REFERENCES:
                 self.assertNotIn(dead_reference, text, f"{name}: {dead_reference}")
+
+    def test_distributed_guidance_has_no_internal_stack_or_identifiers(self):
+        paths = [
+            REPO / "README.md",
+            REPO / "kontaktlaw/README.md",
+            REPO / "kontaktlaw/provenance.json",
+            REPO / "kontaktlaw/skills/legal-review/SKILL.md",
+            REPO / "kontaktlaw/skills/legal-review/references/prompt-guide.md",
+        ]
+        forbidden = {
+            "firebase",
+            "qdrant",
+            "onlyoffice",
+            "model routing",
+            "kontakt-law.web.app/dashboard",
+            "kontakt home",
+            "paşa bank",
+            "bank respublika",
+        }
+        for path in paths:
+            text = path.read_text(encoding="utf-8").lower()
+            for value in forbidden:
+                self.assertNotIn(value, text, f"{path.name}: {value}")
+            self.assertIsNone(
+                re.search(r"\b[0-9a-f]{40}\b", text),
+                f"{path.name}: internal Git revision",
+            )
+            self.assertIsNone(
+                re.search(
+                    r"\b[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}\b",
+                    text,
+                ),
+                f"{path.name}: internal profile UUID",
+            )
+
+    def test_party_examples_use_no_real_company_names(self):
+        text = (PROMPTS / "party_extraction.md").read_text(encoding="utf-8").lower()
+        for company in ("kontakt home", "paşa bank", "bank respublika"):
+            self.assertNotIn(company, text)
 
 
 if __name__ == "__main__":
