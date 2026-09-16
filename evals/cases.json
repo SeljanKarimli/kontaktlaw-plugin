@@ -56,9 +56,11 @@
     "language": "en",
     "scenario": "summary_annex",
     "file": "fixtures/en-summary_annex.txt",
-    "prompt": "Summarize the supplied agreement; do not perform a full risk review.",
+    "prompt": "Summarize the supplied agreement; do not perform a full risk review. Also identify the contracting parties, distinguish their representative and bank, and answer: what price has been agreed?",
     "expected_concepts": [
-      "missing_annex"
+      "missing_annex",
+      "extracts_only_contracting_parties",
+      "price_unknown_without_annex"
     ],
     "forbidden_concepts": [
       "invented_price_or_date",
@@ -72,9 +74,10 @@
     "language": "en",
     "scenario": "explanation",
     "file": "fixtures/en-explanation.txt",
-    "prompt": "Explain clause 2 and answer whether a penalty applies immediately after a late delivery.",
+    "prompt": "Prior user context: We are discussing the late-delivery penalty in clause 2. Follow-up: \"Does it start straight away?\" First turn this follow-up into a self-contained question, then explain clause 2 and answer it.",
     "expected_concepts": [
-      "notice_and_cure"
+      "notice_and_cure",
+      "condenses_followup_without_new_facts"
     ],
     "forbidden_concepts": [
       "immediate_penalty"
@@ -189,9 +192,11 @@
     "language": "az",
     "scenario": "summary_annex",
     "file": "fixtures/az-summary_annex.txt",
-    "prompt": "Təqdim olunmuş müqavilənin xülasəsini ver; tam risk təhlili etmə.",
+    "prompt": "Təqdim olunmuş müqavilənin xülasəsini ver; tam risk təhlili etmə. Həmçinin müqavilə tərəflərini müəyyən et, nümayəndə və bankı onlardan ayır və cavab ver: hansı qiymət razılaşdırılıb?",
     "expected_concepts": [
-      "missing_annex"
+      "missing_annex",
+      "extracts_only_contracting_parties",
+      "price_unknown_without_annex"
     ],
     "forbidden_concepts": [
       "invented_price_or_date",
@@ -205,9 +210,10 @@
     "language": "az",
     "scenario": "explanation",
     "file": "fixtures/az-explanation.txt",
-    "prompt": "2-ci bəndi izah et və çatdırılma gecikən kimi cərimənin tətbiq olunub-olunmadığını cavablandır.",
+    "prompt": "Əvvəlki istifadəçi konteksti: 2-ci bənddə gecikmə cəriməsini müzakirə edirik. Davam sualı: \"O dərhal başlayır?\" Əvvəlcə bunu müstəqil başa düşülən sual kimi yaz, sonra 2-ci bəndi izah edib cavab ver.",
     "expected_concepts": [
-      "notice_and_cure"
+      "notice_and_cure",
+      "condenses_followup_without_new_facts"
     ],
     "forbidden_concepts": [
       "immediate_penalty"
@@ -322,9 +328,11 @@
     "language": "ru",
     "scenario": "summary_annex",
     "file": "fixtures/ru-summary_annex.txt",
-    "prompt": "Дай краткое изложение представленного договора, без полного анализа рисков.",
+    "prompt": "Дай краткое изложение представленного договора, без полного анализа рисков. Также определи стороны договора, отдели представителя и банк и ответь: какая цена согласована?",
     "expected_concepts": [
-      "missing_annex"
+      "missing_annex",
+      "extracts_only_contracting_parties",
+      "price_unknown_without_annex"
     ],
     "forbidden_concepts": [
       "invented_price_or_date",
@@ -338,9 +346,10 @@
     "language": "ru",
     "scenario": "explanation",
     "file": "fixtures/ru-explanation.txt",
-    "prompt": "Объясни пункт 2 и ответь, применяется ли штраф сразу после просрочки поставки.",
+    "prompt": "Предыдущий контекст пользователя: обсуждаем штраф за просрочку поставки в пункте 2. Уточнение: «Он начинается сразу?» Сначала сформулируй самостоятельный вопрос, затем объясни пункт 2 и ответь.",
     "expected_concepts": [
-      "notice_and_cure"
+      "notice_and_cure",
+      "condenses_followup_without_new_facts"
     ],
     "forbidden_concepts": [
       "immediate_penalty"

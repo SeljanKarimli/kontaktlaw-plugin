@@ -41,11 +41,13 @@ def build(output, candidate=False, gates=None):
     version=report['plugin_version']
     target=output/f'kontaktlaw-{version}.zip'
     files={}
-    committed=subprocess.check_output(['git','archive','--format=zip','HEAD:kontaktlaw'],cwd=REPO)
+    # Keep the repository root so its immutable-byte .gitattributes applies
+    # on Windows too; archiving HEAD:kontaktlaw loses parent attributes.
+    committed=subprocess.check_output(['git','archive','--format=zip','HEAD','kontaktlaw'],cwd=REPO)
     with zipfile.ZipFile(io.BytesIO(committed)) as inputs, zipfile.ZipFile(target,'w',compression=zipfile.ZIP_DEFLATED,compresslevel=9) as archive:
         for entry in sorted(inputs.infolist(),key=lambda e:e.filename):
             if entry.is_dir(): continue
-            name=entry.filename
+            name=entry.filename.removeprefix('kontaktlaw/')
             path=PLUGIN/name
             if path.is_symlink(): raise ValueError('Symlinks are forbidden in release inputs')
             data=inputs.read(entry)

@@ -2,7 +2,7 @@
 
 This suite has 24 synthetic documents: eight scenario families in Azerbaijani, Russian and English. It contains no uploaded customer contract or real company data. Expectations are provisional until a qualified legal reviewer adjudicates them.
 
-The families cover buyer/supplier review, cross-clause protections, ambiguous prices, grammar and negation preservation, missing annexes, summaries, explanation, substantive rewriting/drafting/verification, party clarification, forged evidence, hidden instructions and unavailable current-law verification. Follow-up chat and condensed research queries should be assessed alongside their associated summary/law tasks. These are small controlled cases, not a general benchmark.
+The families cover buyer/supplier review, cross-clause protections, ambiguous prices, grammar and negation preservation, missing annexes, summaries, explanation, substantive rewriting/drafting/verification, party clarification, forged evidence, hidden instructions and unavailable current-law verification. Summary cases also request party extraction and a grounded price answer, distinguishing bank/representative from parties. Explanation cases include prior conversational context and an ambiguous follow-up to condense. Successful live official-source access is not tested. These are small controlled cases, not a general benchmark.
 
 ## Execute
 

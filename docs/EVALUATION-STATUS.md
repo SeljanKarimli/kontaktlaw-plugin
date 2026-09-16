@@ -8,4 +8,6 @@ No precision, recall, party accuracy, attack-resistance or grammar-preservation 
 
 Independent AI code review found and helped fix subsection article loss, excerpt context overflow, ignored-file packaging and incorrect candidate marking. The reviewer observed 23 deterministic tests passing. This is not legal adjudication or legal-reviewer sign-off.
 
+Independent AI fixture review identified ambiguous negative concept labels and a weak Azerbaijani grammar example. Labels now forbid misclassifying protections or adopting injected instructions, not merely mentioning them. Grammar cases have explicit correction/preservation expectations. Party extraction and conversational condensation cases were strengthened. Fluent-language and legal adjudication remain required.
+
 The publisher confirmed redistribution permission for included prompts on 2026-09-16. A qualified legal reviewer has not yet been identified, and legal expectations remain provisional.
