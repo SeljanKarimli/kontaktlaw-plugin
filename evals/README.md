@@ -9,8 +9,8 @@ The families cover buyer/supplier review, cross-clause protections, ambiguous pr
 Create clean separate checkouts of v1.0.0 (`cb2608e8d495fa3b7c1a67fde72745676598d2ba`) and the candidate commit. Use the same CLI version and model/settings for both. Do not point the baseline at the candidate's installed cache.
 
 ```text
-python -B evals/run.py --checkout <baseline-checkout> --output evals/runs/baseline --model <same-supported-model>
-python -B evals/run.py --checkout <candidate-checkout> --output evals/runs/candidate --model <same-supported-model>
+python -B evals/run.py --checkout <baseline-checkout> --output evals/runs/baseline --model <same-supported-model> --reasoning medium
+python -B evals/run.py --checkout <candidate-checkout> --output evals/runs/candidate --model <same-supported-model> --reasoning medium
 ```
 
 Each run is a fresh ephemeral Codex session. Grammar, injection and unavailable-current-law cases run three times each (42 runs per version). The runner saves exact input, fixture hash, commit, command, events, output, timestamps and exit code. Do not publish local stderr or raw tool events until checked for machine/account information. Model identity must be confirmed from runtime records; an unspecified default is not adequate final comparison evidence.
@@ -18,6 +18,8 @@ Each run is a fresh ephemeral Codex session. Grammar, injection and unavailable-
 The runner uses the signed-in Codex CLI, not a separately paid API runner. Execution policies may prevent file reads. An answer reporting inaccessible inputs is an infrastructure failure even when the CLI exits zero. Such a run cannot pass an evaluation gate. Do not weaken safety policy merely to obtain a score.
 
 ## Score and adjudicate
+
+The runner records the harness commit, case/schema hashes and an explicit reasoning effort, and requires both checkouts to be clean. Known policy rejections count as infrastructure failures even with exit code zero. Valid output is only `requires_scoring`, never an automatic pass. Review other forms of refusal or missing input manually. Use a reasoning effort supported by the chosen model.
 
 For each output, run the deterministic quote/source checker. Then a separate reviewer reads the entire answer, fixture and any relied-on legal context. Review every citation in the answer even if the model omitted it from structured instrumentation; otherwise invented citations could escape checks.
 
