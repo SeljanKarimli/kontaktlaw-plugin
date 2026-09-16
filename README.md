@@ -32,4 +32,4 @@ This repository is public and discoverable. Anyone can download the bundled know
 
 ## Validation
 
-Package validation checks the manifest, eight law-file hashes, 21 prompt hashes, 14,078 literal chunk line ranges, article lookup, Azerbaijani/ASCII search equivalence, invalid read handling, and ZIP/source consistency. These checks do not establish that the law snapshot is current or that model responses have passed end-to-end testing.
+Package validation checks the manifest, eight law-file hashes, 21 prompt hashes, 16,515 literal chunk line ranges, all 2,302 article headings, Azerbaijani/ASCII search equivalence, invalid read handling, and ZIP/source consistency. These checks do not establish that the law snapshot is current or that model responses have passed end-to-end testing.
