@@ -91,6 +91,22 @@ class PluginPromptAdaptationTests(unittest.TestCase):
         for company in ("kontakt home", "paşa bank", "bank respublika"):
             self.assertNotIn(company, text)
 
+    def test_prompt_instructions_use_one_language_and_one_output_rule(self):
+        for name in ACTIVE:
+            text = (PROMPTS / name).read_text(encoding="utf-8")
+            self.assertTrue(text.isascii(), f"{name}: prompt instructions must be English")
+            self.assertIn("canonical language rule in SKILL.md", text, name)
+
+        skill = (REPO / "kontaktlaw/skills/legal-review/SKILL.md").read_text(
+            encoding="utf-8"
+        )
+        guide = (
+            REPO / "kontaktlaw/skills/legal-review/references/prompt-guide.md"
+        ).read_text(encoding="utf-8")
+        self.assertIn("## Output language", skill)
+        self.assertIn("Azerbaijani by default", skill)
+        self.assertNotIn("Azerbaijani by default", guide)
+
 
 if __name__ == "__main__":
     unittest.main()

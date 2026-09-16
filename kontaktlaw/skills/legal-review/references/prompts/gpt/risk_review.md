@@ -2,7 +2,7 @@
 
 Input: the complete document, the selected party (or general review), and relevant search_knowledge.py results.
 
-Output: a readable Azerbaijani table unless another language or JSON is requested. Keep quotes and replacements in the document language.
+Output: a readable table that follows the canonical language rule in SKILL.md. Use JSON only when requested.
 
 Review definitions, annexes, cross-references, exceptions, caps, notice periods, cure rights, and protections elsewhere. For each material finding give location, exact contiguous quote, affected party, severity, legal or commercial effect, practical disadvantage, legal basis and verification status, and the smallest useful replacement. Separate conditional concerns from established defects.
 

@@ -5,7 +5,11 @@ description: Review contracts from a selected party's perspective, answer docume
 
 # KontaktLaw
 
-Use the supplied document and the bundled Azerbaijani legislation to produce evidence-based legal review. Answer in Azerbaijani by default; preserve the document language when drafting replacements, unless the user requests another language.
+Use the supplied document and the bundled Azerbaijani legislation to produce evidence-based legal review.
+
+## Output language
+
+This is the canonical language rule for every workflow. Write explanations and findings in Azerbaijani by default. Preserve the original document language for exact quotations, proposed wording, and rewritten text. Preserve the user's language when condensing a follow-up question. An explicit user language request overrides the default.
 
 ## Select the task
 
