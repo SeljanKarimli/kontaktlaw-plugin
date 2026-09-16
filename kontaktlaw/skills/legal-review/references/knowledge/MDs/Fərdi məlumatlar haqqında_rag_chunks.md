@@ -3,7 +3,7 @@
 > Rəsmi mənbə: https://e-qanun.az/framework/19675
 > Rəsmi PDF: https://frameworks.e-qanun.az/19/19675.pdf
 > Yenilənmə tarixi: 09 06 2026
-> Qırmızı hissələr əvvəlki lokal MD faylından fərqli olan maddələrdir.
+> Lokal müqayisədən qalan rəng işarələri paketləmə zamanı silinib; hüquqi dəyişiklik qeydləri [N] istinadlı footnote-lardadır.
 
 ---
 

@@ -4,13 +4,13 @@ An installable Codex plugin for contract review, Azerbaijani legal-source lookup
 
 ## Included
 
-- Eight original MD knowledge files (5.17 MB), with official-source links and source hashes.
-- All 42 prompt texts from the GPT and Gemini dashboard profiles, captured on 15 September 2026; inactive legacy stages are labelled.
+- Eight processed MD knowledge snapshots with official-source links and source hashes. Local diff markup is removed while numbered legal footnotes are preserved.
+- Twelve Codex-adapted legal workflows. Gemini prompts and inactive website stages are excluded.
 - A task-focused skill and a read-only Python 3 knowledge search helper. No extra Python packages or API keys are needed.
 
 After installing, start a new task, invoke KontaktLaw and supply a document. Specify the party whose interests should be protected, or request general review. The plugin uses the host assistant's configured model.
 
-Knowledge and prompts are snapshots. The corpus headers report 9 June 2026. Verify current law against the linked official sources when needed. This package does not connect to the website's accounts, stored documents, OCR, Firebase or model providers.
+Knowledge and prompts are snapshots. The corpus headers report 9 June 2026. Verify current law against the linked official sources when needed. This package does not connect to external services.
 
 ## Install from GitHub
 
@@ -22,4 +22,4 @@ Ask Codex:
 
 Alternatively, download kontaktlaw-1.0.0.zip from the repository's Releases page and extract it into a folder named kontaktlaw. Ask Codex to install that local folder with plugin-creator.
 
-The repository is public and discoverable. Anyone can download its knowledge and prompt snapshots. This GitHub release is a distribution package; it is not a ChatGPT marketplace listing. No credentials, customer documents, dashboard records or chat history are included.
+The repository is public and discoverable. Anyone can download its knowledge and workflows. This GitHub release is a distribution package; it is not a ChatGPT marketplace listing. No credentials, customer documents, or chat history are included.

@@ -3,6 +3,7 @@
 from __future__ import annotations
 import argparse
 from collections import Counter
+import html
 import json
 import math
 from pathlib import Path
@@ -24,9 +25,9 @@ def tokens(value):
 def metadata():
     return json.loads((ROOT / 'sources.json').read_text(encoding='utf-8'))['sources']
 
-def has_body(lines, heading):
-    body = '\n'.join(line for line in lines if line.strip() and not line.startswith(('#', '>'))).strip()
-    return bool(body) and normalize(body) != normalize(heading)
+def has_content(lines):
+    """Keep literal source content, including substantive text on a heading line."""
+    return any(line.strip() for line in lines)
 
 def chunks(source):
     lines = (LAW_DIR / source['file']).read_text(encoding='utf-8').splitlines()
@@ -34,12 +35,12 @@ def chunks(source):
     for number, line in enumerate(lines, 1):
         is_heading = re.match(r'^#{2,6}\s+', line)
         if (line.strip() == '---' or is_heading) and pending:
-            if has_body(pending, heading):
+            if has_content(pending):
                 yield {'start':start, 'end':number-1, 'heading':heading, 'article':article, 'text':'\n'.join(pending)}
             pending = []
         if is_heading:
-            heading = re.sub(r'^#+\s+', '', line)
-            match = re.match(r'madde\s+(\d+(?:[.-]\d+)*)\b', normalize(heading))
+            heading = html.unescape(re.sub(r'<[^>]+>', '', re.sub(r'^#+\s+', '', line))).strip()
+            match = re.search(r'\bmadde\s+(\d+(?:[.-]\d+)*)\b', normalize(heading))
             article = match.group(1) if match else None
         if line.strip() == '---':
             start = number + 1
@@ -47,7 +48,7 @@ def chunks(source):
         if not pending:
             start = number
         pending.append(line)
-    if has_body(pending, heading):
+    if has_content(pending):
         yield {'start':start, 'end':len(lines), 'heading':heading, 'article':article, 'text':'\n'.join(pending)}
 
 def search(args):

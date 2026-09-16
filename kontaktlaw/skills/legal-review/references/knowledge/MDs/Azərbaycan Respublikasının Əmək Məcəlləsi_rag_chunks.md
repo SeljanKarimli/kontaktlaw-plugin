@@ -3,7 +3,7 @@
 > Rəsmi mənbə: https://e-qanun.az/framework/46943
 > Rəsmi PDF: https://frameworks.e-qanun.az/46/46943.pdf
 > Yenilənmə tarixi: 09 06 2026
-> Qırmızı hissələr əvvəlki lokal MD faylından fərqli olan maddələrdir.
+> Lokal müqayisədən qalan rəng işarələri paketləmə zamanı silinib; hüquqi dəyişiklik qeydləri [N] istinadlı footnote-lardadır.
 
 ---
 
@@ -15,55 +15,55 @@ AZƏRBAYCAN RESPUBLİKASININ ƏMƏK MƏCƏLLƏSİ Azərbaycan Respublikası Kons
 
 ---
 
-### <span style="color:red">Maddə 2. Azərbaycan Respublikası Əmək Məcəlləsinin vəzifələri və prinsipləri</span>
+### Maddə 2. Azərbaycan Respublikası Əmək Məcəlləsinin vəzifələri və prinsipləri
 
 ---
 
-<span style="color:red">1. Azərbaycan Respublikasının Əmək Məcəlləsi işçilərlə işəgötürənlər arasında yaranan əmək münasibətlərini, habelə onlarla müvafiq dövlət hakimiyyəti orqanları, hüquqi şəxslər arasında həmin münasibətlərdən törəyən digər hüquq münasibətlərini tənzim edir.</span>
+1. Azərbaycan Respublikasının Əmək Məcəlləsi işçilərlə işəgötürənlər arasında yaranan əmək münasibətlərini, habelə onlarla müvafiq dövlət hakimiyyəti orqanları, hüquqi şəxslər arasında həmin münasibətlərdən törəyən digər hüquq münasibətlərini tənzim edir.
 
 ---
 
-<span style="color:red">2. Azərbaycan Respublikasının Əmək Məcəlləsi fiziki şəxslərin əmək hüquqlarının və bu hüquqların həyata keçirilməsini təmin edən qaydaların minimum normalarını müəyyən edir.</span>
+2. Azərbaycan Respublikasının Əmək Məcəlləsi fiziki şəxslərin əmək hüquqlarının və bu hüquqların həyata keçirilməsini təmin edən qaydaların minimum normalarını müəyyən edir.
 
 ---
 
-<span style="color:red">3. Azərbaycan Respublikasının Əmək Məcəlləsi (bundan sonra ismin müvafiq hallarında «bu Məcəllə») əmək münasibətlərində tərəflərin: hüquq bərabərliyinin təmin edilməsi; mənafelərinin haqq-ədalətlə və qanunun aliliyinin təmin olunması ilə qorunması; maddi, mənəvi, sosial, iqtisadi və digər həyati tələbatlarını ödəmək məqsədi ilə əqli, fiziki və maliyyə imkanlarından sərbəst istifadə etməsinin təmin edilməsi; əmək münasibətlərinin mülki hüquqi müqavilələrlə rəsmiləşdirilməsinin yolverilməzliyi; [2] əsasən əmək müqaviləsi (kontrakt) üzrə öhdəliklərinin icrasına hüquqi təminat yaradılması prinsiplərinə əsaslanır.</span>
+3. Azərbaycan Respublikasının Əmək Məcəlləsi (bundan sonra ismin müvafiq hallarında «bu Məcəllə») əmək münasibətlərində tərəflərin: hüquq bərabərliyinin təmin edilməsi; mənafelərinin haqq-ədalətlə və qanunun aliliyinin təmin olunması ilə qorunması; maddi, mənəvi, sosial, iqtisadi və digər həyati tələbatlarını ödəmək məqsədi ilə əqli, fiziki və maliyyə imkanlarından sərbəst istifadə etməsinin təmin edilməsi; əmək münasibətlərinin mülki hüquqi müqavilələrlə rəsmiləşdirilməsinin yolverilməzliyi; [2] əsasən əmək müqaviləsi (kontrakt) üzrə öhdəliklərinin icrasına hüquqi təminat yaradılması prinsiplərinə əsaslanır.
 
 ---
 
-### <span style="color:red">Maddə 3. Bu Məcəllədə istifadə edilən əsas anlayışlar [3]</span>
+### Maddə 3. Bu Məcəllədə istifadə edilən əsas anlayışlar [3]
 
 ---
 
-<span style="color:red">1. Müəssisə — mülkiyyətçinin təşkilati-hüquqi formasından, adından və fəaliyyət növündən asılı olmayaraq Azərbaycan Respublikasının qanunvericiliyinə müvafiq olaraq yaratdığı hüquqi şəxs, onun və xarici hüquqi şəxsin filialı, nümayəndəliyi.</span>
+1. Müəssisə — mülkiyyətçinin təşkilati-hüquqi formasından, adından və fəaliyyət növündən asılı olmayaraq Azərbaycan Respublikasının qanunvericiliyinə müvafiq olaraq yaratdığı hüquqi şəxs, onun və xarici hüquqi şəxsin filialı, nümayəndəliyi.
 
 ---
 
-<span style="color:red">2. İşçi — işəgötürənlə fərdi qaydada yazılı əmək müqaviləsi (kontrakt) bağlayaraq müvafiq iş yerində haqqı ödənilməklə çalışan fiziki şəxs.</span>
+2. İşçi — işəgötürənlə fərdi qaydada yazılı əmək müqaviləsi (kontrakt) bağlayaraq müvafiq iş yerində haqqı ödənilməklə çalışan fiziki şəxs.
 
 ---
 
-<span style="color:red">2-1. Azərbaycan Respublikasının işğaldan azad edilmiş ərazilərində işləyən mütəxəssis – peşə, orta ixtisas və ali təhsil haqqında dövlət sənədi və son 60 ay ərzində ən azı 24 ay əmək stajı olan və Azərbaycan Respublikasının işğaldan azad edilmiş ərazilərində əmək müqaviləsi (kontraktı) əsasında işləyən şəxs (xüsusi rütbəli şəxslər istisna olmaqla). [4]</span>
+2-1. Azərbaycan Respublikasının işğaldan azad edilmiş ərazilərində işləyən mütəxəssis – peşə, orta ixtisas və ali təhsil haqqında dövlət sənədi və son 60 ay ərzində ən azı 24 ay əmək stajı olan və Azərbaycan Respublikasının işğaldan azad edilmiş ərazilərində əmək müqaviləsi (kontraktı) əsasında işləyən şəxs (xüsusi rütbəli şəxslər istisna olmaqla). [4]
 
 ---
 
-<span style="color:red">3. İşəgötürən — tam fəaliyyət qabiliyyətli olub işçilərlə əmək müqaviləsi (kontrakt) bağlamaq, ona xitam vermək, yaxud onun şərtlərini dəyişdirmək hüququna malik mülkiyyətçi və ya onun təyin (müvəkkil) etdiyi müəssisənin rəhbəri, səlahiyyətli orqanı, habelə hüquqi şəxs yaratmadan sahibkarlıq fəaliyyəti ilə məşğul olan fiziki şəxs. [5]</span>
+3. İşəgötürən — tam fəaliyyət qabiliyyətli olub işçilərlə əmək müqaviləsi (kontrakt) bağlamaq, ona xitam vermək, yaxud onun şərtlərini dəyişdirmək hüququna malik mülkiyyətçi və ya onun təyin (müvəkkil) etdiyi müəssisənin rəhbəri, səlahiyyətli orqanı, habelə hüquqi şəxs yaratmadan sahibkarlıq fəaliyyəti ilə məşğul olan fiziki şəxs. [5]
 
 ---
 
-<span style="color:red">4. Əmək kollektivi — işəgötürənlə əmək münasibətlərində olan, bu Məcəllə ilə və digər normativ hüquqi aktlarla müəyyən edilmiş əmək, sosial, iqtisadi hüquqlarını birgə həyata keçirmək və qanuni mənafelərini kollektiv halında müdafiə etmək səlahiyyətinə malik müvafiq iş yerlərində çalışan işçilərin birliyi. 4 - 1. Əmək münasibətləri – əmək qanunvericiliyində, kollektiv müqavilə və sazişlərdə nəzərdə tutulmuş öhdəliklərə uyğun olaraq işəgötürənlə qarşılıqlı razılıq əsasında müəyyən edilən iş yerində işçi tərəfindən onun işə qəbul (təyin) edildiyi, seçildiyi, bərpa olunduğu peşə və ya vəzifə üzrə əmək funksiyasının əməkhaqqı ödənilməklə şəxsən yerinə yetirilməsinə, daxili intizam qaydalarına riayət edilməsinə, işəgötürən tərəfindən işçinin əmək şəraitinin, təminatlarının və əməyinin mühafizəsinin təmin edilməsinə, habelə bu Məcəllənin prinsiplərinə əsaslanan münasibətlərdir. [6]</span>
+4. Əmək kollektivi — işəgötürənlə əmək münasibətlərində olan, bu Məcəllə ilə və digər normativ hüquqi aktlarla müəyyən edilmiş əmək, sosial, iqtisadi hüquqlarını birgə həyata keçirmək və qanuni mənafelərini kollektiv halında müdafiə etmək səlahiyyətinə malik müvafiq iş yerlərində çalışan işçilərin birliyi. 4 - 1. Əmək münasibətləri – əmək qanunvericiliyində, kollektiv müqavilə və sazişlərdə nəzərdə tutulmuş öhdəliklərə uyğun olaraq işəgötürənlə qarşılıqlı razılıq əsasında müəyyən edilən iş yerində işçi tərəfindən onun işə qəbul (təyin) edildiyi, seçildiyi, bərpa olunduğu peşə və ya vəzifə üzrə əmək funksiyasının əməkhaqqı ödənilməklə şəxsən yerinə yetirilməsinə, daxili intizam qaydalarına riayət edilməsinə, işəgötürən tərəfindən işçinin əmək şəraitinin, təminatlarının və əməyinin mühafizəsinin təmin edilməsinə, habelə bu Məcəllənin prinsiplərinə əsaslanan münasibətlərdir. [6]
 
 ---
 
-<span style="color:red">5. Əmək müqaviləsi (kontraktı) (bundan sonra ismin müvafiq halında “əmək müqaviləsi”) – işəgötürənlə işçi arasında fərdi qaydada bağlanan əmək münasibətlərinin əsas şərtlərini, tərəflərin hüquq və vəzifələrini əks etdirən yazılı müqavilə.</span>
+5. Əmək müqaviləsi (kontraktı) (bundan sonra ismin müvafiq halında “əmək müqaviləsi”) – işəgötürənlə işçi arasında fərdi qaydada bağlanan əmək münasibətlərinin əsas şərtlərini, tərəflərin hüquq və vəzifələrini əks etdirən yazılı müqavilə.
 
 ---
 
-<span style="color:red">5-1. Əmək müqaviləsi bildirişi - bu Məcəllənin 7-ci Maddəsinin 2-1-ci hissəsi ilə müəyyən edilmiş hallar istisna olmaqla, əmək müqaviləsinin bağlanılmasının, ona dəyişiklik edilməsinin və ya xitam verilməsinin müvafiq icra hakimiyyəti orqanının mərkəzləşdirilmiş elektron informasiya sistemində (bundan sonra - elektron informasiya sistemi) elektron qaydada qeydiyyata alınması məqsədi ilə işəgötürən tərəfindən həmin elektron informasiya sisteminə gücləndirilmiş elektron imza vasitəsi ilə daxil edilən elektron sənəd. Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq yerli investisiyalı məhdud məsuliyyətli cəmiyyətin elektron dövlət qeydiyyatına alınması üçün ərizədə qeyd olunmuş işçilərlə ilk dəfə əmək müqaviləsinin bağlanması elektron informasiya sistemində müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən elektron qaydada təqdim olunan məlumatlar əsasında qeydiyyata alınır. [7]</span>
+5-1. Əmək müqaviləsi bildirişi - bu Məcəllənin 7-ci Maddəsinin 2-1-ci hissəsi ilə müəyyən edilmiş hallar istisna olmaqla, əmək müqaviləsinin bağlanılmasının, ona dəyişiklik edilməsinin və ya xitam verilməsinin müvafiq icra hakimiyyəti orqanının mərkəzləşdirilmiş elektron informasiya sistemində (bundan sonra - elektron informasiya sistemi) elektron qaydada qeydiyyata alınması məqsədi ilə işəgötürən tərəfindən həmin elektron informasiya sisteminə gücləndirilmiş elektron imza vasitəsi ilə daxil edilən elektron sənəd. Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq yerli investisiyalı məhdud məsuliyyətli cəmiyyətin elektron dövlət qeydiyyatına alınması üçün ərizədə qeyd olunmuş işçilərlə ilk dəfə əmək müqaviləsinin bağlanması elektron informasiya sistemində müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən elektron qaydada təqdim olunan məlumatlar əsasında qeydiyyata alınır. [7]
 
 ---
 
-<span style="color:red">6. Kollektiv müqavilə — işəgötürənin, əmək kollektivinin və ya həmkarlar ittifaqları təşkilatının arasında</span>
+6. Kollektiv müqavilə — işəgötürənin, əmək kollektivinin və ya həmkarlar ittifaqları təşkilatının arasında
 
 ---
 
@@ -171,75 +171,75 @@ d) podrat, tapşırıq, komisyon, müəlliflik və başqa mülki-hüquqi müqavi
 
 ---
 
-### <span style="color:red">Maddə 7. Əmək münasibətlərinin qanunvericiliklə və müqavilə bağlamaqla tənzimlənməsi KMQ11</span>
+### Maddə 7. Əmək münasibətlərinin qanunvericiliklə və müqavilə bağlamaqla tənzimlənməsi KMQ11
 
 ---
 
-<span style="color:red">1. İşçilərin əmək hüquqları və bu hüquqlarla bağlı müvafiq təminatlarının minimum səviyyəsi bu Məcəllənin 1- ci Maddəsində göstərilən normativ hüquqi aktlarla müəyyən edilmiş hüquq normaları ilə təmin edilir.</span>
+1. İşçilərin əmək hüquqları və bu hüquqlarla bağlı müvafiq təminatlarının minimum səviyyəsi bu Məcəllənin 1- ci Maddəsində göstərilən normativ hüquqi aktlarla müəyyən edilmiş hüquq normaları ilə təmin edilir.
 
 ---
 
-<span style="color:red">2. Bu Məcəllənin 7-ci Maddəsinin 2-1-ci hissəsi ilə müəyyən edilmiş hallar istisna olmaqla, əmək münasibətləri elektron informasiya sisteminə gücləndirilmiş elektron imza vasitəsi ilə daxil edilmiş əmək müqaviləsi bildirişinin qeydiyyata alınmasından və bu barədə işəgötürənə elektron qaydada məlumat göndərilməsindən sonra yaranır. [11]</span>
+2. Bu Məcəllənin 7-ci Maddəsinin 2-1-ci hissəsi ilə müəyyən edilmiş hallar istisna olmaqla, əmək münasibətləri elektron informasiya sisteminə gücləndirilmiş elektron imza vasitəsi ilə daxil edilmiş əmək müqaviləsi bildirişinin qeydiyyata alınmasından və bu barədə işəgötürənə elektron qaydada məlumat göndərilməsindən sonra yaranır. [11]
 
 ---
 
-<span style="color:red">2-1. Siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş dövlət orqanlarında müvafiq vəzifələrə (peşələrə) qəbul edilən (götürülən) işçilərlə işəgötürənlər arasında əmək münasibətləri əmək müqaviləsi kağız üzərində yazılı formada bağlandıqda yaranır.</span>
+2-1. Siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş dövlət orqanlarında müvafiq vəzifələrə (peşələrə) qəbul edilən (götürülən) işçilərlə işəgötürənlər arasında əmək münasibətləri əmək müqaviləsi kağız üzərində yazılı formada bağlandıqda yaranır.
 
 ---
 
-<span style="color:red">2-2. “Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq yerli investisiyalı məhdud məsuliyyətli cəmiyyətin elektron dövlət qeydiyyatına alınması üçün ərizədə qeyd olunmuş şəxslərlə əmək münasibətləri həmin Qanunla müəyyən olunmuş qaydada dövlət qeydiyyatı haqqında şəhadətnamə, dövlət reyestrindən çıxarış və nizamnamə cəmiyyətin elektron kabinetinə göndərildiyi andan yaranır. [12]</span>
+2-2. “Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq yerli investisiyalı məhdud məsuliyyətli cəmiyyətin elektron dövlət qeydiyyatına alınması üçün ərizədə qeyd olunmuş şəxslərlə əmək münasibətləri həmin Qanunla müəyyən olunmuş qaydada dövlət qeydiyyatı haqqında şəhadətnamə, dövlət reyestrindən çıxarış və nizamnamə cəmiyyətin elektron kabinetinə göndərildiyi andan yaranır. [12]
 
 ---
 
-<span style="color:red">2-3. Aşağıdakı hallarda tərəflər arasında yaranan münasibətlər əmək münasibətləri hesab edilir və onların mülki hüquqi müqavilələrlə rəsmiləşdirilməsinə yol verilmir:</span>
+2-3. Aşağıdakı hallarda tərəflər arasında yaranan münasibətlər əmək münasibətləri hesab edilir və onların mülki hüquqi müqavilələrlə rəsmiləşdirilməsinə yol verilmir:
 
 ---
 
-<span style="color:red">2-3. 1. müqavilənin məzmunu bu Məcəllənin 43-cü Maddəsinin 2-ci hissəsinə, forması isə bu Məcəllənin 44-cü Maddəsinin 2-ci hissəsi ilə müəyyən edilmiş formaya uyğun olduqda;</span>
+2-3. 1. müqavilənin məzmunu bu Məcəllənin 43-cü Maddəsinin 2-ci hissəsinə, forması isə bu Məcəllənin 44-cü Maddəsinin 2-ci hissəsi ilə müəyyən edilmiş formaya uyğun olduqda;
 
 ---
 
-<span style="color:red">2-3. 2. bu Məcəllənin 48-ci Maddəsinə uyğun olaraq tərəflər arasında münasibətlərin rəsmiləşdirilməsi və müvafiq qeydlərin aparılması üçün əmək kitabçası təqdim edildikdə;</span>
+2-3. 2. bu Məcəllənin 48-ci Maddəsinə uyğun olaraq tərəflər arasında münasibətlərin rəsmiləşdirilməsi və müvafiq qeydlərin aparılması üçün əmək kitabçası təqdim edildikdə;
 
 ---
 
-<span style="color:red">2-3. 3. tərəflər arasında münasibətlər müvafiq peşə və ya vəzifəyə qəbul (təyin) edilmə, o cümlədən ödənişli seçkili və ya təyinatlı, habelə müsabiqə əsasında vəzifəni tutma, kvota üzrə işə düzəlmə, məhkəmənin qərarı ilə işə bərpa olunma ilə bağlı yarandıqda;</span>
+2-3. 3. tərəflər arasında münasibətlər müvafiq peşə və ya vəzifəyə qəbul (təyin) edilmə, o cümlədən ödənişli seçkili və ya təyinatlı, habelə müsabiqə əsasında vəzifəni tutma, kvota üzrə işə düzəlmə, məhkəmənin qərarı ilə işə bərpa olunma ilə bağlı yarandıqda;
 
 ---
 
-<span style="color:red">2-3. 4. tərəflər arasında münasibətlər işəgötürənin əsas fəaliyyət sahəsinə aid işlərin (xidmətlərin) yerinə yetirilməsi ilə bağlı yarandıqda;</span>
+2-3. 4. tərəflər arasında münasibətlər işəgötürənin əsas fəaliyyət sahəsinə aid işlərin (xidmətlərin) yerinə yetirilməsi ilə bağlı yarandıqda;
 
 ---
 
-<span style="color:red">2-3. 5. tərəflər arasında münasibətlər işlərin (xidmətlərin) əvəzçilik və ya müvəqqəti əvəzetmə qaydasında yerinə yetirilməsi ilə bağlı yarandıqda;</span>
+2-3. 5. tərəflər arasında münasibətlər işlərin (xidmətlərin) əvəzçilik və ya müvəqqəti əvəzetmə qaydasında yerinə yetirilməsi ilə bağlı yarandıqda;
 
 ---
 
-<span style="color:red">2-3. 6. yerinə yetirilməsi şərtlərinə görə iş (xidmət) müvəqqəti xarakterə malik olduğu halda müqavilənin müddətinin uzadılması bu Məcəllənin 73-cü Maddəsinə uyğun tənzimləndikdə;</span>
+2-3. 6. yerinə yetirilməsi şərtlərinə görə iş (xidmət) müvəqqəti xarakterə malik olduğu halda müqavilənin müddətinin uzadılması bu Məcəllənin 73-cü Maddəsinə uyğun tənzimləndikdə;
 
 ---
 
-<span style="color:red">2-3. 7. yerinə yetirilən işə (xidmətə) görə ödənilən haqqın tərkibi bu Məcəllənin 157-ci Maddəsinin 3-cü hissəsində göstərilən aylıq tarif (vəzifə) maaşından, əlavədən və mükafatdan ibarət olduqda;</span>
+2-3. 7. yerinə yetirilən işə (xidmətə) görə ödənilən haqqın tərkibi bu Məcəllənin 157-ci Maddəsinin 3-cü hissəsində göstərilən aylıq tarif (vəzifə) maaşından, əlavədən və mükafatdan ibarət olduqda;
 
 ---
 
-<span style="color:red">2-3. 8. müqavilədə bu Məcəllənin 10-cu, 77-ci, 112-ci, 179-cu və 186-cı Maddələrində nəzərdə tutulmuş məsələlərin tənzimlənməsi nəzərdə tutulduqda.</span>
+2-3. 8. müqavilədə bu Məcəllənin 10-cu, 77-ci, 112-ci, 179-cu və 186-cı Maddələrində nəzərdə tutulmuş məsələlərin tənzimlənməsi nəzərdə tutulduqda.
 
 ---
 
-<span style="color:red">2-4. Bu Maddənin 2-3-cü hissəsində nəzərdə tutulan hallardan biri aşkar edildiyi gündən bu Maddənin 2-ci hissəsinə uyğun olaraq yazılı əmək müqaviləsi bağlanmalıdır. [13]</span>
+2-4. Bu Maddənin 2-3-cü hissəsində nəzərdə tutulan hallardan biri aşkar edildiyi gündən bu Maddənin 2-ci hissəsinə uyğun olaraq yazılı əmək müqaviləsi bağlanmalıdır. [13]
 
 ---
 
-<span style="color:red">3. Kollektiv müqavilələrdə, sazişlərdə, habelə əmək müqavilələrində əmək qanunvericiliyinə nisbətən daha geniş əlavə əmək, sosial, iqtisadi, maddi-məişət və digər münasibətləri əhatə edən əmək şəraiti nəzərdə tutula bilər. Əmək müqavilələrinə işçilərin hüquqlarını qüvvədə olan qanunvericiliyə, kollektiv müqaviləyə və sazişə nisbətən məhdudlaşdıran şərtlərin daxil edilməsi yolverilməzdir. Belə şərtlərin tətbiqi nəticəsində işçilərə dəyən maddi və digər ziyan işəgötürən tərəfindən tam ödənilir.</span>
+3. Kollektiv müqavilələrdə, sazişlərdə, habelə əmək müqavilələrində əmək qanunvericiliyinə nisbətən daha geniş əlavə əmək, sosial, iqtisadi, maddi-məişət və digər münasibətləri əhatə edən əmək şəraiti nəzərdə tutula bilər. Əmək müqavilələrinə işçilərin hüquqlarını qüvvədə olan qanunvericiliyə, kollektiv müqaviləyə və sazişə nisbətən məhdudlaşdıran şərtlərin daxil edilməsi yolverilməzdir. Belə şərtlərin tətbiqi nəticəsində işçilərə dəyən maddi və digər ziyan işəgötürən tərəfindən tam ödənilir.
 
 ---
 
-<span style="color:red">4. Bilavasitə əmək müqaviləsi bağlanarkən, habelə əmək münasibətləri prosesində işəgötürənlə işçinin qarşılıqlı razılığı ilə yeni peşəöyrətmə, ixtisasa yiyələnmə müqaviləsi bağlanıla bilər.</span>
+4. Bilavasitə əmək müqaviləsi bağlanarkən, habelə əmək münasibətləri prosesində işəgötürənlə işçinin qarşılıqlı razılığı ilə yeni peşəöyrətmə, ixtisasa yiyələnmə müqaviləsi bağlanıla bilər.
 
 ---
 
-<span style="color:red">5. İşçiyə yeni peşəöyrətmənin və ya ixtisasa yiyələnmənin şərtləri, qaydaları, müddəti və tərəflərin öhdəlikləri əldə edilən razılıq əsasında bağlanan müvafiq müqavilə ilə və yaxud əmək müqaviləsi ilə tənzimlənir.</span>
+5. İşçiyə yeni peşəöyrətmənin və ya ixtisasa yiyələnmənin şərtləri, qaydaları, müddəti və tərəflərin öhdəlikləri əldə edilən razılıq əsasında bağlanan müvafiq müqavilə ilə və yaxud əmək müqaviləsi ilə tənzimlənir.
 
 ---
 
@@ -263,131 +263,131 @@ d) podrat, tapşırıq, komisyon, müəlliflik və başqa mülki-hüquqi müqavi
 
 ---
 
-### <span style="color:red">Maddə 9. Əmək müqaviləsi üzrə işçinin əsas hüquqları Əmək müqaviləsi üzrə işçinin aşağıdakı əsas hüquqları vardır:</span>
+### Maddə 9. Əmək müqaviləsi üzrə işçinin əsas hüquqları Əmək müqaviləsi üzrə işçinin aşağıdakı əsas hüquqları vardır:
 
 ---
 
-<span style="color:red">a) sərbəst surətdə ixtisasına, sənətinə, peşəsinə uyğun əmək fəaliyyəti növü və iş yeri seçərək əmək müqaviləsi bağlamaq;</span>
+a) sərbəst surətdə ixtisasına, sənətinə, peşəsinə uyğun əmək fəaliyyəti növü və iş yeri seçərək əmək müqaviləsi bağlamaq;
 
 ---
 
-<span style="color:red">b) əmək müqaviləsinin şərtlərini dəyişdirmək və ya onu ləğv etmək üçün işəgötürənə müraciət etmək;</span>
+b) əmək müqaviləsinin şərtlərini dəyişdirmək və ya onu ləğv etmək üçün işəgötürənə müraciət etmək;
 
 ---
 
-<span style="color:red">c) iş vaxtında və ya iş vaxtından sonra qazanc əldə etmək məqsədi ilə qanunvericiliklə qadağan edilməyən, habelə əmək müqaviləsi üzrə tərəflərin öhdəliklərinə xələl gətirməyən fəaliyyətlə məşğul olmaq;</span>
+c) iş vaxtında və ya iş vaxtından sonra qazanc əldə etmək məqsədi ilə qanunvericiliklə qadağan edilməyən, habelə əmək müqaviləsi üzrə tərəflərin öhdəliklərinə xələl gətirməyən fəaliyyətlə məşğul olmaq;
 
 ---
 
-<span style="color:red">ç) həyatının, sağlamlığının və əməyinin mühafizəsini təmin edən əmək şəraitində çalışmaq, habelə belə şəraitin yaradılmasını tələb etmək;</span>
+ç) həyatının, sağlamlığının və əməyinin mühafizəsini təmin edən əmək şəraitində çalışmaq, habelə belə şəraitin yaradılmasını tələb etmək;
 
 ---
 
-<span style="color:red">d) qanunvericiliklə müəyyən edilmiş minimum məbləğdən aşağı olmayan əmək haqqı almaq;</span>
+d) qanunvericiliklə müəyyən edilmiş minimum məbləğdən aşağı olmayan əmək haqqı almaq;
 
 ---
 
-<span style="color:red">e) iş vaxtından artıq vaxtda işə cəlb olunduqda əlavə əmək haqqını almaq və ya onun verilməsini tələb etmək;</span>
+e) iş vaxtından artıq vaxtda işə cəlb olunduqda əlavə əmək haqqını almaq və ya onun verilməsini tələb etmək;
 
 ---
 
-<span style="color:red">ə) əmək müqaviləsi ilə müəyyən edilmiş əmək funksiyasına daxil olmayan işləri, xidmətləri yerinə yetirməkdən imtina etmək, belə işləri, xidmətləri icra etdikdə isə müvafiq əlavə əmək haqqının verilməsini tələb etmək;</span>
+ə) əmək müqaviləsi ilə müəyyən edilmiş əmək funksiyasına daxil olmayan işləri, xidmətləri yerinə yetirməkdən imtina etmək, belə işləri, xidmətləri icra etdikdə isə müvafiq əlavə əmək haqqının verilməsini tələb etmək;
 
 ---
 
-<span style="color:red">f) mənzil şəraitinin, ailə üzvlərinin sosial-məişət şəraitinin yaxşılaşdırılması üçün işəgötürəndən müvafiq sosial yardımlar almaq;</span>
+f) mənzil şəraitinin, ailə üzvlərinin sosial-məişət şəraitinin yaxşılaşdırılması üçün işəgötürəndən müvafiq sosial yardımlar almaq;
 
 ---
 
-<span style="color:red">g) qanunvericiliklə müəyyən olunmuş iş vaxtında çalışmaq;</span>
+g) qanunvericiliklə müəyyən olunmuş iş vaxtında çalışmaq;
 
 ---
 
-<span style="color:red">ğ) müvafiq peşələr (vəzifələr), istehsalatlar üzrə iş yerlərində qanunvericiliklə müəyyən olunmuş qısaldılmış iş vaxtında çalışmaq;</span>
+ğ) müvafiq peşələr (vəzifələr), istehsalatlar üzrə iş yerlərində qanunvericiliklə müəyyən olunmuş qısaldılmış iş vaxtında çalışmaq;
 
 ---
 
-<span style="color:red">h) qanunvericiliklə müəyyən olunmuş həftələrarası istirahət günlərindən istifadə etmək;</span>
+h) qanunvericiliklə müəyyən olunmuş həftələrarası istirahət günlərindən istifadə etmək;
 
 ---
 
-<span style="color:red">x) hər il bu Məcəllədə nəzərdə tutulmuş minimum müddətdən az olmayan ödənişli əsas məzuniyyətdən və müvafiq hallarda əlavə, sosial, ödənişsiz, təhsil məzuniyyətlərindən istifadə etmək;</span>
+x) hər il bu Məcəllədə nəzərdə tutulmuş minimum müddətdən az olmayan ödənişli əsas məzuniyyətdən və müvafiq hallarda əlavə, sosial, ödənişsiz, təhsil məzuniyyətlərindən istifadə etmək;
 
 ---
 
-<span style="color:red">ı) peşə hazırlığını artırmaq, yeni ixtisasa yiyələnmək və ixtisasını artırmaq;</span>
+ı) peşə hazırlığını artırmaq, yeni ixtisasa yiyələnmək və ixtisasını artırmaq;
 
 ---
 
-<span style="color:red">i) əmək funksiyasının yerinə yetirilməsi zamanı əmlakına və səhhətinə dəyən ziyanın ödənilməsini tələb etmək;</span>
+i) əmək funksiyasının yerinə yetirilməsi zamanı əmlakına və səhhətinə dəyən ziyanın ödənilməsini tələb etmək;
 
 ---
 
-<span style="color:red">j) işəgötürən tərəfindən qanunla müəyyən olunmuş qaydada məcburi sosial sığorta, icbari tibbi sığorta, işsizlikdən sığorta və istehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta olunmaq, habelə hər hansı başqa növ sığorta qaydalarından istifadə etmək; [14]</span>
+j) işəgötürən tərəfindən qanunla müəyyən olunmuş qaydada məcburi sosial sığorta, icbari tibbi sığorta, işsizlikdən sığorta və istehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta olunmaq, habelə hər hansı başqa növ sığorta qaydalarından istifadə etmək; [14]
 
 ---
 
-<span style="color:red">k) qanunvericiliklə müəyyən olunmuş qaydada həmkarlar ittifaqlarının, ictimai birliklərin üzvü olmaq, habelə bu təşkilatların və ya əmək kollektivinin keçirdiyi tətillərdə, mitinqlərdə, toplantılarda və qanunvericiliklə qadağan olunmayan digər kütləvi tədbirlərdə iştirak etmək;</span>
+k) qanunvericiliklə müəyyən olunmuş qaydada həmkarlar ittifaqlarının, ictimai birliklərin üzvü olmaq, habelə bu təşkilatların və ya əmək kollektivinin keçirdiyi tətillərdə, mitinqlərdə, toplantılarda və qanunvericiliklə qadağan olunmayan digər kütləvi tədbirlərdə iştirak etmək;
 
 ---
 
-<span style="color:red">q) əmək hüquqlarının müdafiəsi üçün məhkəməyə müraciət etmək və hüquqi müdafiə olunmaq;</span>
+q) əmək hüquqlarının müdafiəsi üçün məhkəməyə müraciət etmək və hüquqi müdafiə olunmaq;
 
 ---
 
-<span style="color:red">l) sosial müdafiə üzrə müavinətlərdən və güzəştlərdən, sosial sığorta hüququndan istifadə etmək; [15]</span>
+l) sosial müdafiə üzrə müavinətlərdən və güzəştlərdən, sosial sığorta hüququndan istifadə etmək; [15]
 
 ---
 
-<span style="color:red">m) işsizliyə görə qanunvericiliklə müəyyən olunmuş dövlət təminatını almaq;</span>
+m) işsizliyə görə qanunvericiliklə müəyyən olunmuş dövlət təminatını almaq;
 
 ---
 
-<span style="color:red">n) iş yeri, vəzifəsi (peşəsi), aylıq əmək haqqı və əmək münasibətləri ilə bağlı digər məlumatlar barədə işəgötürəndən müvafiq arayışlar almaq;</span>
+n) iş yeri, vəzifəsi (peşəsi), aylıq əmək haqqı və əmək münasibətləri ilə bağlı digər məlumatlar barədə işəgötürəndən müvafiq arayışlar almaq;
 
 ---
 
-<span style="color:red">o) elektron informasiya sistemindən onunla bağlı qeydiyyata alınmış əmək müqaviləsi bildirişinin məlumatlarını, habelə iş yerindən elektron qaydada arayışı real vaxt rejimində əldə etmək. [16]</span>
+o) elektron informasiya sistemindən onunla bağlı qeydiyyata alınmış əmək müqaviləsi bildirişinin məlumatlarını, habelə iş yerindən elektron qaydada arayışı real vaxt rejimində əldə etmək. [16]
 
 ---
 
-### <span style="color:red">Maddə 10. Əmək müqaviləsi üzrə işçinin əsas vəzifələri Əmək müqaviləsi üzrə işçinin əsas vəzifələri aşağıdakılardır:</span>
+### Maddə 10. Əmək müqaviləsi üzrə işçinin əsas vəzifələri Əmək müqaviləsi üzrə işçinin əsas vəzifələri aşağıdakılardır:
 
 ---
 
-<span style="color:red">a) əmək müqaviləsi ilə müəyyən edilmiş əmək funksiyasını vicdanla yerinə yetirmək;</span>
+a) əmək müqaviləsi ilə müəyyən edilmiş əmək funksiyasını vicdanla yerinə yetirmək;
 
 ---
 
-<span style="color:red">b) əmək intizamına və müəssisədaxili intizam qaydalarına əməl etmək;</span>
+b) əmək intizamına və müəssisədaxili intizam qaydalarına əməl etmək;
 
 ---
 
-<span style="color:red">c) əməyin təhlükəsizliyi normalarına əməl etmək;</span>
+c) əməyin təhlükəsizliyi normalarına əməl etmək;
 
 ---
 
-<span style="color:red">ç) işəgötürənə vurduğu maddi ziyana görə məsuliyyət daşımaq;</span>
+ç) işəgötürənə vurduğu maddi ziyana görə məsuliyyət daşımaq;
 
 ---
 
-<span style="color:red">d) dövlət sirrini, habelə işəgötürənin kommersiya sirrini müəyyən olunmuş qaydada və şərtlərlə gizli saxlamaq;</span>
+d) dövlət sirrini, habelə işəgötürənin kommersiya sirrini müəyyən olunmuş qaydada və şərtlərlə gizli saxlamaq;
 
 ---
 
-<span style="color:red">e) iş yoldaşlarının əmək hüquqlarını və qanuni mənafelərini pozmamaq;</span>
+e) iş yoldaşlarının əmək hüquqlarını və qanuni mənafelərini pozmamaq;
 
 ---
 
-<span style="color:red">ə) fərdi, kollektiv əmək mübahisələri üzrə məhkəmə qərarlarını (qətnamələrini) yerinə yetirmək;</span>
+ə) fərdi, kollektiv əmək mübahisələri üzrə məhkəmə qərarlarını (qətnamələrini) yerinə yetirmək;
 
 ---
 
-<span style="color:red">f) əmək qanunvericiliyinin tələblərinə əməl etmək.</span>
+f) əmək qanunvericiliyinin tələblərinə əməl etmək.
 
 ---
 
-### <span style="color:red">Maddə 10-1. Dövlət büdcəsindən maliyyələşən müəssisələrdə çalışmanın yaş həddi</span>
+### Maddə 10-1. Dövlət büdcəsindən maliyyələşən müəssisələrdə çalışmanın yaş həddi
 
 ---
 
@@ -471,75 +471,75 @@ g) əmək müqaviləsi bağlayarkən bu Məcəllə ilə müəyyən edilmiş qayd
 
 ---
 
-### <span style="color:red">Maddə 12. İşəgötürənin əsas vəzifələri və məsuliyyəti</span>
+### Maddə 12. İşəgötürənin əsas vəzifələri və məsuliyyəti
 
 ---
 
-<span style="color:red">1. Əmək münasibətləri sahəsində işəgötürənin əsas vəzifələri bunlardır:</span>
+1. Əmək münasibətləri sahəsində işəgötürənin əsas vəzifələri bunlardır:
 
 ---
 
-<span style="color:red">a) əmək müqaviləsinin şərtlərinə və onlarda nəzərdə tutulan öhdəliklərə əməl etmək;</span>
+a) əmək müqaviləsinin şərtlərinə və onlarda nəzərdə tutulan öhdəliklərə əməl etmək;
 
 ---
 
-<span style="color:red">b) bu Məcəllənin və əmək qanunvericiliyinə dair digər normativ hüquqi aktların tələblərini yerinə yetirmək;</span>
+b) bu Məcəllənin və əmək qanunvericiliyinə dair digər normativ hüquqi aktların tələblərini yerinə yetirmək;
 
 ---
 
-<span style="color:red">c) əmək müqavilələrini bu Məcəllədə nəzərdə tutulmuş əsaslarla və qaydada pozmaq;</span>
+c) əmək müqavilələrini bu Məcəllədə nəzərdə tutulmuş əsaslarla və qaydada pozmaq;
 
 ---
 
-<span style="color:red">ç) kollektiv müqavilələrin, sazişlərin şərtlərinə, onlarda nəzərdə tutulmuş öhdəliklərə əməl etmək;</span>
+ç) kollektiv müqavilələrin, sazişlərin şərtlərinə, onlarda nəzərdə tutulmuş öhdəliklərə əməl etmək;
 
 ---
 
-<span style="color:red">d) fərdi, kollektiv əmək mübahisələri üzrə məhkəmə qərarlarını (qətnamələrini) yerinə yetirmək;</span>
+d) fərdi, kollektiv əmək mübahisələri üzrə məhkəmə qərarlarını (qətnamələrini) yerinə yetirmək;
 
 ---
 
-<span style="color:red">e) işçilərin ərizə və şikayətlərinə qanunvericilikdə nəzərdə tutulmuş müddətdə və qaydada baxmaq;</span>
+e) işçilərin ərizə və şikayətlərinə qanunvericilikdə nəzərdə tutulmuş müddətdə və qaydada baxmaq;
 
 ---
 
-<span style="color:red">ə) işçilərin əmək, maddi, sosial-məişət şəraitinin, onların ailəsinin rifah halının yaxşılaşdırılması üçün müəssisənin əsasnaməsinə (nizamnaməsinə), kollektiv müqaviləyə müvafiq olaraq zəruri tədbirlər görmək;</span>
+ə) işçilərin əmək, maddi, sosial-məişət şəraitinin, onların ailəsinin rifah halının yaxşılaşdırılması üçün müəssisənin əsasnaməsinə (nizamnaməsinə), kollektiv müqaviləyə müvafiq olaraq zəruri tədbirlər görmək;
 
 ---
 
-<span style="color:red">f) işə qəbul, işdə irəli çəkilmək, peşə hazırlığını artırmaq, yeni ixtisasa yiyələnmək və ixtisasını artırmaq zamanı, işin keyfiyyətini qiymətləndirərkən, işdən azad edərkən cinsindən asılı olmayaraq işçilərə eyni yanaşmaq və bərabər imkanlar yaratmaq;</span>
+f) işə qəbul, işdə irəli çəkilmək, peşə hazırlığını artırmaq, yeni ixtisasa yiyələnmək və ixtisasını artırmaq zamanı, işin keyfiyyətini qiymətləndirərkən, işdən azad edərkən cinsindən asılı olmayaraq işçilərə eyni yanaşmaq və bərabər imkanlar yaratmaq;
 
 ---
 
-<span style="color:red">g) cinsindən asılı olmayaraq eyni işlə məşğul olan işçilərə eyni iş şəraitini yaratmaq, eyni pozuntuya görə işçilərə fərqli intizam tənbehi tədbirini tətbiq etməmək, cinsi mənsubiyyətə görə ayrı-seçkiliyin və seksual qısnamanın qarşısını almaq üçün lazımi tədbirlər görmək; [19]</span>
+g) cinsindən asılı olmayaraq eyni işlə məşğul olan işçilərə eyni iş şəraitini yaratmaq, eyni pozuntuya görə işçilərə fərqli intizam tənbehi tədbirini tətbiq etməmək, cinsi mənsubiyyətə görə ayrı-seçkiliyin və seksual qısnamanın qarşısını almaq üçün lazımi tədbirlər görmək; [19]
 
 ---
 
-<span style="color:red">ğ) uşaqları onların həyatına, sağlamlığına və ya mənəviyyatına təhlükə törədə bilən fəaliyyətə cəlb etməmək; [20]</span>
+ğ) uşaqları onların həyatına, sağlamlığına və ya mənəviyyatına təhlükə törədə bilən fəaliyyətə cəlb etməmək; [20]
 
 ---
 
-<span style="color:red">h) əmək müqaviləsi bildirişini elektron informasiya sisteminə gücləndirilmiş elektron imza vasitəsi ilə daxil etmək (bu Məcəllənin 7-ci Maddəsinin 2-1-ci və 2-2-ci hissələri ilə müəyyən edilmiş hallar istisna olmaqla); [21]</span>
+h) əmək müqaviləsi bildirişini elektron informasiya sisteminə gücləndirilmiş elektron imza vasitəsi ilə daxil etmək (bu Məcəllənin 7-ci Maddəsinin 2-1-ci və 2-2-ci hissələri ilə müəyyən edilmiş hallar istisna olmaqla); [21]
 
 ---
 
-<span style="color:red">x) bu Məcəllə ilə işçiyə ödənilən bütün ödənişlərin “Nağdsız hesablaşmalar haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq ödənilməsini təmin etmək; [22]</span>
+x) bu Məcəllə ilə işçiyə ödənilən bütün ödənişlərin “Nağdsız hesablaşmalar haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq ödənilməsini təmin etmək; [22]
 
 ---
 
-<span style="color:red">ı) “Məşğulluq haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulan vəzifələrin həyata keçirilməsini təmin etmək; [23]</span>
+ı) “Məşğulluq haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulan vəzifələrin həyata keçirilməsini təmin etmək; [23]
 
 ---
 
-<span style="color:red">i) “Əlilliyi olan şəxslərin hüquqları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq əlilliyi olan şəxslərin digər şəxslərlə bərabər səviyyədə əmək fəaliyyəti ilə məşğul olmasını təmin etmək; [24]</span>
+i) “Əlilliyi olan şəxslərin hüquqları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq əlilliyi olan şəxslərin digər şəxslərlə bərabər səviyyədə əmək fəaliyyəti ilə məşğul olmasını təmin etmək; [24]
 
 ---
 
-<span style="color:red">j) işçilərin icbari tibbi sığortası üzrə sığorta haqlarının “Tibbi sığorta haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq vaxtında və tam həcmdə ödənilməsini təmin etmək. [25]</span>
+j) işçilərin icbari tibbi sığortası üzrə sığorta haqlarının “Tibbi sığorta haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq vaxtında və tam həcmdə ödənilməsini təmin etmək. [25]
 
 ---
 
-<span style="color:red">2. İşçilərin hüquqlarını pozan, əmək müqaviləsi üzrə öz öhdəliklərini yerinə yetirməyən, 15 yaşına çatmamış şəxsləri işə götürən, uşaqları onların həyatına, sağlamlığına və ya mənəviyyatına təhlükə törədə bilən fəaliyyətə cəlb edən, qanunla pedaqoji fəaliyyətlə məşğul olması qadağan edilən şəxslə pedaqoji fəaliyyətlə məşğul olmaq üçün əmək müqaviləsi bağlayan, habelə bu Məcəllənin tələblərinə əməl etməyən işəgötürən qanunvericiliklə müəyyən olunmuş qaydada müvafiq məsuliyyətə cəlb edilir.</span>
+2. İşçilərin hüquqlarını pozan, əmək müqaviləsi üzrə öz öhdəliklərini yerinə yetirməyən, 15 yaşına çatmamış şəxsləri işə götürən, uşaqları onların həyatına, sağlamlığına və ya mənəviyyatına təhlükə törədə bilən fəaliyyətə cəlb edən, qanunla pedaqoji fəaliyyətlə məşğul olması qadağan edilən şəxslə pedaqoji fəaliyyətlə məşğul olmaq üçün əmək müqaviləsi bağlayan, habelə bu Məcəllənin tələblərinə əməl etməyən işəgötürən qanunvericiliklə müəyyən olunmuş qaydada müvafiq məsuliyyətə cəlb edilir.
 
 ---
 
@@ -591,35 +591,35 @@ g) əmək müqaviləsi bağlayarkən bu Məcəllə ilə müəyyən edilmiş qayd
 
 ---
 
-### <span style="color:red">Maddə 15. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqan</span>
+### Maddə 15. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqan
 
 ---
 
-<span style="color:red">1. Bu Məcəllənin və əmək qanunvericiliyinə dair digər normativ hüquqi aktların tələblərinə əməl olunmasına dövlət nəzarətini müvafiq icra hakimiyyəti orqanı həyata keçirir.</span>
+1. Bu Məcəllənin və əmək qanunvericiliyinə dair digər normativ hüquqi aktların tələblərinə əməl olunmasına dövlət nəzarətini müvafiq icra hakimiyyəti orqanı həyata keçirir.
 
 ---
 
-<span style="color:red">2. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqan səlahiyyəti çərçivəsində əmək qanunvericiliyinin pozulmasında təqsirkar şəxslərdən yol verdikləri hüquq pozuntularının aradan qaldırılmasını tələb etmək, onları Azərbaycan Respublikasının İnzibati Xətalar Məcəlləs i ilə müəyyən olunmuş hallarda və qaydada inzibati məsuliyyətə cəlb etmək və digər məsuliyyətə cəlb olunması üçün müvafiq orqanlar qarşısında məsələ qaldırmaq hüququna malikdir. [31]</span>
+2. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqan səlahiyyəti çərçivəsində əmək qanunvericiliyinin pozulmasında təqsirkar şəxslərdən yol verdikləri hüquq pozuntularının aradan qaldırılmasını tələb etmək, onları Azərbaycan Respublikasının İnzibati Xətalar Məcəlləs i ilə müəyyən olunmuş hallarda və qaydada inzibati məsuliyyətə cəlb etmək və digər məsuliyyətə cəlb olunması üçün müvafiq orqanlar qarşısında məsələ qaldırmaq hüququna malikdir. [31]
 
 ---
 
-<span style="color:red">3. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqanın hüquqları, vəzifələri və fəaliyyət qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş Əsasnamə ilə tənzim edilir.</span>
+3. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqanın hüquqları, vəzifələri və fəaliyyət qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş Əsasnamə ilə tənzim edilir.
 
 ---
 
-<span style="color:red">4. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqan bu Məcəllə ilə və digər normativ hüquqi aktlarla məhkəmənin səlahiyyətinə aid olan məsələlərin həlli üzrə fəaliyyət göstərə bilməz.</span>
+4. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqan bu Məcəllə ilə və digər normativ hüquqi aktlarla məhkəmənin səlahiyyətinə aid olan məsələlərin həlli üzrə fəaliyyət göstərə bilməz.
 
 ---
 
-<span style="color:red">5. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqanın vəzifəli şəxslərinin bu Məcəllənin və əmək qanunvericiliyinə dair digər normativ hüquqi aktların tələblərinə əməl olunmasına dair qəbul etdiyi qərarların, göstərişlərin işəgötürənlər və işçilər, habelə əmək münasibətlərinin digər iştirakçıları tərəfindən icrası məcburidir. [32]</span>
+5. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqanın vəzifəli şəxslərinin bu Məcəllənin və əmək qanunvericiliyinə dair digər normativ hüquqi aktların tələblərinə əməl olunmasına dair qəbul etdiyi qərarların, göstərişlərin işəgötürənlər və işçilər, habelə əmək münasibətlərinin digər iştirakçıları tərəfindən icrası məcburidir. [32]
 
 ---
 
-<span style="color:red">6. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqanın vəzifəli şəxslərinin qərarlarından və göstərişlərindən inzibati qaydada və (və ya) məhkəməyə şikayət verilə bilər. [33]</span>
+6. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqanın vəzifəli şəxslərinin qərarlarından və göstərişlərindən inzibati qaydada və (və ya) məhkəməyə şikayət verilə bilər. [33]
 
 ---
 
-<span style="color:red">7. Müvafiq icra hakimiyyəti orqanı elektron informasiya sisteminə müvafiq icra hakimiyyəti orqanının real vaxt rejimində inteqrasiya olunmasını təmin etməlidir. [34] Qeyd: Bu Məcəllədə «əmək münasibətlərinin iştirakçıları» dedikdə, işəgötürənlər, işçilər, mülkiyyətçi, işəgötürənin tabeçiliyində olan vəzifəli şəxslər, əməyin mühafizəsi xidmətlərinin nümayəndələri, işçinin öz hüquqlarını müdafiə etmək üçün müvəkkil etdiyi nümayəndəsi, həmkarlar ittifaqlarının nümayəndələri və işəgötürənlərin nümayəndəli orqanlarının səlahiyyətli vəzifəli şəxsləri başa düşülməlidir.</span>
+7. Müvafiq icra hakimiyyəti orqanı elektron informasiya sisteminə müvafiq icra hakimiyyəti orqanının real vaxt rejimində inteqrasiya olunmasını təmin etməlidir. [34] Qeyd: Bu Məcəllədə «əmək münasibətlərinin iştirakçıları» dedikdə, işəgötürənlər, işçilər, mülkiyyətçi, işəgötürənin tabeçiliyində olan vəzifəli şəxslər, əməyin mühafizəsi xidmətlərinin nümayəndələri, işçinin öz hüquqlarını müdafiə etmək üçün müvəkkil etdiyi nümayəndəsi, həmkarlar ittifaqlarının nümayəndələri və işəgötürənlərin nümayəndəli orqanlarının səlahiyyətli vəzifəli şəxsləri başa düşülməlidir.
 
 ---
 
@@ -647,19 +647,19 @@ g) əmək müqaviləsi bağlayarkən bu Məcəllə ilə müəyyən edilmiş qayd
 
 ---
 
-### <span style="color:red">Maddə 17. Məcburi əməyin qadağan edilməsi</span>
+### Maddə 17. Məcburi əməyin qadağan edilməsi
 
 ---
 
-<span style="color:red">1. Hər hansı qayda və üsulla zor işlətməklə, həmçinin əmək müqaviləsinə xitam veriləcəyi hədə-qorxusu ilə işçini əmək funksiyasına daxil olmayan işi (xidməti) yerinə yetirməyə məcbur etmək qadağandır. İşçini məcburi əməyə cəlb edən təqsirkar şəxslər qanunvericiliklə müəyyən edilmiş qaydada məsuliyyətə cəlb edilirlər.</span>
+1. Hər hansı qayda və üsulla zor işlətməklə, həmçinin əmək müqaviləsinə xitam veriləcəyi hədə-qorxusu ilə işçini əmək funksiyasına daxil olmayan işi (xidməti) yerinə yetirməyə məcbur etmək qadağandır. İşçini məcburi əməyə cəlb edən təqsirkar şəxslər qanunvericiliklə müəyyən edilmiş qaydada məsuliyyətə cəlb edilirlər.
 
 ---
 
-<span style="color:red">2. Hərbi və ya fövqəladə vəziyyətlə əlaqədar müvafiq qanunvericilik əsasında, habelə qanuni qüvvəyə minmiş məhkəmə hökmlərinin icrası zamanı müvafiq dövlət orqanlarının nəzarəti altında yerinə yetirilən işlərdə məcburi əməyə yol verilir.</span>
+2. Hərbi və ya fövqəladə vəziyyətlə əlaqədar müvafiq qanunvericilik əsasında, habelə qanuni qüvvəyə minmiş məhkəmə hökmlərinin icrası zamanı müvafiq dövlət orqanlarının nəzarəti altında yerinə yetirilən işlərdə məcburi əməyə yol verilir.
 
 ---
 
-### <span style="color:red">Maddə 17-1. Uşaqlarla müntəzəm təmasla əlaqədar işlərin görülməsinə qoyulan məhdudiyyətlər</span>
+### Maddə 17-1. Uşaqlarla müntəzəm təmasla əlaqədar işlərin görülməsinə qoyulan məhdudiyyətlər
 
 ---
 
@@ -711,23 +711,23 @@ g) əmək müqaviləsi bağlayarkən bu Məcəllə ilə müəyyən edilmiş qayd
 
 ---
 
-### <span style="color:red">Maddə 21. Müəssisələrdə ictimai özünüidarə orqanlarının fəaliyyəti</span>
+### Maddə 21. Müəssisələrdə ictimai özünüidarə orqanlarının fəaliyyəti
 
 ---
 
-<span style="color:red">1. Müəssisələrdə həmkarlar ittifaqları təşkilatları ilə yanaşı, qanunvericiliklə müəyyən edilmiş qaydada yaradılan işçilərin digər nümayəndəli ictimai özünüidarə orqanları, habelə işəgötürənlərin nümayəndəli orqanı nizamnamələrinə (əsasnamələrinə) uyğun fəaliyyət göstərə bilər.</span>
+1. Müəssisələrdə həmkarlar ittifaqları təşkilatları ilə yanaşı, qanunvericiliklə müəyyən edilmiş qaydada yaradılan işçilərin digər nümayəndəli ictimai özünüidarə orqanları, habelə işəgötürənlərin nümayəndəli orqanı nizamnamələrinə (əsasnamələrinə) uyğun fəaliyyət göstərə bilər.
 
 ---
 
-<span style="color:red">2. Müəssisənin mülkiyyətçisi, işəgötürəni həmkarlar ittifaqları təşkilatlarının və işçilərin digər nümayəndəli ictimai özünüidarə orqanlarının fəaliyyəti üçün kollektiv müqavilələrdə nəzərdə tutulan və ya bu təşkilat və ictimai özünüidarə orqanlarının işəgötürənlə qarşılıqlı razılığı, yaxud onların arasında bağlanmış müqavilə əsasında müəyyən edilən müvafiq şəraitin yaradılmasını təmin edir.</span>
+2. Müəssisənin mülkiyyətçisi, işəgötürəni həmkarlar ittifaqları təşkilatlarının və işçilərin digər nümayəndəli ictimai özünüidarə orqanlarının fəaliyyəti üçün kollektiv müqavilələrdə nəzərdə tutulan və ya bu təşkilat və ictimai özünüidarə orqanlarının işəgötürənlə qarşılıqlı razılığı, yaxud onların arasında bağlanmış müqavilə əsasında müəyyən edilən müvafiq şəraitin yaradılmasını təmin edir.
 
 ---
 
-<span style="color:red">3. Müəssisələrdə siyasi partiyaların, dini qurumların fəaliyyətinə yol verilmir. Qeyd: Bu Maddədə «ictimai özünüidarə orqanları» dedikdə, əmək kollektivi şurası, sədrlər (direktorlar) şurası, ixtiraçılar, səmərələşdiricilər, yaradıcılıq, qadınlar, veteranlar cəmiyyətləri və müvafiq normativ hüquqi aktlar əsasında əmək münasibətləri iştirakçılarının təsis etdikləri digər ictimai birliklər başa düşülməlidir.</span>
+3. Müəssisələrdə siyasi partiyaların, dini qurumların fəaliyyətinə yol verilmir. Qeyd: Bu Maddədə «ictimai özünüidarə orqanları» dedikdə, əmək kollektivi şurası, sədrlər (direktorlar) şurası, ixtiraçılar, səmərələşdiricilər, yaradıcılıq, qadınlar, veteranlar cəmiyyətləri və müvafiq normativ hüquqi aktlar əsasında əmək münasibətləri iştirakçılarının təsis etdikləri digər ictimai birliklər başa düşülməlidir.
 
 ---
 
-### <span style="color:red">Maddə 21-1. Azərbaycan Respublikasının işğaldan azad edilmiş ərazilərində işləyən mütəxəssislərin işinin xüsusiyyətləri</span>
+### Maddə 21-1. Azərbaycan Respublikasının işğaldan azad edilmiş ərazilərində işləyən mütəxəssislərin işinin xüsusiyyətləri
 
 ---
 
@@ -787,67 +787,67 @@ e) öhdəliklərin icrasına nəzarət və icra edilməməsinə görə məsuliyy
 
 ---
 
-### <span style="color:red">Maddə 24. Kollektiv müqavilənin və sazişin şərtlərinin məcburiliyi</span>
+### Maddə 24. Kollektiv müqavilənin və sazişin şərtlərinin məcburiliyi
 
 ---
 
-<span style="color:red">1. Bu Məcəllədə nəzərdə tutulan qaydada bağlanmış kollektiv müqavilənin və sazişin şərtləri tərəflər və bu şərtlərin aid edildiyi iş yerləri üçün məcburidir.</span>
+1. Bu Məcəllədə nəzərdə tutulan qaydada bağlanmış kollektiv müqavilənin və sazişin şərtləri tərəflər və bu şərtlərin aid edildiyi iş yerləri üçün məcburidir.
 
 ---
 
-<span style="color:red">2. Bu Məcəllədə və digər normativ hüquqi aktlarda nəzərdə tutulan əmək, sosial və iqtisadi normalara nisbətən işçilərin vəziyyətini pisləşdirən kollektiv müqavilənin və sazişin şərtləri etibarsızdır. Dördüncü fəsil Kollektiv danışıqlar</span>
+2. Bu Məcəllədə və digər normativ hüquqi aktlarda nəzərdə tutulan əmək, sosial və iqtisadi normalara nisbətən işçilərin vəziyyətini pisləşdirən kollektiv müqavilənin və sazişin şərtləri etibarsızdır. Dördüncü fəsil Kollektiv danışıqlar
 
 ---
 
-### <span style="color:red">Maddə 25. Kollektiv danışıqlar aparmaq hüququ [41]</span>
+### Maddə 25. Kollektiv danışıqlar aparmaq hüququ [41]
 
 ---
 
-<span style="color:red">1. Kollektiv müqavilənin və sazişin hazırlanması, bağlanması və onlarda dəyişikliklər edilməsi üçün kollektiv danışıqlar aparmaq təşəbbüsünə səlahiyyətləri daxilində həmkarlar ittifaqları təşkilatlar (birlikləri), əmək kollektivləri, işəgötürənlər, müvafiq icra hakimiyyəti və işəgötürənlərin nümayəndəli orqanları malikdirlər.</span>
+1. Kollektiv müqavilənin və sazişin hazırlanması, bağlanması və onlarda dəyişikliklər edilməsi üçün kollektiv danışıqlar aparmaq təşəbbüsünə səlahiyyətləri daxilində həmkarlar ittifaqları təşkilatlar (birlikləri), əmək kollektivləri, işəgötürənlər, müvafiq icra hakimiyyəti və işəgötürənlərin nümayəndəli orqanları malikdirlər.
 
 ---
 
-<span style="color:red">2. Danışıqlara başlamaq üçün yazılı təklif alan tərəf 10 təqvim günü ərzində danışığa başlamalı və kollektiv danışıqların aparılması təşəbbüsü ilə çıxış edən tərəfə danışıqlarda onun tərəfindən iştirak edəcək nümayəndələr barədə məlumat təqdim etməklə cavab göndərməlidir. Kollektiv danışıqların aparılması təşəbbüsü ilə çıxış edən tərəfin qeyd edilən cavab məktubunu aldığı gündən sonrakı gün kollektiv danışıqların başlanması günü sayılır. [42]</span>
+2. Danışıqlara başlamaq üçün yazılı təklif alan tərəf 10 təqvim günü ərzində danışığa başlamalı və kollektiv danışıqların aparılması təşəbbüsü ilə çıxış edən tərəfə danışıqlarda onun tərəfindən iştirak edəcək nümayəndələr barədə məlumat təqdim etməklə cavab göndərməlidir. Kollektiv danışıqların aparılması təşəbbüsü ilə çıxış edən tərəfin qeyd edilən cavab məktubunu aldığı gündən sonrakı gün kollektiv danışıqların başlanması günü sayılır. [42]
 
 ---
 
-<span style="color:red">3. Əgər müəssisədə həmkarlar ittifaqları təşkilatı (birliyi) yoxdursa, əmək kollektivi danışıqlar aparmaq üçün xüsusi səlahiyyətli komissiya yaradır.</span>
+3. Əgər müəssisədə həmkarlar ittifaqları təşkilatı (birliyi) yoxdursa, əmək kollektivi danışıqlar aparmaq üçün xüsusi səlahiyyətli komissiya yaradır.
 
 ---
 
-<span style="color:red">4. Respublika və ya ərazi üzrə, habelə müəssisə daxilində bir neçə həmkarlar ittifaqları təşkilatı (birliyi) mövcud olarsa, kollektiv danışıqların aparılması üçün işçilərin müvafiq həmkarlar ittifaqlarına üzvlük nisbətinə uyğun nümayəndələrdən ibarət komissiya yaradılır.</span>
+4. Respublika və ya ərazi üzrə, habelə müəssisə daxilində bir neçə həmkarlar ittifaqları təşkilatı (birliyi) mövcud olarsa, kollektiv danışıqların aparılması üçün işçilərin müvafiq həmkarlar ittifaqlarına üzvlük nisbətinə uyğun nümayəndələrdən ibarət komissiya yaradılır.
 
 ---
 
-<span style="color:red">5. Kollektiv müqavilənin və sazişin şərtlərinin hazırlanması məqsədi ilə kollektiv danışıqların aparılmasından boyun qaçırmağa yol verilmir.</span>
+5. Kollektiv müqavilənin və sazişin şərtlərinin hazırlanması məqsədi ilə kollektiv danışıqların aparılmasından boyun qaçırmağa yol verilmir.
 
 ---
 
-<span style="color:red">6. İşəgötürənlərin, o cümlədən icra hakimiyyəti orqanlarını, yerli özünüidarəetmə orqanlarını, eləcə də onların yaratdığı və ya maliyyələşdirdiyi təşkilatları təmsil edən şəxslərin işçilərin adından kollektiv danışıqlar aparmasına və kollektiv müqavilələr, sazişlər bağlamasına yol verilmir. [43]</span>
+6. İşəgötürənlərin, o cümlədən icra hakimiyyəti orqanlarını, yerli özünüidarəetmə orqanlarını, eləcə də onların yaratdığı və ya maliyyələşdirdiyi təşkilatları təmsil edən şəxslərin işçilərin adından kollektiv danışıqlar aparmasına və kollektiv müqavilələr, sazişlər bağlamasına yol verilmir. [43]
 
 ---
 
-### <span style="color:red">Maddə 26. Kollektiv danışıqların aparılması qaydası</span>
+### Maddə 26. Kollektiv danışıqların aparılması qaydası
 
 ---
 
-<span style="color:red">1. Kollektiv müqavilənin və sazişin və ya onlara dəyişikliklərin layihəsinin hazırlanması məqsədi ilə danışıqlar aparmaq üçün tərəflər, müvafiq səlahiyyətlər verilmiş bərabərsaylı nümayəndələrdən ibarət komissiya yaradırlar.</span>
+1. Kollektiv müqavilənin və sazişin və ya onlara dəyişikliklərin layihəsinin hazırlanması məqsədi ilə danışıqlar aparmaq üçün tərəflər, müvafiq səlahiyyətlər verilmiş bərabərsaylı nümayəndələrdən ibarət komissiya yaradırlar.
 
 ---
 
-<span style="color:red">2. Komissiyanın tərkibi, danışıqların gündəliyi, keçirilmə yeri və müddəti tərəflərin birgə qərarı ilə müəyyən edilir.</span>
+2. Komissiyanın tərkibi, danışıqların gündəliyi, keçirilmə yeri və müddəti tərəflərin birgə qərarı ilə müəyyən edilir.
 
 ---
 
-<span style="color:red">3. Tərəflər kollektiv müqavilənin və sazişin məzmununa aid məsələlərin seçilməsi və müzakirə edilməsində sərbəstdirlər.</span>
+3. Tərəflər kollektiv müqavilənin və sazişin məzmununa aid məsələlərin seçilməsi və müzakirə edilməsində sərbəstdirlər.
 
 ---
 
-<span style="color:red">4. Komissiyanın tələbi ilə tərəflər, kollektiv danışıqların aparılması üçün zəruri olan məlumatları beş gün müddətində təqdim etməlidirlər. Danışıqların iştirakçıları, alınmış məlumatlarda olan dövlət və ya kommersiya sirrini yaymağa görə qanunvericiliklə müəyyən edilmiş məsuliyyətə cəlb olunurlar.</span>
+4. Komissiyanın tələbi ilə tərəflər, kollektiv danışıqların aparılması üçün zəruri olan məlumatları beş gün müddətində təqdim etməlidirlər. Danışıqların iştirakçıları, alınmış məlumatlarda olan dövlət və ya kommersiya sirrini yaymağa görə qanunvericiliklə müəyyən edilmiş məsuliyyətə cəlb olunurlar.
 
 ---
 
-<span style="color:red">5. Danışıqlar zamanı tərəflər razılığa gələ bilmədikdə fikir ayrılığı haqqında protokol tərtib edilir. Protokolda fikir ayrılığının aradan qaldırılması haqqında tərəflərin yekun təklifləri, habelə danışıqların yenidən başlanması müddəti göstərilir.</span>
+5. Danışıqlar zamanı tərəflər razılığa gələ bilmədikdə fikir ayrılığı haqqında protokol tərtib edilir. Protokolda fikir ayrılığının aradan qaldırılması haqqında tərəflərin yekun təklifləri, habelə danışıqların yenidən başlanması müddəti göstərilir.
 
 ---
 
@@ -923,107 +923,107 @@ e) öhdəliklərin icrasına nəzarət və icra edilməməsinə görə məsuliyy
 
 ---
 
-### <span style="color:red">Maddə 31. Kollektiv müqavilənin məzmunu</span>
+### Maddə 31. Kollektiv müqavilənin məzmunu
 
 ---
 
-<span style="color:red">1. Kollektiv müqavilənin məzmununu tərəflər müəyyən edirlər.</span>
+1. Kollektiv müqavilənin məzmununu tərəflər müəyyən edirlər.
 
 ---
 
-<span style="color:red">2. Kollektiv müqaviləyə, bir qayda olaraq, aşağıdakı məsələlər üzrə tərəflərin qarşılıqlı öhdəlikləri daxil edilir:</span>
+2. Kollektiv müqaviləyə, bir qayda olaraq, aşağıdakı məsələlər üzrə tərəflərin qarşılıqlı öhdəlikləri daxil edilir:
 
 ---
 
-<span style="color:red">a) müəssisənin istehsal və iqtisadi fəaliyyətinin səmərəliliyinin yüksəldilməsi;</span>
+a) müəssisənin istehsal və iqtisadi fəaliyyətinin səmərəliliyinin yüksəldilməsi;
 
 ---
 
-<span style="color:red">b) əməyin ödənilməsi qaydaları və miqdarının, pul mükafatlarının, müavinətlərin, əlavələrin və digər ödəmələrin müəyyən edilməsi;</span>
+b) əməyin ödənilməsi qaydaları və miqdarının, pul mükafatlarının, müavinətlərin, əlavələrin və digər ödəmələrin müəyyən edilməsi;
 
 ---
 
-<span style="color:red">c) qiymətlərin artımı, inflyasiyanın səviyyəsi nəzərə alınmaqla əmək haqqı miqdarının tənzimlənmə mexanizmi;</span>
+c) qiymətlərin artımı, inflyasiyanın səviyyəsi nəzərə alınmaqla əmək haqqı miqdarının tənzimlənmə mexanizmi;
 
 ---
 
-<span style="color:red">ç) məşğulluq, əlavə təhsil, işçilərin sərbəstləşdirilməsi şərtləri; [45]</span>
+ç) məşğulluq, əlavə təhsil, işçilərin sərbəstləşdirilməsi şərtləri; [45]
 
 ---
 
-<span style="color:red">d) iş və istirahət vaxtı, məzuniyyətlərin müddəti haqqında şərtlər;</span>
+d) iş və istirahət vaxtı, məzuniyyətlərin müddəti haqqında şərtlər;
 
 ---
 
-<span style="color:red">e) işçilərə və onların ailə üzvlərinə mədəni və məişət xidmətlərinin, sosial təminatlar və güzəştlərin müəyyən edilməsi;</span>
+e) işçilərə və onların ailə üzvlərinə mədəni və məişət xidmətlərinin, sosial təminatlar və güzəştlərin müəyyən edilməsi;
 
 ---
 
-<span style="color:red">ə) əməyin qiymətləndirilməsi, əmək normalarının müəyyən edilməsi və yenidən işlənməsi qaydaları;</span>
+ə) əməyin qiymətləndirilməsi, əmək normalarının müəyyən edilməsi və yenidən işlənməsi qaydaları;
 
 ---
 
-<span style="color:red">f) qadınların, 18 yaşına çatmamış işçilərin əmək şəraitinin yaxşılaşdırılması;</span>
+f) qadınların, 18 yaşına çatmamış işçilərin əmək şəraitinin yaxşılaşdırılması;
 
 ---
 
-<span style="color:red">g) əməyin mühafizəsinin yaxşılaşdırılması üçün əlavə təminatların müəyyən edilməsi;</span>
+g) əməyin mühafizəsinin yaxşılaşdırılması üçün əlavə təminatların müəyyən edilməsi;
 
 ---
 
-<span style="color:red">ğ) əmək vəzifələrini yerinə yetirməklə əlaqədar işçilərə dəyən ziyanın ödənilməsi;</span>
+ğ) əmək vəzifələrini yerinə yetirməklə əlaqədar işçilərə dəyən ziyanın ödənilməsi;
 
 ---
 
-<span style="color:red">h) əmək mübahisələrinə məhkəməyə qədər baxan orqanın yaradılması və onun fəaliyyət qaydası;</span>
+h) əmək mübahisələrinə məhkəməyə qədər baxan orqanın yaradılması və onun fəaliyyət qaydası;
 
 ---
 
-<span style="color:red">x) işçilərin tibbi və sosial sığortasının üstün əlavə şərtlərinin müəyyən edilməsi;</span>
+x) işçilərin tibbi və sosial sığortasının üstün əlavə şərtlərinin müəyyən edilməsi;
 
 ---
 
-<span style="color:red">ı) işəgötürənin təşəbbüsü ilə əmək müqaviləsi ləğv edilərkən həmkarlar ittifaqları təşkilatı ilə razılaşmalar aparılması;</span>
+ı) işəgötürənin təşəbbüsü ilə əmək müqaviləsi ləğv edilərkən həmkarlar ittifaqları təşkilatı ilə razılaşmalar aparılması;
 
 ---
 
-<span style="color:red">i) işçilərin ekoloji təhlükəsizliyinin və sağlamlığının gözlənilməsi; j ) həmkarlar ittifaqının üzvü olan işçilərin əmək haqqından həmkarlar ittifaqına üzvlük haqlarının işəgötürən tərəfindən mühasibatlıq vasitəsi ilə tutulmasının təmin edilməsi və 4 iş günü müddətində həmin müəssisənin həmkarlar ittifaqı təşkilatının xüsusi hesabına köçürülməsi, habelə həmkarlar ittifaqları təşkilatına nizamnamə fəaliyyətini səmərəli təşkil etmək üçün digər zəruri şəraitin yaradılması; [46]</span>
+i) işçilərin ekoloji təhlükəsizliyinin və sağlamlığının gözlənilməsi; j ) həmkarlar ittifaqının üzvü olan işçilərin əmək haqqından həmkarlar ittifaqına üzvlük haqlarının işəgötürən tərəfindən mühasibatlıq vasitəsi ilə tutulmasının təmin edilməsi və 4 iş günü müddətində həmin müəssisənin həmkarlar ittifaqı təşkilatının xüsusi hesabına köçürülməsi, habelə həmkarlar ittifaqları təşkilatına nizamnamə fəaliyyətini səmərəli təşkil etmək üçün digər zəruri şəraitin yaradılması; [46]
 
 ---
 
-<span style="color:red">k) kollektiv əmək mübahisəsinin tənzimlənməsinin əlavə üsulları haqqında razılaşmalar;</span>
+k) kollektiv əmək mübahisəsinin tənzimlənməsinin əlavə üsulları haqqında razılaşmalar;
 
 ---
 
-<span style="color:red">q) kollektiv müqavilənin şərtlərinin yerinə yetirilməsinə nəzarət;</span>
+q) kollektiv müqavilənin şərtlərinin yerinə yetirilməsinə nəzarət;
 
 ---
 
-<span style="color:red">l) kollektiv müqavilənin şərtlərinin pozulmasına görə tərəflərin məsuliyyəti;</span>
+l) kollektiv müqavilənin şərtlərinin pozulmasına görə tərəflərin məsuliyyəti;
 
 ---
 
-<span style="color:red">m) əmək və icra intizamının möhkəmləndirilməsi üçün tədbirlər.</span>
+m) əmək və icra intizamının möhkəmləndirilməsi üçün tədbirlər.
 
 ---
 
-<span style="color:red">n) iş yerində və ya işlə əlaqədar olaraq ayrı-ayrı işçilərə qarşı ələsalma, aşkar düşmənçilik hərəkətləri və təhqiramiz hərəkətlər barəsində izahat işi aparılmasına və informasiya verilməsinə yardım göstərilməsi və belə hərəkətlərin qarşısının alınması, işçiləri bu cür davranışdan qorumaq üçün bütün lazımi tədbirlərin görülməsi;</span>
+n) iş yerində və ya işlə əlaqədar olaraq ayrı-ayrı işçilərə qarşı ələsalma, aşkar düşmənçilik hərəkətləri və təhqiramiz hərəkətlər barəsində izahat işi aparılmasına və informasiya verilməsinə yardım göstərilməsi və belə hərəkətlərin qarşısının alınması, işçiləri bu cür davranışdan qorumaq üçün bütün lazımi tədbirlərin görülməsi;
 
 ---
 
-<span style="color:red">o) iş yerində və ya işlə əlaqədar olaraq seksual təhrik məsələlərinə dair izahat işi aparılmasına və informasiya verilməsinə yardım göstərilməsi və belə təhriklərin qarşısının alınması, işçiləri bu cür davranışdan qorumaq üçün bütün lazımi tədbirlərin görülməsi: [47]</span>
+o) iş yerində və ya işlə əlaqədar olaraq seksual təhrik məsələlərinə dair izahat işi aparılmasına və informasiya verilməsinə yardım göstərilməsi və belə təhriklərin qarşısının alınması, işçiləri bu cür davranışdan qorumaq üçün bütün lazımi tədbirlərin görülməsi: [47]
 
 ---
 
-<span style="color:red">ö) işçilərə bədən tərbiyəsi və idmanla, o cümlədən iş rejimi şəraitində və işdən sonrakı reabilitasiya və peşəkar-tətbiqi məşqlərlə, idman- sağlamlıq turizmi ilə məşğul ola bilmələri üçün şəraitin yaradılması. [48]</span>
+ö) işçilərə bədən tərbiyəsi və idmanla, o cümlədən iş rejimi şəraitində və işdən sonrakı reabilitasiya və peşəkar-tətbiqi məşqlərlə, idman- sağlamlıq turizmi ilə məşğul ola bilmələri üçün şəraitin yaradılması. [48]
 
 ---
 
-<span style="color:red">3. Kollektiv müqavilədə müəssisənin iqtisadi imkanları nəzərə alınmaqla digər, o cümlədən bu Məcəllədə nəzərdə tutulduğundan daha güzəştli əmək və sosial-iqtisadi şərtlər də (əlavə məzuniyyətlər, pensiyalara əlavələr, nəqliyyat və ezamiyyə xərclərinin ödənilməsi, pulsuz və ya güzəştli qiymətlərlə yemək verilməsi və digər güzəşt və əvəzlər) nəzərdə tutula bilər.</span>
+3. Kollektiv müqavilədə müəssisənin iqtisadi imkanları nəzərə alınmaqla digər, o cümlədən bu Məcəllədə nəzərdə tutulduğundan daha güzəştli əmək və sosial-iqtisadi şərtlər də (əlavə məzuniyyətlər, pensiyalara əlavələr, nəqliyyat və ezamiyyə xərclərinin ödənilməsi, pulsuz və ya güzəştli qiymətlərlə yemək verilməsi və digər güzəşt və əvəzlər) nəzərdə tutula bilər.
 
 ---
 
-<span style="color:red">4. Bu Məcəllədə və digər normativ hüquqi aktlarda kollektiv müqaviləyə daxil edilməsi nəzərdə tutulmuş müddəaların kollektiv müqavilədə əks etdirilməsi məcburidir.</span>
+4. Bu Məcəllədə və digər normativ hüquqi aktlarda kollektiv müqaviləyə daxil edilməsi nəzərdə tutulmuş müddəaların kollektiv müqavilədə əks etdirilməsi məcburidir.
 
 ---
 
@@ -1091,27 +1091,27 @@ c) Ərazi (rayon) kollektiv sazişi — ərazi xüsusiyyətləri ilə bağlı m�
 
 ---
 
-### <span style="color:red">Maddə 36. Kollektiv sazişin tərəfləri</span>
+### Maddə 36. Kollektiv sazişin tərəfləri
 
 ---
 
-<span style="color:red">1. Kollektiv saziş aşağıdakı tərəflər arasında bağlanıla bilər:</span>
+1. Kollektiv saziş aşağıdakı tərəflər arasında bağlanıla bilər:
 
 ---
 
-<span style="color:red">a) Baş kollektiv saziş — müvafiq icra hakimiyyəti orqanı və həmkarlar ittifaqlarının ümumölkə (ölkə) birliyi arasında; [52]</span>
+a) Baş kollektiv saziş — müvafiq icra hakimiyyəti orqanı və həmkarlar ittifaqlarının ümumölkə (ölkə) birliyi arasında; [52]
 
 ---
 
-<span style="color:red">b) Sahə (tarif) kollektiv sazişi — müvafiq icra hakimiyyəti orqanı, həmkarlar ittifaqlarının peşələr, sahələr üzrə birlikləri arasında;</span>
+b) Sahə (tarif) kollektiv sazişi — müvafiq icra hakimiyyəti orqanı, həmkarlar ittifaqlarının peşələr, sahələr üzrə birlikləri arasında;
 
 ---
 
-<span style="color:red">c) Ərazi (rayon) kollektiv sazişi — müvafiq icra hakimiyyəti orqanları, həmkarlar ittifaqlarının ərazi birlikləri arasında.</span>
+c) Ərazi (rayon) kollektiv sazişi — müvafiq icra hakimiyyəti orqanları, həmkarlar ittifaqlarının ərazi birlikləri arasında.
 
 ---
 
-<span style="color:red">2. Baş, Sahə və Ərazi kollektiv sazişləri üçtərəfli — müvafiq icra hakimiyyəti orqanı, həmkarlar ittifaqları birlikləri və işəgötürənlərin nümayəndəli orqanları (birlikləri) arasında bağlanıla bilər.</span>
+2. Baş, Sahə və Ərazi kollektiv sazişləri üçtərəfli — müvafiq icra hakimiyyəti orqanı, həmkarlar ittifaqları birlikləri və işəgötürənlərin nümayəndəli orqanları (birlikləri) arasında bağlanıla bilər.
 
 ---
 
@@ -1251,23 +1251,23 @@ j) əmək intizamının təmin edilməsi.
 
 ---
 
-### <span style="color:red">Maddə 42. Əmək müqaviləsinin tərəfləri</span>
+### Maddə 42. Əmək müqaviləsinin tərəfləri
 
 ---
 
-<span style="color:red">1. Əmək müqavilələri sərbəst bağlanır. Əmək münasibətləri yaratmayan və ya yaratmaq istəməyən heç kəs əmək müqaviləsi bağlamağa məcbur edilə bilməz. [54]</span>
+1. Əmək müqavilələri sərbəst bağlanır. Əmək münasibətləri yaratmayan və ya yaratmaq istəməyən heç kəs əmək müqaviləsi bağlamağa məcbur edilə bilməz. [54]
 
 ---
 
-<span style="color:red">2. Əmək müqaviləsinin tərəflərindən biri işəgötürən, digəri isə işçidir.</span>
+2. Əmək müqaviləsinin tərəflərindən biri işəgötürən, digəri isə işçidir.
 
 ---
 
-<span style="color:red">3. On beş yaşına çatmış hər bir şəxs işçi kimi əmək müqaviləsinin tərəfi ola bilər. Qanunvericiliklə müəyyən edilmiş qaydada fəaliyyət qabiliyyəti olmayan şəxs hesab edilmiş şəxslə əmək müqaviləsi bağlanıla bilməz.</span>
+3. On beş yaşına çatmış hər bir şəxs işçi kimi əmək müqaviləsinin tərəfi ola bilər. Qanunvericiliklə müəyyən edilmiş qaydada fəaliyyət qabiliyyəti olmayan şəxs hesab edilmiş şəxslə əmək müqaviləsi bağlanıla bilməz.
 
 ---
 
-<span style="color:red">4. Tam fəaliyyət qabiliyyəti olmayan şəxs işəgötürən ola bilməz.</span>
+4. Tam fəaliyyət qabiliyyəti olmayan şəxs işəgötürən ola bilməz.
 
 ---
 
@@ -1379,31 +1379,31 @@ x) tərəflərin müəyyən etdiyi əlavə şərtlər barədə məlumatlar.
 
 ---
 
-### <span style="color:red">Maddə 46. Əmək müqaviləsinin bağlanması və ona dəyişikliklərin edilməsi qaydası</span>
+### Maddə 46. Əmək müqaviləsinin bağlanması və ona dəyişikliklərin edilməsi qaydası
 
 ---
 
-<span style="color:red">1. Əmək müqaviləsi bu Məcəllənin 54-cü Maddəsində nəzərdə tutulmuş əmək şəraitinin şərtləri, habelə tərəflərin razılaşdıqları əlavə şərtləri, işçinin əmək funksiyası və tərəflərin öhdəlikləri göstərilməklə fərdi qaydada bağlanılır.</span>
+1. Əmək müqaviləsi bu Məcəllənin 54-cü Maddəsində nəzərdə tutulmuş əmək şəraitinin şərtləri, habelə tərəflərin razılaşdıqları əlavə şərtləri, işçinin əmək funksiyası və tərəflərin öhdəlikləri göstərilməklə fərdi qaydada bağlanılır.
 
 ---
 
-<span style="color:red">2. Əmək müqaviləsi kollektiv qaydada da bağlanıla bilər. Müvafiq işlərin görülməsi, xidmətlərin göstərilməsi (tikinti-təmir, yükləmə-boşaltma, məişət, ticarət, əkin-biçin, heyvandarlıq işləri) iki və daha çox işçi qrupu tərəfindən kollektiv halında həyata keçirilməklə əmək müqaviləsinin bağlanması kollektivin (briqadanın, işçi qrupunun) hər bir üzvünün yazılı razılığı ilə yol verilir. Bu halda işçilər, işəgötürənlə kollektiv əmək müqaviləsi bağlamaq üçün bir nümayəndəsini müvəkkil edir.</span>
+2. Əmək müqaviləsi kollektiv qaydada da bağlanıla bilər. Müvafiq işlərin görülməsi, xidmətlərin göstərilməsi (tikinti-təmir, yükləmə-boşaltma, məişət, ticarət, əkin-biçin, heyvandarlıq işləri) iki və daha çox işçi qrupu tərəfindən kollektiv halında həyata keçirilməklə əmək müqaviləsinin bağlanması kollektivin (briqadanın, işçi qrupunun) hər bir üzvünün yazılı razılığı ilə yol verilir. Bu halda işçilər, işəgötürənlə kollektiv əmək müqaviləsi bağlamaq üçün bir nümayəndəsini müvəkkil edir.
 
 ---
 
-<span style="color:red">3. Kollektiv əmək müqaviləsi bağlanılan hallarda işəgötürən kollektivin hər bir üzvü qarşısında bu Məcəllə və əmək müqaviləsi ilə müəyyən edilmiş öhdəliklərini yerinə yetirməlidir. Kollektiv əmək müqaviləsinə yalnız bu Məcəllədə nəzərdə tutulmuş əsaslarla və müəyyən edilmiş qaydada xitam verilir.</span>
+3. Kollektiv əmək müqaviləsi bağlanılan hallarda işəgötürən kollektivin hər bir üzvü qarşısında bu Məcəllə və əmək müqaviləsi ilə müəyyən edilmiş öhdəliklərini yerinə yetirməlidir. Kollektiv əmək müqaviləsinə yalnız bu Məcəllədə nəzərdə tutulmuş əsaslarla və müəyyən edilmiş qaydada xitam verilir.
 
 ---
 
-<span style="color:red">4. Əmək müqaviləsi on beş yaşına çatmış fiziki şəxslərlə bağlanıla bilər. 15 yaşına çatmamış şəxslərlə bağlanılan əmək müqaviləsi etibarsız sayılır və belə müqaviləni bağlayan işəgötürən bu Məcəllənin 312-ci Maddəsinə uyğun olaraq inzibati məsuliyyətə cəlb edilir. On beş yaşından on səkkiz yaşınadək olan şəxslərlə əmək müqaviləsi bağlanarkən onların valideynlərindən və ya övladlığa götürənlərdən (qəyyumlarından) birinin və yaxud qanunla onları əvəz edən şəxslərin yazılı razılığı alınmalıdır. [64]</span>
+4. Əmək müqaviləsi on beş yaşına çatmış fiziki şəxslərlə bağlanıla bilər. 15 yaşına çatmamış şəxslərlə bağlanılan əmək müqaviləsi etibarsız sayılır və belə müqaviləni bağlayan işəgötürən bu Məcəllənin 312-ci Maddəsinə uyğun olaraq inzibati məsuliyyətə cəlb edilir. On beş yaşından on səkkiz yaşınadək olan şəxslərlə əmək müqaviləsi bağlanarkən onların valideynlərindən və ya övladlığa götürənlərdən (qəyyumlarından) birinin və yaxud qanunla onları əvəz edən şəxslərin yazılı razılığı alınmalıdır. [64]
 
 ---
 
-<span style="color:red">5. Bu Məcəllənin 43-cü Maddəsinin ikinci hissəsində nəzərdə tutulmuş şərtlərdən hər hansı biri göstərilmədən bağlanmış əmək müqaviləsi tərəflərdən birinin təşəbbüsü ilə etibarsız hesab edilə və ya yenidən tərtib edilməsi tələbi qoyula bilər. Həmin şərtin (şərtlərin) əmək müqaviləsində göstərilmədiyi aşkar olunduğu andan onlar işəgötürən tərəfindən əmək müqaviləsinə daxil edilməlidir. Bu halda tərəflərin arasında başqa razılıq olmamışdırsa, əmək müqaviləsi həmin şərtin (şərtlərin) daxil edildiyi tarixdən asılı olmayaraq bağlandığı və ya yazılı formada tərtib edildiyi gündən etibarlı hesab olunur. [65]</span>
+5. Bu Məcəllənin 43-cü Maddəsinin ikinci hissəsində nəzərdə tutulmuş şərtlərdən hər hansı biri göstərilmədən bağlanmış əmək müqaviləsi tərəflərdən birinin təşəbbüsü ilə etibarsız hesab edilə və ya yenidən tərtib edilməsi tələbi qoyula bilər. Həmin şərtin (şərtlərin) əmək müqaviləsində göstərilmədiyi aşkar olunduğu andan onlar işəgötürən tərəfindən əmək müqaviləsinə daxil edilməlidir. Bu halda tərəflərin arasında başqa razılıq olmamışdırsa, əmək müqaviləsi həmin şərtin (şərtlərin) daxil edildiyi tarixdən asılı olmayaraq bağlandığı və ya yazılı formada tərtib edildiyi gündən etibarlı hesab olunur. [65]
 
 ---
 
-<span style="color:red">6. Əmək müqaviləsinə dəyişikliklər yalnız tərəflərin razılığı ilə edilir. Razılaşdırılmış dəyişikliklər əmək müqaviləsinə daxil edilir. Həcmcə çox olduğuna görə dəyişiklikləri əmək müqaviləsinə daxil etmək mümkün olmadıqda ilkin əmək müqaviləsi yenidən tərtib edilir, yaxud həmin dəyişikliklər ayrılıqda tərtib edilib təsdiqlənirlər.</span>
+6. Əmək müqaviləsinə dəyişikliklər yalnız tərəflərin razılığı ilə edilir. Razılaşdırılmış dəyişikliklər əmək müqaviləsinə daxil edilir. Həcmcə çox olduğuna görə dəyişiklikləri əmək müqaviləsinə daxil etmək mümkün olmadıqda ilkin əmək müqaviləsi yenidən tərtib edilir, yaxud həmin dəyişikliklər ayrılıqda tərtib edilib təsdiqlənirlər.
 
 ---
 
@@ -1451,95 +1451,95 @@ g) bu Məcəllənin 46-cı Maddəsinin ikinci hissəsində nəzərdə tutulmuş 
 
 ---
 
-### <span style="color:red">Maddə 48. Əmək müqaviləsi bağlanarkən işçinin təqdim etdiyi sənədlər</span>
+### Maddə 48. Əmək müqaviləsi bağlanarkən işçinin təqdim etdiyi sənədlər
 
 ---
 
-<span style="color:red">1. Əmək müqaviləsi bağlanarkən işçi əmək kitabçası, habelə şəxsiyyətini təsdiq edən sənədi və dövlət sosial sığorta şəhadətnaməsini (ilk dəfə əmək fəaliyyətinə başlayanlar istisna olmaqla) təqdim edir. [71]</span>
+1. Əmək müqaviləsi bağlanarkən işçi əmək kitabçası, habelə şəxsiyyətini təsdiq edən sənədi və dövlət sosial sığorta şəhadətnaməsini (ilk dəfə əmək fəaliyyətinə başlayanlar istisna olmaqla) təqdim edir. [71]
 
 ---
 
-<span style="color:red">2. Əmək müqaviləsinin bağlanması işçinin müvafiq yaşayış məntəqəsində qeydiyyatının olub-olmaması ilə şərtləndirilə bilməz.</span>
+2. Əmək müqaviləsinin bağlanması işçinin müvafiq yaşayış məntəqəsində qeydiyyatının olub-olmaması ilə şərtləndirilə bilməz.
 
 ---
 
-<span style="color:red">3. Məcburi köçkün, onlara bərabər tutulan şəxs və ya qaçqın statusu olan, habelə Azərbaycan Respublikasında ilk dəfə əmək fəaliyyətinə başlayan işçilərlə, əcnəbilərlə və vətəndaşlığı olmayan şəxslərlə əmək kitabçası təqdim edilmədən əmək müqaviləsi bağlanıla bilər. [72]</span>
+3. Məcburi köçkün, onlara bərabər tutulan şəxs və ya qaçqın statusu olan, habelə Azərbaycan Respublikasında ilk dəfə əmək fəaliyyətinə başlayan işçilərlə, əcnəbilərlə və vətəndaşlığı olmayan şəxslərlə əmək kitabçası təqdim edilmədən əmək müqaviləsi bağlanıla bilər. [72]
 
 ---
 
-<span style="color:red">4. Əmək müqaviləsi bağlanılarkən işçinin əmək funksiyasının xüsusiyyətlərinə uyğun olan peşə hazırlığının və ya təhsilin olması zəruri sayılan hallarda işəgötürənə təhsili barədə müvafiq sənəd təqdim edilir.</span>
+4. Əmək müqaviləsi bağlanılarkən işçinin əmək funksiyasının xüsusiyyətlərinə uyğun olan peşə hazırlığının və ya təhsilin olması zəruri sayılan hallarda işəgötürənə təhsili barədə müvafiq sənəd təqdim edilir.
 
 ---
 
-<span style="color:red">5. İşçinin səhhətinə, sağlamlığına mənfi təsir göstərən amillər olan ağır, zərərli və təhlükəli əmək şəraitli iş yerlərində, habelə əhalinin sağlamlığının mühafizəsi məqsədi ilə yeyinti sənayesi, ictimai iaşə, səhiyyə, ticarət və bu qəbildən olan digər iş yerlərində əmək müqaviləsi bağlanılarkən işçilər sağlamlığı haqqında tibbi arayış təqdim etməlidirlər. Belə əmək şəraitli peşələrin (vəzifələrin), iş yerlərinin siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir. Şəxslər insanın immunçatışmazlığı virusu ilə yaşayan şəxslərin işləməsinə yol verilməyən peşələrə və vəzifələrə qəbul edilərkən insanın immunçatışmazlığı virusuna mütləq tibbi müayinədən, işlədiyi müddətdə isə vaxtaşırı həmin müayinədən keçməlidirlər. [73]</span>
+5. İşçinin səhhətinə, sağlamlığına mənfi təsir göstərən amillər olan ağır, zərərli və təhlükəli əmək şəraitli iş yerlərində, habelə əhalinin sağlamlığının mühafizəsi məqsədi ilə yeyinti sənayesi, ictimai iaşə, səhiyyə, ticarət və bu qəbildən olan digər iş yerlərində əmək müqaviləsi bağlanılarkən işçilər sağlamlığı haqqında tibbi arayış təqdim etməlidirlər. Belə əmək şəraitli peşələrin (vəzifələrin), iş yerlərinin siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir. Şəxslər insanın immunçatışmazlığı virusu ilə yaşayan şəxslərin işləməsinə yol verilməyən peşələrə və vəzifələrə qəbul edilərkən insanın immunçatışmazlığı virusuna mütləq tibbi müayinədən, işlədiyi müddətdə isə vaxtaşırı həmin müayinədən keçməlidirlər. [73]
 
 ---
 
-<span style="color:red">6. Əmək münasibətlərinə girən işçidən bu Məcəllədə nəzərdə tutulmamış, habelə işin (vəzifənin) xüsusiyyətlərinə uyğun gəlməyən əlavə sənədlərin tələb edilməsi qadağandır.</span>
+6. Əmək münasibətlərinə girən işçidən bu Məcəllədə nəzərdə tutulmamış, habelə işin (vəzifənin) xüsusiyyətlərinə uyğun gəlməyən əlavə sənədlərin tələb edilməsi qadağandır.
 
 ---
 
-### <span style="color:red">Maddə 49. Əmək müqaviləsinin hüquqi qüvvəyə minməsivə qüvvədən düşməsi[74]</span>
+### Maddə 49. Əmək müqaviləsinin hüquqi qüvvəyə minməsivə qüvvədən düşməsi[74]
 
 ---
 
-<span style="color:red">1. Bu Məcəllənin 7-ci Maddəsinin 2-1-ci hissəsi və bu Maddənin 1-2-ci hissəsi ilə müəyyən edilmiş hallar istisna olmaqla, əmək müqaviləsinin bağlanılması, ona dəyişiklik edilməsi və ya xitam verilməsi bununla bağlı elektron informasiya sisteminə gücləndirilmiş elektron imza vasitəsi ilə daxil edilmiş əmək müqaviləsi bildirişinin həmin elektron informasiya sistemində qeydiyyata alınmasından və bu barədə işəgötürənə elektron qaydada məlumat göndərilməsindən sonra hüquqi qüvvəyə minir. [75]</span>
+1. Bu Məcəllənin 7-ci Maddəsinin 2-1-ci hissəsi və bu Maddənin 1-2-ci hissəsi ilə müəyyən edilmiş hallar istisna olmaqla, əmək müqaviləsinin bağlanılması, ona dəyişiklik edilməsi və ya xitam verilməsi bununla bağlı elektron informasiya sisteminə gücləndirilmiş elektron imza vasitəsi ilə daxil edilmiş əmək müqaviləsi bildirişinin həmin elektron informasiya sistemində qeydiyyata alınmasından və bu barədə işəgötürənə elektron qaydada məlumat göndərilməsindən sonra hüquqi qüvvəyə minir. [75]
 
 ---
 
-<span style="color:red">1-2. “Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq yerli investisiyalı məhdud məsuliyyətli cəmiyyətin elektron dövlət qeydiyyatına alınması üçün ərizədə qeyd olunmuş şəxslərlə ilk dəfə bağlanmış əmək müqaviləsi həmin Qanunla müəyyən olunmuş qaydada dövlət qeydiyyatı haqqında şəhadətnamə, dövlət reyestrindən çıxarış və nizamnamə cəmiyyətin elektron kabinetinə göndərildiyi andan hüquqi qüvvəyə minir. [76]</span>
+1-2. “Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq yerli investisiyalı məhdud məsuliyyətli cəmiyyətin elektron dövlət qeydiyyatına alınması üçün ərizədə qeyd olunmuş şəxslərlə ilk dəfə bağlanmış əmək müqaviləsi həmin Qanunla müəyyən olunmuş qaydada dövlət qeydiyyatı haqqında şəhadətnamə, dövlət reyestrindən çıxarış və nizamnamə cəmiyyətin elektron kabinetinə göndərildiyi andan hüquqi qüvvəyə minir. [76]
 
 ---
 
-<span style="color:red">2. Elektron informasiya sisteminə gücləndirilmiş elektron imza vasitəsi ilə daxil edilmiş əmək müqaviləsi bildirişinin qeydiyyata alınması barədə 1 iş günündən gec olmayaraq sistem vasitəsilə işəgötürənə elektron qaydada məlumat göndərilir.</span>
+2. Elektron informasiya sisteminə gücləndirilmiş elektron imza vasitəsi ilə daxil edilmiş əmək müqaviləsi bildirişinin qeydiyyata alınması barədə 1 iş günündən gec olmayaraq sistem vasitəsilə işəgötürənə elektron qaydada məlumat göndərilir.
 
 ---
 
-<span style="color:red">2-2. Bu Maddənin 1-2-ci hissəsi ilə müəyyən olunmuş hallarda elektron informasiya sisteminə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən daxil edilmiş əmək müqaviləsi bildirişinin qeydiyyata alınması barədə 1 iş günündən gec olmayaraq sistem vasitəsilə işəgötürənə və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) elektron qaydada məlumat göndərilir. [77]</span>
+2-2. Bu Maddənin 1-2-ci hissəsi ilə müəyyən olunmuş hallarda elektron informasiya sisteminə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən daxil edilmiş əmək müqaviləsi bildirişinin qeydiyyata alınması barədə 1 iş günündən gec olmayaraq sistem vasitəsilə işəgötürənə və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) elektron qaydada məlumat göndərilir. [77]
 
 ---
 
-<span style="color:red">3. Siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş dövlət orqanlarında müvafiq vəzifələrə (peşələrə) qəbul edilən (götürülən) işçilərlə işəgötürənlər arasında bağlanılmış əmək müqaviləsində başqa hal nəzərdə tutulmayıbsa, o, tərəflərin imzaladığı gündən hüquqi qüvvəyə minir. Həmin əmək müqaviləsinin hər hansı dövlət orqanında və ya digər qurumlarda qeydiyyata alınması, təsdiq edilməsi yolverilməzdir.</span>
+3. Siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş dövlət orqanlarında müvafiq vəzifələrə (peşələrə) qəbul edilən (götürülən) işçilərlə işəgötürənlər arasında bağlanılmış əmək müqaviləsində başqa hal nəzərdə tutulmayıbsa, o, tərəflərin imzaladığı gündən hüquqi qüvvəyə minir. Həmin əmək müqaviləsinin hər hansı dövlət orqanında və ya digər qurumlarda qeydiyyata alınması, təsdiq edilməsi yolverilməzdir.
 
 ---
 
-<span style="color:red">4. Əmək müqaviləsi bildirişinin forması və onun elektron informasiya sisteminə gücləndirilmiş elektron imza vasitəsi ilə daxil edilməsi qaydaları, əmək müqaviləsi bildirişinin qeydiyyata alınması ilə bağlı işəgötürənə və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) göndərilən məlumat forması, habelə qeydiyyata alınmış əmək müqaviləsi bildirişinin məlumatlarını real vaxt rejimində əldə etməklə bağlı qaydalar müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir. [78]</span>
+4. Əmək müqaviləsi bildirişinin forması və onun elektron informasiya sisteminə gücləndirilmiş elektron imza vasitəsi ilə daxil edilməsi qaydaları, əmək müqaviləsi bildirişinin qeydiyyata alınması ilə bağlı işəgötürənə və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) göndərilən məlumat forması, habelə qeydiyyata alınmış əmək müqaviləsi bildirişinin məlumatlarını real vaxt rejimində əldə etməklə bağlı qaydalar müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir. [78]
 
 ---
 
-<span style="color:red">5. Bu Məcəllənin 74-cü Maddəsinin 1-1-ci hissəsində nəzərdə tutulan hallarda elektron informasiya sistemində q üvvədə olan əmək m üqaviləsi bildirişi əmək qanunvericiliyinə əməl olunmas ına dövlət nəzarətini həyata keçirən orqanın qərarı ilə qüvvədən düşmüş hesab edilir. [79]</span>
+5. Bu Məcəllənin 74-cü Maddəsinin 1-1-ci hissəsində nəzərdə tutulan hallarda elektron informasiya sistemində q üvvədə olan əmək m üqaviləsi bildirişi əmək qanunvericiliyinə əməl olunmas ına dövlət nəzarətini həyata keçirən orqanın qərarı ilə qüvvədən düşmüş hesab edilir. [79]
 
 ---
 
-### <span style="color:red">Maddə 50. Müsabiqə yolu ilə vəzifələrin tutulması zamanı əmək münasibətlərinin tənzimlənməsi</span>
+### Maddə 50. Müsabiqə yolu ilə vəzifələrin tutulması zamanı əmək münasibətlərinin tənzimlənməsi
 
 ---
 
-<span style="color:red">1. Yerinə yetiriləsi işin, əmək funksiyasının xarakteri ilə əlaqədar olaraq bəzi vəzifələri tutmaq üçün işəgötürən müəyyən olunmuş qaydada müsabiqə elan edə bilər.</span>
+1. Yerinə yetiriləsi işin, əmək funksiyasının xarakteri ilə əlaqədar olaraq bəzi vəzifələri tutmaq üçün işəgötürən müəyyən olunmuş qaydada müsabiqə elan edə bilər.
 
 ---
 
-<span style="color:red">2. Müəyyən vəzifələrin müsabiqə yolu ilə tutulması elmi müəssisə və təşkilatlar və təhsil müəssisələrində elmi, elmi-pedaqoji fəaliyyətlə bağlı vəzifələr üzrə elan edilir. İşçilərin elan olunmuş müsabiqədə bərabərhüquqlu iştirakı təmin edilməlidir. Qanunvericilikdə nəzərdə tutulmuş hallar istisna olmaqla, yalnız bir cinsin nümayəndəsi üçün müsabiqənin elan edilməsinə yol verilmir. [80]</span>
+2. Müəyyən vəzifələrin müsabiqə yolu ilə tutulması elmi müəssisə və təşkilatlar və təhsil müəssisələrində elmi, elmi-pedaqoji fəaliyyətlə bağlı vəzifələr üzrə elan edilir. İşçilərin elan olunmuş müsabiqədə bərabərhüquqlu iştirakı təmin edilməlidir. Qanunvericilikdə nəzərdə tutulmuş hallar istisna olmaqla, yalnız bir cinsin nümayəndəsi üçün müsabiqənin elan edilməsinə yol verilmir. [80]
 
 ---
 
-<span style="color:red">3. Müsabiqə işçinin (müvafiq vəzifəni tutmaq iddiasında olan şəxsin) sənədləri, elmi işləri, kadr-uçot məlumatları üzrə və ya müsahibə, test üsulu ilə və yaxud bu üsulların hər ikisindən istifadə olunmaqla qarışıq üsulla keçirilə bilər.</span>
+3. Müsabiqə işçinin (müvafiq vəzifəni tutmaq iddiasında olan şəxsin) sənədləri, elmi işləri, kadr-uçot məlumatları üzrə və ya müsahibə, test üsulu ilə və yaxud bu üsulların hər ikisindən istifadə olunmaqla qarışıq üsulla keçirilə bilər.
 
 ---
 
-<span style="color:red">4. Müsabiqənin keçirilməsi şərtlərini və vəzifələrin müsabiqə yolu ilə tutulması qaydasını tənzimləyən normativ hüquqi aktı müvafiq icra hakimiyyəti orqanı qəbul edir.</span>
+4. Müsabiqənin keçirilməsi şərtlərini və vəzifələrin müsabiqə yolu ilə tutulması qaydasını tənzimləyən normativ hüquqi aktı müvafiq icra hakimiyyəti orqanı qəbul edir.
 
 ---
 
-<span style="color:red">5. Müvafiq vəzifəni tutmaq üçün elan olunmuş müsabiqənin qalibi ilə işəgötürən müəyyən edilmiş qaydada müddətli və ya müddətsiz əmək müqaviləsi bağlayır. [81]</span>
+5. Müvafiq vəzifəni tutmaq üçün elan olunmuş müsabiqənin qalibi ilə işəgötürən müəyyən edilmiş qaydada müddətli və ya müddətsiz əmək müqaviləsi bağlayır. [81]
 
 ---
 
-<span style="color:red">6. Müsabiqə yolu ilə vəzifəni tutmuş işçinin əmək müqaviləsinə xitam verilməsi, habelə onların digər əmək münasibətləri heç bir istisnaya yol verilmədən yalnız bu Məcəllə ilə müəyyən edilmiş əsaslarla və qaydada tənzim edilir.</span>
+6. Müsabiqə yolu ilə vəzifəni tutmuş işçinin əmək müqaviləsinə xitam verilməsi, habelə onların digər əmək münasibətləri heç bir istisnaya yol verilmədən yalnız bu Məcəllə ilə müəyyən edilmiş əsaslarla və qaydada tənzim edilir.
 
 ---
 
-<span style="color:red">7. Keçirilmiş müsabiqənin nəticələri ilə razılaşmayan iddiaçı müsabiqə komissiyasının qərarı qəbul edildiyi gündən bir ay müddətində məhkəməyə müraciət edə bilər. Məhkəmə, müsabiqənin qanunvericiliyin tələblərini pozmaqla və ya qeyri-obyektiv keçirildiyini müəyyən etdikdə onun nəticələrini ləğv edir. Bu halda qətnamədə göstərilən hallar aradan qaldırılmaq şərti ilə müsabiqə yenidən keçirilir.</span>
+7. Keçirilmiş müsabiqənin nəticələri ilə razılaşmayan iddiaçı müsabiqə komissiyasının qərarı qəbul edildiyi gündən bir ay müddətində məhkəməyə müraciət edə bilər. Məhkəmə, müsabiqənin qanunvericiliyin tələblərini pozmaqla və ya qeyri-obyektiv keçirildiyini müəyyən etdikdə onun nəticələrini ləğv edir. Bu halda qətnamədə göstərilən hallar aradan qaldırılmaq şərti ilə müsabiqə yenidən keçirilir.
 
 ---
 
@@ -1583,15 +1583,15 @@ g) bu Məcəllənin 46-cı Maddəsinin ikinci hissəsində nəzərdə tutulmuş 
 
 ---
 
-### <span style="color:red">Maddə 54. Əmək şəraitinin təmin edilməsi</span>
+### Maddə 54. Əmək şəraitinin təmin edilməsi
 
 ---
 
-<span style="color:red">1. İşçilər tərəfindən əmək funksiyasının yerinə yetirilməsi üçün işəgötürən aşağıdakı əmək şəraitini təmin etməlidir: peşə (vəzifə) adlarının, ixtisasların, əməyin ödənilməsi dərəcələrinin müəyyən edilməsi; əməyə görə haqqın miqdarının müəyyən edilməsi və onun ödənilməsi; əmək normaları və əməyin qiymətləndirilməsi normalarının müəyyən edilməsi; sanitariya və gigiyena normalarına, əlilliyi olan şəxslərə münasibətdə isə həmçinin “Əlilliyi olan şəxslərin hüquqları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq müəyyən edilən iş yerlərinin standartlarına cavab verən iş yerinin və iş şəraitinin yaradılması; [84] əməyin mühafizəsi, texniki təhlükəsizlik normalarının gözlənilməsi; əmək funksiyasının bu Məcəllə ilə müəyyən edilmiş iş vaxtı müddətindən artıq olmayan iş vaxtında yerinə yetirilməsini; bu Məcəllə ilə müəyyən edilmiş istirahət vaxtından, məzuniyyətlərdən istifadə olunmasını; işçilərin qanunla müəyyən olunmuş məcburi dövlət sosial sığorta və digər icbari sığorta edilməsini; [85] işçilərə əmək funksiyasının icrası üçün zəruri olan avadanlıqların, materialların, alətlərin, texniki və digər sənədlərin vaxtında verilməsi və onların lazımi keyfiyyətdə olması; insanın immunçatışmazlığı virusu ilə yaşayan işçi ilə məsləhətləşmə aparmaqla onun üçün münasib iş şəraitinin (xüsusi avadanlıqlarla təminat, istirahət fasilələri üçün imkanlar və tibbi müayinələr üçün icazələrin verilməsi və s. ) yaradılması; [86] əmək müqavilələrində, kollektiv müqavilələrdə nəzərdə tutulan şərtləri. [87]</span>
+1. İşçilər tərəfindən əmək funksiyasının yerinə yetirilməsi üçün işəgötürən aşağıdakı əmək şəraitini təmin etməlidir: peşə (vəzifə) adlarının, ixtisasların, əməyin ödənilməsi dərəcələrinin müəyyən edilməsi; əməyə görə haqqın miqdarının müəyyən edilməsi və onun ödənilməsi; əmək normaları və əməyin qiymətləndirilməsi normalarının müəyyən edilməsi; sanitariya və gigiyena normalarına, əlilliyi olan şəxslərə münasibətdə isə həmçinin “Əlilliyi olan şəxslərin hüquqları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq müəyyən edilən iş yerlərinin standartlarına cavab verən iş yerinin və iş şəraitinin yaradılması; [84] əməyin mühafizəsi, texniki təhlükəsizlik normalarının gözlənilməsi; əmək funksiyasının bu Məcəllə ilə müəyyən edilmiş iş vaxtı müddətindən artıq olmayan iş vaxtında yerinə yetirilməsini; bu Məcəllə ilə müəyyən edilmiş istirahət vaxtından, məzuniyyətlərdən istifadə olunmasını; işçilərin qanunla müəyyən olunmuş məcburi dövlət sosial sığorta və digər icbari sığorta edilməsini; [85] işçilərə əmək funksiyasının icrası üçün zəruri olan avadanlıqların, materialların, alətlərin, texniki və digər sənədlərin vaxtında verilməsi və onların lazımi keyfiyyətdə olması; insanın immunçatışmazlığı virusu ilə yaşayan işçi ilə məsləhətləşmə aparmaqla onun üçün münasib iş şəraitinin (xüsusi avadanlıqlarla təminat, istirahət fasilələri üçün imkanlar və tibbi müayinələr üçün icazələrin verilməsi və s. ) yaradılması; [86] əmək müqavilələrində, kollektiv müqavilələrdə nəzərdə tutulan şərtləri. [87]
 
 ---
 
-<span style="color:red">2. Bu Məcəllə ilə müəyyən olunmuş hallar istisna edilməklə əmək şəraitinin şərtləri birtərəfli qaydada dəyişdirilə bilməz.</span>
+2. Bu Məcəllə ilə müəyyən olunmuş hallar istisna edilməklə əmək şəraitinin şərtləri birtərəfli qaydada dəyişdirilə bilməz.
 
 ---
 
@@ -1683,23 +1683,23 @@ g) bu Məcəllənin 46-cı Maddəsinin ikinci hissəsində nəzərdə tutulmuş 
 
 ---
 
-### <span style="color:red">Maddə 61. Başqa işçinin əmək funksiyasının icrası</span>
+### Maddə 61. Başqa işçinin əmək funksiyasının icrası
 
 ---
 
-<span style="color:red">1. Müəyyən səbəbdən iş yerində olmayan işçinin əmək funksiyasının icrasına tərəflərin razılığı ilə yol verilir. Bu zaman əmək haqqı bu Məcəllənin 162-ci Maddəsində nəzərdə tutulan qaydada ödənilir. [92]</span>
+1. Müəyyən səbəbdən iş yerində olmayan işçinin əmək funksiyasının icrasına tərəflərin razılığı ilə yol verilir. Bu zaman əmək haqqı bu Məcəllənin 162-ci Maddəsində nəzərdə tutulan qaydada ödənilir. [92]
 
 ---
 
-<span style="color:red">2. Boş vəzifə üzrə əmək funksiyasının icrasının həvalə edilməsinə işçinin razılığı ilə yol verilir. Əgər işçi eyni zamanda həm özünün, həm də əvəz etdiyi boş vəzifə üzrə əmək funksiyasını yerinə yetirirsə, onda ona boş vəzifə üçün nəzərdə tutulmuş əmək haqqının (vəzifə maaşının) yarısından az olmamaq şərti ilə əlavə əmək haqqı ödənilməlidir.</span>
+2. Boş vəzifə üzrə əmək funksiyasının icrasının həvalə edilməsinə işçinin razılığı ilə yol verilir. Əgər işçi eyni zamanda həm özünün, həm də əvəz etdiyi boş vəzifə üzrə əmək funksiyasını yerinə yetirirsə, onda ona boş vəzifə üçün nəzərdə tutulmuş əmək haqqının (vəzifə maaşının) yarısından az olmamaq şərti ilə əlavə əmək haqqı ödənilməlidir.
 
 ---
 
-<span style="color:red">3. Boş vəzifə üzrə işçiyə üç aydan çox olmayan müddətə əmək funksiyasının yerinə yetirilməsi həvalə edilə bilər. Bu müddət bitdikdən sonra ya əvəzedici işçi onun razılığı ilə həmin vəzifəyə keçirilir, ya hər iki vəzifə birləşdirilərək əvəzedici işçinin əmək funksiyasının genişləndirilməsi ilə əlaqədar yeni əmək müqaviləsi bağlanılır, ya da boş vəzifəyə yeni işçi götürülür.</span>
+3. Boş vəzifə üzrə işçiyə üç aydan çox olmayan müddətə əmək funksiyasının yerinə yetirilməsi həvalə edilə bilər. Bu müddət bitdikdən sonra ya əvəzedici işçi onun razılığı ilə həmin vəzifəyə keçirilir, ya hər iki vəzifə birləşdirilərək əvəzedici işçinin əmək funksiyasının genişləndirilməsi ilə əlaqədar yeni əmək müqaviləsi bağlanılır, ya da boş vəzifəyə yeni işçi götürülür.
 
 ---
 
-<span style="color:red">4. Əgər boş vəzifə üzrə əmək funksiyası boş olmayan vəzifə üzrə əmək funksiyası ilə eyni xarakterlidirsə, həmin boş olmayan vəzifəni tutan işçi onun razılığı ilə öz vəzifəsində qalmaqla həmçinin belə boş vəzifəyə təyin edilə bilər. Bu zaman işçiyə boş vəzifə üzrə nəzərdə tutulmuş əməkhaqqının (vəzifə maaşının) yarısından az olmamaq şərtilə əlavə əməkhaqqı ödənilir. [93]</span>
+4. Əgər boş vəzifə üzrə əmək funksiyası boş olmayan vəzifə üzrə əmək funksiyası ilə eyni xarakterlidirsə, həmin boş olmayan vəzifəni tutan işçi onun razılığı ilə öz vəzifəsində qalmaqla həmçinin belə boş vəzifəyə təyin edilə bilər. Bu zaman işçiyə boş vəzifə üzrə nəzərdə tutulmuş əməkhaqqının (vəzifə maaşının) yarısından az olmamaq şərtilə əlavə əməkhaqqı ödənilir. [93]
 
 ---
 
@@ -1759,19 +1759,19 @@ c) iş vaxtı ərzində işçi bilavasitə iş yerində müvafiq səlahiyyətli 
 
 ---
 
-### <span style="color:red">Maddə 64. İş yerlərinin attestasiyası, onun məqsədi və keçirilməsinin tənzimlənməsi</span>
+### Maddə 64. İş yerlərinin attestasiyası, onun məqsədi və keçirilməsinin tənzimlənməsi
 
 ---
 
-<span style="color:red">1. Bu Maddənin ikinci hissəsində nəzərdə tutulan məqsədlə əmək şəraitindən asılı olmayaraq işəgötürən müvafiq normativ hüquqi aktla müəyyən edilmiş qaydada iş yerlərinin attestasiyasının keçirilməsini və attestasiyanın aparılması nəticələrinə dair sənədlərin surətinin 10 iş günü müddətində məlumat üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim olunmasını təmin etməlidir. [98]</span>
+1. Bu Maddənin ikinci hissəsində nəzərdə tutulan məqsədlə əmək şəraitindən asılı olmayaraq işəgötürən müvafiq normativ hüquqi aktla müəyyən edilmiş qaydada iş yerlərinin attestasiyasının keçirilməsini və attestasiyanın aparılması nəticələrinə dair sənədlərin surətinin 10 iş günü müddətində məlumat üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim olunmasını təmin etməlidir. [98]
 
 ---
 
-<span style="color:red">2. İşəgötürən müvafiq iş yerlərində əməyin mühafizəsi tədbirlərinin təmin olunmasını və ya istehsal sanitariyasının, gigiyenasının vəziyyətini müəyyən etmək və yaxşılaşdırmaq məqsədi ilə, habelə əmək məhsuldarlığının və işin səmərəliliyinin artırılması, əməyin təşkilində ən mütərəqqi üsulların, o cümlədən yeni texnikanın və ya texnologiyanın tətbiqi zamanı iş yerlərinin attestasiyasını keçirməlidir. Bu məqsədlə həmkarlar ittifaqları təşkilatının nümayəndələrindən, əməyin mühafizəsi xidmətlərinin və əməyin təşkili üzrə peşəkar mütəxəssislərdən ibarət iş yerlərinin attestasiyası komissiyası yaradılır.</span>
+2. İşəgötürən müvafiq iş yerlərində əməyin mühafizəsi tədbirlərinin təmin olunmasını və ya istehsal sanitariyasının, gigiyenasının vəziyyətini müəyyən etmək və yaxşılaşdırmaq məqsədi ilə, habelə əmək məhsuldarlığının və işin səmərəliliyinin artırılması, əməyin təşkilində ən mütərəqqi üsulların, o cümlədən yeni texnikanın və ya texnologiyanın tətbiqi zamanı iş yerlərinin attestasiyasını keçirməlidir. Bu məqsədlə həmkarlar ittifaqları təşkilatının nümayəndələrindən, əməyin mühafizəsi xidmətlərinin və əməyin təşkili üzrə peşəkar mütəxəssislərdən ibarət iş yerlərinin attestasiyası komissiyası yaradılır.
 
 ---
 
-<span style="color:red">3. İş yerlərinin attestasiyasının keçirilməsi qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən qəbul edilən normativ hüquqi aktla tənzimlənir.</span>
+3. İş yerlərinin attestasiyasının keçirilməsi qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən qəbul edilən normativ hüquqi aktla tənzimlənir.
 
 ---
 
@@ -1819,35 +1819,35 @@ c) iş vaxtı ərzində işçi bilavasitə iş yerində müvafiq səlahiyyətli 
 
 ---
 
-### <span style="color:red">Maddə 67. İşçilərin və iş yerlərinin attestasiyasının nəticələrinin tənzimlənməsi</span>
+### Maddə 67. İşçilərin və iş yerlərinin attestasiyasının nəticələrinin tənzimlənməsi
 
 ---
 
-<span style="color:red">1. Attestasiya komissiyası tərəfindən barəsində tutduğu vəzifəyə uyğun olmadığı haqqında qərar çıxarılmış işçinin əmək müqaviləsi bu Məcəllənin 70-ci Maddəsinin «c» bəndinə müvafiq olaraq, 71-ci Maddəsində nəzərdə tutulan qaydalara əməl edilməklə işəgötürən tərəfindən ləğv edilə bilər.</span>
+1. Attestasiya komissiyası tərəfindən barəsində tutduğu vəzifəyə uyğun olmadığı haqqında qərar çıxarılmış işçinin əmək müqaviləsi bu Məcəllənin 70-ci Maddəsinin «c» bəndinə müvafiq olaraq, 71-ci Maddəsində nəzərdə tutulan qaydalara əməl edilməklə işəgötürən tərəfindən ləğv edilə bilər.
 
 ---
 
-<span style="color:red">2. İşəgötürən attestasiya komissiyasının tövsiyyəsini nəzərə alaraq işçinin peşə hazırlığının yüksəldilməsi, yeni ixtisasa yiyələnməsi və ixtisasının artırılması üçün onu təlimlərə cəlb edə və yaxud işçinin razılığı ilə onu başqa müvafiq vəzifəyə (peşəyə) keçirə bilər. [107]</span>
+2. İşəgötürən attestasiya komissiyasının tövsiyyəsini nəzərə alaraq işçinin peşə hazırlığının yüksəldilməsi, yeni ixtisasa yiyələnməsi və ixtisasının artırılması üçün onu təlimlərə cəlb edə və yaxud işçinin razılığı ilə onu başqa müvafiq vəzifəyə (peşəyə) keçirə bilər. [107]
 
 ---
 
-<span style="color:red">3. İş yerlərinin attestasiyasının keçirilməsi nəticəsində onların kütləvi şəkildə ixtisar edilməsi yolverilməzdir.</span>
+3. İş yerlərinin attestasiyasının keçirilməsi nəticəsində onların kütləvi şəkildə ixtisar edilməsi yolverilməzdir.
 
 ---
 
-<span style="color:red">4. İş yerinin attestasiyasının keçirilməsinin nəticələrinə əsaslanaraq işəgötürən tərəfindən işçilərin əmək müqavilələri ləğv edilə bilməz.</span>
+4. İş yerinin attestasiyasının keçirilməsinin nəticələrinə əsaslanaraq işəgötürən tərəfindən işçilərin əmək müqavilələri ləğv edilə bilməz.
 
 ---
 
-<span style="color:red">5. İşçilərin və iş yerlərinin attestasiya komissiyalarının qərarlarını qanunsuz, əsassız, qərəzli və qeyri- obyektiv hesab edən şəxslər məhkəməyə müraciət edə bilər.</span>
+5. İşçilərin və iş yerlərinin attestasiya komissiyalarının qərarlarını qanunsuz, əsassız, qərəzli və qeyri- obyektiv hesab edən şəxslər məhkəməyə müraciət edə bilər.
 
 ---
 
-<span style="color:red">6. Attestasiya komissiyasının qərarı ilə tutduğu vəzifəyə (peşəyə) uyğun olmadığına görə işəgötürən tərəfindən əmək müqaviləsi ləğv edilən və ya başqa vəzifəyə (peşəyə) keçirilən işçinin iddiası əsasında fərdi əmək mübahisəsinə bu Məcəllə ilə müəyyən edilmiş qaydada yalnız məhkəmələrdə baxılır.</span>
+6. Attestasiya komissiyasının qərarı ilə tutduğu vəzifəyə (peşəyə) uyğun olmadığına görə işəgötürən tərəfindən əmək müqaviləsi ləğv edilən və ya başqa vəzifəyə (peşəyə) keçirilən işçinin iddiası əsasında fərdi əmək mübahisəsinə bu Məcəllə ilə müəyyən edilmiş qaydada yalnız məhkəmələrdə baxılır.
 
 ---
 
-### <span style="color:red">Maddə 67-1. Azərbaycan Respublikasında praktik tibb və ya əczaçılıq fəaliyyəti ilə məşğul olan işçilərin sertifikasiyası</span>
+### Maddə 67-1. Azərbaycan Respublikasında praktik tibb və ya əczaçılıq fəaliyyəti ilə məşğul olan işçilərin sertifikasiyası
 
 ---
 
@@ -1967,47 +1967,47 @@ e) tərəflərin əmək müqaviləsində müəyyən etdiyi hallar.
 
 ---
 
-### <span style="color:red">Maddə 70. İşəgötürən tərəfindən əmək müqaviləsinin ləğv edilməsinin əsasları Əmək müqaviləsi işəgötürən tərəfindən aşağıdakı əsaslarla ləğv edilə bilər:</span>
+### Maddə 70. İşəgötürən tərəfindən əmək müqaviləsinin ləğv edilməsinin əsasları Əmək müqaviləsi işəgötürən tərəfindən aşağıdakı əsaslarla ləğv edilə bilər:
 
 ---
 
-<span style="color:red">a) müəssisə ləğv edildikdə;</span>
+a) müəssisə ləğv edildikdə;
 
 ---
 
-<span style="color:red">b) işçilərin sayı və ya ştatları ixtisar edildikdə;</span>
+b) işçilərin sayı və ya ştatları ixtisar edildikdə;
 
 ---
 
-<span style="color:red">c) peşəkarlıq səviyyəsinin, ixtisasının (peşəsinin) kifayət dərəcədə olmadığına görə işçinin tutduğu vəzifəyə uyğun gəlmədiyi barədə səlahiyyətli orqan tərəfindən müvafiq qərar qəbul edildikdə;</span>
+c) peşəkarlıq səviyyəsinin, ixtisasının (peşəsinin) kifayət dərəcədə olmadığına görə işçinin tutduğu vəzifəyə uyğun gəlmədiyi barədə səlahiyyətli orqan tərəfindən müvafiq qərar qəbul edildikdə;
 
 ---
 
-<span style="color:red">ç) işçi özünün əmək funksiyasını və ya əmək müqaviləsi üzrə öhdəliklərini yerinə yetirmədikdə, yaxud bu Məcəllənin 72-ci Maddəsində sadalanan hallarda əmək vəzifələrini kobud şəkildə pozduqda;</span>
+ç) işçi özünün əmək funksiyasını və ya əmək müqaviləsi üzrə öhdəliklərini yerinə yetirmədikdə, yaxud bu Məcəllənin 72-ci Maddəsində sadalanan hallarda əmək vəzifələrini kobud şəkildə pozduqda;
 
 ---
 
-<span style="color:red">d) sınaq müddəti ərzində işçi özünü doğrultmadıqda; [117]</span>
+d) sınaq müddəti ərzində işçi özünü doğrultmadıqda; [117]
 
 ---
 
-<span style="color:red">e) dövlət büdcəsindən maliyyələşən müəssisənin işçisi çalışmanın yaş həddinə çatdıqda. [118] Qeyd: Bu Maddənin «c» bəndində «səlahiyyətli orqan» dedikdə, işçilərin ixtisasına, peşə dərəcəsinə, təcrübəsinə, peşəkarlıq səviyyəsinə görə tutduğu vəzifəyə uyğun olduğunu müəyyən etmək məqsədi ilə yaradılan və müvafiq səlahiyyətlərə malik olan attestasiya komissiyası, Azərbaycan Respublikasında dövlət məktəbəqədər və ümumi təhsil müəssisələrində (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrində) işləyən təhsilverənlərin və praktik tibb və ya əczaçılıq fəaliyyəti ilə məşğul olan işçilərin sertifikasiyasını həyata keçirən müvafiq icra hakimiyyəti orqan başa düşülməlidir. İşçilərin attestasiyası bu Məcəllənin 65-ci Maddəsi ilə müəyyən edilmiş qaydada keçirilir. [119]</span>
+e) dövlət büdcəsindən maliyyələşən müəssisənin işçisi çalışmanın yaş həddinə çatdıqda. [118] Qeyd: Bu Maddənin «c» bəndində «səlahiyyətli orqan» dedikdə, işçilərin ixtisasına, peşə dərəcəsinə, təcrübəsinə, peşəkarlıq səviyyəsinə görə tutduğu vəzifəyə uyğun olduğunu müəyyən etmək məqsədi ilə yaradılan və müvafiq səlahiyyətlərə malik olan attestasiya komissiyası, Azərbaycan Respublikasında dövlət məktəbəqədər və ümumi təhsil müəssisələrində (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrində) işləyən təhsilverənlərin və praktik tibb və ya əczaçılıq fəaliyyəti ilə məşğul olan işçilərin sertifikasiyasını həyata keçirən müvafiq icra hakimiyyəti orqan başa düşülməlidir. İşçilərin attestasiyası bu Məcəllənin 65-ci Maddəsi ilə müəyyən edilmiş qaydada keçirilir. [119]
 
 ---
 
-### <span style="color:red">Maddə 71. Əmək müqaviləsi işəgötürən tərəfindən ləğv edilərkən görülən tədbirlər[120]</span>
+### Maddə 71. Əmək müqaviləsi işəgötürən tərəfindən ləğv edilərkən görülən tədbirlər[120]
 
 ---
 
-<span style="color:red">1. İşçilərin sayı azaldılarkən və ya ştatların ixtisarı həyata keçirilərkən, o cümlədən işçinin tutduğu vəzifəyə uyğun gəlmədiyi barədə səlahiyyətli orqan tərəfindən müvafiq qərar qəbul edilərkən işəgötürən bu Məcəllə ilə müəyyən edilmiş tədbirlər görür. [121]</span>
+1. İşçilərin sayı azaldılarkən və ya ştatların ixtisarı həyata keçirilərkən, o cümlədən işçinin tutduğu vəzifəyə uyğun gəlmədiyi barədə səlahiyyətli orqan tərəfindən müvafiq qərar qəbul edilərkən işəgötürən bu Məcəllə ilə müəyyən edilmiş tədbirlər görür. [121]
 
 ---
 
-<span style="color:red">2. Bu Məcəllənin 70-ci Maddəsinin «ç» bəndində nəzərdə tutulan əsasla əmək müqaviləsinin ləğv edilməsinə bu şərtlə yol verilir ki, işçi qəsdən və ya səhlənkarlıqla, etinasızlıqla əmək funksiyasını, vəzifə borcunu (öhdəliklərini) yerinə yetirmədiyinə görə müvafiq iş yerində işin, istehsalın, əmək və icra intizamının normal ahəngi pozulmuş olsun və ya mülkiyyətçinin, işəgötürənin, habelə əmək kollektivinin (onun ayrı-ayrı üzvlərinin) hüquqlarına və qanunla qorunan mənafelərinə hər hansı formada ziyan dəymiş olsun.</span>
+2. Bu Məcəllənin 70-ci Maddəsinin «ç» bəndində nəzərdə tutulan əsasla əmək müqaviləsinin ləğv edilməsinə bu şərtlə yol verilir ki, işçi qəsdən və ya səhlənkarlıqla, etinasızlıqla əmək funksiyasını, vəzifə borcunu (öhdəliklərini) yerinə yetirmədiyinə görə müvafiq iş yerində işin, istehsalın, əmək və icra intizamının normal ahəngi pozulmuş olsun və ya mülkiyyətçinin, işəgötürənin, habelə əmək kollektivinin (onun ayrı-ayrı üzvlərinin) hüquqlarına və qanunla qorunan mənafelərinə hər hansı formada ziyan dəymiş olsun.
 
 ---
 
-<span style="color:red">3. İşəgötürən bu Məcəllənin 70-ci Maddəsi ilə müəyyən edilmiş əsasların hər hansı biri ilə əmək müqaviləsinin ləğv edilməsinin zəruriliyini əsaslandırmalıdır.</span>
+3. İşəgötürən bu Məcəllənin 70-ci Maddəsi ilə müəyyən edilmiş əsasların hər hansı biri ilə əmək müqaviləsinin ləğv edilməsinin zəruriliyini əsaslandırmalıdır.
 
 ---
 
@@ -2059,71 +2059,71 @@ f) iş vaxtı ərzində bilavasitə iş yerində inzibati xətalara və ya cinay
 
 ---
 
-### <span style="color:red">Maddə 74. Tərəflərin iradəsindən asılı olmayan hallarda əmək müqaviləsinə xitam verilməsinin əsasları</span>
+### Maddə 74. Tərəflərin iradəsindən asılı olmayan hallarda əmək müqaviləsinə xitam verilməsinin əsasları
 
 ---
 
-<span style="color:red">1. Tərəflərin iradəsindən və ya istəyindən asılı olmayaraq əmək müqaviləsinə aşağıdakı hallarda xitam verilir:</span>
+1. Tərəflərin iradəsindən və ya istəyindən asılı olmayaraq əmək müqaviləsinə aşağıdakı hallarda xitam verilir:
 
 ---
 
-<span style="color:red">a) işçi hərbi və ya alternativ xidmətə çağırıldıqda;</span>
+a) işçi hərbi və ya alternativ xidmətə çağırıldıqda;
 
 ---
 
-<span style="color:red">b) əvvəllər müvafiq işdə (vəzifədə) çalışan işçinin işinə (vəzifəsinə) bərpa edilməsi barədə məhkəmənin qanuni qüvvəyə minmiş qətnaməsi (qərarı) olduqda.</span>
+b) əvvəllər müvafiq işdə (vəzifədə) çalışan işçinin işinə (vəzifəsinə) bərpa edilməsi barədə məhkəmənin qanuni qüvvəyə minmiş qətnaməsi (qərarı) olduqda.
 
 ---
 
-<span style="color:red">c) qanunvericiliklə daha uzun müddət müəyyən edilməyibsə, əmək qabiliyyətinin fasiləsiz olaraq altı aydan çox müddətə tam itirilməsi ilə əlaqədar işçi əmək funksiyasını yerinə yetirə bilmədikdə; ç ) İşçinin nəqliyyat vasitəsini idarəetmə hüququndan məhrum etmə, müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum etmə, müəyyən müddətə azadlıqdan məhrum etmə və ya ömürlük azadlıqdan məhrum etmə cəzasına məhkum edildiyi barədə məhkəmənin hökmü qanuni qüvvəyə mindikdə; [125]</span>
+c) qanunvericiliklə daha uzun müddət müəyyən edilməyibsə, əmək qabiliyyətinin fasiləsiz olaraq altı aydan çox müddətə tam itirilməsi ilə əlaqədar işçi əmək funksiyasını yerinə yetirə bilmədikdə; ç ) İşçinin nəqliyyat vasitəsini idarəetmə hüququndan məhrum etmə, müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum etmə, müəyyən müddətə azadlıqdan məhrum etmə və ya ömürlük azadlıqdan məhrum etmə cəzasına məhkum edildiyi barədə məhkəmənin hökmü qanuni qüvvəyə mindikdə; [125]
 
 ---
 
-<span style="color:red">d) məhkəmənin qanuni qüvvəyə minmiş qərarı ilə işçinin fəaliyyət qabiliyyətsizliyi təsdiq edildikdə;</span>
+d) məhkəmənin qanuni qüvvəyə minmiş qərarı ilə işçinin fəaliyyət qabiliyyətsizliyi təsdiq edildikdə;
 
 ---
 
-<span style="color:red">e) işçi vəfat etdikdə, məhkəmənin qanuni qüvvəyə minmiş qərarı ilə xəbərsiz itkin d üşmüş və ya ölmüş elan edildikdə[126]</span>
+e) işçi vəfat etdikdə, məhkəmənin qanuni qüvvəyə minmiş qərarı ilə xəbərsiz itkin d üşmüş və ya ölmüş elan edildikdə[126]
 
 ---
 
-<span style="color:red">ə) əvvəllər həmin müəssisədə çalışan işçi müddətli həqiqi hərbi xidmətdən ehtiyata buraxıldıqdan sonra öz iş yerinə (vəzifəsinə) qayıtmaq hüququndan istifadə etdikdə; [127]</span>
+ə) əvvəllər həmin müəssisədə çalışan işçi müddətli həqiqi hərbi xidmətdən ehtiyata buraxıldıqdan sonra öz iş yerinə (vəzifəsinə) qayıtmaq hüququndan istifadə etdikdə; [127]
 
 ---
 
-<span style="color:red">f) qanunla pedaqoji fəaliyyətlə məşğul olması qadağan edilmiş şəxslə pedaqoji fəaliyyətlə məşğul olmaq üçün əmək müqaviləsinin bağlandığı aşkar edildikdə. [128]</span>
+f) qanunla pedaqoji fəaliyyətlə məşğul olması qadağan edilmiş şəxslə pedaqoji fəaliyyətlə məşğul olmaq üçün əmək müqaviləsinin bağlandığı aşkar edildikdə. [128]
 
 ---
 
-<span style="color:red">1-1. Aşağıdakı hallar fiziki şəxs olan işəgötürənlə bağlanmış əmək müqaviləsinə işçinin əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqana müraciəti əsasında xitam verilmiş hesab edilməsi üçün əsasdır: [129]</span>
+1-1. Aşağıdakı hallar fiziki şəxs olan işəgötürənlə bağlanmış əmək müqaviləsinə işçinin əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqana müraciəti əsasında xitam verilmiş hesab edilməsi üçün əsasdır: [129]
 
 ---
 
-<span style="color:red">1-1. 1. fiziki şəxs olan işəgötürən vəfat etdikdə, məhkəmənin qanuni qüvvəyə minmiş qərarı əsasında xəbərsiz itkin düşmüş və ya ölmüş elan edildikdə;</span>
+1-1. 1. fiziki şəxs olan işəgötürən vəfat etdikdə, məhkəmənin qanuni qüvvəyə minmiş qərarı əsasında xəbərsiz itkin düşmüş və ya ölmüş elan edildikdə;
 
 ---
 
-<span style="color:red">1-1. 2. fiziki şəxs olan işəgötürən barəsində məhkəmə tərəfindən həbs qətimkan tədbiri seçildikdə, yaxud o, məhkəmənin qanuni qüvvəyə minmiş qərarı ilə azadlıqdan məhrum edildikdə;</span>
+1-1. 2. fiziki şəxs olan işəgötürən barəsində məhkəmə tərəfindən həbs qətimkan tədbiri seçildikdə, yaxud o, məhkəmənin qanuni qüvvəyə minmiş qərarı ilə azadlıqdan məhrum edildikdə;
 
 ---
 
-<span style="color:red">1-1. 3. fiziki şəxs olan işəgötürən məhkəmənin qanuni qüvvəyə minmiş qərarı əsasında fəaliyyət qabiliyyəti olmayan və ya məhdud fəaliyyət qabiliyyətli şəxs hesab edildikdə;</span>
+1-1. 3. fiziki şəxs olan işəgötürən məhkəmənin qanuni qüvvəyə minmiş qərarı əsasında fəaliyyət qabiliyyəti olmayan və ya məhdud fəaliyyət qabiliyyətli şəxs hesab edildikdə;
 
 ---
 
-<span style="color:red">1-1. 4. Azərbaycan Respublikasının Mülki Prosessual və Azərbaycan Respublikasının Cinayət Prosessual məcəllələrinə uyğun olaraq fiziki şəxs olan işəgötürənin axtarışı elan olunduqda;</span>
+1-1. 4. Azərbaycan Respublikasının Mülki Prosessual və Azərbaycan Respublikasının Cinayət Prosessual məcəllələrinə uyğun olaraq fiziki şəxs olan işəgötürənin axtarışı elan olunduqda;
 
 ---
 
-<span style="color:red">1-1. 5. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə uyğun olaraq əcnəbi və vətəndaşlığı olmayan işəgötürən barəsində Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxarma tətbiq edildikdə.</span>
+1-1. 5. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə uyğun olaraq əcnəbi və vətəndaşlığı olmayan işəgötürən barəsində Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxarma tətbiq edildikdə.
 
 ---
 
-<span style="color:red">1-2. Bu Məcəllənin 74-cü Maddəsinin 1-1-ci hissəsinə uyğun olaraq, əmək müqaviləsinə xitam verilmiş hesab edilməsi əmək münasibətlərinin iştirakçılarını, habelə vəfat etmiş fiziki şəxs olan işəgötürənin vərəsələrini (miras payı həddində) əmək qanunvericiliyi ilə müəyyən edilmiş öhdəliklərin icrasından azad etmir.</span>
+1-2. Bu Məcəllənin 74-cü Maddəsinin 1-1-ci hissəsinə uyğun olaraq, əmək müqaviləsinə xitam verilmiş hesab edilməsi əmək münasibətlərinin iştirakçılarını, habelə vəfat etmiş fiziki şəxs olan işəgötürənin vərəsələrini (miras payı həddində) əmək qanunvericiliyi ilə müəyyən edilmiş öhdəliklərin icrasından azad etmir.
 
 ---
 
-<span style="color:red">2. Əgər qanunsuz və ya əsassız işdən çıxarılmış işçi işinə bərpa olunması üçün məhkəməyə iddia ərizəsi ilə müraciət edərsə və məhkəmə tərəfindən iddiası təmin olunaraq işinə (vəzifəsinə) bərpa edilməsi haqqında qətnamə (qərar) qəbul edilərsə, onda işəgötürən tərəfindən məhkəmənin qanuni qüvvəyə minmiş qətnaməsi (qərarı) dərhal icra edilərək o, əvvəlki vəzifəsinə və ya razılığı ilə başqa vəzifəyə (işə) bərpa olunmalıdır. Bu zaman işə bərpa edilən işçinin yerinə götürülmüş işçi ilə bağlanmış əmək müqaviləsinə bu Məcəllənin 71-ci Maddəsinin 1-ci hissəsində nəzərdə tutulmuş müvafiq araşdırmalar aparılmaqla xitam verilə bilər. [130] Qeyd: Əmək qabiliyyətinin tam itirilməsi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəyi ilə müəyyən edilir. Əmək qabiliyyətinin tam itirilməsi dedikdə, icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) qərarı ilə işçiyə onun orqanizminin funksiyalarının pozulması faizinə uyğun əlillik müəyyən edilməklə ən azı bir il müddətinə əmək qabiliyyətsiz hesab edilməsi başa düşülməlidir. Əmək qabiliyyətinin 6 aydan az müddətə müvəqqəti itirilməsi əmək müqaviləsinə xitam verilməsi üçün əsas ola bilməz. Əmək qabiliyyətini müvəqqəti itirmiş işçilərin iş yeri və vəzifəsi saxlanılmaqla onlara ilk 14 gün üçün müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş qaydada və miqdarda işəgötürənin vəsaiti, qalan günlər üçün isə məcburi dövlət sosial sığorta haqları hesabına müavinət ödənilir. Əmək qabiliyyətini bir ildən çox olmayan müddətə qismən itirmiş işçilər üçün isə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəyi nəzərə alınır. [131]</span>
+2. Əgər qanunsuz və ya əsassız işdən çıxarılmış işçi işinə bərpa olunması üçün məhkəməyə iddia ərizəsi ilə müraciət edərsə və məhkəmə tərəfindən iddiası təmin olunaraq işinə (vəzifəsinə) bərpa edilməsi haqqında qətnamə (qərar) qəbul edilərsə, onda işəgötürən tərəfindən məhkəmənin qanuni qüvvəyə minmiş qətnaməsi (qərarı) dərhal icra edilərək o, əvvəlki vəzifəsinə və ya razılığı ilə başqa vəzifəyə (işə) bərpa olunmalıdır. Bu zaman işə bərpa edilən işçinin yerinə götürülmüş işçi ilə bağlanmış əmək müqaviləsinə bu Məcəllənin 71-ci Maddəsinin 1-ci hissəsində nəzərdə tutulmuş müvafiq araşdırmalar aparılmaqla xitam verilə bilər. [130] Qeyd: Əmək qabiliyyətinin tam itirilməsi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəyi ilə müəyyən edilir. Əmək qabiliyyətinin tam itirilməsi dedikdə, icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) qərarı ilə işçiyə onun orqanizminin funksiyalarının pozulması faizinə uyğun əlillik müəyyən edilməklə ən azı bir il müddətinə əmək qabiliyyətsiz hesab edilməsi başa düşülməlidir. Əmək qabiliyyətinin 6 aydan az müddətə müvəqqəti itirilməsi əmək müqaviləsinə xitam verilməsi üçün əsas ola bilməz. Əmək qabiliyyətini müvəqqəti itirmiş işçilərin iş yeri və vəzifəsi saxlanılmaqla onlara ilk 14 gün üçün müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş qaydada və miqdarda işəgötürənin vəsaiti, qalan günlər üçün isə məcburi dövlət sosial sığorta haqları hesabına müavinət ödənilir. Əmək qabiliyyətini bir ildən çox olmayan müddətə qismən itirmiş işçilər üçün isə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəyi nəzərə alınır. [131]
 
 ---
 
@@ -2183,35 +2183,35 @@ d) bu Maddənin tələblərinə əməl edilməklə tərəflərin müəyyən etdi
 
 ---
 
-### <span style="color:red">Maddə 77. Əmək müqaviləsinə xitam verilərkən işçilərin təminatları</span>
+### Maddə 77. Əmək müqaviləsinə xitam verilərkən işçilərin təminatları
 
 ---
 
-<span style="color:red">1. İşçilərin sayı azaldıqda və ya ştatları ixtisar olunduqda bu Məcəllənin 70-ci Maddəsinin “b” bəndi ilə işəgötürən tərəfindən əmək müqaviləsi ləğv edilməzdən əvvəl işçi işəgötürən tərəfindən həmin işəgötürənlə bağlanmış əmək müqaviləsinə (əmək müqavilələrinə) uyğun olaraq müəyyən olunan əmək stajından asılı olaraq aşağıdakı müddətlərdə rəsmi xəbərdar edilməlidir: [132] bir ilədək əmək stajı olduqda – azı iki təqvim həftəsi; bir ildən beş ilədək əmək stajı olduqda – azı dörd təqvim həftəsi; beş ildən on ilədək əmək stajı olduqda – azı altı təqvim həftəsi; on ildən çox əmək stajı olduqda – azı doqquz təqvim həftəsi.</span>
+1. İşçilərin sayı azaldıqda və ya ştatları ixtisar olunduqda bu Məcəllənin 70-ci Maddəsinin “b” bəndi ilə işəgötürən tərəfindən əmək müqaviləsi ləğv edilməzdən əvvəl işçi işəgötürən tərəfindən həmin işəgötürənlə bağlanmış əmək müqaviləsinə (əmək müqavilələrinə) uyğun olaraq müəyyən olunan əmək stajından asılı olaraq aşağıdakı müddətlərdə rəsmi xəbərdar edilməlidir: [132] bir ilədək əmək stajı olduqda – azı iki təqvim həftəsi; bir ildən beş ilədək əmək stajı olduqda – azı dörd təqvim həftəsi; beş ildən on ilədək əmək stajı olduqda – azı altı təqvim həftəsi; on ildən çox əmək stajı olduqda – azı doqquz təqvim həftəsi.
 
 ---
 
-<span style="color:red">2. Xəbərdarlıq müddəti ərzində hər iş həftəsində əmək haqqı saxlanılmaqla iş axtarmağa imkan yaradılması məqsədi ilə işçi azı bir iş günü əmək funksiyasının icrasından azad edilir.</span>
+2. Xəbərdarlıq müddəti ərzində hər iş həftəsində əmək haqqı saxlanılmaqla iş axtarmağa imkan yaradılması məqsədi ilə işçi azı bir iş günü əmək funksiyasının icrasından azad edilir.
 
 ---
 
-<span style="color:red">3. Əmək müqaviləsi bu Məcəllənin 70-ci Maddəsinin “a” və “b” bəndləri ilə ləğv edilərkən işçiyə işəgötürən tərəfindən həmin işəgötürənlə bağlanmış əmək müqaviləsinə (əmək müqavilələrinə) uyğun olaraq müəyyən olunan əmək stajından asılı olaraq aşağıdakı məbləğlərdə işdənçıxarma müavinəti ödənilir: [133] bir ilədək əmək stajı olduqda – orta aylıq əməkhaqqı miqdarında; bir ildən beş ilədək əmək stajı olduqda – orta aylıq əməkhaqqının azı 1, 4 misli miqdarında; beş ildən on ilədək əmək stajı olduqda – orta aylıq əməkhaqqının azı 1, 7 misli miqdarında; on ildən çox əmək stajı olduqda – orta aylıq əməkhaqqının azı iki misli miqdarında.</span>
+3. Əmək müqaviləsi bu Məcəllənin 70-ci Maddəsinin “a” və “b” bəndləri ilə ləğv edilərkən işçiyə işəgötürən tərəfindən həmin işəgötürənlə bağlanmış əmək müqaviləsinə (əmək müqavilələrinə) uyğun olaraq müəyyən olunan əmək stajından asılı olaraq aşağıdakı məbləğlərdə işdənçıxarma müavinəti ödənilir: [133] bir ilədək əmək stajı olduqda – orta aylıq əməkhaqqı miqdarında; bir ildən beş ilədək əmək stajı olduqda – orta aylıq əməkhaqqının azı 1, 4 misli miqdarında; beş ildən on ilədək əmək stajı olduqda – orta aylıq əməkhaqqının azı 1, 7 misli miqdarında; on ildən çox əmək stajı olduqda – orta aylıq əməkhaqqının azı iki misli miqdarında.
 
 ---
 
-<span style="color:red">4. İşəgötürən işçinin razılığı ilə bu Maddənin birinci hissəsi ilə müəyyən edilmiş azı iki təqvim həftəsi xəbərdarlıq müddəti əvəzinə orta aylıq əməkhaqqının 0, 5 misli, azı dörd təqvim həftəsi xəbərdarlıq müddəti əvəzinə orta aylıq əməkhaqqının 0, 9 misli, azı altı təqvim həftəsi xəbərdarlıq müddəti əvəzinə orta aylıq əməkhaqqının 1, 4 misli, azı doqquz təqvim həftəsi xəbərdarlıq müddəti əvəzinə orta aylıq əməkhaqqının 2 misli və bu Məcəllənin 56-cı Maddəsinin ikinci hissəsi ilə müəyyən edilmiş xəbərdarlıq müddəti əvəzinə orta aylıq əməkhaqqından az olmamaqla əməkhaqqını bir dəfəyə ödəməklə müvafiq əsasla əmək müqaviləsinə xitam verə bilər. Bu halda xəbərdarlıq müddəti ərzində əmək müqaviləsinə xitam verilmiş işçilərə bu hissənin birinci cümləsində nəzərdə tutulmuş xəbərdarlıq müddəti əvəzinə verilən ödəniş xəbərdarlıq müddətinin ötmüş hissəsinə mütənasib olaraq azaldılır. [134]</span>
+4. İşəgötürən işçinin razılığı ilə bu Maddənin birinci hissəsi ilə müəyyən edilmiş azı iki təqvim həftəsi xəbərdarlıq müddəti əvəzinə orta aylıq əməkhaqqının 0, 5 misli, azı dörd təqvim həftəsi xəbərdarlıq müddəti əvəzinə orta aylıq əməkhaqqının 0, 9 misli, azı altı təqvim həftəsi xəbərdarlıq müddəti əvəzinə orta aylıq əməkhaqqının 1, 4 misli, azı doqquz təqvim həftəsi xəbərdarlıq müddəti əvəzinə orta aylıq əməkhaqqının 2 misli və bu Məcəllənin 56-cı Maddəsinin ikinci hissəsi ilə müəyyən edilmiş xəbərdarlıq müddəti əvəzinə orta aylıq əməkhaqqından az olmamaqla əməkhaqqını bir dəfəyə ödəməklə müvafiq əsasla əmək müqaviləsinə xitam verə bilər. Bu halda xəbərdarlıq müddəti ərzində əmək müqaviləsinə xitam verilmiş işçilərə bu hissənin birinci cümləsində nəzərdə tutulmuş xəbərdarlıq müddəti əvəzinə verilən ödəniş xəbərdarlıq müddətinin ötmüş hissəsinə mütənasib olaraq azaldılır. [134]
 
 ---
 
-<span style="color:red">5. Bu Maddənin üçüncü hissəsində nəzərdə tutulan orta əmək haqqı müvafiq icra hakimiyyəti orqanı tərəfindən işçiyə verilən müvafiq arayışlar əsasında ödənilir. Həmin arayış işdən çıxan gündən bir ay müddətində müvafiq icra hakimiyyəti orqanında qeydiyyata alınan şəxslərə verilir. Bu ödəmələr işəgötürən, müəssisə ləğv edildikdə isə onun əmlakının yeni mülkiyyətçisi (əmlakın operativ idarəçiliyini həyata keçirən hüquqi, fiziki şəxs) tərəfindən ödənilməlidir. Bu qayda bu Maddənin dördüncü hissəsində nəzərdə tutulan hala şamil olunmur. [135]</span>
+5. Bu Maddənin üçüncü hissəsində nəzərdə tutulan orta əmək haqqı müvafiq icra hakimiyyəti orqanı tərəfindən işçiyə verilən müvafiq arayışlar əsasında ödənilir. Həmin arayış işdən çıxan gündən bir ay müddətində müvafiq icra hakimiyyəti orqanında qeydiyyata alınan şəxslərə verilir. Bu ödəmələr işəgötürən, müəssisə ləğv edildikdə isə onun əmlakının yeni mülkiyyətçisi (əmlakın operativ idarəçiliyini həyata keçirən hüquqi, fiziki şəxs) tərəfindən ödənilməlidir. Bu qayda bu Maddənin dördüncü hissəsində nəzərdə tutulan hala şamil olunmur. [135]
 
 ---
 
-<span style="color:red">6. Kollektiv müqavilələrdə, əmək müqaviləsində işçilərin işə düzəldiyi dövr ərzində daha uzun müddətə orta əməkhaqqının saxlanılması, habelə bu Maddənin üçüncü, dördüncü və yeddinci hissələrində göstərilən ödəmələrin daha yüksək məbləğdə verilməsi nəzərdə tutula bilər. [136]</span>
+6. Kollektiv müqavilələrdə, əmək müqaviləsində işçilərin işə düzəldiyi dövr ərzində daha uzun müddətə orta əməkhaqqının saxlanılması, habelə bu Maddənin üçüncü, dördüncü və yeddinci hissələrində göstərilən ödəmələrin daha yüksək məbləğdə verilməsi nəzərdə tutula bilər. [136]
 
 ---
 
-<span style="color:red">7. Əmək müqaviləsinə bu Məcəllənin 68-ci Maddəsinin ikinci hissəsinin «c», 74-cü Maddəsinin birinci hissəsinin «a» və «c» bəndləri ilə xitam verildikdə, işəgötürən işçiyə orta aylıq əmək haqqının azı iki misli miqdarında müavinət ödəyir. İşçinin vəfatı ilə əlaqədar əmək müqaviləsinə xitam verildikdə isə vəfat edənin vərəsələrinə orta aylıq əmək haqqının azı üç misli miqdarında müavinət ödənilir. Əmək müqaviləsinə bu Məcəllənin 68-ci Maddəsinin ikinci hissəsinin "ç" bəndi ilə xitam verildikdə, işəgötürən işçiyə orta aylıq əmək haqqının azı üç misli miqdarında müavinət ödəyir.</span>
+7. Əmək müqaviləsinə bu Məcəllənin 68-ci Maddəsinin ikinci hissəsinin «c», 74-cü Maddəsinin birinci hissəsinin «a» və «c» bəndləri ilə xitam verildikdə, işəgötürən işçiyə orta aylıq əmək haqqının azı iki misli miqdarında müavinət ödəyir. İşçinin vəfatı ilə əlaqədar əmək müqaviləsinə xitam verildikdə isə vəfat edənin vərəsələrinə orta aylıq əmək haqqının azı üç misli miqdarında müavinət ödənilir. Əmək müqaviləsinə bu Məcəllənin 68-ci Maddəsinin ikinci hissəsinin "ç" bəndi ilə xitam verildikdə, işəgötürən işçiyə orta aylıq əmək haqqının azı üç misli miqdarında müavinət ödəyir.
 
 ---
 
@@ -2239,39 +2239,39 @@ d) bu Maddənin tələblərinə əməl edilməklə tərəflərin müəyyən etdi
 
 ---
 
-### <span style="color:red">Maddə 79. Əmək müqaviləsinin ləğv olunması qadağan edilən işçilər və hallar</span>
+### Maddə 79. Əmək müqaviləsinin ləğv olunması qadağan edilən işçilər və hallar
 
 ---
 
-<span style="color:red">1. İşəgötürən tərəfindən: hamilə, habelə üç yaşınadək uşağı olan qadınların, üç yaşınadək uşağını təkbaşına böyüdən kişilərin; [143] yeganə qazanc yeri işlədiyi müəssisə olub məktəb yaşınadək uşağını təkbaşına böyüdən işçilərin; əmək qabiliyyətini müvəqqəti itirən işçilərin; işçinin şəkərli diabetlə və ya dağınıq sklerozla xəstə olması səbəbinə görə; [144] həmkarlar ittifaqları təşkilatının və ya hər hansı siyasi partiyanın üzvü olması motivinə görə; öhdəsində 18 yaşınadək əlilliyi müəyyən edilmiş və ya orqanizmin funksiyalarının 81-100 faiz pozulmasına görə əlilliyi müəyyən edilmiş” ailə üzvü olan işçilərin;; [145] məzuniyyətdə, ezamiyyətdə olduğu vaxtda, habelə kollektiv danışıqlarda iştirak etdiyi müddət ərzində işçilərin bu Məcəllənin 70-ci Maddəsi ilə müəyyən edilmiş əsaslarla əmək müqaviləsinin ləğv edilməsi qadağandır.</span>
+1. İşəgötürən tərəfindən: hamilə, habelə üç yaşınadək uşağı olan qadınların, üç yaşınadək uşağını təkbaşına böyüdən kişilərin; [143] yeganə qazanc yeri işlədiyi müəssisə olub məktəb yaşınadək uşağını təkbaşına böyüdən işçilərin; əmək qabiliyyətini müvəqqəti itirən işçilərin; işçinin şəkərli diabetlə və ya dağınıq sklerozla xəstə olması səbəbinə görə; [144] həmkarlar ittifaqları təşkilatının və ya hər hansı siyasi partiyanın üzvü olması motivinə görə; öhdəsində 18 yaşınadək əlilliyi müəyyən edilmiş və ya orqanizmin funksiyalarının 81-100 faiz pozulmasına görə əlilliyi müəyyən edilmiş” ailə üzvü olan işçilərin;; [145] məzuniyyətdə, ezamiyyətdə olduğu vaxtda, habelə kollektiv danışıqlarda iştirak etdiyi müddət ərzində işçilərin bu Məcəllənin 70-ci Maddəsi ilə müəyyən edilmiş əsaslarla əmək müqaviləsinin ləğv edilməsi qadağandır.
 
 ---
 
-<span style="color:red">2. Bu Maddənin birinci hissəsində nəzərdə tutulmuş müddəalar bu Məcəllənin 70-ci Maddəsinin «a» bəndi və 73- cü Maddəsi ilə xitam verilən hallara şamil edilmir.</span>
+2. Bu Maddənin birinci hissəsində nəzərdə tutulmuş müddəalar bu Məcəllənin 70-ci Maddəsinin «a» bəndi və 73- cü Maddəsi ilə xitam verilən hallara şamil edilmir.
 
 ---
 
-<span style="color:red">3. Müəssisənin ləğv edilməsi halları istisna olmaqla, müddətindən asılı olmayaraq, reabilitasiya müəssisəsində və digər reabilitasiya subyektlərində müalicə keçən əlilliyi olan şəxslərlə, həmçinin “Əlilliyi olan şəxslərin hüquqları haqqında” Azərbaycan Respublikası Qanununun</span>
+3. Müəssisənin ləğv edilməsi halları istisna olmaqla, müddətindən asılı olmayaraq, reabilitasiya müəssisəsində və digər reabilitasiya subyektlərində müalicə keçən əlilliyi olan şəxslərlə, həmçinin “Əlilliyi olan şəxslərin hüquqları haqqında” Azərbaycan Respublikası Qanununun
 
 ---
 
-<span style="color:red">24. 1-ci Maddəsində göstərilən işçi ilə bağlanılmış əmək müqaviləsinin işəgötürən tərəfindən ləğv edilməsinə yol verilmir. [146]</span>
+24. 1-ci Maddəsində göstərilən işçi ilə bağlanılmış əmək müqaviləsinin işəgötürən tərəfindən ləğv edilməsinə yol verilmir. [146]
 
 ---
 
-### <span style="color:red">Maddə 80. Əmək müqaviləsinin işəgötürən tərəfindən ləğvi zamanı razılaşmalar [147]</span>
+### Maddə 80. Əmək müqaviləsinin işəgötürən tərəfindən ləğvi zamanı razılaşmalar [147]
 
 ---
 
-<span style="color:red">1. Bu Məcəllənin 70-ci Maddəsinin b) və ç) bəndlərində göstərilən əsaslarla işəgötürən tərəfindən həmkarlar ittifaqının üzvü olan işçinin əmək müqaviləsi müəssisədə fəaliyyət göstərən həmkarlar ittifaqı təşkilatının qabaqcadan razılığı alınmaqla ləğv edilir.</span>
+1. Bu Məcəllənin 70-ci Maddəsinin b) və ç) bəndlərində göstərilən əsaslarla işəgötürən tərəfindən həmkarlar ittifaqının üzvü olan işçinin əmək müqaviləsi müəssisədə fəaliyyət göstərən həmkarlar ittifaqı təşkilatının qabaqcadan razılığı alınmaqla ləğv edilir.
 
 ---
 
-<span style="color:red">2. Həmkarlar ittifaqının üzvü olan işçinin əmək müqaviləsini bu Maddənin 1-ci hissəsində nəzərdə tutulan hallardan hər hansı biri ilə əlaqədar ləğv etmək istəyən işəgötürən həmin müəssisənin həmkarlar ittifaqı təşkilatına əsaslandırılmış yazılı təqdimatla müraciət edir. Təqdimata müvafiq əsaslandırma sənədləri əlavə edilir. Həmkarlar ittifaqı təşkilatı bu təqdimatın daxil olduğu gündən ən geci on gün müddətində özünün əsaslandırılmış yazılı qərarını işəgötürənə təqdim etməlidir. [148]</span>
+2. Həmkarlar ittifaqının üzvü olan işçinin əmək müqaviləsini bu Maddənin 1-ci hissəsində nəzərdə tutulan hallardan hər hansı biri ilə əlaqədar ləğv etmək istəyən işəgötürən həmin müəssisənin həmkarlar ittifaqı təşkilatına əsaslandırılmış yazılı təqdimatla müraciət edir. Təqdimata müvafiq əsaslandırma sənədləri əlavə edilir. Həmkarlar ittifaqı təşkilatı bu təqdimatın daxil olduğu gündən ən geci on gün müddətində özünün əsaslandırılmış yazılı qərarını işəgötürənə təqdim etməlidir. [148]
 
 ---
 
-<span style="color:red">3. Bu Maddənin birinci hissəsində nəzərdə tutulmuş hallar istisna olunmaqla qalan hallarda əmək müqaviləsi işəgötürənin təşəbbüsü ilə ləğv edilərkən həmkarlar ittifaqları təşkilatının qabaqcadan razılığının alınması tələb olunmur. On ikinci fəsil Əmək müqavilələrinin bağlanması, şərtlərinin dəyişdirilməsi və xitamının sənədləşdirilməsi qaydaları</span>
+3. Bu Maddənin birinci hissəsində nəzərdə tutulmuş hallar istisna olunmaqla qalan hallarda əmək müqaviləsi işəgötürənin təşəbbüsü ilə ləğv edilərkən həmkarlar ittifaqları təşkilatının qabaqcadan razılığının alınması tələb olunmur. On ikinci fəsil Əmək müqavilələrinin bağlanması, şərtlərinin dəyişdirilməsi və xitamının sənədləşdirilməsi qaydaları
 
 ---
 
@@ -2351,11 +2351,11 @@ d) bu Maddənin tələblərinə əməl edilməklə tərəflərin müəyyən etdi
 
 ---
 
-### <span style="color:red">Maddə 87. İşçilərin əmək fəaliyyəti haqqında və müvafiq ödənclərinin haqq-hesab sənədləri</span>
+### Maddə 87. İşçilərin əmək fəaliyyəti haqqında və müvafiq ödənclərinin haqq-hesab sənədləri
 
 ---
 
-<span style="color:red">1. İşçinin əmək fəaliyyəti haqqında sənəd əmək kitabçası hesab edilir. İşçinin əmək fəaliyyəti haqqında sənəddə onun əmək stajı haqqında — işə girdiyi gün, ay, il, işlədiyi peşəsi (vəzifəsi), işdən çıxarılmanın əsası, günü, ayı və ili barədə qeydlər göstərilir. Ailə kəndli təsərrüfatı üzvlərinin əmək fəaliyyətini və əmək stajını təsdiq edən sənəd bələdiyyələr tərəfindən verilən vəsiqə hesab edilir.</span>
+1. İşçinin əmək fəaliyyəti haqqında sənəd əmək kitabçası hesab edilir. İşçinin əmək fəaliyyəti haqqında sənəddə onun əmək stajı haqqında — işə girdiyi gün, ay, il, işlədiyi peşəsi (vəzifəsi), işdən çıxarılmanın əsası, günü, ayı və ili barədə qeydlər göstərilir. Ailə kəndli təsərrüfatı üzvlərinin əmək fəaliyyətini və əmək stajını təsdiq edən sənəd bələdiyyələr tərəfindən verilən vəsiqə hesab edilir.
 
 ---
 
@@ -2463,27 +2463,27 @@ d) bu Maddənin tələblərinə əməl edilməklə tərəflərin müəyyən etdi
 
 ---
 
-### <span style="color:red">Maddə 94. Natamam iş vaxtı</span>
+### Maddə 94. Natamam iş vaxtı
 
 ---
 
-<span style="color:red">1. Əmək müqaviləsi bağlanarkən, habelə əmək münasibətləri prosesində işçi ilə işəgötürənin qarşılıqlı razılığı ilə natamam iş vaxtı — natamam iş günü, yaxud natamam iş həftəsi müəyyən edilə bilər.</span>
+1. Əmək müqaviləsi bağlanarkən, habelə əmək münasibətləri prosesində işçi ilə işəgötürənin qarşılıqlı razılığı ilə natamam iş vaxtı — natamam iş günü, yaxud natamam iş həftəsi müəyyən edilə bilər.
 
 ---
 
-<span style="color:red">2. Natamam iş vaxtının müddəti və onun qüvvədə olduğu zamanın — ayın, ilin davamiyyəti tərəflərin razılığı ilə müəyyən edilir.</span>
+2. Natamam iş vaxtının müddəti və onun qüvvədə olduğu zamanın — ayın, ilin davamiyyəti tərəflərin razılığı ilə müəyyən edilir.
 
 ---
 
-<span style="color:red">3. İşçinin səhhəti və fizioloji vəziyyəti (hamiləlik, əlillik, o cümlədən 18 yaşınadək sağlamlıq imkanlarının məhdudluğu), habelə xroniki xəstəliyi olan uşağının və digər ailə üzvünün səhhəti müvafiq tibbi rəyə görə əmək funksiyasının natamam iş vaxtında yerinə yetirilməsini tələb edərsə, habelə on dörd yaşına çatmamış, yaxud 18 yaşınadək əlilliyi müəyyən edilmiş uşağı olan qadınlara ərizələrilə işəgötürən natamam iş vaxtı (iş günü, yaxud iş həftəsi) müəyyən etməlidir. [154]</span>
+3. İşçinin səhhəti və fizioloji vəziyyəti (hamiləlik, əlillik, o cümlədən 18 yaşınadək sağlamlıq imkanlarının məhdudluğu), habelə xroniki xəstəliyi olan uşağının və digər ailə üzvünün səhhəti müvafiq tibbi rəyə görə əmək funksiyasının natamam iş vaxtında yerinə yetirilməsini tələb edərsə, habelə on dörd yaşına çatmamış, yaxud 18 yaşınadək əlilliyi müəyyən edilmiş uşağı olan qadınlara ərizələrilə işəgötürən natamam iş vaxtı (iş günü, yaxud iş həftəsi) müəyyən etməlidir. [154]
 
 ---
 
-<span style="color:red">4. Natamam iş vaxtı əməyin ödənilməsi ya əmək funksiyasının icrasına sərf olunan vaxta mütənasib, ya da tərəflərin qarşılıqlı razılığı ilə müəyyən edilir.</span>
+4. Natamam iş vaxtı əməyin ödənilməsi ya əmək funksiyasının icrasına sərf olunan vaxta mütənasib, ya da tərəflərin qarşılıqlı razılığı ilə müəyyən edilir.
 
 ---
 
-<span style="color:red">5. Əmək funksiyasını natamam iş vaxtında yerinə yetirən işçilərin bu Məcəllə və ya əmək müqaviləsi ilə müəyyən edilmiş əmək hüquqlarının hər hansı şəkildə məhdudlaşdırılması yolverilməzdir. On dördüncü fəsil İş vaxtının rejimi və iş vaxtından artıq vaxtda işin tənzimlənməsi qaydaları</span>
+5. Əmək funksiyasını natamam iş vaxtında yerinə yetirən işçilərin bu Məcəllə və ya əmək müqaviləsi ilə müəyyən edilmiş əmək hüquqlarının hər hansı şəkildə məhdudlaşdırılması yolverilməzdir. On dördüncü fəsil İş vaxtının rejimi və iş vaxtından artıq vaxtda işin tənzimlənməsi qaydaları
 
 ---
 
@@ -2503,47 +2503,47 @@ d) bu Maddənin tələblərinə əməl edilməklə tərəflərin müəyyən etdi
 
 ---
 
-### <span style="color:red">Maddə 96. İş vaxtının cəmlənmiş uçotu</span>
+### Maddə 96. İş vaxtının cəmlənmiş uçotu
 
 ---
 
-<span style="color:red">1. Qeydiyyat (uçot) dövründə iş vaxtının müddəti qanunvericiliklə müəyyən olunmuş iş saatlarının sayından çox olmamaq şərti ilə iş vaxtının cəmlənmiş uçotu tətbiq edilə bilər. Bu halda qeydiyyat (uçot) dövrü bir ildən artıq, gündəlik işin (növbənin) müddəti isə 12 saatdan çox ola bilməz.</span>
+1. Qeydiyyat (uçot) dövründə iş vaxtının müddəti qanunvericiliklə müəyyən olunmuş iş saatlarının sayından çox olmamaq şərti ilə iş vaxtının cəmlənmiş uçotu tətbiq edilə bilər. Bu halda qeydiyyat (uçot) dövrü bir ildən artıq, gündəlik işin (növbənin) müddəti isə 12 saatdan çox ola bilməz.
 
 ---
 
-<span style="color:red">2. İş vaxtının cəmlənmiş uçotunun tətbiqi qaydası kollektiv müqavilə ilə, müəssisədə iş vaxtının rejimini müəyyən edən qaydalarla və ya əmək müqaviləsi ilə tənzim edilir.</span>
+2. İş vaxtının cəmlənmiş uçotunun tətbiqi qaydası kollektiv müqavilə ilə, müəssisədə iş vaxtının rejimini müəyyən edən qaydalarla və ya əmək müqaviləsi ilə tənzim edilir.
 
 ---
 
-<span style="color:red">3. Hər il dekabr ayının sonunadək növbəti il üçün normal iş vaxtı üzrə istehsalat təqvimi və iş vaxtının normasını müvafiq icra hakimiyyəti orqanı müəyyən edir. [155]</span>
+3. Hər il dekabr ayının sonunadək növbəti il üçün normal iş vaxtı üzrə istehsalat təqvimi və iş vaxtının normasını müvafiq icra hakimiyyəti orqanı müəyyən edir. [155]
 
 ---
 
-### <span style="color:red">Maddə 97. Gecə vaxtı yerinə yetirilən işin müddəti[156]</span>
+### Maddə 97. Gecə vaxtı yerinə yetirilən işin müddəti[156]
 
 ---
 
-<span style="color:red">1. Saat 22-dən səhər saat 6-dək olan müddət gecə vaxtı sayılır.</span>
+1. Saat 22-dən səhər saat 6-dək olan müddət gecə vaxtı sayılır.
 
 ---
 
-<span style="color:red">2. Müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş əmək şəraiti ağır və zərərli olan iş yerlərində, habelə xüsusi xarakterli işlərdə çalışan işçilərin gündəlik iş vaxtının ən azı yarısı gecə vaxtına düşdükdə, iş vaxtının gecə vaxtına düşən hissəsi bir saat qısaldılır. [157]</span>
+2. Müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş əmək şəraiti ağır və zərərli olan iş yerlərində, habelə xüsusi xarakterli işlərdə çalışan işçilərin gündəlik iş vaxtının ən azı yarısı gecə vaxtına düşdükdə, iş vaxtının gecə vaxtına düşən hissəsi bir saat qısaldılır. [157]
 
 ---
 
-### <span style="color:red">Maddə 98. Gecə vaxtı yerinə yetirilən işlərə cəlb edilməsinə yol verilməyən işçilər [158]</span>
+### Maddə 98. Gecə vaxtı yerinə yetirilən işlərə cəlb edilməsinə yol verilməyən işçilər [158]
 
 ---
 
-<span style="color:red">1. Gecə vaxtı yerinə yetirilən işlərə yaşı on səkkizdən az olan işçilərin cəlb edilməsinə yol verilmir. [159]</span>
+1. Gecə vaxtı yerinə yetirilən işlərə yaşı on səkkizdən az olan işçilərin cəlb edilməsinə yol verilmir. [159]
 
 ---
 
-<span style="color:red">2. Əlilliyi olan işçilər gecə vaxtı yerinə yetirilən işlərə yalnız onların yazılı razılığı ilə və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəyi nəzərə alınmaqla cəlb edilə bilərlər. [160].</span>
+2. Əlilliyi olan işçilər gecə vaxtı yerinə yetirilən işlərə yalnız onların yazılı razılığı ilə və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəyi nəzərə alınmaqla cəlb edilə bilərlər. [160].
 
 ---
 
-<span style="color:red">3. Hamilə, 14 yaşınadək uşağı olan, həmçinin 18 yaşınadək əlilliyi müəyyən edilmiş uşağı olan qadınlar (bu Məcəllənin 242-ci Maddəsi nəzərə alınmaqla), üç yaşınadək uşağını təkbaşına böyüdən kişilər gecə vaxtı yerinə yetirilən işlərə yalnız onların yazılı razılığı ilə cəlb edilə bilərlər. [161]</span>
+3. Hamilə, 14 yaşınadək uşağı olan, həmçinin 18 yaşınadək əlilliyi müəyyən edilmiş uşağı olan qadınlar (bu Məcəllənin 242-ci Maddəsi nəzərə alınmaqla), üç yaşınadək uşağını təkbaşına böyüdən kişilər gecə vaxtı yerinə yetirilən işlərə yalnız onların yazılı razılığı ilə cəlb edilə bilərlər. [161]
 
 ---
 
@@ -2579,131 +2579,131 @@ d) bu Maddənin tələblərinə əməl edilməklə tərəflərin müəyyən etdi
 
 ---
 
-### <span style="color:red">Maddə 101. İş vaxtından artıq işlərə yol verilən müstəsna hallar</span>
+### Maddə 101. İş vaxtından artıq işlərə yol verilən müstəsna hallar
 
 ---
 
-<span style="color:red">1. İş vaxtından artıq işlərə yalnız aşağıdakı müstəsna hallarda yol verilir:</span>
+1. İş vaxtından artıq işlərə yalnız aşağıdakı müstəsna hallarda yol verilir:
 
 ---
 
-<span style="color:red">a) dövlətin müdafiəsinin təmin olunması üçün, habelə təbii fəlakətin, istehsal qəzasının qarşısını almaq və ya onların nəticələrini aradan qaldırmaq üçün yerinə yetirilməsi zəruri olan ən vacib işlərin görülməsinə;</span>
+a) dövlətin müdafiəsinin təmin olunması üçün, habelə təbii fəlakətin, istehsal qəzasının qarşısını almaq və ya onların nəticələrini aradan qaldırmaq üçün yerinə yetirilməsi zəruri olan ən vacib işlərin görülməsinə;
 
 ---
 
-<span style="color:red">b) su, qaz və elektrik təchizatı, isitmə, kanalizasiya, rabitə və digər kommunal müəssisələrində işlərin, xidmətlərin pozulmasına səbəb olan gözlənilməz hadisələrin nəticələrini aradan qaldırmaq üçün zəruri işlərin görülməsini təmin etmək üçün;</span>
+b) su, qaz və elektrik təchizatı, isitmə, kanalizasiya, rabitə və digər kommunal müəssisələrində işlərin, xidmətlərin pozulmasına səbəb olan gözlənilməz hadisələrin nəticələrini aradan qaldırmaq üçün zəruri işlərin görülməsini təmin etmək üçün;
 
 ---
 
-<span style="color:red">c) başlanmış və istehsalın texniki şəraitinə görə iş gününün sonunadək tamamlana bilməyən işlərin dayandırılması avadanlıqların, əmtəələrin qarşısıalınmaz korlanması, sıradan çıxması təhlükəsi zamanı işlərin tamamlanması zəruriyyəti olduqda;</span>
+c) başlanmış və istehsalın texniki şəraitinə görə iş gününün sonunadək tamamlana bilməyən işlərin dayandırılması avadanlıqların, əmtəələrin qarşısıalınmaz korlanması, sıradan çıxması təhlükəsi zamanı işlərin tamamlanması zəruriyyəti olduqda;
 
 ---
 
-<span style="color:red">ç) işçilərin əksəriyyətinin işinin dayandırılmasına səbəb olan sıradan çıxmış mexanizmlərin, qurğuların təmiri, bərpası ilə əlaqədar işlərin görülməsi zərurəti olduqda;</span>
+ç) işçilərin əksəriyyətinin işinin dayandırılmasına səbəb olan sıradan çıxmış mexanizmlərin, qurğuların təmiri, bərpası ilə əlaqədar işlərin görülməsi zərurəti olduqda;
 
 ---
 
-<span style="color:red">d) əvəz edən işçinin işdə olmaması ilə əlaqədar işə fasilə verilməsinə yol vermək mümkün olmadıqda.</span>
+d) əvəz edən işçinin işdə olmaması ilə əlaqədar işə fasilə verilməsinə yol vermək mümkün olmadıqda.
 
 ---
 
-<span style="color:red">2. İşəgötürən işdə olmayan işçinin başqa işçi ilə əvəz olunmasını, habelə bu Maddədə nəzərdə tutulan müstəsna hallarda iş vaxtından artıq işlərə işçilərin cəlb edilməsini doğuran səbəblərin vaxtında aradan qaldırılması üçün bütün zəruri tədbirləri görməyə borcludur.</span>
+2. İşəgötürən işdə olmayan işçinin başqa işçi ilə əvəz olunmasını, habelə bu Maddədə nəzərdə tutulan müstəsna hallarda iş vaxtından artıq işlərə işçilərin cəlb edilməsini doğuran səbəblərin vaxtında aradan qaldırılması üçün bütün zəruri tədbirləri görməyə borcludur.
 
 ---
 
-### <span style="color:red">Maddə 102. İş vaxtının uçotu</span>
+### Maddə 102. İş vaxtının uçotu
 
 ---
 
-<span style="color:red">1. İşəgötürən, faktiki olaraq hər bir işçinin iş vaxtının və iş vaxtından artıq işlənmiş saatlarının dəqiq, dürüst uçotunu aparmağa borcludur.</span>
+1. İşəgötürən, faktiki olaraq hər bir işçinin iş vaxtının və iş vaxtından artıq işlənmiş saatlarının dəqiq, dürüst uçotunu aparmağa borcludur.
 
 ---
 
-<span style="color:red">2. İş vaxtının uçotunun aparılması forması və qaydası işəgötürən tərəfindən müəyyən edilir. V bölmə İstirahət vaxtı və işçilərin məzuniyyət hüquqları On beşinci fəsil İstİrahət vaxtı</span>
+2. İş vaxtının uçotunun aparılması forması və qaydası işəgötürən tərəfindən müəyyən edilir. V bölmə İstirahət vaxtı və işçilərin məzuniyyət hüquqları On beşinci fəsil İstİrahət vaxtı
 
 ---
 
-### <span style="color:red">Maddə 103. İstirahət və nahar üçün fasilə</span>
+### Maddə 103. İstirahət və nahar üçün fasilə
 
 ---
 
-<span style="color:red">1. İş günü (növbəsi) ərzində işçilərə istirahət və nahar etmək üçün fasilə verilməlidir.</span>
+1. İş günü (növbəsi) ərzində işçilərə istirahət və nahar etmək üçün fasilə verilməlidir.
 
 ---
 
-<span style="color:red">2. Fasilənin verilməsi vaxtı və davamiyyəti müəssisədaxili intizam qaydaları, növbə cədvəlləri və ya əmək müqaviləsi, kollektiv müqavilə ilə müəyyən edilir.</span>
+2. Fasilənin verilməsi vaxtı və davamiyyəti müəssisədaxili intizam qaydaları, növbə cədvəlləri və ya əmək müqaviləsi, kollektiv müqavilə ilə müəyyən edilir.
 
 ---
 
-<span style="color:red">3. Əmək şəraitinin xarakterinə görə işi dayandırmaqla fasilənin vaxtını və davamiyyətini müəyyən etmək mümkün olmadıqda, işəgötürən işçiyə nahar etməyə şərait yaratmalıdır.</span>
+3. Əmək şəraitinin xarakterinə görə işi dayandırmaqla fasilənin vaxtını və davamiyyətini müəyyən etmək mümkün olmadıqda, işəgötürən işçiyə nahar etməyə şərait yaratmalıdır.
 
 ---
 
-<span style="color:red">4. İşçinin bir iş günü ilə növbəti iş günü arasındakı gündəlik istirahət vaxtı azı 12 saat olmalıdır. Növbəli iş vaxtı rejimində işçilərin istirahət vaxtının müddəti müvafiq növbə cədvəlləri ilə tənzimlənir.</span>
+4. İşçinin bir iş günü ilə növbəti iş günü arasındakı gündəlik istirahət vaxtı azı 12 saat olmalıdır. Növbəli iş vaxtı rejimində işçilərin istirahət vaxtının müddəti müvafiq növbə cədvəlləri ilə tənzimlənir.
 
 ---
 
-<span style="color:red">5. İstirahət və nahar fasilələrinin müddəti iş vaxtına daxil edilmir. İstirahət və nahar fasilələrindən işçi öz mülahizəsi ilə istədiyi kimi istifadə edə bilər.</span>
+5. İstirahət və nahar fasilələrinin müddəti iş vaxtına daxil edilmir. İstirahət və nahar fasilələrindən işçi öz mülahizəsi ilə istədiyi kimi istifadə edə bilər.
 
 ---
 
-### <span style="color:red">Maddə 104. İstirahət günləri</span>
+### Maddə 104. İstirahət günləri
 
 ---
 
-<span style="color:red">1. Hər bir işçiyə həftələrarası fasiləsiz istirahət günlərindən istifadə etməyə şərait yaradılmalıdır. Həftələrarası istirahət günlərinin sayı beşgünlük iş həftəsində iki gün, altıgünlük iş həftəsində isə bir gün olmalıdır. [163]</span>
+1. Hər bir işçiyə həftələrarası fasiləsiz istirahət günlərindən istifadə etməyə şərait yaradılmalıdır. Həftələrarası istirahət günlərinin sayı beşgünlük iş həftəsində iki gün, altıgünlük iş həftəsində isə bir gün olmalıdır. [163]
 
 ---
 
-<span style="color:red">2. İş vaxtının cəmlənmiş uçotu zamanı istirahət günləri, həmkarlar ittifaqları təşkilatı ilə razılaşdırılmış növbə cədvəlinə uyğun olaraq verilir. Həmkarlar ittifaqları təşkilatı olmayan iş yerlərində isə bu qayda əmək müqaviləsi ilə tənzimlənir.</span>
+2. İş vaxtının cəmlənmiş uçotu zamanı istirahət günləri, həmkarlar ittifaqları təşkilatı ilə razılaşdırılmış növbə cədvəlinə uyğun olaraq verilir. Həmkarlar ittifaqları təşkilatı olmayan iş yerlərində isə bu qayda əmək müqaviləsi ilə tənzimlənir.
 
 ---
 
-<span style="color:red">3. Hər dəfə qan və ya qan komponentlərini pulsuz (əvəzsiz) verən donorlara orta əməkhaqqı saxlanılmaqla əlavə istirahət günü verilir. Həmin istirahət günü donorun arzusu ilə onun illik məzuniyyətinə əlavə edilə və ya il ərzində istənilən vaxtda istifadə edilə bilər. [164]</span>
+3. Hər dəfə qan və ya qan komponentlərini pulsuz (əvəzsiz) verən donorlara orta əməkhaqqı saxlanılmaqla əlavə istirahət günü verilir. Həmin istirahət günü donorun arzusu ilə onun illik məzuniyyətinə əlavə edilə və ya il ərzində istənilən vaxtda istifadə edilə bilər. [164]
 
 ---
 
-### <span style="color:red">Maddə 105. Bayram günləri [165]</span>
+### Maddə 105. Bayram günləri [165]
 
 ---
 
-<span style="color:red">1. Azərbaycan Respublikasının bayramları aşağıdakılardır: Yeni il bayramı (yanvarın 1 və 2-si); Qadınlar günü (martın 8-i); Faşizm üzərində qələbə günü (mayın 9-u); Müstəqillik Günü (mayın 28-i); [166] Azərbaycan xalqının milli qurtuluş günü (iyunun 15-i); Azərbaycan Respublikasının Silahlı Qüvvələri günü (iyunun 26-sı); Müstəqilliyin Bərpası Günü (oktyabrın 18-i); [167] Zəfər Günü (noyabrın 8-i); [168] Azərbaycan Respublikasının Dövlət bayrağı günü (noyabrın 9-u); [169] Konstitusiya günü (noyabrın 12-si); Milli Dirçəliş günü (noyabrın 17-si); Dünya azərbaycanlılarının həmrəyliyi günü (dekabrın 31-i); Novruz bayramı - beş gün; Qurban bayramı - iki gün; Ramazan bayramı - iki gün.</span>
+1. Azərbaycan Respublikasının bayramları aşağıdakılardır: Yeni il bayramı (yanvarın 1 və 2-si); Qadınlar günü (martın 8-i); Faşizm üzərində qələbə günü (mayın 9-u); Müstəqillik Günü (mayın 28-i); [166] Azərbaycan xalqının milli qurtuluş günü (iyunun 15-i); Azərbaycan Respublikasının Silahlı Qüvvələri günü (iyunun 26-sı); Müstəqilliyin Bərpası Günü (oktyabrın 18-i); [167] Zəfər Günü (noyabrın 8-i); [168] Azərbaycan Respublikasının Dövlət bayrağı günü (noyabrın 9-u); [169] Konstitusiya günü (noyabrın 12-si); Milli Dirçəliş günü (noyabrın 17-si); Dünya azərbaycanlılarının həmrəyliyi günü (dekabrın 31-i); Novruz bayramı - beş gün; Qurban bayramı - iki gün; Ramazan bayramı - iki gün.
 
 ---
 
-<span style="color:red">2. Yeni il bayramı, Qadınlar günü, Faşizm üzərində qələbə günü, Müstəqillik Günü, Azərbaycan xalqının milli qurtuluş günü, Azərbaycan Respublikasının Silahlı Qüvvələri günü, Zəfər Günü, Azərbaycan Respublikasının Dövlət bayrağı günü, Dünya azərbaycanlılarının həmrəyliyi günü, Novruz bayramı, Qurban bayramı, Ramazan bayramı günləri iş günü hesab edilmir. [170]</span>
+2. Yeni il bayramı, Qadınlar günü, Faşizm üzərində qələbə günü, Müstəqillik Günü, Azərbaycan xalqının milli qurtuluş günü, Azərbaycan Respublikasının Silahlı Qüvvələri günü, Zəfər Günü, Azərbaycan Respublikasının Dövlət bayrağı günü, Dünya azərbaycanlılarının həmrəyliyi günü, Novruz bayramı, Qurban bayramı, Ramazan bayramı günləri iş günü hesab edilmir. [170]
 
 ---
 
-<span style="color:red">3. İş günü hesab edilməyən bayram günlərində işçilərin işə cəlb olunmasına yalnız bu Məcəllədə nəzərdə tutulmuş müstəsna hallarda yol verilə bilər.</span>
+3. İş günü hesab edilməyən bayram günlərində işçilərin işə cəlb olunmasına yalnız bu Məcəllədə nəzərdə tutulmuş müstəsna hallarda yol verilə bilər.
 
 ---
 
-<span style="color:red">4. Novruz bayramı, Qurban bayramı, Ramazan bayramının keçiriləcəyi günlər növbəti il üçün dekabr ayının sonunadək müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilib əhaliyə elan olunur.</span>
+4. Novruz bayramı, Qurban bayramı, Ramazan bayramının keçiriləcəyi günlər növbəti il üçün dekabr ayının sonunadək müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilib əhaliyə elan olunur.
 
 ---
 
-<span style="color:red">5. Həftələrarası istirahət günləri və iş günü hesab olunmayan bayram günləri üst-üstə düşərsə, həmin istirahət günü bilavasitə bayram günündən sonrakı iş gününə keçirilir.</span>
+5. Həftələrarası istirahət günləri və iş günü hesab olunmayan bayram günləri üst-üstə düşərsə, həmin istirahət günü bilavasitə bayram günündən sonrakı iş gününə keçirilir.
 
 ---
 
-<span style="color:red">6. Qurban və Ramazan bayramları iş günü hesab olunmayan başqa bayram günü ilə üst-üstə düşdükdə növbəti iş günü istirahət günü hesab edilir.</span>
+6. Qurban və Ramazan bayramları iş günü hesab olunmayan başqa bayram günü ilə üst-üstə düşdükdə növbəti iş günü istirahət günü hesab edilir.
 
 ---
 
-<span style="color:red">7. Bayram və həftələrarası istirahət günləri biri digərindən əvvəl və ya sonra gələrsə, iş və istirahət günlərinin ardıcıl olmasını təmin etmək məqsədilə müvafiq icra hakimiyyəti orqanının qərarı ilə bu iş və ya istirahət günlərinin yeri dəyişdirilə bilər.</span>
+7. Bayram və həftələrarası istirahət günləri biri digərindən əvvəl və ya sonra gələrsə, iş və istirahət günlərinin ardıcıl olmasını təmin etmək məqsədilə müvafiq icra hakimiyyəti orqanının qərarı ilə bu iş və ya istirahət günlərinin yeri dəyişdirilə bilər.
 
 ---
 
-### <span style="color:red">Maddə 105-1. Səsvermə günü [171] Azərbaycan Respublikası Milli Məclisi deputatlarının, Azərbaycan Respublikası Prezidentinin, Azərbaycan Respublikasında bələdiyyə üzvlərinin seçkiləri, həmçinin referendum zamanı səsvermə günü seçki (referendum) keçirilən ərazidə iş günü hesab edilmir. Səsvermə günü qanunvericiliyə uyğun olaraq müəyyən edilir.</span>
+### Maddə 105-1. Səsvermə günü [171] Azərbaycan Respublikası Milli Məclisi deputatlarının, Azərbaycan Respublikası Prezidentinin, Azərbaycan Respublikasında bələdiyyə üzvlərinin seçkiləri, həmçinin referendum zamanı səsvermə günü seçki (referendum) keçirilən ərazidə iş günü hesab edilmir. Səsvermə günü qanunvericiliyə uyğun olaraq müəyyən edilir.
 
 ---
 
-### <span style="color:red">Maddə 106. Ümumxalq hüzn günü Hər il yanvarın 20-si — Azərbaycanın müstəqilliyi və ərazi bütövlüyü uğrunda həlak olmuş şəhidlərin xatirəsini yad etmə günü — ümumxalq hüzn günüdür. Bu gün iş günü hesab edilmir.</span>
+### Maddə 106. Ümumxalq hüzn günü Hər il yanvarın 20-si — Azərbaycanın müstəqilliyi və ərazi bütövlüyü uğrunda həlak olmuş şəhidlərin xatirəsini yad etmə günü — ümumxalq hüzn günüdür. Bu gün iş günü hesab edilmir.
 
 ---
 
-### <span style="color:red">Maddə 106-1. Azərbaycan Respublikasında Anım Günü[172] Hər il sentyabrın 27-si – Azərbaycan Respublikasının işğal altında olan torpaqlarının azad edilməsi uğrunda həlak olmuş şəhidlərin xatirəsini yad etmə günü – Azərbaycan Respublikasında Anım Günüdür.</span>
+### Maddə 106-1. Azərbaycan Respublikasında Anım Günü[172] Hər il sentyabrın 27-si – Azərbaycan Respublikasının işğal altında olan torpaqlarının azad edilməsi uğrunda həlak olmuş şəhidlərin xatirəsini yad etmə günü – Azərbaycan Respublikasında Anım Günüdür.
 
 ---
 
@@ -2787,19 +2787,19 @@ c) təhsilini davam etdirmək və elmi yaradıcılıqla məşğul olmaq üçün 
 
 ---
 
-### <span style="color:red">Maddə 113. Əmək məzuniyyəti və onun verildiyi iş ili</span>
+### Maddə 113. Əmək məzuniyyəti və onun verildiyi iş ili
 
 ---
 
-<span style="color:red">1. Əmək məzuniyyəti — işçinin normal istirahəti, əmək qabiliyyətinin bərpası, sağlamlığının mühafizəsi və möhkəmləndirilməsi üçün işdən ayrılmaqla öz mülahizəsi ilə istifadə etdiyi müddəti bu Məcəllədə nəzərdə tutulandan az olmayan istirahət vaxtıdır. Əmək məzuniyyətinin müddəti təqvim günü ilə hesablanır.</span>
+1. Əmək məzuniyyəti — işçinin normal istirahəti, əmək qabiliyyətinin bərpası, sağlamlığının mühafizəsi və möhkəmləndirilməsi üçün işdən ayrılmaqla öz mülahizəsi ilə istifadə etdiyi müddəti bu Məcəllədə nəzərdə tutulandan az olmayan istirahət vaxtıdır. Əmək məzuniyyətinin müddəti təqvim günü ilə hesablanır.
 
 ---
 
-<span style="color:red">2. Əmək məzuniyyəti müvafiq peşə (vəzifə) üzrə əmək funksiyasını yerinə yetirən işçilərə verilən illik əsas məzuniyyətdən və istehsalın, əməyin xarakterinə və əmək stajına görə, habelə uşaqlı qadınlara verilən əlavə məzuniyyətdən ibarət olub, istər birlikdə, istərsə də ayrılıqda verilə bilər.</span>
+2. Əmək məzuniyyəti müvafiq peşə (vəzifə) üzrə əmək funksiyasını yerinə yetirən işçilərə verilən illik əsas məzuniyyətdən və istehsalın, əməyin xarakterinə və əmək stajına görə, habelə uşaqlı qadınlara verilən əlavə məzuniyyətdən ibarət olub, istər birlikdə, istərsə də ayrılıqda verilə bilər.
 
 ---
 
-<span style="color:red">3. Əmək məzuniyyəti hər il müvafiq iş ili üçün verilir. İş ili işçinin işə götürüldüyü gündən başlanır və növbəti ilin həmin günü başa çatır. Əgər işçinin iş ili onun əmək məzuniyyətinə çıxmaq üçün müraciət etdiyi vaxtda başlanmayıbsa, onda ona əmək məzuniyyəti yalnız iş ili başlanandan sonra verilə bilər. Bir iş ilinə görə yalnız bir əmək məzuniyyəti verilə bilər. Təqvim ili ərzində işçinin iki iş ilinə görə məzuniyyət hüququ olduqda o, həmin təqvim ilində hər iki iş ilinə görə məzuniyyətdən birlikdə və ya ayrı-ayrılıqda istifadə edə bilər. On yeddinci fəsil Əmək məzuniyyətlərinin müddətləri</span>
+3. Əmək məzuniyyəti hər il müvafiq iş ili üçün verilir. İş ili işçinin işə götürüldüyü gündən başlanır və növbəti ilin həmin günü başa çatır. Əgər işçinin iş ili onun əmək məzuniyyətinə çıxmaq üçün müraciət etdiyi vaxtda başlanmayıbsa, onda ona əmək məzuniyyəti yalnız iş ili başlanandan sonra verilə bilər. Bir iş ilinə görə yalnız bir əmək məzuniyyəti verilə bilər. Təqvim ili ərzində işçinin iki iş ilinə görə məzuniyyət hüququ olduqda o, həmin təqvim ilində hər iki iş ilinə görə məzuniyyətdən birlikdə və ya ayrı-ayrılıqda istifadə edə bilər. On yeddinci fəsil Əmək məzuniyyətlərinin müddətləri
 
 ---
 
@@ -2859,19 +2859,19 @@ e) həkimlərə, orta tibb işçilərinə və əczaçılara.
 
 ---
 
-### <span style="color:red">Maddə 116. Əmək stajına görə əlavə məzuniyyətlərin müddətləri və verilmə qaydası</span>
+### Maddə 116. Əmək stajına görə əlavə məzuniyyətlərin müddətləri və verilmə qaydası
 
 ---
 
-<span style="color:red">1. Əmək stajından asılı olaraq işçilərə: beş ildən on ilədək əmək stajı olduqda — 2 təqvim günü; on ildən on beş ilədək əmək stajı olduqda — 4 təqvim günü; on beş ildən çox əmək stajı olduqda — 6 təqvim günü müddətində əlavə məzuniyyət verilir.</span>
+1. Əmək stajından asılı olaraq işçilərə: beş ildən on ilədək əmək stajı olduqda — 2 təqvim günü; on ildən on beş ilədək əmək stajı olduqda — 4 təqvim günü; on beş ildən çox əmək stajı olduqda — 6 təqvim günü müddətində əlavə məzuniyyət verilir.
 
 ---
 
-<span style="color:red">2. Əmək stajına görə əlavə məzuniyyətin müddəti işçinin bir müəssisədə işəgötürənlə əmək müqaviləsi bağlayaraq faktik olaraq işlədiyi dövrə əsasən müəyyən edilir. Bu əmək stajına işçinin əmək müqaviləsi üzrə faktik işlədiyi müddətdən başqa yalnız əmək qabiliyyətini müvəqqəti itirdiyi, habelə bu Məcəllənin 179-cu Maddəsində nəzərdə tutulan hallarda iş yeri və orta əmək haqqı saxlanıldığı dövrlər daxil edilir.</span>
+2. Əmək stajına görə əlavə məzuniyyətin müddəti işçinin bir müəssisədə işəgötürənlə əmək müqaviləsi bağlayaraq faktik olaraq işlədiyi dövrə əsasən müəyyən edilir. Bu əmək stajına işçinin əmək müqaviləsi üzrə faktik işlədiyi müddətdən başqa yalnız əmək qabiliyyətini müvəqqəti itirdiyi, habelə bu Məcəllənin 179-cu Maddəsində nəzərdə tutulan hallarda iş yeri və orta əmək haqqı saxlanıldığı dövrlər daxil edilir.
 
 ---
 
-<span style="color:red">3. Əmək stajına görə (o cümlədən əmək şəraitinə görə) əlavə məzuniyyətlər bu Məcəllənin 118, 119, 120 və 121-ci Maddələrində göstərilən işçilərə verilmir.</span>
+3. Əmək stajına görə (o cümlədən əmək şəraitinə görə) əlavə məzuniyyətlər bu Məcəllənin 118, 119, 120 və 121-ci Maddələrində göstərilən işçilərə verilmir.
 
 ---
 
@@ -2895,27 +2895,27 @@ e) həkimlərə, orta tibb işçilərinə və əczaçılara.
 
 ---
 
-### <span style="color:red">Maddə 118. Pedaqoji və elmi fəaliyyətlə məşğul olan işçilərin əmək məzuniyyətlərinin müddətləri</span>
+### Maddə 118. Pedaqoji və elmi fəaliyyətlə məşğul olan işçilərin əmək məzuniyyətlərinin müddətləri
 
 ---
 
-<span style="color:red">1. Aşağıdakı işçilərə əmək məzuniyyəti 56 təqvim günü müddətində verilməlidir:</span>
+1. Aşağıdakı işçilərə əmək məzuniyyəti 56 təqvim günü müddətində verilməlidir:
 
 ---
 
-<span style="color:red">a) illik normanın üçdə bir hissəsindən az olmamaqla pedaqoji iş aparan təhsil müəssisələrinin rəhbər işçilərinə, tərbiyəçilərinə, təlimatçılarına, dərnək və musiqi rəhbərlərinə, konsertmeysterlərə, akkompaniatorlara, xormeysterlərə və başqa musiqi işçilərinə; [184]</span>
+a) illik normanın üçdə bir hissəsindən az olmamaqla pedaqoji iş aparan təhsil müəssisələrinin rəhbər işçilərinə, tərbiyəçilərinə, təlimatçılarına, dərnək və musiqi rəhbərlərinə, konsertmeysterlərə, akkompaniatorlara, xormeysterlərə və başqa musiqi işçilərinə; [184]
 
 ---
 
-<span style="color:red">b) bütün ixtisas və adlardan olan müəllimlərə (məşqçi müəllimlərdən başqa);</span>
+b) bütün ixtisas və adlardan olan müəllimlərə (məşqçi müəllimlərdən başqa);
 
 ---
 
-<span style="color:red">c) uşaq birliyi rəhbərlərinə, magistrlərinə, praktik psixoloqlara, loqopedlərə, surdopedaqoqlara; ç ) təhsil müəssisələrinin tərbiyəçilərinə (ümumi təyinatlı internat tipli ümumtəhsil məktəblərinin, internat tipli liseylərin, internat tipli gimnaziyaların, inteqrasiya təlimli internat tipli ümumtəhsil məktəblərinin, xüsusi ümumtəhsil məktəblərinin, internat tipli xüsusi ümumtəhsil məktəblərinin və internat tipli sanator ümumtəhsil məktəblərinin tərbiyəçilərindən başqa) eşitmə kabinetlərinin təlimatçılarına, KM2 dərnək rəhbərlərinə, hərbi rəhbərlərə, bədən tərbiyəsi rəhbərlərinə; [185]</span>
+c) uşaq birliyi rəhbərlərinə, magistrlərinə, praktik psixoloqlara, loqopedlərə, surdopedaqoqlara; ç ) təhsil müəssisələrinin tərbiyəçilərinə (ümumi təyinatlı internat tipli ümumtəhsil məktəblərinin, internat tipli liseylərin, internat tipli gimnaziyaların, inteqrasiya təlimli internat tipli ümumtəhsil məktəblərinin, xüsusi ümumtəhsil məktəblərinin, internat tipli xüsusi ümumtəhsil məktəblərinin və internat tipli sanator ümumtəhsil məktəblərinin tərbiyəçilərindən başqa) eşitmə kabinetlərinin təlimatçılarına, KM2 dərnək rəhbərlərinə, hərbi rəhbərlərə, bədən tərbiyəsi rəhbərlərinə; [185]
 
 ---
 
-<span style="color:red">d) sosial müdafiə orqanlarının və tibb müəssisələrinin bilavasitə pedaqoji fəaliyyətlə məşğul olan işçilərinə;</span>
+d) sosial müdafiə orqanlarının və tibb müəssisələrinin bilavasitə pedaqoji fəaliyyətlə məşğul olan işçilərinə;
 
 ---
 
@@ -2951,7 +2951,7 @@ d) məşqçi müəllimlərə; e ) elmi müəssisə və təşkilatların, habelə
 
 ---
 
-### <span style="color:red">Maddə 118-1. Azərbaycan Respublikasının işğaldan azad edilmiş ərazilərində işləyən mütəxəssislərin əlavə məzuniyyəti</span>
+### Maddə 118-1. Azərbaycan Respublikasının işğaldan azad edilmiş ərazilərində işləyən mütəxəssislərin əlavə məzuniyyəti
 
 ---
 
@@ -3035,39 +3035,39 @@ c) diplom layihəsini (işini) hazırlamaq və müdafiə etmək üçün.
 
 ---
 
-### <span style="color:red">Maddə 124. Təhsil məzuniyyətlərinin müddətləri</span>
+### Maddə 124. Təhsil məzuniyyətlərinin müddətləri
 
 ---
 
-<span style="color:red">1. ləğv edilmişdir.</span>
+1. ləğv edilmişdir.
 
 ---
 
-<span style="color:red">2. ləğv edilmişdir. [197]</span>
+2. ləğv edilmişdir. [197]
 
 ---
 
-<span style="color:red">3. Ali təhsil müəssisələrinin qiyabi şöbələrində oxuyan işçilərə laboratoriya işlərini yerinə yetirdikləri, yoxlama və imtahan verdikləri dövrdə hər tədris ilində birinci və ikinci kurslarda 30 təqvim günü, qalan kurslarda 40 təqvim günü, orta ixtisas təhsili müəssisələrinin qiyabi şöbələrində oxuyan işçilərə isə birinci və ikinci kurslarda 20 təqvim günü, digər kurslarda 30 təqvim günü müddətində məzuniyyət verilir. [198]</span>
+3. Ali təhsil müəssisələrinin qiyabi şöbələrində oxuyan işçilərə laboratoriya işlərini yerinə yetirdikləri, yoxlama və imtahan verdikləri dövrdə hər tədris ilində birinci və ikinci kurslarda 30 təqvim günü, qalan kurslarda 40 təqvim günü, orta ixtisas təhsili müəssisələrinin qiyabi şöbələrində oxuyan işçilərə isə birinci və ikinci kurslarda 20 təqvim günü, digər kurslarda 30 təqvim günü müddətində məzuniyyət verilir. [198]
 
 ---
 
-<span style="color:red">4. Ali və orta ixtisas təhsili müəssisələrinin qiyabi şöbələrində təhsil alan işçilərə dövlət imtahanları dövründə 30 təqvim günü müddətində məzuniyyət verilir. [199]</span>
+4. Ali və orta ixtisas təhsili müəssisələrinin qiyabi şöbələrində təhsil alan işçilərə dövlət imtahanları dövründə 30 təqvim günü müddətində məzuniyyət verilir. [199]
 
 ---
 
-<span style="color:red">5. Diplom işinin hazırlandığı və müdafiə edildiyi dövrdə ali təhsil müəssisələrinin qiyabi şöbələrində təhsil alan işçilərə 4 təqvim ayınadək, orta ixtisas təhsili müəssisələrinin qiyabi şöbələrində təhsil alan işçilərə isə 2 təqvim ayınadək məzuniyyət verilir. [200]</span>
+5. Diplom işinin hazırlandığı və müdafiə edildiyi dövrdə ali təhsil müəssisələrinin qiyabi şöbələrində təhsil alan işçilərə 4 təqvim ayınadək, orta ixtisas təhsili müəssisələrinin qiyabi şöbələrində təhsil alan işçilərə isə 2 təqvim ayınadək məzuniyyət verilir. [200]
 
 ---
 
-<span style="color:red">6. Peşə təhsili müəssisələrində istehsalatdan ayrılmadan təhsil alan işçilərə imtahanlara hazırlaşmaq və imtahanları vermək üçün tədris ilində 30 təqvim günü müddətində məzuniyyət verilir. [201]</span>
+6. Peşə təhsili müəssisələrində istehsalatdan ayrılmadan təhsil alan işçilərə imtahanlara hazırlaşmaq və imtahanları vermək üçün tədris ilində 30 təqvim günü müddətində məzuniyyət verilir. [201]
 
 ---
 
-<span style="color:red">7. Ümumtəhsil müəssisələrinin qiyabi qruplarında təhsil alan işçilərə buraxılış siniflərində imtahanlarını vermək üçün 20 təqvim günü müddətində məzuniyyət verilir.</span>
+7. Ümumtəhsil müəssisələrinin qiyabi qruplarında təhsil alan işçilərə buraxılış siniflərində imtahanlarını vermək üçün 20 təqvim günü müddətində məzuniyyət verilir.
 
 ---
 
-<span style="color:red">8. Bu Maddədə nəzərdə tutulmuş məzuniyyətlərdən təhsil proqramları ilə müəyyən edilən dövrlərdə, təhsil müəssisəsinin verdiyi arayış əsasında istifadə oluna bilər. On doqquzuncu fəsil Sosial məzuniyyətlər</span>
+8. Bu Maddədə nəzərdə tutulmuş məzuniyyətlərdən təhsil proqramları ilə müəyyən edilən dövrlərdə, təhsil müəssisəsinin verdiyi arayış əsasında istifadə oluna bilər. On doqquzuncu fəsil Sosial məzuniyyətlər
 
 ---
 
@@ -3127,51 +3127,51 @@ c) iki və daha çox uşaq doğulduqda 180 təqvim günü (doğuşdan əvvəl 70
 
 ---
 
-### <span style="color:red">Maddə 130. İşçilərin xahişi ilə verilən ödənişsiz məzuniyyətlərin müddətləri İşçilərin xahişi ilə bir iş ilində aşağıdakı hallarda və müddətdə ödənişsiz məzuniyyətlər verilir: [204]</span>
+### Maddə 130. İşçilərin xahişi ilə verilən ödənişsiz məzuniyyətlərin müddətləri İşçilərin xahişi ilə bir iş ilində aşağıdakı hallarda və müddətdə ödənişsiz məzuniyyətlər verilir: [204]
 
 ---
 
-<span style="color:red">a) həkim məsləhət komissiyasının rəyi əsasında xroniki xəstəliyə tutulmuş uşağı olan valideynlərdən birinə, yaxud ailənin uşağa bilavasitə qulluq edən digər üzvünə — uşaq dörd yaşına çatanadək;</span>
+a) həkim məsləhət komissiyasının rəyi əsasında xroniki xəstəliyə tutulmuş uşağı olan valideynlərdən birinə, yaxud ailənin uşağa bilavasitə qulluq edən digər üzvünə — uşaq dörd yaşına çatanadək;
 
 ---
 
-<span style="color:red">b) arvadları doğuşla əlaqədar məzuniyyətdə olan kişilərə — 14 təqvim gününədək;</span>
+b) arvadları doğuşla əlaqədar məzuniyyətdə olan kişilərə — 14 təqvim gününədək;
 
 ---
 
-<span style="color:red">c) 16 yaşınadək uşağı olan qadınlara və ya tək valideynlərə, qəyyumlara, himayədarlara — 14 təqvim gününədək; ç ) orqanizmin funksiyalarının pozulması faizindən və səbəbindən asılı olmayaraq əlilliyi olan, o cümlədən sağlamlıq imkanları məhdud olan 18 yaşınadək işçilərə — bir təqvim ayınadək; [205]</span>
+c) 16 yaşınadək uşağı olan qadınlara və ya tək valideynlərə, qəyyumlara, himayədarlara — 14 təqvim gününədək; ç ) orqanizmin funksiyalarının pozulması faizindən və səbəbindən asılı olmayaraq əlilliyi olan, o cümlədən sağlamlıq imkanları məhdud olan 18 yaşınadək işçilərə — bir təqvim ayınadək; [205]
 
 ---
 
-<span style="color:red">d) müharibədə döyüşən ordunun tərkibində iştirak etmiş şəxslərə — 14 təqvim gününədək;</span>
+d) müharibədə döyüşən ordunun tərkibində iştirak etmiş şəxslərə — 14 təqvim gününədək;
 
 ---
 
-<span style="color:red">e) Azərbaycan Respublikasının ərazi bütövlüyü və suverenliyinin müdafiəsi zamanı xəsarət (yaralanma, travma, kontuziya) almış işçilərə — 14 təqvim gününədək; [206] ə ) insanın immunçatışmazlığı virusu ilə yaşayan uşaq böyüdən, həmçinin 18 yaşınadək əlilliyi müəyyən edilmiş uşağı olan valideynlərə — 14 təqvim gününədək; [207]</span>
+e) Azərbaycan Respublikasının ərazi bütövlüyü və suverenliyinin müdafiəsi zamanı xəsarət (yaralanma, travma, kontuziya) almış işçilərə — 14 təqvim gününədək; [206] ə ) insanın immunçatışmazlığı virusu ilə yaşayan uşaq böyüdən, həmçinin 18 yaşınadək əlilliyi müəyyən edilmiş uşağı olan valideynlərə — 14 təqvim gününədək; [207]
 
 ---
 
-<span style="color:red">f) doktoranturada (adyunkturada), təhsil alan işçilərə —1 təqvim ayınadək; [208]</span>
+f) doktoranturada (adyunkturada), təhsil alan işçilərə —1 təqvim ayınadək; [208]
 
 ---
 
-<span style="color:red">g) ali təhsil müəssisələrində qəbul imtahanlarına buraxılan işçilərə — 14 təqvim günü, orta ixtisas təhsil müəssisələrinə qəbul imtahanlarına buraxılan işçilərə — 7 təqvim günü;</span>
+g) ali təhsil müəssisələrində qəbul imtahanlarına buraxılan işçilərə — 14 təqvim günü, orta ixtisas təhsil müəssisələrinə qəbul imtahanlarına buraxılan işçilərə — 7 təqvim günü;
 
 ---
 
-<span style="color:red">ğ) ixtirasının və ya səmərələşdirici təklifinin işlədiyi müəssisədən kənar yerdə ilkin tətbiqi zamanı müəllifə — 14 təqvim gününədək;</span>
+ğ) ixtirasının və ya səmərələşdirici təklifinin işlədiyi müəssisədən kənar yerdə ilkin tətbiqi zamanı müəllifə — 14 təqvim gününədək;
 
 ---
 
-<span style="color:red">h) ailənin xəstə üzvünə qulluq edən qohumlardan birinə — tibb müəssisəsinin rəyi ilə 14 təqvim gününədək;</span>
+h) ailənin xəstə üzvünə qulluq edən qohumlardan birinə — tibb müəssisəsinin rəyi ilə 14 təqvim gününədək;
 
 ---
 
-<span style="color:red">x) 18 yaşınadək əlilliyi müəyyən edilmiş uşaqları olan işçilərə - 14 təqvim gününədək;</span>
+x) 18 yaşınadək əlilliyi müəyyən edilmiş uşaqları olan işçilərə - 14 təqvim gününədək;
 
 ---
 
-<span style="color:red">i) ailə, məişət və başqa sosial məsələləri həll etmək üçün işçilərə -7 təqvim gününədək. [209] Azərbaycan Respublikasının Seçki Məcəlləsinə uyğun olaraq qeydə alınmış namizədə müvafiq seçki komissiyasında qeydə alındığı gündən seçkilərin nəticələrinin rəsmi dərc edildiyi günədək ərizəsində göstərilən müddət üçün ödənişsiz məzuniyyət verilir. [210] İyirmi birinci fəsil Məzuniyyət hüququnun həyata keçirilməsi qaydaları</span>
+i) ailə, məişət və başqa sosial məsələləri həll etmək üçün işçilərə -7 təqvim gününədək. [209] Azərbaycan Respublikasının Seçki Məcəlləsinə uyğun olaraq qeydə alınmış namizədə müvafiq seçki komissiyasında qeydə alındığı gündən seçkilərin nəticələrinin rəsmi dərc edildiyi günədək ərizəsində göstərilən müddət üçün ödənişsiz məzuniyyət verilir. [210] İyirmi birinci fəsil Məzuniyyət hüququnun həyata keçirilməsi qaydaları
 
 ---
 
@@ -3231,115 +3231,115 @@ e) təhsil müəssisələrində oxuyan şəxslərin — kurs işlərinin və ya 
 
 ---
 
-### <span style="color:red">Maddə 132. Məzuniyyət hüququ verən əmək stajı hesablanarkən nəzərə alınan və alınmayan dövrlər</span>
+### Maddə 132. Məzuniyyət hüququ verən əmək stajı hesablanarkən nəzərə alınan və alınmayan dövrlər
 
 ---
 
-<span style="color:red">1. Əmək məzuniyyətinə hüquq verən əmək stajına işçinin faktik işlədiyi vaxt və aşağıdakı dövrlər daxil edilir:</span>
+1. Əmək məzuniyyətinə hüquq verən əmək stajına işçinin faktik işlədiyi vaxt və aşağıdakı dövrlər daxil edilir:
 
 ---
 
-<span style="color:red">a) iş yerinin və bu Məcəllədə nəzərdə tutulmuş hallarda əmək haqqının saxlanılması şərti ilə işçinin işdən ayrıldığı dövr;</span>
+a) iş yerinin və bu Məcəllədə nəzərdə tutulmuş hallarda əmək haqqının saxlanılması şərti ilə işçinin işdən ayrıldığı dövr;
 
 ---
 
-<span style="color:red">b) qanunsuz və əsassız işdən çıxarılmaqla, yaxud başqa işə keçirilməklə əlaqədar işə bərpa edilən işçilərin məcburi işburaxma dövrü;</span>
+b) qanunsuz və əsassız işdən çıxarılmaqla, yaxud başqa işə keçirilməklə əlaqədar işə bərpa edilən işçilərin məcburi işburaxma dövrü;
 
 ---
 
-<span style="color:red">c) əmək qabiliyyətinin müvəqqəti itirildiyi dövr;</span>
+c) əmək qabiliyyətinin müvəqqəti itirildiyi dövr;
 
 ---
 
-<span style="color:red">ç) təhqiqat, ibtidai istintaq, prokurorluq və məhkəmə orqanlarının qanunsuz hərəkətləri nəticəsində işdən (vəzifədən) azad edilmiş və ya kənarlaşdırılmış və müəyyən edilmiş qaydada tam bəraət almış işə (vəzifəyə) bərpa edilən şəxsin məcburi işburaxma dövrü və ya həbsdə olduğu dövr.</span>
+ç) təhqiqat, ibtidai istintaq, prokurorluq və məhkəmə orqanlarının qanunsuz hərəkətləri nəticəsində işdən (vəzifədən) azad edilmiş və ya kənarlaşdırılmış və müəyyən edilmiş qaydada tam bəraət almış işə (vəzifəyə) bərpa edilən şəxsin məcburi işburaxma dövrü və ya həbsdə olduğu dövr.
 
 ---
 
-<span style="color:red">2. Bu Məcəllənin 127-ci Maddəsində nəzərdə tutulan qismən ödənişli sosial məzuniyyət müddəti, habelə azadlıqdan məhrum etmədən islah işlərinə məhkum edilən şəxslərin cəza çəkdiyi müddət məzuniyyət hüququ verən əmək stajına daxil edilmir.</span>
+2. Bu Məcəllənin 127-ci Maddəsində nəzərdə tutulan qismən ödənişli sosial məzuniyyət müddəti, habelə azadlıqdan məhrum etmədən islah işlərinə məhkum edilən şəxslərin cəza çəkdiyi müddət məzuniyyət hüququ verən əmək stajına daxil edilmir.
 
 ---
 
-### <span style="color:red">Maddə 133. Əmək məzuniyyətlərinin verilməsində növbəlilik</span>
+### Maddə 133. Əmək məzuniyyətlərinin verilməsində növbəlilik
 
 ---
 
-<span style="color:red">1. İstehsalın və işin normal gedişini tənzimləmək, məzuniyyətlərin uçotunun düzgün aparılmasını təmin etmək məqsədi ilə hər il yanvarın sonunadək əmək məzuniyyətlərinin verilməsi üçün növbəlilik cədvəlləri tərtib edilə bilər.</span>
+1. İstehsalın və işin normal gedişini tənzimləmək, məzuniyyətlərin uçotunun düzgün aparılmasını təmin etmək məqsədi ilə hər il yanvarın sonunadək əmək məzuniyyətlərinin verilməsi üçün növbəlilik cədvəlləri tərtib edilə bilər.
 
 ---
 
-<span style="color:red">2. Əmək məzuniyyətlərinin verilmə növbəsi həmkarlar ittifaqları təşkilatının, o olmadıqda isə işçinin rəyi öyrənilməklə işəgötürən tərəfindən təsdiq edilir.</span>
+2. Əmək məzuniyyətlərinin verilmə növbəsi həmkarlar ittifaqları təşkilatının, o olmadıqda isə işçinin rəyi öyrənilməklə işəgötürən tərəfindən təsdiq edilir.
 
 ---
 
-<span style="color:red">3. Aşağıdakı işçilərə əmək məzuniyyəti arzusu ilə onlar üçün əlverişli olan vaxtda verilə bilər: 14 yaşınadək iki və daha çox uşağı olan və ya 18 yaşınadək əlilliyi müəyyən edilmiş uşağı olan qadınlara; [213] 16 yaşınadək uşaqları təkbaşına böyüdən valideynə və ya qəyyuma; hərbi qulluqçunun arvadına (ərinə); əlilliyi olan şəxslərə; [214] müharibə veteranlarına; Çernobıl AES-də qəzanın nəticələrinin aradan qaldırılması zamanı radioaktiv şüalanmaya məruz qalaraq sağlamlığı pozulmuş və ya şüalanma xəstəliyinə düçar olmuş şəxslərə; yaşı on səkkizdən aşağı olan işçilərə; işləməklə yanaşı təhsil alan şəxslərə; bu Məcəllənin 120-ci Maddəsində göstərilən Azərbaycan xalqı qarşısında xüsusi xidmətləri olan işçilərə.</span>
+3. Aşağıdakı işçilərə əmək məzuniyyəti arzusu ilə onlar üçün əlverişli olan vaxtda verilə bilər: 14 yaşınadək iki və daha çox uşağı olan və ya 18 yaşınadək əlilliyi müəyyən edilmiş uşağı olan qadınlara; [213] 16 yaşınadək uşaqları təkbaşına böyüdən valideynə və ya qəyyuma; hərbi qulluqçunun arvadına (ərinə); əlilliyi olan şəxslərə; [214] müharibə veteranlarına; Çernobıl AES-də qəzanın nəticələrinin aradan qaldırılması zamanı radioaktiv şüalanmaya məruz qalaraq sağlamlığı pozulmuş və ya şüalanma xəstəliyinə düçar olmuş şəxslərə; yaşı on səkkizdən aşağı olan işçilərə; işləməklə yanaşı təhsil alan şəxslərə; bu Məcəllənin 120-ci Maddəsində göstərilən Azərbaycan xalqı qarşısında xüsusi xidmətləri olan işçilərə.
 
 ---
 
-<span style="color:red">4. Müəssisədə işlədiyi müddətdən asılı olmayaraq işçinin arzusu ilə əmək məzuniyyəti arvadının hamiləliyə və doğuşa görə məzuniyyətdə olduğu dövrdə verilir. [215] KM5</span>
+4. Müəssisədə işlədiyi müddətdən asılı olmayaraq işçinin arzusu ilə əmək məzuniyyəti arvadının hamiləliyə və doğuşa görə məzuniyyətdə olduğu dövrdə verilir. [215] KM5
 
 ---
 
-### <span style="color:red">Maddə 134. Əmək məzuniyyətinin başqa vaxta keçirilməsi şərtləri və qaydası</span>
+### Maddə 134. Əmək məzuniyyətinin başqa vaxta keçirilməsi şərtləri və qaydası
 
 ---
 
-<span style="color:red">1. Əmək məzuniyyətlərinin verilmə vaxtı işəgötürənin və işçinin təşəbbüsü ilə əsaslandırılmaqla onların qarşılıqlı razılığı ilə başqa vaxta keçirilə bilər.</span>
+1. Əmək məzuniyyətlərinin verilmə vaxtı işəgötürənin və işçinin təşəbbüsü ilə əsaslandırılmaqla onların qarşılıqlı razılığı ilə başqa vaxta keçirilə bilər.
 
 ---
 
-<span style="color:red">2. Əmək məzuniyyətinin başqa vaxta keçirilməsi dedikdə, cari ildə məzuniyyətinin verilmə növbəsində nəzərdə tutulan vaxtın bir aydan başqa aya, cari iş ilindən növbəti iş ilinə, habelə növbəti təqvim ilinə keçirilməsi başa düşülməlidir.</span>
+2. Əmək məzuniyyətinin başqa vaxta keçirilməsi dedikdə, cari ildə məzuniyyətinin verilmə növbəsində nəzərdə tutulan vaxtın bir aydan başqa aya, cari iş ilindən növbəti iş ilinə, habelə növbəti təqvim ilinə keçirilməsi başa düşülməlidir.
 
 ---
 
-<span style="color:red">3. İşçinin təşəbbüsü ilə aşağıdakı hallarda əmək məzuniyyəti başqa vaxta keçirilə bilər:</span>
+3. İşçinin təşəbbüsü ilə aşağıdakı hallarda əmək məzuniyyəti başqa vaxta keçirilə bilər:
 
 ---
 
-<span style="color:red">a) əmək qabiliyyəti müvəqqəti itirildikdə;</span>
+a) əmək qabiliyyəti müvəqqəti itirildikdə;
 
 ---
 
-<span style="color:red">b) əmək məzuniyyəti ilə sosial məzuniyyət bir vaxta düşdükdə;</span>
+b) əmək məzuniyyəti ilə sosial məzuniyyət bir vaxta düşdükdə;
 
 ---
 
-<span style="color:red">c) işəgötürənin tapşırıqlarını yerinə yetirmək üçün başqa yerə ezam edildikdə;</span>
+c) işəgötürənin tapşırıqlarını yerinə yetirmək üçün başqa yerə ezam edildikdə;
 
 ---
 
-<span style="color:red">4. İşçiyə əmək məzuniyyətinin müəyyən edilmiş növbədə nəzərdə tutulan vaxtda verilməsinin istehsalın, işin, xidmətlərin normal gedişinə xələl gətirə biləcəyi hallarda işəgötürənin təşəbbüsü və işçinin razılığı ilə əmək məzuniyyəti başqa vaxta keçirilə bilər.</span>
+4. İşçiyə əmək məzuniyyətinin müəyyən edilmiş növbədə nəzərdə tutulan vaxtda verilməsinin istehsalın, işin, xidmətlərin normal gedişinə xələl gətirə biləcəyi hallarda işəgötürənin təşəbbüsü və işçinin razılığı ilə əmək məzuniyyəti başqa vaxta keçirilə bilər.
 
 ---
 
-<span style="color:red">5. Tərəflərin qarşılıqlı razılığı ilə əmək məzuniyyətinin istifadə edilməyən hissəsi növbəti iş ili üçün əmək məzuniyyəti ilə birləşdirilə bilər.</span>
+5. Tərəflərin qarşılıqlı razılığı ilə əmək məzuniyyətinin istifadə edilməyən hissəsi növbəti iş ili üçün əmək məzuniyyəti ilə birləşdirilə bilər.
 
 ---
 
-<span style="color:red">6. Hərbi vəziyyət dövründə səfərbərlik planlarına (tapşırıqlarına) uyğun olaraq əmək məzuniyyəti başqa vaxta keçirilə bilər. [216]</span>
+6. Hərbi vəziyyət dövründə səfərbərlik planlarına (tapşırıqlarına) uyğun olaraq əmək məzuniyyəti başqa vaxta keçirilə bilər. [216]
 
 ---
 
-### <span style="color:red">Maddə 135. Əmək məzuniyyətinin verilməməsinin yolverilməzliyi[ 2 1 7 ]</span>
+### Maddə 135. Əmək məzuniyyətinin verilməməsinin yolverilməzliyi[ 2 1 7 ]
 
 ---
 
-<span style="color:red">1. Bu Məcəlləyə uyğun olaraq işəgötürən tərəfindən işçiyə əmək məzuniyyətinin verilməməsi qadağandır.</span>
+1. Bu Məcəlləyə uyğun olaraq işəgötürən tərəfindən işçiyə əmək məzuniyyətinin verilməməsi qadağandır.
 
 ---
 
-<span style="color:red">2. İşçi müvafiq iş ilində əmək məzuniyyətindən istənilən səbəbdən istifadə etmədikdə ona həmin iş ili (iş illəri) üçün istifadə edilməmiş əmək məzuniyyətinə görə müəyyən olunmuş qaydada və məbləğdə kompensasiya ödənilir.</span>
+2. İşçi müvafiq iş ilində əmək məzuniyyətindən istənilən səbəbdən istifadə etmədikdə ona həmin iş ili (iş illəri) üçün istifadə edilməmiş əmək məzuniyyətinə görə müəyyən olunmuş qaydada və məbləğdə kompensasiya ödənilir.
 
 ---
 
-### <span style="color:red">Maddə 136. Əsas və əlavə məzuniyyətlərin müddətlərinin cəmlənmə qaydası</span>
+### Maddə 136. Əsas və əlavə məzuniyyətlərin müddətlərinin cəmlənmə qaydası
 
 ---
 
-<span style="color:red">1. Bu Məcəllənin 114-cü Maddəsində nəzərdə tutulmuş əsas məzuniyyət, yalnız 115 və 116-cı Maddələri ilə müəyyən edilmiş əlavə məzuniyyətlərlə cəmlənərək birlikdə verilməlidir.</span>
+1. Bu Məcəllənin 114-cü Maddəsində nəzərdə tutulmuş əsas məzuniyyət, yalnız 115 və 116-cı Maddələri ilə müəyyən edilmiş əlavə məzuniyyətlərlə cəmlənərək birlikdə verilməlidir.
 
 ---
 
-<span style="color:red">2. İşçinin eyni vaxtda bu Məcəllənin 115 və 116-cı Maddələrində nəzərdə tutulmuş iki və daha çox əlavə məzuniyyətə hüququ olduqda onun əsas məzuniyyətinə daha çox müddətli bir əlavə məzuniyyət birləşdirilir.</span>
+2. İşçinin eyni vaxtda bu Məcəllənin 115 və 116-cı Maddələrində nəzərdə tutulmuş iki və daha çox əlavə məzuniyyətə hüququ olduqda onun əsas məzuniyyətinə daha çox müddətli bir əlavə məzuniyyət birləşdirilir.
 
 ---
 
@@ -3399,35 +3399,35 @@ e) təhsil müəssisələrində oxuyan şəxslərin — kurs işlərinin və ya 
 
 ---
 
-### <span style="color:red">Maddə 140. Məzuniyyət vaxtı üçün orta əmək haqqının hesablanması qaydası və ödənilməsi</span>
+### Maddə 140. Məzuniyyət vaxtı üçün orta əmək haqqının hesablanması qaydası və ödənilməsi
 
 ---
 
-<span style="color:red">1. Məzuniyyət vaxtı üçün ödənilən orta əmək haqqı onun hansı iş ili üçün verilməsindən asılı olmayaraq KM4 məzuniyyətin verildiyi aydan əvvəlki 12 təqvim ayının orta əmək haqqına əsasən müəyyən edilir.</span>
+1. Məzuniyyət vaxtı üçün ödənilən orta əmək haqqı onun hansı iş ili üçün verilməsindən asılı olmayaraq KM4 məzuniyyətin verildiyi aydan əvvəlki 12 təqvim ayının orta əmək haqqına əsasən müəyyən edilir.
 
 ---
 
-<span style="color:red">2. 12 təqvim ayından az işləyib məzuniyyətə çıxan işçinin orta aylıq əmək haqqı onun faktik işlədiyi tam təqvim aylarına əsasən hesablanır.</span>
+2. 12 təqvim ayından az işləyib məzuniyyətə çıxan işçinin orta aylıq əmək haqqı onun faktik işlədiyi tam təqvim aylarına əsasən hesablanır.
 
 ---
 
-<span style="color:red">3. Məzuniyyət günlərinin əmək haqqını müəyyən etməkdən ötrü məzuniyyətdən əvvəlki 12 təqvim ayının əmək haqqının cəmlənmiş məbləğini 12-yə bölməklə orta aylıq əmək haqqının məbləği tapılır və alınan məbləği ayın təqvim günlərinin orta illik miqdarına — 30, 4-ə bölmək yolu ilə bir günlük əmək haqqının məbləği müəyyən edilir. Bu qayda ilə müəyyən edilmiş bir günlük əmək haqqının məbləği, məzuniyyətin müddətinin təqvim günlərinin sayına vurulur.</span>
+3. Məzuniyyət günlərinin əmək haqqını müəyyən etməkdən ötrü məzuniyyətdən əvvəlki 12 təqvim ayının əmək haqqının cəmlənmiş məbləğini 12-yə bölməklə orta aylıq əmək haqqının məbləği tapılır və alınan məbləği ayın təqvim günlərinin orta illik miqdarına — 30, 4-ə bölmək yolu ilə bir günlük əmək haqqının məbləği müəyyən edilir. Bu qayda ilə müəyyən edilmiş bir günlük əmək haqqının məbləği, məzuniyyətin müddətinin təqvim günlərinin sayına vurulur.
 
 ---
 
-<span style="color:red">4. Bu Maddədə nəzərdə tutulmuş məzuniyyət haqqının ödənilməsi üçün əmək haqqının hesablanması qaydası işçiyə istifadə edilməmiş məzuniyyətə görə pul əvəzi ödənilərkən də tətbiq edilir. [220]</span>
+4. Bu Maddədə nəzərdə tutulmuş məzuniyyət haqqının ödənilməsi üçün əmək haqqının hesablanması qaydası işçiyə istifadə edilməmiş məzuniyyətə görə pul əvəzi ödənilərkən də tətbiq edilir. [220]
 
 ---
 
-<span style="color:red">5. İşçiyə məzuniyyət vaxtı üçün orta əmək haqqı məzuniyyətin başlanmasına ən geci 3 gün qalmış ödənilir.</span>
+5. İşçiyə məzuniyyət vaxtı üçün orta əmək haqqı məzuniyyətin başlanmasına ən geci 3 gün qalmış ödənilir.
 
 ---
 
-<span style="color:red">6. Əmək müqaviləsində, kollektiv müqavilədə başqa hal nəzərdə tutulmayıbsa, məzuniyyət vaxtı üçün orta əmək haqqı müəyyən səbəbdən məzuniyyət başlanandan sonra ödənilmişdirsə, işçinin tələbi ilə məzuniyyətin başlanma vaxtı əmək haqqının faktik olaraq verildiyi gündən hesablanıla bilər.</span>
+6. Əmək müqaviləsində, kollektiv müqavilədə başqa hal nəzərdə tutulmayıbsa, məzuniyyət vaxtı üçün orta əmək haqqı müəyyən səbəbdən məzuniyyət başlanandan sonra ödənilmişdirsə, işçinin tələbi ilə məzuniyyətin başlanma vaxtı əmək haqqının faktik olaraq verildiyi gündən hesablanıla bilər.
 
 ---
 
-<span style="color:red">7. Məzuniyyət vaxtı üçün hesablanmış orta əmək haqqı qanunvericilikdə nəzərdə tutulmuş qaydada əmsallaşdırılıb ödənilməlidir.</span>
+7. Məzuniyyət vaxtı üçün hesablanmış orta əmək haqqı qanunvericilikdə nəzərdə tutulmuş qaydada əmsallaşdırılıb ödənilməlidir.
 
 ---
 
@@ -3455,35 +3455,35 @@ e) təhsil müəssisələrində oxuyan şəxslərin — kurs işlərinin və ya 
 
 ---
 
-### <span style="color:red">Maddə 143. Əmək münasibətlərinə xitam verilərkən məzuniyyət hüququnun həyata keçirilməsi</span>
+### Maddə 143. Əmək münasibətlərinə xitam verilərkən məzuniyyət hüququnun həyata keçirilməsi
 
 ---
 
-<span style="color:red">1. Müvafiq iş ilinin (illərinin) məzuniyyətindən istifadə etməmiş işçi ilə, bu Məcəllənin 70-ci Maddəsinin «a» və «ç» bəndlərində nəzərdə tutulmuş əsaslarla işdən çıxarılma halları istisna olmaqla qalan hallarda əmək müqaviləsinə xitam verilərkən işçinin arzusu ilə həmin iş ili (illəri) üçün ona məzuniyyət verilir və işdənçıxma tarixi məzuniyyətin son günü hesab edilir.</span>
+1. Müvafiq iş ilinin (illərinin) məzuniyyətindən istifadə etməmiş işçi ilə, bu Məcəllənin 70-ci Maddəsinin «a» və «ç» bəndlərində nəzərdə tutulmuş əsaslarla işdən çıxarılma halları istisna olmaqla qalan hallarda əmək müqaviləsinə xitam verilərkən işçinin arzusu ilə həmin iş ili (illəri) üçün ona məzuniyyət verilir və işdənçıxma tarixi məzuniyyətin son günü hesab edilir.
 
 ---
 
-<span style="color:red">2. İşçi bu Maddədə nəzərdə tutulmuş hallarda və qaydada məzuniyyətdən istifadə etmək istəmədikdə ona bu Məcəllənin 144-cü Maddəsi ilə müəyyən edilmiş qaydada və şərtlərlə istifadə edilməmiş məzuniyyətə görə pul əvəzi ödənilir.</span>
+2. İşçi bu Maddədə nəzərdə tutulmuş hallarda və qaydada məzuniyyətdən istifadə etmək istəmədikdə ona bu Məcəllənin 144-cü Maddəsi ilə müəyyən edilmiş qaydada və şərtlərlə istifadə edilməmiş məzuniyyətə görə pul əvəzi ödənilir.
 
 ---
 
-### <span style="color:red">Maddə 144. İstifadə edilməmiş məzuniyyətlər üçün pul əvəzinin verilməsi</span>
+### Maddə 144. İstifadə edilməmiş məzuniyyətlər üçün pul əvəzinin verilməsi
 
 ---
 
-<span style="color:red">1. ləğv edilmişdir. [221]</span>
+1. ləğv edilmişdir. [221]
 
 ---
 
-<span style="color:red">2. Əmək müqaviləsinə xitam verilməsinin səbəbindən və əsasından asılı olmayaraq işçiyə işdən çıxan günədək hər hansı şərt və ya məhdudiyyət qoyulmadan istifadə etmədiyi bütün iş illərinin əsas məzuniyyətlərinə görə pul əvəzi ödənilməlidir.</span>
+2. Əmək müqaviləsinə xitam verilməsinin səbəbindən və əsasından asılı olmayaraq işçiyə işdən çıxan günədək hər hansı şərt və ya məhdudiyyət qoyulmadan istifadə etmədiyi bütün iş illərinin əsas məzuniyyətlərinə görə pul əvəzi ödənilməlidir.
 
 ---
 
-<span style="color:red">3. Əmək münasibətlərinə xitam verilərkən bu Məcəllənin 115 və 116-cı Maddələrində nəzərdə tutulmuş əlavə məzuniyyətlərə, təhsil və yaradıcılıq məzuniyyətlərinə, habelə sosial məzuniyyətlərə görə pul əvəzi verilmir.</span>
+3. Əmək münasibətlərinə xitam verilərkən bu Məcəllənin 115 və 116-cı Maddələrində nəzərdə tutulmuş əlavə məzuniyyətlərə, təhsil və yaradıcılıq məzuniyyətlərinə, habelə sosial məzuniyyətlərə görə pul əvəzi verilmir.
 
 ---
 
-<span style="color:red">4. Müəyyən iş ilinə görə əmək məzuniyyətindən istifadə etmiş işçinin əmək müqaviləsinə həmin iş ili başa çatanadək xitam verilərkən ödənilmiş məzuniyyət haqqının müvafiq hissəsi işçidən tutula bilər.</span>
+4. Müəyyən iş ilinə görə əmək məzuniyyətindən istifadə etmiş işçinin əmək müqaviləsinə həmin iş ili başa çatanadək xitam verilərkən ödənilmiş məzuniyyət haqqının müvafiq hissəsi işçidən tutula bilər.
 
 ---
 
@@ -3491,15 +3491,15 @@ e) təhsil müəssisələrində oxuyan şəxslərin — kurs işlərinin və ya 
 
 ---
 
-### <span style="color:red">Maddə 146. Müəssisədə işin dayandırılması ilə əlaqədar işçilərin qrup halında məzuniyyətə buraxılmasının tənzimlənməsi</span>
+### Maddə 146. Müəssisədə işin dayandırılması ilə əlaqədar işçilərin qrup halında məzuniyyətə buraxılmasının tənzimlənməsi
 
 ---
 
-<span style="color:red">1. Kollektiv müqavilələrdə, belə müqavilələr bağlanmadığı hallarda əmək müqavilələrində nəzərdə tutulan şərtlərlə və qaydalarda, işin normal ahəngini pozan amillər — təbii fəlakət, istehsalat qəzaları və operativ surətdə qarşısı alınmayan digər hallar mövcud olduqda, işəgötürənin təqsiri olmadan istehsalın, axın xəttinin və işin dayandırılması ilə əlaqədar olaraq işçilər qrup halında ödənişli, yaxud ödənişsiz məzuniyyətə buraxıla bilərlər. Bu halda ödənişsiz məzuniyyətin müddəti, işçinin bu Məcəllədə nəzərdə tutulmuş qaydada müəyyən edilmiş əsas məzuniyyətinin iki illik müddətinin cəmindən çox olmamalıdır.</span>
+1. Kollektiv müqavilələrdə, belə müqavilələr bağlanmadığı hallarda əmək müqavilələrində nəzərdə tutulan şərtlərlə və qaydalarda, işin normal ahəngini pozan amillər — təbii fəlakət, istehsalat qəzaları və operativ surətdə qarşısı alınmayan digər hallar mövcud olduqda, işəgötürənin təqsiri olmadan istehsalın, axın xəttinin və işin dayandırılması ilə əlaqədar olaraq işçilər qrup halında ödənişli, yaxud ödənişsiz məzuniyyətə buraxıla bilərlər. Bu halda ödənişsiz məzuniyyətin müddəti, işçinin bu Məcəllədə nəzərdə tutulmuş qaydada müəyyən edilmiş əsas məzuniyyətinin iki illik müddətinin cəmindən çox olmamalıdır.
 
 ---
 
-<span style="color:red">2. İşəgötürənin təqsiri üzündən istehsalın, axın xəttinin və işin dayandırıldığı hallarda işçilərin qrup halında ödənişsiz məzuniyyətə buraxılması yolverilməzdir. Bu hal işəgötürənin təqsiri üzündən boşdayanma hesab KM1 KM3 edilir və işçilərə bu Məcəllənin 169-cu Maddəsində nəzərdə tutulmuş məbləğdə əmək haqqı ödənilir. VI bölmə Əmək normaları, əməyin ödənilməsi normaları, qaydaları və təminatları İyirmi dördüncü fəsil Əmək normaları və işəmuzd qiymətləri</span>
+2. İşəgötürənin təqsiri üzündən istehsalın, axın xəttinin və işin dayandırıldığı hallarda işçilərin qrup halında ödənişsiz məzuniyyətə buraxılması yolverilməzdir. Bu hal işəgötürənin təqsiri üzündən boşdayanma hesab KM1 KM3 edilir və işçilərə bu Məcəllənin 169-cu Maddəsində nəzərdə tutulmuş məbləğdə əmək haqqı ödənilir. VI bölmə Əmək normaları, əməyin ödənilməsi normaları, qaydaları və təminatları İyirmi dördüncü fəsil Əmək normaları və işəmuzd qiymətləri
 
 ---
 
@@ -3607,15 +3607,15 @@ d) istehsalatın vaxtlı-vaxtında elektrik enerjisi, qaz və digər enerji daş
 
 ---
 
-### <span style="color:red">Maddə 152. İşəmuzd qiymətlərin ixtiraçılar və səmərələşdiricilər üçün saxlanması</span>
+### Maddə 152. İşəmuzd qiymətlərin ixtiraçılar və səmərələşdiricilər üçün saxlanması
 
 ---
 
-<span style="color:red">1. İxtiraların və ya səmərələşdirmə təkliflərinin tətbiq edilməsi nəticəsində hasilat, vaxt, xidmət normaları və işəmuzd qiymətlər dəyişərsə, əvvəlki qiymətlər yeni normalar və qiymətlər tətbiq edilən gündən altı ay ərzində həmin ixtiraların və təkliflərin müəllifləri üçün əmək haqqı hesablanarkən saxlanılır.</span>
+1. İxtiraların və ya səmərələşdirmə təkliflərinin tətbiq edilməsi nəticəsində hasilat, vaxt, xidmət normaları və işəmuzd qiymətlər dəyişərsə, əvvəlki qiymətlər yeni normalar və qiymətlər tətbiq edilən gündən altı ay ərzində həmin ixtiraların və təkliflərin müəllifləri üçün əmək haqqı hesablanarkən saxlanılır.
 
 ---
 
-<span style="color:red">2. İxtiranın, təklifin tətbiq edilməsində ixtiraçıya və ya səmərələşdiriciyə kömək etmiş digər işçilər üçün əmək haqqı hesablanarkən isə əvvəlki qiymətlər 3 ay ərzində saxlanılır.</span>
+2. İxtiranın, təklifin tətbiq edilməsində ixtiraçıya və ya səmərələşdiriciyə kömək etmiş digər işçilər üçün əmək haqqı hesablanarkən isə əvvəlki qiymətlər 3 ay ərzində saxlanılır.
 
 ---
 
@@ -3723,19 +3723,19 @@ d) istehsalatın vaxtlı-vaxtında elektrik enerjisi, qaz və digər enerji daş
 
 ---
 
-### <span style="color:red">Maddə 158. Əməyin ödənilməsi sistemlərinin tətbiqi qaydaları</span>
+### Maddə 158. Əməyin ödənilməsi sistemlərinin tətbiqi qaydaları
 
 ---
 
-<span style="color:red">1. Əməyin ödənilməsi növləri, sistemləri, tarif (vəzifə) maaşları, ona edilmiş əlavələr, mükafatlar, digər həvəsləndirici ödənclərin miqdarı kollektiv müqavilələrlə, əmək müqavilələri ilə müəyyən edilir, kollektiv müqavilənin bağlanmadığı hallarda əmək müqaviləsi ilə və ya işəgötürənlə həmkarlar ittifaqları təşkilatı arasında razılaşmalarla müəyyən edilir.</span>
+1. Əməyin ödənilməsi növləri, sistemləri, tarif (vəzifə) maaşları, ona edilmiş əlavələr, mükafatlar, digər həvəsləndirici ödənclərin miqdarı kollektiv müqavilələrlə, əmək müqavilələri ilə müəyyən edilir, kollektiv müqavilənin bağlanmadığı hallarda əmək müqaviləsi ilə və ya işəgötürənlə həmkarlar ittifaqları təşkilatı arasında razılaşmalarla müəyyən edilir.
 
 ---
 
-<span style="color:red">2. Büdcədən maliyyələşdirilən müəssisələrdə çalışan işçilərin əməyinin ödənilməsi sistemi, növləri və məbləği müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.</span>
+2. Büdcədən maliyyələşdirilən müəssisələrdə çalışan işçilərin əməyinin ödənilməsi sistemi, növləri və məbləği müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
 
 ---
 
-<span style="color:red">3. İşçinin əmək haqqının miqdarı onun əmək funksiyasının icrasının nəticələri, şəxsi işgüzarlıq və peşəkarlıq səviyyəsi ilə müəyyən edilir və hər hansı hədlə məhdudlaşdırıla bilməz.</span>
+3. İşçinin əmək haqqının miqdarı onun əmək funksiyasının icrasının nəticələri, şəxsi işgüzarlıq və peşəkarlıq səviyyəsi ilə müəyyən edilir və hər hansı hədlə məhdudlaşdırıla bilməz.
 
 ---
 
@@ -3819,35 +3819,35 @@ d) istehsalatın vaxtlı-vaxtında elektrik enerjisi, qaz və digər enerji daş
 
 ---
 
-### <span style="color:red">Maddə 165. İş vaxtından artıq vaxtda görülən işə görə əmək haqqının ödənilməsi</span>
+### Maddə 165. İş vaxtından artıq vaxtda görülən işə görə əmək haqqının ödənilməsi
 
 ---
 
-<span style="color:red">1. İşçilərə iş vaxtından artıq vaxt ərzində görülən işin hər saatı üçün əmək haqqı aşağıdakı kimi ödənilir: əməyin vaxtamuzd ödənilmə sistemində saatlıq tarif (vəzifə) maaşının ikiqat məbləğindən aşağı olmamaqla; əməyin işəmuzd ödənilmə sistemində işəmuzd əmək haqqı tam ödənilməklə müvafiq dərəcəli (ixtisaslı) vaxtamuzd işçinin saatlıq tarif (vəzifə) maaşından aşağı olmamaqla əlavə haqq məbləğində.</span>
+1. İşçilərə iş vaxtından artıq vaxt ərzində görülən işin hər saatı üçün əmək haqqı aşağıdakı kimi ödənilir: əməyin vaxtamuzd ödənilmə sistemində saatlıq tarif (vəzifə) maaşının ikiqat məbləğindən aşağı olmamaqla; əməyin işəmuzd ödənilmə sistemində işəmuzd əmək haqqı tam ödənilməklə müvafiq dərəcəli (ixtisaslı) vaxtamuzd işçinin saatlıq tarif (vəzifə) maaşından aşağı olmamaqla əlavə haqq məbləğində.
 
 ---
 
-<span style="color:red">2. Əmək müqaviləsində, kollektiv müqavilədə iş vaxtından artıq vaxt ərzində görülən işə görə işçilərə daha yüksək məbləğdə əlavə haqqın ödənilməsi nəzərdə tutula bilər.</span>
+2. Əmək müqaviləsində, kollektiv müqavilədə iş vaxtından artıq vaxt ərzində görülən işə görə işçilərə daha yüksək məbləğdə əlavə haqqın ödənilməsi nəzərdə tutula bilər.
 
 ---
 
-<span style="color:red">3. İş vaxtından artıq işlərin əlavə istirahət günü ilə əvəz edilməsinə yol verilmir.</span>
+3. İş vaxtından artıq işlərin əlavə istirahət günü ilə əvəz edilməsinə yol verilmir.
 
 ---
 
-### <span style="color:red">Maddə 166. Gecə vaxtı yerinə yetirilən işə və çoxnövbəli iş rejiminə görə haqqın ödənilməsi [229]</span>
+### Maddə 166. Gecə vaxtı yerinə yetirilən işə və çoxnövbəli iş rejiminə görə haqqın ödənilməsi [229]
 
 ---
 
-<span style="color:red">1. Gecə vaxtı yerinə yetirilən iş, habelə çoxnövbəli iş rejiminə görə əmək haqqı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş həddən aşağı olmamaqla işəgötürən tərəfindən yüksək məbləğdə ödənilir.</span>
+1. Gecə vaxtı yerinə yetirilən iş, habelə çoxnövbəli iş rejiminə görə əmək haqqı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş həddən aşağı olmamaqla işəgötürən tərəfindən yüksək məbləğdə ödənilir.
 
 ---
 
-<span style="color:red">2. Gecə vaxtı yerinə yetirilən iş, habelə çoxnövbəli iş rejiminə görə əmək haqqına əlavə ödəmənin konkret məbləği əmək müqaviləsi və ya kollektiv müqavilə ilə müəyyən edilir.</span>
+2. Gecə vaxtı yerinə yetirilən iş, habelə çoxnövbəli iş rejiminə görə əmək haqqına əlavə ödəmənin konkret məbləği əmək müqaviləsi və ya kollektiv müqavilə ilə müəyyən edilir.
 
 ---
 
-### <span style="color:red">Maddə 167. Hasilat normaları yerinə yetirilmədikdə əməyin ödənilməsi qaydası İşçinin təqsiri olmadan hasilat normaları yerinə yetirilmədikdə, faktik olaraq yerinə yetirilmiş iş üçün haqq verilir. Bu halda aylıq əmək haqqı işçi üçün müəyyən edilmiş dərəcənin tarif (vəzifə) maaşının üçdə iki hissəsindən az olmamalıdır.</span>
+### Maddə 167. Hasilat normaları yerinə yetirilmədikdə əməyin ödənilməsi qaydası İşçinin təqsiri olmadan hasilat normaları yerinə yetirilmədikdə, faktik olaraq yerinə yetirilmiş iş üçün haqq verilir. Bu halda aylıq əmək haqqı işçi üçün müəyyən edilmiş dərəcənin tarif (vəzifə) maaşının üçdə iki hissəsindən az olmamalıdır.
 
 ---
 
@@ -3935,23 +3935,23 @@ d) istehsalatın vaxtlı-vaxtında elektrik enerjisi, qaz və digər enerji daş
 
 ---
 
-### <span style="color:red">Maddə 174. Əmək haqqının verilmə yeri, forması və ödənilmə vahidi</span>
+### Maddə 174. Əmək haqqının verilmə yeri, forması və ödənilmə vahidi
 
 ---
 
-<span style="color:red">1. Əmək haqqı, bir qayda olaraq, işin icra olunduğu iş yerində verilir.</span>
+1. Əmək haqqı, bir qayda olaraq, işin icra olunduğu iş yerində verilir.
 
 ---
 
-<span style="color:red">2. Əmək haqqı işçinin istəyi ilə onun bankdakı hesabına köçürülə və ya müvafiq ünvana göndərilə bilər.</span>
+2. Əmək haqqı işçinin istəyi ilə onun bankdakı hesabına köçürülə və ya müvafiq ünvana göndərilə bilər.
 
 ---
 
-<span style="color:red">3. İşçinin razılığı ilə əmək haqqının 20 faizə qədəri mütənasib dəyərli natura formasında müəssisədə istehsal edilən istehlak malları ilə, lakin alkoqollu içkilər, 18 yaşına çatmamış işçilərə energetik içkilər, habelə, tütün məmulatları, narkotik vasitələr və psixotrop Maddələr və mülki dövriyyədə olmasına yol verilməyən (mülki dövriyyəsi məhdudlaşdırılmış) digər əşyalar istisna olunmaqla, digər məişətdə işlədilən gündəlik tələbat malları ilə əvəz edilib verilə bilər. [232]</span>
+3. İşçinin razılığı ilə əmək haqqının 20 faizə qədəri mütənasib dəyərli natura formasında müəssisədə istehsal edilən istehlak malları ilə, lakin alkoqollu içkilər, 18 yaşına çatmamış işçilərə energetik içkilər, habelə, tütün məmulatları, narkotik vasitələr və psixotrop Maddələr və mülki dövriyyədə olmasına yol verilməyən (mülki dövriyyəsi məhdudlaşdırılmış) digər əşyalar istisna olunmaqla, digər məişətdə işlədilən gündəlik tələbat malları ilə əvəz edilib verilə bilər. [232]
 
 ---
 
-<span style="color:red">4. Əmək haqqı Azərbaycan Respublikasının pul vahidi — manatla ödənilir.</span>
+4. Əmək haqqı Azərbaycan Respublikasının pul vahidi — manatla ödənilir.
 
 ---
 
@@ -4063,19 +4063,19 @@ g) həmkarlar ittifaqının üzvü olan işçilərin əmək haqqından mühasiba
 
 ---
 
-### <span style="color:red">Maddə 178. Əməyin ödənilməsinin təminatları</span>
+### Maddə 178. Əməyin ödənilməsinin təminatları
 
 ---
 
-<span style="color:red">1. İşəgötürən maliyyə vəziyyətindən asılı olmayaraq işçiyə onun gördüyü işin müqabilində müəyyən edilmiş əmək haqqını bu Məcəllənin 172-ci Maddəsi ilə müəyyən edilmiş müddətlərdə ödəməyə borcludur. İşçiyə aylıq əmək haqqının ödənilməməsində təqsirkar olan işəgötürən qanunvericilikdə nəzərdə tutulan qaydada müvafiq məsuliyyətə cəlb edilməlidir.</span>
+1. İşəgötürən maliyyə vəziyyətindən asılı olmayaraq işçiyə onun gördüyü işin müqabilində müəyyən edilmiş əmək haqqını bu Məcəllənin 172-ci Maddəsi ilə müəyyən edilmiş müddətlərdə ödəməyə borcludur. İşçiyə aylıq əmək haqqının ödənilməməsində təqsirkar olan işəgötürən qanunvericilikdə nəzərdə tutulan qaydada müvafiq məsuliyyətə cəlb edilməlidir.
 
 ---
 
-<span style="color:red">2. Müəssisənin ləğv edildiyi hallarda birinci növbədə işçilərin əmək haqqı, sosial müdafiə xarakterli bütün ödəmələri, o cümlədən istifadə etmədiyi məzuniyyətə görə pul əvəzi, bu Məcəllənin 77 və 239-cu Maddələri ilə müəyyən edilmiş ödəmələri, habelə müəssisənin fəaliyyəti dayandırıldığı günə işçiyə verilməli olan digər ödənclər işəgötürən tərəfindən ödənilməlidir. Müəssisənin müflisləşməsi nəticəsində iflasa uğradığı hallarda isə işçilərə həmin ödənclər qanunvericilikdə nəzərdə tutulmuş qaydada ödənilməlidir.</span>
+2. Müəssisənin ləğv edildiyi hallarda birinci növbədə işçilərin əmək haqqı, sosial müdafiə xarakterli bütün ödəmələri, o cümlədən istifadə etmədiyi məzuniyyətə görə pul əvəzi, bu Məcəllənin 77 və 239-cu Maddələri ilə müəyyən edilmiş ödəmələri, habelə müəssisənin fəaliyyəti dayandırıldığı günə işçiyə verilməli olan digər ödənclər işəgötürən tərəfindən ödənilməlidir. Müəssisənin müflisləşməsi nəticəsində iflasa uğradığı hallarda isə işçilərə həmin ödənclər qanunvericilikdə nəzərdə tutulmuş qaydada ödənilməlidir.
 
 ---
 
-<span style="color:red">3. Əgər bu Maddənin ikinci hissəsində göstərilmiş hallarda ödəncləri ödəməyə işəgötürənin maddi-maliyyə imkanı yoxdursa, onda işçilərə həmin ödənclər müəssisənin əmlakı satılmaqla və ya müvafiq normativ hüquqi aktlarla müəyyən edilən qaydada dövlət tərəfindən yaradılmış təminat sistemi ilə ödənilməlidir.</span>
+3. Əgər bu Maddənin ikinci hissəsində göstərilmiş hallarda ödəncləri ödəməyə işəgötürənin maddi-maliyyə imkanı yoxdursa, onda işçilərə həmin ödənclər müəssisənin əmlakı satılmaqla və ya müvafiq normativ hüquqi aktlarla müəyyən edilən qaydada dövlət tərəfindən yaradılmış təminat sistemi ilə ödənilməlidir.
 
 ---
 
@@ -4183,19 +4183,19 @@ o) dövlət orqanlarının, elmi müəssisələrin, idarə və təşkilatların 
 
 ---
 
-### <span style="color:red">Maddə 182. Müəssisədaxili intizam qaydaları</span>
+### Maddə 182. Müəssisədaxili intizam qaydaları
 
 ---
 
-<span style="color:red">1. Müəssisələrdə əmək müqavilələri, habelə bağlanmış kollektiv müqavilələr üzrə tərəflərin öhdəliklərinin yerinə yetirilməsinə nəzarətin həyata keçirilməsi, əmək qanunvericiliyinin tələblərinin gözlənilməsi və əmək intizamının təmin olunması məqsədi ilə müəssisədaxili intizam qaydaları qəbul edilə bilər.</span>
+1. Müəssisələrdə əmək müqavilələri, habelə bağlanmış kollektiv müqavilələr üzrə tərəflərin öhdəliklərinin yerinə yetirilməsinə nəzarətin həyata keçirilməsi, əmək qanunvericiliyinin tələblərinin gözlənilməsi və əmək intizamının təmin olunması məqsədi ilə müəssisədaxili intizam qaydaları qəbul edilə bilər.
 
 ---
 
-<span style="color:red">2. Müəssisələr birliyinin nizamnaməsində nəzərdə tutulmuş hallarda müəssisədaxili intizam qaydaları birliyin müvafiq icra orqanı tərəfindən həmin birliyə daxil olan müəssisələr üçün də qəbul edilə bilər.</span>
+2. Müəssisələr birliyinin nizamnaməsində nəzərdə tutulmuş hallarda müəssisədaxili intizam qaydaları birliyin müvafiq icra orqanı tərəfindən həmin birliyə daxil olan müəssisələr üçün də qəbul edilə bilər.
 
 ---
 
-<span style="color:red">3. Müəssisədaxili intizam qaydaları bu Məcəlləyə, habelə əmək qanunvericiliyi üzrə digər normativ hüquqi aktlara uyğun tərtib edilməlidir. Bu normativ hüquqi aktlara zidd olan müəssisədaxili intizam qaydalarının müvafiq müddəaları və onların tətbiqinin hüquqi nəticələri etibarsız hesab edilir.</span>
+3. Müəssisədaxili intizam qaydaları bu Məcəlləyə, habelə əmək qanunvericiliyi üzrə digər normativ hüquqi aktlara uyğun tərtib edilməlidir. Bu normativ hüquqi aktlara zidd olan müəssisədaxili intizam qaydalarının müvafiq müddəaları və onların tətbiqinin hüquqi nəticələri etibarsız hesab edilir.
 
 ---
 
@@ -4319,23 +4319,23 @@ c) kollektiv müqavilələrdə nəzərdə tutulmuşdursa, aylıq əmək haqqın�
 
 ---
 
-### <span style="color:red">Maddə 187. İntizam tənbehinin verilməsi qaydaları</span>
+### Maddə 187. İntizam tənbehinin verilməsi qaydaları
 
 ---
 
-<span style="color:red">1. İntizam tənbehi verilməmişdən əvvəl işəgötürən işçidən yazılı izahatın verilməsini tələb edir. İşçinin yazılı izahat verməkdən imtina etməsi ona intizam tənbehi verilməsini istisna etmir.</span>
+1. İntizam tənbehi verilməmişdən əvvəl işəgötürən işçidən yazılı izahatın verilməsini tələb edir. İşçinin yazılı izahat verməkdən imtina etməsi ona intizam tənbehi verilməsini istisna etmir.
 
 ---
 
-<span style="color:red">2. İntizam tənbehi, işçi tərəfindən əmək və ya icra intizamının pozulduğu aşkar edildiyi gündən bir ay keçənədək verilə bilər. İşçinin xəstə olduğu, yaxud məzuniyyətdə, ezamiyyətdə olduğu vaxt həmin müddətə daxil edilmir.</span>
+2. İntizam tənbehi, işçi tərəfindən əmək və ya icra intizamının pozulduğu aşkar edildiyi gündən bir ay keçənədək verilə bilər. İşçinin xəstə olduğu, yaxud məzuniyyətdə, ezamiyyətdə olduğu vaxt həmin müddətə daxil edilmir.
 
 ---
 
-<span style="color:red">3. İntizam xətasının törədildiyi gündən altı ay keçdikdən sonra işçiyə intizam tənbehi verilə bilməz. Müəssisənin maliyyə-təsərrüfat fəaliyyətinin auditinin (yoxlanılmasının, təftiş aparılmasının) nəticələri ilə aşkar edilmiş vəzifə hüquqpozması ilə bağlı intizam xətalarına görə isə işçiyə həmin xətalar törədildiyi gündən iki il keçdikdən sonra intizam tənbehi verilə bilməz. Cinayət işi üzrə icraat bu müddətə daxil edilmir. [243]</span>
+3. İntizam xətasının törədildiyi gündən altı ay keçdikdən sonra işçiyə intizam tənbehi verilə bilməz. Müəssisənin maliyyə-təsərrüfat fəaliyyətinin auditinin (yoxlanılmasının, təftiş aparılmasının) nəticələri ilə aşkar edilmiş vəzifə hüquqpozması ilə bağlı intizam xətalarına görə isə işçiyə həmin xətalar törədildiyi gündən iki il keçdikdən sonra intizam tənbehi verilə bilməz. Cinayət işi üzrə icraat bu müddətə daxil edilmir. [243]
 
 ---
 
-<span style="color:red">4. İdarə, müəssisə və ya təşkilatın korrupsiya ilə əlaqədar hüquqpozmalarla bağlı məlumat vermiş işçisi barəsində intizam tənbehini tətbiq edən idarə, müəssisə və ya təşkilat intizam tənbehinin qanunla müəyyən edilmiş hallardan irəli gəlməsini və korrupsiya ilə əlaqədar hüquqpozmalarla bağlı məlumata aidiyyəti olmadığını əsaslandırmalıdır. [244]</span>
+4. İdarə, müəssisə və ya təşkilatın korrupsiya ilə əlaqədar hüquqpozmalarla bağlı məlumat vermiş işçisi barəsində intizam tənbehini tətbiq edən idarə, müəssisə və ya təşkilat intizam tənbehinin qanunla müəyyən edilmiş hallardan irəli gəlməsini və korrupsiya ilə əlaqədar hüquqpozmalarla bağlı məlumata aidiyyəti olmadığını əsaslandırmalıdır. [244]
 
 ---
 
@@ -4443,15 +4443,15 @@ c) təqsirkarın qanunazidd əməli ilə bu əməlin nəticəsi arasında səbə
 
 ---
 
-### <span style="color:red">Maddə 194. Vurulan ziyanın ödənilməsinin təmin edilməsi şərtləri</span>
+### Maddə 194. Vurulan ziyanın ödənilməsinin təmin edilməsi şərtləri
 
 ---
 
-<span style="color:red">1. Ziyan vurmaqda təqsirli olan tərəf cinayət məsuliyyətinə, habelə inzibati və digər məsuliyyətə cəlb edilməsindən asılı olmayaraq müəyyən edilmiş qaydada maddi ziyanın məbləğini ödəməyə borcludur.</span>
+1. Ziyan vurmaqda təqsirli olan tərəf cinayət məsuliyyətinə, habelə inzibati və digər məsuliyyətə cəlb edilməsindən asılı olmayaraq müəyyən edilmiş qaydada maddi ziyanın məbləğini ödəməyə borcludur.
 
 ---
 
-<span style="color:red">2. Ziyan vurulduqdan sonra əmək münasibətlərinə xitam verilməsi təqsirkar tərəfi maddi məsuliyyətdən azad etmir. Otuz birinci fəsil İşəgötürənin işçiyə vurduğu ziyana görə maddi məsuliyyəti və onun həlli qaydaları</span>
+2. Ziyan vurulduqdan sonra əmək münasibətlərinə xitam verilməsi təqsirkar tərəfi maddi məsuliyyətdən azad etmir. Otuz birinci fəsil İşəgötürənin işçiyə vurduğu ziyana görə maddi məsuliyyəti və onun həlli qaydaları
 
 ---
 
@@ -4539,39 +4539,39 @@ g) işçi seksual qısnamaya məruz qaldıqda. [245]
 
 ---
 
-### <span style="color:red">Maddə 199. İşçinin tam maddi məsuliyyəti İşçi qanunazidd hərəkətləri ilə aşağıdakı hallarda vurduğu ziyana görə tam həcmdə maddi məsuliyyət daşıyır:</span>
+### Maddə 199. İşçinin tam maddi məsuliyyəti İşçi qanunazidd hərəkətləri ilə aşağıdakı hallarda vurduğu ziyana görə tam həcmdə maddi məsuliyyət daşıyır:
 
 ---
 
-<span style="color:red">a) saxlanmaq və başqa məqsədlər üçün işçiyə verilmiş əmlakın və digər sərvətlərin salamatlığını təmin etməməyə görə əmək müqaviləsi bağlanarkən, habelə əmək münasibətləri prosesində əmək funksiyasının xarakteri ilə əlaqədar olaraq işçinin öz üzərinə tam maddi məsuliyyət götürməsi haqqında işəgötürənlə yazılı müqavilə bağlandıqda;</span>
+a) saxlanmaq və başqa məqsədlər üçün işçiyə verilmiş əmlakın və digər sərvətlərin salamatlığını təmin etməməyə görə əmək müqaviləsi bağlanarkən, habelə əmək münasibətləri prosesində əmək funksiyasının xarakteri ilə əlaqədar olaraq işçinin öz üzərinə tam maddi məsuliyyət götürməsi haqqında işəgötürənlə yazılı müqavilə bağlandıqda;
 
 ---
 
-<span style="color:red">b) işçi əmlakı və digər sərvətləri birdəfəlik etibarnamə və ya digər birdəfəlik hüquqmüəyyənedici sənədlər əsasında işəgötürənə, yaxud onun nümayəndəsinə hesabat vermək şərti ilə qəbul etdikdə;</span>
+b) işçi əmlakı və digər sərvətləri birdəfəlik etibarnamə və ya digər birdəfəlik hüquqmüəyyənedici sənədlər əsasında işəgötürənə, yaxud onun nümayəndəsinə hesabat vermək şərti ilə qəbul etdikdə;
 
 ---
 
-<span style="color:red">c) inzibati xətalar, yaxud cinayət, habelə vergi qanunvericiliyi ilə cəza verilməsi nəzərdə tutulmuş hərəkət və ya hərəkətsizliyində ictimai təhlükəli əməllərin əlamətləri olduqda; [246]</span>
+c) inzibati xətalar, yaxud cinayət, habelə vergi qanunvericiliyi ilə cəza verilməsi nəzərdə tutulmuş hərəkət və ya hərəkətsizliyində ictimai təhlükəli əməllərin əlamətləri olduqda; [246]
 
 ---
 
-<span style="color:red">ç) əmlakı və ya digər maddi sərvətləri qəsdən korladıqda, məhv etdikdə, habelə digər üsulla işəgötürənə qəsdən ziyan vurduqda;</span>
+ç) əmlakı və ya digər maddi sərvətləri qəsdən korladıqda, məhv etdikdə, habelə digər üsulla işəgötürənə qəsdən ziyan vurduqda;
 
 ---
 
-<span style="color:red">d) alkoqol, toksik (zəhərli), psixotrop Maddələrdən və ya narkotik vasitələrdən sərxoş vəziyyətdə ziyan vurulduqda; [247]</span>
+d) alkoqol, toksik (zəhərli), psixotrop Maddələrdən və ya narkotik vasitələrdən sərxoş vəziyyətdə ziyan vurulduqda; [247]
 
 ---
 
-<span style="color:red">e) işəgötürənin kommersiya sirrini yaydıqda;</span>
+e) işəgötürənin kommersiya sirrini yaydıqda;
 
 ---
 
-<span style="color:red">ə) işəgötürənin şəxsiyyətini ləkələyən, şərəf və ləyaqətini alçaldan, habelə həqiqətə uyğun olmayan böhtanlı və təhqirli iftiralar, yalan məlumatlar yaymaqla onun sahibkarlıq fəaliyyətinə ciddi xələl gətirmiş mənəvi ziyan vurulduqda.</span>
+ə) işəgötürənin şəxsiyyətini ləkələyən, şərəf və ləyaqətini alçaldan, habelə həqiqətə uyğun olmayan böhtanlı və təhqirli iftiralar, yalan məlumatlar yaymaqla onun sahibkarlıq fəaliyyətinə ciddi xələl gətirmiş mənəvi ziyan vurulduqda.
 
 ---
 
-<span style="color:red">2. Ziyanın vurulması aşkar edilən anda 18 yaşı tamam olmamış işçilər yalnız bu Maddənin birinci hissəsinin «c», «ç» və «d» bəndlərində göstərilən hallarda qanunvericiliklə müəyyən edilən qaydada tam maddi məsuliyyət daşıyırlar.</span>
+2. Ziyanın vurulması aşkar edilən anda 18 yaşı tamam olmamış işçilər yalnız bu Maddənin birinci hissəsinin «c», «ç» və «d» bəndlərində göstərilən hallarda qanunvericiliklə müəyyən edilən qaydada tam maddi məsuliyyət daşıyırlar.
 
 ---
 
@@ -4663,19 +4663,19 @@ g) işçi seksual qısnamaya məruz qaldıqda. [245]
 
 ---
 
-### <span style="color:red">Maddə 205. İşəgötürənə vurulan ziyanın məbləğinin işçidən tutulması qaydası</span>
+### Maddə 205. İşəgötürənə vurulan ziyanın məbləğinin işçidən tutulması qaydası
 
 ---
 
-<span style="color:red">1. İşəgötürənə vurduğu ziyanın məbləği işçinin orta əmək haqqından çox deyildirsə, onun tutulması işəgötürənin əmri (sərəncamı, qərarı) ilə həyata keçirilir.</span>
+1. İşəgötürənə vurduğu ziyanın məbləği işçinin orta əmək haqqından çox deyildirsə, onun tutulması işəgötürənin əmri (sərəncamı, qərarı) ilə həyata keçirilir.
 
 ---
 
-<span style="color:red">2. Əgər ziyan işçi tərəfindən tam maddi məsuliyyət daşıdığı hallarda vurulmuşdursa, onun məbləği isə işçinin orta aylıq əmək haqqından çoxdursa və işçi onu könüllü olaraq ödəməkdən imtina edirsə, onda işəgötürənin müraciəti əsasında həmin ziyan məhkəmə qaydasında ödənilə bilər.</span>
+2. Əgər ziyan işçi tərəfindən tam maddi məsuliyyət daşıdığı hallarda vurulmuşdursa, onun məbləği isə işçinin orta aylıq əmək haqqından çoxdursa və işçi onu könüllü olaraq ödəməkdən imtina edirsə, onda işəgötürənin müraciəti əsasında həmin ziyan məhkəmə qaydasında ödənilə bilər.
 
 ---
 
-<span style="color:red">3. İşçi ziyanın ödənilməsi barədə işəgötürənin əmri (sərəncamı, qərarı) ilə razı olmadıqda o, ərizə ilə işəgötürənə və müəyyən edilmiş qaydada məhkəməyə müraciət edə bilər.</span>
+3. İşçi ziyanın ödənilməsi barədə işəgötürənin əmri (sərəncamı, qərarı) ilə razı olmadıqda o, ərizə ilə işəgötürənə və müəyyən edilmiş qaydada məhkəməyə müraciət edə bilər.
 
 ---
 
@@ -4715,7 +4715,7 @@ g) işçi seksual qısnamaya məruz qaldıqda. [245]
 
 ---
 
-### <span style="color:red">Maddə 210. Əməyin mühafizəsi məsələlərinin həllində ictimai birliklərin iştirakı İşəgötürənlər, işçilər, habelə ayrı-ayrı fiziki şəxslər əməyin mühafizəsi problemlərini həll etmək üçün birləşərək ictimai birliklər haqqında qanunvericiliyə müvafiq olaraq fəaliyyət göstərən ictimai birliklər yarada bilərlər. Dövlət hakimiyyəti orqanları, habelə işəgötürənlər bu ictimai birliklərə hərtərəfli kömək göstərməli və əməyin mühafizəsinin təmin edilməsi barədə normativ hüquqi aktları qəbul edərkən onların təkliflərini və tövsiyələrini nəzərə almalıdır. Otuz dördüncü fəsil Əməyin mühafizəsinin hüquqi, təşkilati-texniki və maliyyə təminatı</span>
+### Maddə 210. Əməyin mühafizəsi məsələlərinin həllində ictimai birliklərin iştirakı İşəgötürənlər, işçilər, habelə ayrı-ayrı fiziki şəxslər əməyin mühafizəsi problemlərini həll etmək üçün birləşərək ictimai birliklər haqqında qanunvericiliyə müvafiq olaraq fəaliyyət göstərən ictimai birliklər yarada bilərlər. Dövlət hakimiyyəti orqanları, habelə işəgötürənlər bu ictimai birliklərə hərtərəfli kömək göstərməli və əməyin mühafizəsinin təmin edilməsi barədə normativ hüquqi aktları qəbul edərkən onların təkliflərini və tövsiyələrini nəzərə almalıdır. Otuz dördüncü fəsil Əməyin mühafizəsinin hüquqi, təşkilati-texniki və maliyyə təminatı
 
 ---
 
@@ -4751,35 +4751,35 @@ g) işçi seksual qısnamaya məruz qaldıqda. [245]
 
 ---
 
-### <span style="color:red">Maddə 215. Əməyin mühafizəsi sahəsində mülkiyyətçinin və işəgötürənlərin vəzifələri Müəssisənin mülkiyyətçisi və işəgötürəni işçilərin iş yerlərində əməyin mühafizəsi normalarının və qaydalarının yerinə yetirilməsinə bilavasitə cavabdehdirlər və aşağıdakı tədbirlərin həyata keçirilməsini təmin etməlidirlər: əməyin mühafizəsi üzrə standartların, normaların və qaydaların bütün tələblərinə əməl edilməsini; binaların, qurğuların, texnoloji proseslərin və avadanlığın təhlükəsizliyinə riayət edilməsini; bilavasitə iş yerlərinin sağlam sanitariya-gigiyena şəraitinin və əməyin mühafizəsinin qüvvədə olan normativlərə uyğunlaşdırılmasını; işçilərə lazımi sanitariya-məişət və müalicə-profilaktik xidmətinin təşkilini; əmək şəraiti zərərli, ağır olan və yeraltı işlərdə çalışan işçilərə pulsuz müalicəvi profilaktiki yeməklər, süd və ona bərabər tutulan digər məhsulların verilməsini; normal əmək və istirahət rejiminə riayət edilməsini; işçilərə müəyyən edilmiş müddətlərdə və tələb olunan çeşidlərdə pulsuz xüsusi geyim, xüsusi ayaqqabı və digər fərdi mühafizə vasitələrinin verilməsini; işçilərin əməyin mühafizəsi normaları və qaydaları üzrə təhsilinin, təlimatlandırılmasının, biliklərinin yoxlanılmasının təşkil edilməsini və əməyin mühafizəsinin təbliğini; kollektiv müqaviləyə əməyin mühafizəsi üzrə qaydaları daxil etməyi və onlarda nəzərdə tutulmuş öhdəliklərin yerinə yetirilməsini; müvafiq icra hakimiyyəti orqanının müəyyən etdiyi müddətdə və formada əməyin mühafizəsi, əmək şəraiti və onların qüvvədə olan normalara uyğunlaşdırılması üçün görülən tədbirlərin nəticələri haqqında statistik hesabatın verilməsini.</span>
+### Maddə 215. Əməyin mühafizəsi sahəsində mülkiyyətçinin və işəgötürənlərin vəzifələri Müəssisənin mülkiyyətçisi və işəgötürəni işçilərin iş yerlərində əməyin mühafizəsi normalarının və qaydalarının yerinə yetirilməsinə bilavasitə cavabdehdirlər və aşağıdakı tədbirlərin həyata keçirilməsini təmin etməlidirlər: əməyin mühafizəsi üzrə standartların, normaların və qaydaların bütün tələblərinə əməl edilməsini; binaların, qurğuların, texnoloji proseslərin və avadanlığın təhlükəsizliyinə riayət edilməsini; bilavasitə iş yerlərinin sağlam sanitariya-gigiyena şəraitinin və əməyin mühafizəsinin qüvvədə olan normativlərə uyğunlaşdırılmasını; işçilərə lazımi sanitariya-məişət və müalicə-profilaktik xidmətinin təşkilini; əmək şəraiti zərərli, ağır olan və yeraltı işlərdə çalışan işçilərə pulsuz müalicəvi profilaktiki yeməklər, süd və ona bərabər tutulan digər məhsulların verilməsini; normal əmək və istirahət rejiminə riayət edilməsini; işçilərə müəyyən edilmiş müddətlərdə və tələb olunan çeşidlərdə pulsuz xüsusi geyim, xüsusi ayaqqabı və digər fərdi mühafizə vasitələrinin verilməsini; işçilərin əməyin mühafizəsi normaları və qaydaları üzrə təhsilinin, təlimatlandırılmasının, biliklərinin yoxlanılmasının təşkil edilməsini və əməyin mühafizəsinin təbliğini; kollektiv müqaviləyə əməyin mühafizəsi üzrə qaydaları daxil etməyi və onlarda nəzərdə tutulmuş öhdəliklərin yerinə yetirilməsini; müvafiq icra hakimiyyəti orqanının müəyyən etdiyi müddətdə və formada əməyin mühafizəsi, əmək şəraiti və onların qüvvədə olan normalara uyğunlaşdırılması üçün görülən tədbirlərin nəticələri haqqında statistik hesabatın verilməsini.
 
 ---
 
-### <span style="color:red">Maddə 216. Əməyin mühafizəsi üzrə işçilərin vəzifələri Əməyin mühafizəsi üzrə işçilərin vəzifələrinə aşağıdakılar daxildir: əməyin mühafizəsi üzrə müvafiq normativ aktlarda nəzərdə tutulmuş əməyin təhlükəsizliyi, gigiyenası və yanğına qarşı mühafizə tələblərini öyrənmək, mənimsəmək və onlara əməl etmək; əmək funksiyasını özünü və başqa işçiləri təhlükəyə məruz qoymayacağı təqdirdə icra etmək, şəxsi buraxılışı olmadan qurğularda, dəzgahlarda, partlayış və həyat üçün təhlükəli digər mənbələrdə iş görməmək; verilmiş xüsusi geyimdə və ayaqqabıda işləmək, texnoloji prosesdə, əməyin mühafizəsi üzrə normalarda, qaydalarda və təlimatlarda nəzərdə tutulmuş fərdi və kollektiv mühafizə vasitələrindən istifadə etmək; əməyin mühafizəsi qaydalarının bütün pozuntuları haqqında, həmçinin baş vermiş qəzalar və bədbəxt hadisələr haqqında işəgötürənin nümayəndələrinə dərhal məlumat vermək; müntəzəm olaraq əməyin mühafizəsi normaları və qaydaları barədə biliklərini artırmaq; əməyin mühafizəsi məsələləri ilə əlaqədar işəgötürənin, iş yeri üzrə rəhbərinin, mütəxəssislərin tapşırıqlarına, məsləhətlərinə, tövsiyələrinə əməl etmək.</span>
+### Maddə 216. Əməyin mühafizəsi üzrə işçilərin vəzifələri Əməyin mühafizəsi üzrə işçilərin vəzifələrinə aşağıdakılar daxildir: əməyin mühafizəsi üzrə müvafiq normativ aktlarda nəzərdə tutulmuş əməyin təhlükəsizliyi, gigiyenası və yanğına qarşı mühafizə tələblərini öyrənmək, mənimsəmək və onlara əməl etmək; əmək funksiyasını özünü və başqa işçiləri təhlükəyə məruz qoymayacağı təqdirdə icra etmək, şəxsi buraxılışı olmadan qurğularda, dəzgahlarda, partlayış və həyat üçün təhlükəli digər mənbələrdə iş görməmək; verilmiş xüsusi geyimdə və ayaqqabıda işləmək, texnoloji prosesdə, əməyin mühafizəsi üzrə normalarda, qaydalarda və təlimatlarda nəzərdə tutulmuş fərdi və kollektiv mühafizə vasitələrindən istifadə etmək; əməyin mühafizəsi qaydalarının bütün pozuntuları haqqında, həmçinin baş vermiş qəzalar və bədbəxt hadisələr haqqında işəgötürənin nümayəndələrinə dərhal məlumat vermək; müntəzəm olaraq əməyin mühafizəsi normaları və qaydaları barədə biliklərini artırmaq; əməyin mühafizəsi məsələləri ilə əlaqədar işəgötürənin, iş yeri üzrə rəhbərinin, mütəxəssislərin tapşırıqlarına, məsləhətlərinə, tövsiyələrinə əməl etmək.
 
 ---
 
-### <span style="color:red">Maddə 217. İstehsalatda baş verən bədbəxt hadisələrin araşdırılması və uçota alınması qaydaları[254]</span>
+### Maddə 217. İstehsalatda baş verən bədbəxt hadisələrin araşdırılması və uçota alınması qaydaları[254]
 
 ---
 
-<span style="color:red">1. İşəgötürən istehsalatda baş verən bədbəxt hadisələrin ağırlıq dərəcəsindən asılı olmayaraq hadisənin araşdırılması üçün dərhal həmin hadisə baş verən günü əmək qanunvericiliyinə əməl olunmasına dövlət nəzarəti həyata keçirən orqana məlumat verməyə borcludur. [255]</span>
+1. İşəgötürən istehsalatda baş verən bədbəxt hadisələrin ağırlıq dərəcəsindən asılı olmayaraq hadisənin araşdırılması üçün dərhal həmin hadisə baş verən günü əmək qanunvericiliyinə əməl olunmasına dövlət nəzarəti həyata keçirən orqana məlumat verməyə borcludur. [255]
 
 ---
 
-<span style="color:red">2. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqan daxil olmuş məlumat əsasında bədbəxt hadisənin istehsalatla bağlılığının araşdırılması və onun təhqiqatının aparılması məqsədi ilə qanunvericiliklə müəyyən edilmiş qaydada komissiya yaradır və baş vermiş bədbəxt hadisənin təhqiqatının aparılmasını təşkil edir. [256]</span>
+2. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqan daxil olmuş məlumat əsasında bədbəxt hadisənin istehsalatla bağlılığının araşdırılması və onun təhqiqatının aparılması məqsədi ilə qanunvericiliklə müəyyən edilmiş qaydada komissiya yaradır və baş vermiş bədbəxt hadisənin təhqiqatının aparılmasını təşkil edir. [256]
 
 ---
 
-<span style="color:red">3. Bədbəxt hadisənin araşdırılması başa çatdıqdan sonra işəgötürən tərəfindən bir gündən gec olmayaraq qanunvericiliklə müəyyən edilmiş qaydada müvafiq akt tərtib edilməli və onun bir nüsxəsi mütləq zərərçəkən işçiyə təqdim olunmalıdır. [257]</span>
+3. Bədbəxt hadisənin araşdırılması başa çatdıqdan sonra işəgötürən tərəfindən bir gündən gec olmayaraq qanunvericiliklə müəyyən edilmiş qaydada müvafiq akt tərtib edilməli və onun bir nüsxəsi mütləq zərərçəkən işçiyə təqdim olunmalıdır. [257]
 
 ---
 
-<span style="color:red">4. Bədbəxt hadisənin baş vermə faktını gizlədən, aparılan araşdırılma barədə müvafiq akt tərtib etməkdən boyun qaçıran işəgötürən, onun səlahiyyətli vəzifəli şəxsi qanunvericilikdə nəzərdə tutulan qaydada məsuliyyət daşıyır. [258]</span>
+4. Bədbəxt hadisənin baş vermə faktını gizlədən, aparılan araşdırılma barədə müvafiq akt tərtib etməkdən boyun qaçıran işəgötürən, onun səlahiyyətli vəzifəli şəxsi qanunvericilikdə nəzərdə tutulan qaydada məsuliyyət daşıyır. [258]
 
 ---
 
-<span style="color:red">5. Bədbəxt hadisələrin araşdırılmasının, uçotunun aparılması bu Maddədə nəzərdə tutulmuş qaydalar əsasında müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş normativ hüquqi aktla tənzimlənir. [259]</span>
+5. Bədbəxt hadisələrin araşdırılmasının, uçotunun aparılması bu Maddədə nəzərdə tutulmuş qaydalar əsasında müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş normativ hüquqi aktla tənzimlənir. [259]
 
 ---
 
@@ -4815,27 +4815,27 @@ g) işçi seksual qısnamaya məruz qaldıqda. [245]
 
 ---
 
-### <span style="color:red">Maddə 219. Əməyin mühafizəsi üzrə mütəxəssislərin hazırlanması və işçilərin təlimi</span>
+### Maddə 219. Əməyin mühafizəsi üzrə mütəxəssislərin hazırlanması və işçilərin təlimi
 
 ---
 
-<span style="color:red">1. Dövlət müvafiq təhsil müəssisələrində ölkədə mövcud istehsalat xüsusiyyətlərini nəzərə almaqla əməyin mühafizəsi üzrə mütəxəssislərin hazırlanmasını təmin edir. [260]</span>
+1. Dövlət müvafiq təhsil müəssisələrində ölkədə mövcud istehsalat xüsusiyyətlərini nəzərə almaqla əməyin mühafizəsi üzrə mütəxəssislərin hazırlanmasını təmin edir. [260]
 
 ---
 
-<span style="color:red">2. İşəgötürənlər həmkarlar ittifaqları təşkilatlarının iştirakı ilə əməyin mühafizəsi üzrə işçilərin təlimi və əlavə təhsili sistemini təşkil etməli və qanunvericiliyə müvafiq həyata keçirməlidirlər. [261]</span>
+2. İşəgötürənlər həmkarlar ittifaqları təşkilatlarının iştirakı ilə əməyin mühafizəsi üzrə işçilərin təlimi və əlavə təhsili sistemini təşkil etməli və qanunvericiliyə müvafiq həyata keçirməlidirlər. [261]
 
 ---
 
-<span style="color:red">3. İşəgötürənlər və müəssisələrin rəhbər işçiləri 3 ildə bir dəfədən az olmayaraq əməyin mühafizəsi üzrə vaxtaşırı ixtisasartırma kurslarında təlim keçməli və bu sahədə onların bilikləri yoxlanılmalıdır.</span>
+3. İşəgötürənlər və müəssisələrin rəhbər işçiləri 3 ildə bir dəfədən az olmayaraq əməyin mühafizəsi üzrə vaxtaşırı ixtisasartırma kurslarında təlim keçməli və bu sahədə onların bilikləri yoxlanılmalıdır.
 
 ---
 
-<span style="color:red">4. İşçilərin təliminin və əlavə təhsilinin bütün formalarında əməyin mühafizəsi üzrə təlim nəzərdə tutulmalıdır. İşəgötürən işə qəbul edilən və başqa işə keçirilən işçilərə əməyin mühafizəsi üzrə təlimatlar verməli, onlara təhlükəsiz iş üsullarından istifadə etməyin və bədbəxt hadisələrdən zərərçəkənlərə ilk tibbi yardım göstərilməsi qaydalarının öyrədilməsini təşkil etməlidir. [262]</span>
+4. İşçilərin təliminin və əlavə təhsilinin bütün formalarında əməyin mühafizəsi üzrə təlim nəzərdə tutulmalıdır. İşəgötürən işə qəbul edilən və başqa işə keçirilən işçilərə əməyin mühafizəsi üzrə təlimatlar verməli, onlara təhlükəsiz iş üsullarından istifadə etməyin və bədbəxt hadisələrdən zərərçəkənlərə ilk tibbi yardım göstərilməsi qaydalarının öyrədilməsini təşkil etməlidir. [262]
 
 ---
 
-<span style="color:red">5. Zərərli, ağır istehsalatlardakı iş yerlərinə, peşələrə (vəzifələrə) və yüksək təhlükə mənbəyi olan maşın, mexanizmlərdə, avadanlıqlarda işləmək üçün işə götürülən işçilərin qabaqcadan əməyin mühafizəsi üzrə təlimatlandırılması keçirilmədən əmək funksiyasının icrasına başlamasına yol verilmir. İşəgötürən bu təlimatlandırmaların xüsusi jurnallarda qeydiyyatını və onların uçotunu aparmağa borcludur.</span>
+5. Zərərli, ağır istehsalatlardakı iş yerlərinə, peşələrə (vəzifələrə) və yüksək təhlükə mənbəyi olan maşın, mexanizmlərdə, avadanlıqlarda işləmək üçün işə götürülən işçilərin qabaqcadan əməyin mühafizəsi üzrə təlimatlandırılması keçirilmədən əmək funksiyasının icrasına başlamasına yol verilmir. İşəgötürən bu təlimatlandırmaların xüsusi jurnallarda qeydiyyatını və onların uçotunu aparmağa borcludur.
 
 ---
 
@@ -4927,27 +4927,27 @@ g) işçi seksual qısnamaya məruz qaldıqda. [245]
 
 ---
 
-### <span style="color:red">Maddə 223. Əməyin mühafizəsi xidmətləri</span>
+### Maddə 223. Əməyin mühafizəsi xidmətləri
 
 ---
 
-<span style="color:red">1. Əməyin mühafizəsi işinin təşkili və əməyin mühafizəsi üzrə qanunvericiliyin tələblərinə əməl edilməsinə nəzarətin həyata keçirilməsi üçün iqtisadiyyatın bütün sahələrinin müəssisələrində işçilərin sayı əlli nəfərdən çox olduqda əməyin mühafizəsi xidmətləri yaradılmalıdır. [268]</span>
+1. Əməyin mühafizəsi işinin təşkili və əməyin mühafizəsi üzrə qanunvericiliyin tələblərinə əməl edilməsinə nəzarətin həyata keçirilməsi üçün iqtisadiyyatın bütün sahələrinin müəssisələrində işçilərin sayı əlli nəfərdən çox olduqda əməyin mühafizəsi xidmətləri yaradılmalıdır. [268]
 
 ---
 
-<span style="color:red">2. Əməyin mühafizəsi xidmətinin tərkibinə əmək qanunvericiliyini, əməyin mühafizəsi normalarını mükəmməl bilən mütəxəssislər daxil edilir. İşçilərinin sayı əlli nəfərdən çox olan müəssisələrdə əməyin mühafizəsi üzrə mühəndis vəzifəsi, işçilərinin sayı beş yüz nəfərdən artıq olduqda isə müəssisə rəhbərinin (baş mühəndisinin) əməyin mühafizəsi üzrə müavini vəzifəsi təsis edilir. Min nəfərdən çox işçinin çalışdığı müəssisələrdə sənaye-sanitariya laboratoriyası təşkil olunur, habelə əməyin gigiyenası üzrə həkim vəzifəsi təsis edilir. [269]</span>
+2. Əməyin mühafizəsi xidmətinin tərkibinə əmək qanunvericiliyini, əməyin mühafizəsi normalarını mükəmməl bilən mütəxəssislər daxil edilir. İşçilərinin sayı əlli nəfərdən çox olan müəssisələrdə əməyin mühafizəsi üzrə mühəndis vəzifəsi, işçilərinin sayı beş yüz nəfərdən artıq olduqda isə müəssisə rəhbərinin (baş mühəndisinin) əməyin mühafizəsi üzrə müavini vəzifəsi təsis edilir. Min nəfərdən çox işçinin çalışdığı müəssisələrdə sənaye-sanitariya laboratoriyası təşkil olunur, habelə əməyin gigiyenası üzrə həkim vəzifəsi təsis edilir. [269]
 
 ---
 
-<span style="color:red">3. Əməyin mühafizəsi xidmətinin mütəxəssisləri əməyin mühafizəsi qaydalarına və normalarına əməl olunmasına nəzarət etmək, aşkara çıxarılmış pozuntuların aradan qaldırılması barədə vəzifəli şəxslərə icrası məcburi olan göstərişlər vermək, habelə əməyin mühafizəsi haqqında qanunvericiliyi pozan şəxslərin intizam məsuliyyətinə cəlb edilməsi barədə işəgötürənə təqdimatlar vermək hüququna malikdirlər.</span>
+3. Əməyin mühafizəsi xidmətinin mütəxəssisləri əməyin mühafizəsi qaydalarına və normalarına əməl olunmasına nəzarət etmək, aşkara çıxarılmış pozuntuların aradan qaldırılması barədə vəzifəli şəxslərə icrası məcburi olan göstərişlər vermək, habelə əməyin mühafizəsi haqqında qanunvericiliyi pozan şəxslərin intizam məsuliyyətinə cəlb edilməsi barədə işəgötürənə təqdimatlar vermək hüququna malikdirlər.
 
 ---
 
-<span style="color:red">4. Əməyin mühafizəsi xidmətinin rəhbərləri və mütəxəssisləri öz vəzifələrinə aid olmayan işlərin yerinə yetirilməsinə cəlb edilə bilməzlər və vəzifə borclarını düzgün və keyfiyyətli yerinə yetirməməyə görə qanunvericiliklə müəyyən edilmiş qaydada məsuliyyət daşıyırlar. [270]</span>
+4. Əməyin mühafizəsi xidmətinin rəhbərləri və mütəxəssisləri öz vəzifələrinə aid olmayan işlərin yerinə yetirilməsinə cəlb edilə bilməzlər və vəzifə borclarını düzgün və keyfiyyətli yerinə yetirməməyə görə qanunvericiliklə müəyyən edilmiş qaydada məsuliyyət daşıyırlar. [270]
 
 ---
 
-<span style="color:red">5. İşəgötürən əməyin mühafizəsi xidmətini yalnız əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqanın razılığı ilə yenidən təşkil və ya ləğv edə bilər. Otuz beşinci fəsil İşçinin əməyin mühafizəsi hüququnun həyata keçirilməsi üçün təminatlar</span>
+5. İşəgötürən əməyin mühafizəsi xidmətini yalnız əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqanın razılığı ilə yenidən təşkil və ya ləğv edə bilər. Otuz beşinci fəsil İşçinin əməyin mühafizəsi hüququnun həyata keçirilməsi üçün təminatlar
 
 ---
 
@@ -5023,19 +5023,19 @@ g) işçi seksual qısnamaya məruz qaldıqda. [245]
 
 ---
 
-### <span style="color:red">Maddə 232. İşçinin sağlamlığının mühafizəsi məqsədi ilə başqa yüngül işə keçirildiyi və əmək haqqının saxlandığı hallar</span>
+### Maddə 232. İşçinin sağlamlığının mühafizəsi məqsədi ilə başqa yüngül işə keçirildiyi və əmək haqqının saxlandığı hallar
 
 ---
 
-<span style="color:red">1. İşçi sağlamlığının mühafizəsinin təmin olunması məqsədi ilə səhhətinə mənfi təsir göstərməyən yüngül və əvvəlkinə nisbətən aşağı maaşlı işə keçirilə bilər. Bu halda işçilərin yüngül işə keçirildiyi gündən etibarən bir ay ərzində əvvəlki işi (vəzifəsi) üzrə orta əmək haqqı saxlanılır.</span>
+1. İşçi sağlamlığının mühafizəsinin təmin olunması məqsədi ilə səhhətinə mənfi təsir göstərməyən yüngül və əvvəlkinə nisbətən aşağı maaşlı işə keçirilə bilər. Bu halda işçilərin yüngül işə keçirildiyi gündən etibarən bir ay ərzində əvvəlki işi (vəzifəsi) üzrə orta əmək haqqı saxlanılır.
 
 ---
 
-<span style="color:red">2. Vərəm və digər xroniki ağır xəstəliyə tutulmuş və bu səbəbdən başqa az maaşlı işə müvəqqəti keçirilmiş işçilərə keçirildikləri bütün vaxt ərzində, lakin dörd aydan çox olmayaraq əvvəlki iş yerində aldığı əmək haqqı saxlanılır.</span>
+2. Vərəm və digər xroniki ağır xəstəliyə tutulmuş və bu səbəbdən başqa az maaşlı işə müvəqqəti keçirilmiş işçilərə keçirildikləri bütün vaxt ərzində, lakin dörd aydan çox olmayaraq əvvəlki iş yerində aldığı əmək haqqı saxlanılır.
 
 ---
 
-<span style="color:red">3. İş yerində bədbəxt hadisə nəticəsində əmək qabiliyyətini itirmiş və ya peşə xəstəliyinə tutulmuş və müvafiq həkim məsləhət komissiyası və ya müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəyi əsasında yüngül işə müvəqqəti keçirilmiş işçilərə əvvəlki əmək haqqı ilə yeni iş yerindəki əmək haqqı arasındakı fərq ödənilir. Bu fərq işçinin əmək qabiliyyəti bərpa olunanadək və ya əlillik, o cümlədən 18 yaşınadək sağlamlıq imkanlarının məhdudluğu müəyyən edildiyi vaxtadək ödənilməlidir. [272]</span>
+3. İş yerində bədbəxt hadisə nəticəsində əmək qabiliyyətini itirmiş və ya peşə xəstəliyinə tutulmuş və müvafiq həkim məsləhət komissiyası və ya müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəyi əsasında yüngül işə müvəqqəti keçirilmiş işçilərə əvvəlki əmək haqqı ilə yeni iş yerindəki əmək haqqı arasındakı fərq ödənilir. Bu fərq işçinin əmək qabiliyyəti bərpa olunanadək və ya əlillik, o cümlədən 18 yaşınadək sağlamlıq imkanlarının məhdudluğu müəyyən edildiyi vaxtadək ödənilməlidir. [272]
 
 ---
 
@@ -5119,7 +5119,7 @@ g) işçi seksual qısnamaya məruz qaldıqda. [245]
 
 ---
 
-### <span style="color:red">Maddə 238. Sağlam və təhlükəsiz əməyin mühafizəsi şəraitinin təmin edilməsinə görə işəgötürənlərin məsuliyyəti İşçilərin iş yerlərində sağlam və təhlükəsiz əməyin mühafizəsi şəraiti təmin edilmədikdə və kollektiv müqavilələrdə nəzərdə tutulan tədbirlər yerinə yetirilmədikdə qanunvericilikdə nəzərdə tutulmuş hallarda və qaydada işəgötürən inzibati və cinayət məsuliyyətinə cəlb edilir.</span>
+### Maddə 238. Sağlam və təhlükəsiz əməyin mühafizəsi şəraitinin təmin edilməsinə görə işəgötürənlərin məsuliyyəti İşçilərin iş yerlərində sağlam və təhlükəsiz əməyin mühafizəsi şəraiti təmin edilmədikdə və kollektiv müqavilələrdə nəzərdə tutulan tədbirlər yerinə yetirilmədikdə qanunvericilikdə nəzərdə tutulmuş hallarda və qaydada işəgötürən inzibati və cinayət məsuliyyətinə cəlb edilir.
 
 ---
 
@@ -5151,95 +5151,95 @@ g) işçi seksual qısnamaya məruz qaldıqda. [245]
 
 ---
 
-### <span style="color:red">Maddə 240. Hamilə və 3 yaşına çatmamış uşağı olan qadınlarla əmək müqaviləsi bağlanmasının xüsusiyyətləri</span>
+### Maddə 240. Hamilə və 3 yaşına çatmamış uşağı olan qadınlarla əmək müqaviləsi bağlanmasının xüsusiyyətləri
 
 ---
 
-<span style="color:red">1. Hamilə və ya 3 yaşına çatmamış uşağın olması səbəbinə görə qadınla əmək müqaviləsinin bağlanmasından imtina etmək yolverilməzdir. Bu qayda işəgötürənin müvafiq işi (vəzifəsi) olmadığı, habelə bu Məcəllənin 211-ci Maddəsinin 1-ci hissəsinin beşinci və altıncı abzaslarında nəzərdə tutulan iş yerlərinə (işlərə) işə götürməkdən imtina olunan hallara şamil olunmur. [279]</span>
+1. Hamilə və ya 3 yaşına çatmamış uşağın olması səbəbinə görə qadınla əmək müqaviləsinin bağlanmasından imtina etmək yolverilməzdir. Bu qayda işəgötürənin müvafiq işi (vəzifəsi) olmadığı, habelə bu Məcəllənin 211-ci Maddəsinin 1-ci hissəsinin beşinci və altıncı abzaslarında nəzərdə tutulan iş yerlərinə (işlərə) işə götürməkdən imtina olunan hallara şamil olunmur. [279]
 
 ---
 
-<span style="color:red">2. İşəgötürən hamilə və ya 3 yaşına çatmamış uşağı olan qadınla bu səbəblərə görə əmək müqaviləsi bağlamaqdan imtina etdikdə, qadın imtinanın səbəbi barədə işəgötürəndən yazılı cavab verilməsini tələb etmək hüququna malikdir. Əmək müqaviləsi bağlamaqdan imtina edilməsinin səbəblərinə görə qadın hüququnun müdafiə olunması üçün məhkəməyə müraciət edə bilər.</span>
+2. İşəgötürən hamilə və ya 3 yaşına çatmamış uşağı olan qadınla bu səbəblərə görə əmək müqaviləsi bağlamaqdan imtina etdikdə, qadın imtinanın səbəbi barədə işəgötürəndən yazılı cavab verilməsini tələb etmək hüququna malikdir. Əmək müqaviləsi bağlamaqdan imtina edilməsinin səbəblərinə görə qadın hüququnun müdafiə olunması üçün məhkəməyə müraciət edə bilər.
 
 ---
 
-### <span style="color:red">Maddə 241. Qadın əməyinin tətbiqi qadağan olunan iş yerləri və işlər [280]</span>
+### Maddə 241. Qadın əməyinin tətbiqi qadağan olunan iş yerləri və işlər [280]
 
 ---
 
-<span style="color:red">1. Əmək şəraiti ağır, zərərli olan iş yerlərində, habelə yeraltı tunellərdə, şaxtalarda və digər yeraltı işlərdə qadın əməyinin tətbiqi qadağandır.</span>
+1. Əmək şəraiti ağır, zərərli olan iş yerlərində, habelə yeraltı tunellərdə, şaxtalarda və digər yeraltı işlərdə qadın əməyinin tətbiqi qadağandır.
 
 ---
 
-<span style="color:red">2. Bir qayda olaraq, fiziki işlə məşğul olmayan, rəhbər vəzifələrdə çalışan və ya sosial, sanitar-tibbi xidmətlər göstərən, habelə fiziki işlər görmədən yeraltı iş yerlərinə düşüb qalxmaqla ayrı-ayrı vaxtlarda qadınlar tərəfindən müvafiq yeraltı işlərin yerinə yetirilməsinə yol verilir</span>
+2. Bir qayda olaraq, fiziki işlə məşğul olmayan, rəhbər vəzifələrdə çalışan və ya sosial, sanitar-tibbi xidmətlər göstərən, habelə fiziki işlər görmədən yeraltı iş yerlərinə düşüb qalxmaqla ayrı-ayrı vaxtlarda qadınlar tərəfindən müvafiq yeraltı işlərin yerinə yetirilməsinə yol verilir
 
 ---
 
-<span style="color:red">3. Qadınların bu Maddə ilə müəyyən edilmiş normalardan artıq ağır əşyaların qaldırılması və bir yerdən başqa yerə daşınması işlərinə cəlb edilməsi qadağandır.</span>
+3. Qadınların bu Maddə ilə müəyyən edilmiş normalardan artıq ağır əşyaların qaldırılması və bir yerdən başqa yerə daşınması işlərinə cəlb edilməsi qadağandır.
 
 ---
 
-<span style="color:red">4. Qadınların əmək funksiyasına yalnız aşağıdakı normalar həddində ümumi çəkisi olan ağır şeylərin əl ilə qaldırılması və daşınması işlərinin görülməsi (xidmətlərin göstərilməsi) daxil edilə bilər:</span>
+4. Qadınların əmək funksiyasına yalnız aşağıdakı normalar həddində ümumi çəkisi olan ağır şeylərin əl ilə qaldırılması və daşınması işlərinin görülməsi (xidmətlərin göstərilməsi) daxil edilə bilər:
 
 ---
 
-<span style="color:red">a) başqa işləri görməklə yanaşı eyni zamanda ümumi çəkisi 15 kiloqramdan çox olmayan əşyaların əl ilə qaldırılaraq başqa yerə daşınması;</span>
+a) başqa işləri görməklə yanaşı eyni zamanda ümumi çəkisi 15 kiloqramdan çox olmayan əşyaların əl ilə qaldırılaraq başqa yerə daşınması;
 
 ---
 
-<span style="color:red">b) ümumi çəkisi 10 kiloqramdan çox olmayan əşyanın bir metr yarımdan artıq hündürlüyə qaldırılması;</span>
+b) ümumi çəkisi 10 kiloqramdan çox olmayan əşyanın bir metr yarımdan artıq hündürlüyə qaldırılması;
 
 ---
 
-<span style="color:red">c) bütün iş günü (iş növbəsi) ərzində müntəzəm olaraq ümumi çəkisi 10 kiloqramdan çox olmayan əşyanın əl ilə qaldırılıb başqa yerə daşınması;</span>
+c) bütün iş günü (iş növbəsi) ərzində müntəzəm olaraq ümumi çəkisi 10 kiloqramdan çox olmayan əşyanın əl ilə qaldırılıb başqa yerə daşınması;
 
 ---
 
-<span style="color:red">ç) 15 kiloqramdan artıq gücün sərf edilməsi tələb olunan yüklənmiş təkərli araba və ya hərəkət edən digər vasitələrlə əşyaların daşınması.</span>
+ç) 15 kiloqramdan artıq gücün sərf edilməsi tələb olunan yüklənmiş təkərli araba və ya hərəkət edən digər vasitələrlə əşyaların daşınması.
 
 ---
 
-<span style="color:red">5. Hamilə və 3 yaşınadək uşağı olan qadınların bu Maddədə nəzərdə tutulmuş işlərin görülməsinə cəlb olunması qadağandır.</span>
+5. Hamilə və 3 yaşınadək uşağı olan qadınların bu Maddədə nəzərdə tutulmuş işlərin görülməsinə cəlb olunması qadağandır.
 
 ---
 
-<span style="color:red">6. Qadın əməyinin tətbiqi qadağan olunan əmək şəraiti zərərli və ağır olan istehsalatların, peşələrin (vəzifələrin), habelə yeraltı işlərin siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.</span>
+6. Qadın əməyinin tətbiqi qadağan olunan əmək şəraiti zərərli və ağır olan istehsalatların, peşələrin (vəzifələrin), habelə yeraltı işlərin siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.
 
 ---
 
-### <span style="color:red">Maddə 242. Qadınların gecə vaxtı yerinə yetirilən işlərə, iş vaxtından artıq işlərə və istirahət günlərində işə cəlb olunmasının, habelə ezamiyyətlərinin məhdudlaşdırılması</span>
+### Maddə 242. Qadınların gecə vaxtı yerinə yetirilən işlərə, iş vaxtından artıq işlərə və istirahət günlərində işə cəlb olunmasının, habelə ezamiyyətlərinin məhdudlaşdırılması
 
 ---
 
-<span style="color:red">1. Hamilə, 14 yaşınadək uşağı olan, həmçinin 18 yaşınadək əlilliyi müəyyən edilmiş uşağı olan qadınların gecə vaxtı yerinə yetirilən işlərə, iş vaxtından artıq işlərə, istirahət, iş günü hesab edilməyən bayram və digər günlərdə işə cəlb edilməsinə və ezamiyyətə göndərilməsinə yalnız onların yazılı razılığı ilə (hamilə və 3 yaşınadək uşağı olan qadınlara münasibətdə onların, habelə uşağın həyat və ya sağlamlığına təhlükə yaranmaması barədə həkim rəyi olduqda) yol verilir.</span>
+1. Hamilə, 14 yaşınadək uşağı olan, həmçinin 18 yaşınadək əlilliyi müəyyən edilmiş uşağı olan qadınların gecə vaxtı yerinə yetirilən işlərə, iş vaxtından artıq işlərə, istirahət, iş günü hesab edilməyən bayram və digər günlərdə işə cəlb edilməsinə və ezamiyyətə göndərilməsinə yalnız onların yazılı razılığı ilə (hamilə və 3 yaşınadək uşağı olan qadınlara münasibətdə onların, habelə uşağın həyat və ya sağlamlığına təhlükə yaranmaması barədə həkim rəyi olduqda) yol verilir.
 
 ---
 
-<span style="color:red">2. Bu Maddənin 1-ci hissəsi 14 yaşınadək uşağı, həmçinin 18 yaşınadək əlilliyi müəyyən edilmiş uşağı övladlığa götürən qadınlara da şamil edilir. [281]</span>
+2. Bu Maddənin 1-ci hissəsi 14 yaşınadək uşağı, həmçinin 18 yaşınadək əlilliyi müəyyən edilmiş uşağı övladlığa götürən qadınlara da şamil edilir. [281]
 
 ---
 
-### <span style="color:red">Maddə 243. Hamilə və yaş yarımadək uşaqlı qadınların daha yüngül işə keçirilməsi</span>
+### Maddə 243. Hamilə və yaş yarımadək uşaqlı qadınların daha yüngül işə keçirilməsi
 
 ---
 
-<span style="color:red">1. Tibbi rəyə uyğun olaraq hamilə qadınlar üçün hasilat və ya xidmət norması azaldılır, yaxud onlar zərərli istehsal amillərinin təsirini istisna edən daha yüngül işə keçirilirlər.</span>
+1. Tibbi rəyə uyğun olaraq hamilə qadınlar üçün hasilat və ya xidmət norması azaldılır, yaxud onlar zərərli istehsal amillərinin təsirini istisna edən daha yüngül işə keçirilirlər.
 
 ---
 
-<span style="color:red">2. Yaş yarımına çatmamış uşağı olan qadınlar, əmək funksiyasını yerinə yetirməklə yanaşı uşağını yedizdirməkdə və ya əmizdirməkdə çətinlik çəkirlərsə, işəgötürən qadının ərizəsi ilə onu uşağı yaş yarımına çatanadək başqa yüngül işə keçirməlidir və ya uşağının yedizdirilməsi üçün zəruri şəraitin yaradılmasını təmin etməlidir.</span>
+2. Yaş yarımına çatmamış uşağı olan qadınlar, əmək funksiyasını yerinə yetirməklə yanaşı uşağını yedizdirməkdə və ya əmizdirməkdə çətinlik çəkirlərsə, işəgötürən qadının ərizəsi ilə onu uşağı yaş yarımına çatanadək başqa yüngül işə keçirməlidir və ya uşağının yedizdirilməsi üçün zəruri şəraitin yaradılmasını təmin etməlidir.
 
 ---
 
-<span style="color:red">2-1. Bu Məcəllənin 211-ci Maddəsinin 1-ci hissəsinin be şinci və altıncı abzaslarında nəzərdə tutulan hallar baş verdikdə həmin hallar aradan qalxanadək işəgötürən hamilə və ya bir yaşına çatmamış uşağı olan qadınları yüngül işə keçirməlidir. [282]</span>
+2-1. Bu Məcəllənin 211-ci Maddəsinin 1-ci hissəsinin be şinci və altıncı abzaslarında nəzərdə tutulan hallar baş verdikdə həmin hallar aradan qalxanadək işəgötürən hamilə və ya bir yaşına çatmamış uşağı olan qadınları yüngül işə keçirməlidir. [282]
 
 ---
 
-<span style="color:red">3. Qadınlar bu Maddədə nəzərdə tutulmuş hallarda başqa yüngül işə keçirilərkən onların əsas vəzifələri üzrə orta əmək haqqı saxlanılır.</span>
+3. Qadınlar bu Maddədə nəzərdə tutulmuş hallarda başqa yüngül işə keçirilərkən onların əsas vəzifələri üzrə orta əmək haqqı saxlanılır.
 
 ---
 
-<span style="color:red">4. Hamiləlik və ya uşağının yedizdirilməsi səbəblərinə görə qadınların əmək haqqının azaldılması qadağandır.</span>
+4. Hamiləlik və ya uşağının yedizdirilməsi səbəblərinə görə qadınların əmək haqqının azaldılması qadağandır.
 
 ---
 
@@ -5311,43 +5311,43 @@ g) işçi seksual qısnamaya məruz qaldıqda. [245]
 
 ---
 
-### <span style="color:red">Maddə 251. Yaşı 18-dən az olan işçi tərəfindən ağırlığın qaldırılmasında məhdudiyyət qoyulan işlər</span>
+### Maddə 251. Yaşı 18-dən az olan işçi tərəfindən ağırlığın qaldırılmasında məhdudiyyət qoyulan işlər
 
 ---
 
-<span style="color:red">1. Yaşı 18-dən az olan işçilərin bu Maddə ilə müəyyən edilmiş normalardan artıq ağır əşyaların qaldırılması və bir yerdən başqa yerə daşınması işlərinə cəlb edilməsi qadağandır.</span>
+1. Yaşı 18-dən az olan işçilərin bu Maddə ilə müəyyən edilmiş normalardan artıq ağır əşyaların qaldırılması və bir yerdən başqa yerə daşınması işlərinə cəlb edilməsi qadağandır.
 
 ---
 
-<span style="color:red">2. 16 yaşından 18 yaşadək olan işçilərin əmək funksiyasına yalnız aşağıdakı normalar həddində ümumi çəkisi olan ağır əşyaların əl ilə qaldırılması və daşınması işlərinin görülməsi (xidmətlərin göstərilməsi) daxil edilə bilər:</span>
+2. 16 yaşından 18 yaşadək olan işçilərin əmək funksiyasına yalnız aşağıdakı normalar həddində ümumi çəkisi olan ağır əşyaların əl ilə qaldırılması və daşınması işlərinin görülməsi (xidmətlərin göstərilməsi) daxil edilə bilər:
 
 ---
 
-<span style="color:red">a) kişilərin başqa işləri görməklə yanaşı eyni zamanda ümumi çəkisi 15 kiloqramdan çox olmayan əşyaların əl ilə qaldırılaraq başqa yerə daşınması, habelə ümumi çəkisi 10 kiloqramdan çox olmayan əşyanın bir metr yarımdan artıq hündürlüyə qaldırılması;</span>
+a) kişilərin başqa işləri görməklə yanaşı eyni zamanda ümumi çəkisi 15 kiloqramdan çox olmayan əşyaların əl ilə qaldırılaraq başqa yerə daşınması, habelə ümumi çəkisi 10 kiloqramdan çox olmayan əşyanın bir metr yarımdan artıq hündürlüyə qaldırılması;
 
 ---
 
-<span style="color:red">b) qadınların başqa işləri görməklə yanaşı, eyni zamanda ümumi çəkisi 10 kiloqramdan çox olmayan əşyaların əl ilə qaldırılaraq başqa yerə daşınması, habelə ümumi çəkisi 5 kiloqramdan çox olmayan əşyanın bir metr yarımdan artıq hündürlüyə qaldırılması;</span>
+b) qadınların başqa işləri görməklə yanaşı, eyni zamanda ümumi çəkisi 10 kiloqramdan çox olmayan əşyaların əl ilə qaldırılaraq başqa yerə daşınması, habelə ümumi çəkisi 5 kiloqramdan çox olmayan əşyanın bir metr yarımdan artıq hündürlüyə qaldırılması;
 
 ---
 
-<span style="color:red">c) bütün iş günü (iş növbəsi) ərzində müntəzəm olaraq ümumi çəkisi 10 kiloqramdan çox olmayan əşyanın əl ilə qaldırılıb başqa yerə daşınması;</span>
+c) bütün iş günü (iş növbəsi) ərzində müntəzəm olaraq ümumi çəkisi 10 kiloqramdan çox olmayan əşyanın əl ilə qaldırılıb başqa yerə daşınması;
 
 ---
 
-<span style="color:red">ç) 15 kiloqramdan artıq gücün sərf edilməsi tələb olunan yüklənmiş təkərli araba və ya hərəkət edən digər vasitələrlə əşyaların daşınması.</span>
+ç) 15 kiloqramdan artıq gücün sərf edilməsi tələb olunan yüklənmiş təkərli araba və ya hərəkət edən digər vasitələrlə əşyaların daşınması.
 
 ---
 
-<span style="color:red">3. 16 yaşadək qızlar yalnız onların razılığı ilə bu Maddənin ikinci hissəsinin «a», «b» və «c» bəndlərində nəzərdə tutulan normaların müvafiq olaraq 1/3 hissəsi həddində ağırlığı olan əşyaların qaldırılması və daşınması işlərinə cəlb oluna bilərlər.</span>
+3. 16 yaşadək qızlar yalnız onların razılığı ilə bu Maddənin ikinci hissəsinin «a», «b» və «c» bəndlərində nəzərdə tutulan normaların müvafiq olaraq 1/3 hissəsi həddində ağırlığı olan əşyaların qaldırılması və daşınması işlərinə cəlb oluna bilərlər.
 
 ---
 
-<span style="color:red">4. Yaşı 16-dan az olan qızların bütün iş günü ərzində müntəzəm olaraq yük qaldırma və daşınma işlərinə cəlb edilməsi qadağandır.</span>
+4. Yaşı 16-dan az olan qızların bütün iş günü ərzində müntəzəm olaraq yük qaldırma və daşınma işlərinə cəlb edilməsi qadağandır.
 
 ---
 
-<span style="color:red">5. Yaşı 18-dən az olan işçilərin əməyinin tətbiqi qadağan olunan əmək şəraiti zərərli və ağır olan istehsalatların, peşələrin (vəzifələrin), habelə yeraltı işlərin siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.</span>
+5. Yaşı 18-dən az olan işçilərin əməyinin tətbiqi qadağan olunan əmək şəraiti zərərli və ağır olan istehsalatların, peşələrin (vəzifələrin), habelə yeraltı işlərin siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.
 
 ---
 
@@ -5415,19 +5415,19 @@ g) işçi seksual qısnamaya məruz qaldıqda. [245]
 
 ---
 
-### <span style="color:red">Maddə 258. Ailə kəndli təsərrüfatlarında və ailə müəssisələrində əmək münasibətləri</span>
+### Maddə 258. Ailə kəndli təsərrüfatlarında və ailə müəssisələrində əmək münasibətləri
 
 ---
 
-<span style="color:red">1. Ailə kəndli təsərrüfatlarında və ailə müəssisələrində əmək münasibətləri bu Məcəllənin müəyyən etdiyi əmək münasibətlərinin tənzimlənməsi qaydaları və normaları tətbiq edilməklə və ya onların mülahizələri ilə müəyyən edilən qaydada tənzimlənir. Lakin bu təsərrüfatların üzvlərinin əmək münasibətləri mövcud qanunvericiliyə zidd qaydada müəyyən edilməməlidir.</span>
+1. Ailə kəndli təsərrüfatlarında və ailə müəssisələrində əmək münasibətləri bu Məcəllənin müəyyən etdiyi əmək münasibətlərinin tənzimlənməsi qaydaları və normaları tətbiq edilməklə və ya onların mülahizələri ilə müəyyən edilən qaydada tənzimlənir. Lakin bu təsərrüfatların üzvlərinin əmək münasibətləri mövcud qanunvericiliyə zidd qaydada müəyyən edilməməlidir.
 
 ---
 
-<span style="color:red">2. ləğv edilmişdir. [291]</span>
+2. ləğv edilmişdir. [291]
 
 ---
 
-<span style="color:red">3. Ailə kəndli təsərrüfatlarında və ailə müəssisələrində əmək münasibətləri, bir qayda olaraq, bu Məcəllə ilə müəyyən edilmiş qaydada yazılı formada əmək müqaviləsi bağlanılmaqla tənzimlənir. Bu təsərrüfatlarda və müəssisələrdə əmək müqaviləsi şifahi formada da bağlanıla bilər. Bu halda əmək münasibəti tərəflərdən birinin tələbi ilə rəsmiləşdirilməlidir. Əmək müqaviləsinin rəsmiləşdirilməsi ailə kəndli təsərrüfatı başçısının və ya ailə müəssisəsinin rəhbərinin (işəgötürənin) əmri, sərəncamı verilməklə və ya müvafiq qaydada tərtib edilmiş ailə kitabında (jurnalında) qeydiyyata salınmaqla həyata keçirilə bilər. [292] XI bölmə Əmək mübahisələri Qırxıncı fəsil Kollektiv əmək mübahisələri</span>
+3. Ailə kəndli təsərrüfatlarında və ailə müəssisələrində əmək münasibətləri, bir qayda olaraq, bu Məcəllə ilə müəyyən edilmiş qaydada yazılı formada əmək müqaviləsi bağlanılmaqla tənzimlənir. Bu təsərrüfatlarda və müəssisələrdə əmək müqaviləsi şifahi formada da bağlanıla bilər. Bu halda əmək münasibəti tərəflərdən birinin tələbi ilə rəsmiləşdirilməlidir. Əmək müqaviləsinin rəsmiləşdirilməsi ailə kəndli təsərrüfatı başçısının və ya ailə müəssisəsinin rəhbərinin (işəgötürənin) əmri, sərəncamı verilməklə və ya müvafiq qaydada tərtib edilmiş ailə kitabında (jurnalında) qeydiyyata salınmaqla həyata keçirilə bilər. [292] XI bölmə Əmək mübahisələri Qırxıncı fəsil Kollektiv əmək mübahisələri
 
 ---
 
@@ -5511,19 +5511,19 @@ d) kollektiv üzvlərinin mənafelərinin təmin olunması üçün digər əmək
 
 ---
 
-### <span style="color:red">Maddə 263. Kollektiv tələblərə baxılması</span>
+### Maddə 263. Kollektiv tələblərə baxılması
 
 ---
 
-<span style="color:red">1. İşəgötürən kollektiv tələblərin ona təqdim edildiyi vaxtdan 5 iş günü müddətində öz qərarını yazılı formada işçilərə və ya həmkarlar ittifaqları təşkilatına bildirməlidir. İşəgötürən kollektiv tələblərdən tam və ya qismən imtina etdikdə və ya tələblərə cavab verilməsini gecikdirdikdə, kollektiv əmək mübahisəsi başlanmış hesab olunur.</span>
+1. İşəgötürən kollektiv tələblərin ona təqdim edildiyi vaxtdan 5 iş günü müddətində öz qərarını yazılı formada işçilərə və ya həmkarlar ittifaqları təşkilatına bildirməlidir. İşəgötürən kollektiv tələblərdən tam və ya qismən imtina etdikdə və ya tələblərə cavab verilməsini gecikdirdikdə, kollektiv əmək mübahisəsi başlanmış hesab olunur.
 
 ---
 
-<span style="color:red">2. İşəgötürən kollektiv əmək mübahisəsinin başlanması haqqında 3 iş günü müddətində müvafiq icra hakimiyyəti orqanına məlumat verməlidir.</span>
+2. İşəgötürən kollektiv əmək mübahisəsinin başlanması haqqında 3 iş günü müddətində müvafiq icra hakimiyyəti orqanına məlumat verməlidir.
 
 ---
 
-<span style="color:red">3. Kollektiv sazişlərlə əlaqədar tələblərə 1 ay müddətində baxılır.</span>
+3. Kollektiv sazişlərlə əlaqədar tələblərə 1 ay müddətində baxılır.
 
 ---
 
@@ -5631,43 +5631,43 @@ d) kollektiv üzvlərinin mənafelərinin təmin olunması üçün digər əmək
 
 ---
 
-### <span style="color:red">Maddə 270. Tətil keçirilməsinin hüquqi əsasları</span>
+### Maddə 270. Tətil keçirilməsinin hüquqi əsasları
 
 ---
 
-<span style="color:red">1. İşçilərin təkbaşına və ya başqaları ilə birlikdə tətil etmək hüququ vardır.</span>
+1. İşçilərin təkbaşına və ya başqaları ilə birlikdə tətil etmək hüququ vardır.
 
 ---
 
-<span style="color:red">2. Kollektiv əmək mübahisəsi yarandığı vaxtdan işçilərin və ya həmkarlar ittifaqları təşkilatının tətil etmək hüququ əmələ gəlir.</span>
+2. Kollektiv əmək mübahisəsi yarandığı vaxtdan işçilərin və ya həmkarlar ittifaqları təşkilatının tətil etmək hüququ əmələ gəlir.
 
 ---
 
-<span style="color:red">3. Əgər tərəflər mübahisənin həllinin dinc üsullarından istifadə edəcəkləri barədə razılığa gəlmişlərsə, onda bu üsullarla kollektiv əmək mübahisəsinin həllinə nail olunmadıqda tətilə yol verilir. İşəgötürən mübahisənin barışdırıcı üsullarla həllini əsassız olaraq uzatdıqda, habelə barışdırıcı üsullarla əldə edilmiş razılaşmaları yerinə yetirmədikdə əmək kollektivinin, həmkarlar ittifaqları orqanının birbaşa tətil keçirmək hüququ yaranır.</span>
+3. Əgər tərəflər mübahisənin həllinin dinc üsullarından istifadə edəcəkləri barədə razılığa gəlmişlərsə, onda bu üsullarla kollektiv əmək mübahisəsinin həllinə nail olunmadıqda tətilə yol verilir. İşəgötürən mübahisənin barışdırıcı üsullarla həllini əsassız olaraq uzatdıqda, habelə barışdırıcı üsullarla əldə edilmiş razılaşmaları yerinə yetirmədikdə əmək kollektivinin, həmkarlar ittifaqları orqanının birbaşa tətil keçirmək hüququ yaranır.
 
 ---
 
-<span style="color:red">4. Tətildə iştirak etmək könüllüdür. Zor tətbiq etməklə və ya zor tətbiq etmək hədəsi ilə qorxutmaqla və ya şəxsin maddi cəhətdən asılı olmasından istifadə etməklə onu tətildə iştirak etməyə və yaxud iştirakdan imtina etməyə məcbur edən şəxslər qanunvericilikdə nəzərdə tutulmuş qaydada məsuliyyət daşıyırlar. [293]</span>
+4. Tətildə iştirak etmək könüllüdür. Zor tətbiq etməklə və ya zor tətbiq etmək hədəsi ilə qorxutmaqla və ya şəxsin maddi cəhətdən asılı olmasından istifadə etməklə onu tətildə iştirak etməyə və yaxud iştirakdan imtina etməyə məcbur edən şəxslər qanunvericilikdə nəzərdə tutulmuş qaydada məsuliyyət daşıyırlar. [293]
 
 ---
 
-<span style="color:red">5. Bu Qanunun 275-ci Maddəsinin dördüncü hissəsində göstərilmiş hallardan başqa tətildə iştirak edən işçilərin əmək vəzifələrinin icrası üçün başqa şəxslərin cəlb edilməsinə yol verilmir.</span>
+5. Bu Qanunun 275-ci Maddəsinin dördüncü hissəsində göstərilmiş hallardan başqa tətildə iştirak edən işçilərin əmək vəzifələrinin icrası üçün başqa şəxslərin cəlb edilməsinə yol verilmir.
 
 ---
 
-<span style="color:red">6. İşəgötürən tətillər təşkil və ya tətillərdə iştirak edə bilməz.</span>
+6. İşəgötürən tətillər təşkil və ya tətillərdə iştirak edə bilməz.
 
 ---
 
-<span style="color:red">7. Kollektiv əmək mübahisəsinin yaranması və tətil keçirilməsi ilə əlaqədar işçilərin işdən çıxarılmasına, habelə kollektiv əmək mübahisəsinin yarandığı müəssisənin (filialın, nümayəndəliyin), digər iş yerlərinin ixtisarı, ləğvi və ya yenidən təşkili qadağandır.</span>
+7. Kollektiv əmək mübahisəsinin yaranması və tətil keçirilməsi ilə əlaqədar işçilərin işdən çıxarılmasına, habelə kollektiv əmək mübahisəsinin yarandığı müəssisənin (filialın, nümayəndəliyin), digər iş yerlərinin ixtisarı, ləğvi və ya yenidən təşkili qadağandır.
 
 ---
 
-<span style="color:red">8. Qanunvericilik, müvafiq icra hakimiyyəti, məhkəmə və hüquq-mühafizə orqanlarında işləyən vəzifəli şəxslər tətil edə bilməzlər.</span>
+8. Qanunvericilik, müvafiq icra hakimiyyəti, məhkəmə və hüquq-mühafizə orqanlarında işləyən vəzifəli şəxslər tətil edə bilməzlər.
 
 ---
 
-<span style="color:red">9. Cəzaçəkmə müəssisələrində məhkumlara əmək mübahisələrinin həlli üçün əmək fəaliyyətini dayandırmaq və tətil etmək qadağan edilir.</span>
+9. Cəzaçəkmə müəssisələrində məhkumlara əmək mübahisələrinin həlli üçün əmək fəaliyyətini dayandırmaq və tətil etmək qadağan edilir.
 
 ---
 
@@ -5735,15 +5735,15 @@ d) kollektiv üzvlərinin mənafelərinin təmin olunması üçün digər əmək
 
 ---
 
-### <span style="color:red">Maddə 277. Tətilçilərin sərbəst toplaşmaq hüququ</span>
+### Maddə 277. Tətilçilərin sərbəst toplaşmaq hüququ
 
 ---
 
-<span style="color:red">1. İşi davam etdirən işçilərin əmək funksiyasını yerinə yetirmələrinə mane olmadan tətilçilər iş yerində və ya bilavasitə müəssisənin yaxınlığında sərbəst toplaşaraq danışıqların gedişini müzakirə etmək, mitinqlər və digər kütləvi tədbirlər keçirmək hüququna malikdirlər.</span>
+1. İşi davam etdirən işçilərin əmək funksiyasını yerinə yetirmələrinə mane olmadan tətilçilər iş yerində və ya bilavasitə müəssisənin yaxınlığında sərbəst toplaşaraq danışıqların gedişini müzakirə etmək, mitinqlər və digər kütləvi tədbirlər keçirmək hüququna malikdirlər.
 
 ---
 
-<span style="color:red">2. İşçilərin bu Maddədə nəzərdə tutulmuş sərbəst toplaşmaq hüququ müvafiq qanunvericiliklə müəyyən olunmuş qaydalara əməl edilməklə həyata keçirilir.</span>
+2. İşçilərin bu Maddədə nəzərdə tutulmuş sərbəst toplaşmaq hüququ müvafiq qanunvericiliklə müəyyən olunmuş qaydalara əməl edilməklə həyata keçirilir.
 
 ---
 
@@ -5851,15 +5851,15 @@ d) kollektiv üzvlərinin mənafelərinin təmin olunması üçün digər əmək
 
 ---
 
-### <span style="color:red">Maddə 285. Lokautun qanuniliyinin araşdırılması və işəgötürənin məsuliyyətə cəlb edilməsi</span>
+### Maddə 285. Lokautun qanuniliyinin araşdırılması və işəgötürənin məsuliyyətə cəlb edilməsi
 
 ---
 
-<span style="color:red">1. İşçilərin müraciəti əsasında lokautun qanunauyğun elan edilməsi və əsaslandırılması məsələsinə məhkəmə tərəfindən baxılır.</span>
+1. İşçilərin müraciəti əsasında lokautun qanunauyğun elan edilməsi və əsaslandırılması məsələsinə məhkəmə tərəfindən baxılır.
 
 ---
 
-<span style="color:red">2. Məhkəmə, işəgötürən tərəfindən elan olunmuş lokautu əsassız və qanunsuz hesab edərsə, işçilərə dəyən maddi və mənəvi ziyanın ödənilməsi, habelə işəgötürənin qanunvericiliklə müəyyən edilmiş qaydada digər müvafiq məsuliyyətə cəlb edilməsi barədə qərar qəbul edir.</span>
+2. Məhkəmə, işəgötürən tərəfindən elan olunmuş lokautu əsassız və qanunsuz hesab edərsə, işçilərə dəyən maddi və mənəvi ziyanın ödənilməsi, habelə işəgötürənin qanunvericiliklə müəyyən edilmiş qaydada digər müvafiq məsuliyyətə cəlb edilməsi barədə qərar qəbul edir.
 
 ---
 
@@ -5975,15 +5975,15 @@ k) əmək müqaviləsinin, habelə kollektiv müqavilənin şərtlərinin və ə
 
 ---
 
-### <span style="color:red">Maddə 291. Dövlət hakimiyyəti orqanlarının vəzifəli şəxslərinin qanunazidd hərəkətləri nəticəsində vurulan ziyanın ödənilməsi</span>
+### Maddə 291. Dövlət hakimiyyəti orqanlarının vəzifəli şəxslərinin qanunazidd hərəkətləri nəticəsində vurulan ziyanın ödənilməsi
 
 ---
 
-<span style="color:red">1. Əmək müqaviləsinin tərəflərinin dövlət orqanlarının, yaxud onların vəzifəli şəxslərinin qanunazidd hərəkətləri və ya hərəkətsizliyi nəticəsində vurulmuş ziyanın ödənilməsini tələb etmək və bu ziyanın dövlət tərəfindən ödənilməsi hüququ vardır.</span>
+1. Əmək müqaviləsinin tərəflərinin dövlət orqanlarının, yaxud onların vəzifəli şəxslərinin qanunazidd hərəkətləri və ya hərəkətsizliyi nəticəsində vurulmuş ziyanın ödənilməsini tələb etmək və bu ziyanın dövlət tərəfindən ödənilməsi hüququ vardır.
 
 ---
 
-<span style="color:red">2. Təhqiqat, ibtidai istintaq, prokurorluq və məhkəmə orqanlarının qanunsuz hərəkətləri nəticəsində işçinin işdən çıxarılması və ya kənarlaşdırılması ilə əlaqədar vurulmuş ziyanın ödənilməsi qaydası müvafiq qanunla müəyyən edilir.</span>
+2. Təhqiqat, ibtidai istintaq, prokurorluq və məhkəmə orqanlarının qanunsuz hərəkətləri nəticəsində işçinin işdən çıxarılması və ya kənarlaşdırılması ilə əlaqədar vurulmuş ziyanın ödənilməsi qaydası müvafiq qanunla müəyyən edilir.
 
 ---
 
@@ -6075,35 +6075,35 @@ k) əmək müqaviləsinin, habelə kollektiv müqavilənin şərtlərinin və ə
 
 ---
 
-### <span style="color:red">Maddə 296. Fərdi əmək mübahisələrinin həllində iddia müddətləri KMQ6</span>
+### Maddə 296. Fərdi əmək mübahisələrinin həllində iddia müddətləri KMQ6
 
 ---
 
-<span style="color:red">1. Bu Məcəllənin 294-cü Maddəsinin ikinci hissəsində nəzərdə tutulmuş fərdi əmək mübahisələrinə baxan orqana, işçi hüququnun pozulduğunu aşkar etdiyi gündən etibarən 3 təqvim ayı ərzində müraciət edə bilər.</span>
+1. Bu Məcəllənin 294-cü Maddəsinin ikinci hissəsində nəzərdə tutulmuş fərdi əmək mübahisələrinə baxan orqana, işçi hüququnun pozulduğunu aşkar etdiyi gündən etibarən 3 təqvim ayı ərzində müraciət edə bilər.
 
 ---
 
-<span style="color:red">2. Bu Maddənin birinci hissəsində göstərilən haldan başqa qalan bütün hallarda fərdi əmək mübahisəsinin həll edilməsi üçün işçi hüququnun pozulduğunu aşkar etdiyi gündən etibarən 1 təqvim ayı ərzində məhkəməyə müraciət edə bilər.</span>
+2. Bu Maddənin birinci hissəsində göstərilən haldan başqa qalan bütün hallarda fərdi əmək mübahisəsinin həll edilməsi üçün işçi hüququnun pozulduğunu aşkar etdiyi gündən etibarən 1 təqvim ayı ərzində məhkəməyə müraciət edə bilər.
 
 ---
 
-<span style="color:red">3. Hüququnun pozulmasının aşkar edildiyi gün, işçiyə müvafiq əmrin, (sərəncamın, qərarın), əmək kitabçasının, haqq-hesab sənədlərinin (kitabçasının, vərəqəsinin, çekinin) verildiyi, həmçinin əmək müqaviləsinin bu Məcəllədə nəzərdə tutulmuş şərtlərinin işəgötürən tərəfindən müvafiq qaydada sənədləşdirilmədən bilə-bilə qəsdən pozulduğu gündür.</span>
+3. Hüququnun pozulmasının aşkar edildiyi gün, işçiyə müvafiq əmrin, (sərəncamın, qərarın), əmək kitabçasının, haqq-hesab sənədlərinin (kitabçasının, vərəqəsinin, çekinin) verildiyi, həmçinin əmək müqaviləsinin bu Məcəllədə nəzərdə tutulmuş şərtlərinin işəgötürən tərəfindən müvafiq qaydada sənədləşdirilmədən bilə-bilə qəsdən pozulduğu gündür.
 
 ---
 
-<span style="color:red">4. Pul və digər əmlak tələbləri ilə əlaqədar, həmçinin ziyan vurulmaqla bağlı yaranmış əmək mübahisələrinin həlli üçün işçi, hüququnun pozulduğunu aşkar etdiyi gündən etibarən 1 il ərzində məhkəməyə müraciət edə bilər. İşçilərin həyatına və sağlamlığına vurulmuş zərərin ödənilməsi haqqında tələblərə iddia müddəti şamil edilmir. [298]</span>
+4. Pul və digər əmlak tələbləri ilə əlaqədar, həmçinin ziyan vurulmaqla bağlı yaranmış əmək mübahisələrinin həlli üçün işçi, hüququnun pozulduğunu aşkar etdiyi gündən etibarən 1 il ərzində məhkəməyə müraciət edə bilər. İşçilərin həyatına və sağlamlığına vurulmuş zərərin ödənilməsi haqqında tələblərə iddia müddəti şamil edilmir. [298]
 
 ---
 
-<span style="color:red">5. İşəgötürən bu Məcəllə ilə müəyyən edilmiş hallarda işçiyə qarşı iddia ərizəsi ilə məhkəməyə hüquqlarının və qanuni mənafelərinin pozulduğu gündən 1 təqvim ayı müddətində, ona maddi ziyan vurulması məsələləri ilə əlaqədar isə ziyanın vurulmasını aşkar etdiyi gündən 1 il müddətində müraciət edə bilər.</span>
+5. İşəgötürən bu Məcəllə ilə müəyyən edilmiş hallarda işçiyə qarşı iddia ərizəsi ilə məhkəməyə hüquqlarının və qanuni mənafelərinin pozulduğu gündən 1 təqvim ayı müddətində, ona maddi ziyan vurulması məsələləri ilə əlaqədar isə ziyanın vurulmasını aşkar etdiyi gündən 1 il müddətində müraciət edə bilər.
 
 ---
 
-<span style="color:red">6. Bu Maddədə göstərilən müddətlər üzürlü səbəblərdən – iddiaçının xəstələnməsi, ezamiyyətdə, yaşayış yerindən kənarda məzuniyyətdə olması, yaxın qohumunun ölməsi və digər obyektiv hallarla bağlı səbəblərdən ötürülərsə, fərdi əmək mübahisəsinə baxan orqan buraxılmış müddəti bərpa edərək mübahisəyə mahiyyəti üzrə baxa bilər.</span>
+6. Bu Maddədə göstərilən müddətlər üzürlü səbəblərdən – iddiaçının xəstələnməsi, ezamiyyətdə, yaşayış yerindən kənarda məzuniyyətdə olması, yaxın qohumunun ölməsi və digər obyektiv hallarla bağlı səbəblərdən ötürülərsə, fərdi əmək mübahisəsinə baxan orqan buraxılmış müddəti bərpa edərək mübahisəyə mahiyyəti üzrə baxa bilər.
 
 ---
 
-<span style="color:red">7. Mediasiya prosesinin tətbiqi ilə əlaqədar iddia müddətinin axımının dayandırılması məsələsi “Mediasiya haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilir. [299] Qeyd: Bu Maddənin altıncı hissəsində iddiaçının «yaxın qohumu» dedikdə, işçinin atası, anası, babası, nənəsi, əri (arvadı), uşaqları, bacıları, qardaşları, qudaları, ərinin (arvadının) valideynləri, qardaşları, bacıları başa düşülməlidir. İşçinin digər qohumlarının vəfatı ilə əlaqədar iddia müddətinin ötürülməsini hakim üzürlü hal hesab edə bilər.</span>
+7. Mediasiya prosesinin tətbiqi ilə əlaqədar iddia müddətinin axımının dayandırılması məsələsi “Mediasiya haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilir. [299] Qeyd: Bu Maddənin altıncı hissəsində iddiaçının «yaxın qohumu» dedikdə, işçinin atası, anası, babası, nənəsi, əri (arvadı), uşaqları, bacıları, qardaşları, qudaları, ərinin (arvadının) valideynləri, qardaşları, bacıları başa düşülməlidir. İşçinin digər qohumlarının vəfatı ilə əlaqədar iddia müddətinin ötürülməsini hakim üzürlü hal hesab edə bilər.
 
 ---
 
@@ -6155,7 +6155,7 @@ k) əmək müqaviləsinin, habelə kollektiv müqavilənin şərtlərinin və ə
 
 ---
 
-### <span style="color:red">Maddə 304. İşçilərin sosial sığorta olunması</span>
+### Maddə 304. İşçilərin sosial sığorta olunması
 
 ---
 
@@ -6235,7 +6235,7 @@ k) əmək müqaviləsinin, habelə kollektiv müqavilənin şərtlərinin və ə
 
 ---
 
-### <span style="color:red">Maddə 310. Bu Məcəllə ilə müəyyən olunmuş hüquqları pozmağa görə məsuliyyət İstər işçilər, istərsə işəgötürənlər, istərsə də başqa fiziki şəxslər bu Məcəllə ilə və əmək qanunvericiliyi sisteminə daxil olan digər normativ hüquqi aktlarla müəyyən olunmuş hüquqları pozmağa, onları hər hansı şərtlə və ya qaydada məhdudlaşdırmağa, habelə bu hüquqlardan sui-istifadə etməyə, əmək müqaviləsi ilə müəyyən edilmiş öhdəlikləri, vəzifə funksiyasını yerinə yetirməməyə görə qanunvericiliklə müəyyən edilmiş qaydada maddi, intizam, inzibati və cinayət məsuliyyəti daşıyırlar. [309]</span>
+### Maddə 310. Bu Məcəllə ilə müəyyən olunmuş hüquqları pozmağa görə məsuliyyət İstər işçilər, istərsə işəgötürənlər, istərsə də başqa fiziki şəxslər bu Məcəllə ilə və əmək qanunvericiliyi sisteminə daxil olan digər normativ hüquqi aktlarla müəyyən olunmuş hüquqları pozmağa, onları hər hansı şərtlə və ya qaydada məhdudlaşdırmağa, habelə bu hüquqlardan sui-istifadə etməyə, əmək müqaviləsi ilə müəyyən edilmiş öhdəlikləri, vəzifə funksiyasını yerinə yetirməməyə görə qanunvericiliklə müəyyən edilmiş qaydada maddi, intizam, inzibati və cinayət məsuliyyəti daşıyırlar. [309]
 
 ---
 
@@ -6291,943 +6291,943 @@ k) əmək müqaviləsinin, habelə kollektiv müqavilənin şərtlərinin və ə
 
 ---
 
-### <span style="color:red">Maddə 317. Bu Məcəllənin mətninin hüquqi qüvvəsi</span>
+### Maddə 317. Bu Məcəllənin mətninin hüquqi qüvvəsi
 
 ---
 
-<span style="color:red">1. Bu Məcəllə Azərbaycan Respublikası Konstitusiyasının 148-ci Maddəsi ilə müəyyən edilmiş qanunvericilik sisteminin tərkib hissəsi olub, Azərbaycan Respublikasının bütün ərazisində birbaşa hüquqi qüvvəyə malikdir.</span>
+1. Bu Məcəllə Azərbaycan Respublikası Konstitusiyasının 148-ci Maddəsi ilə müəyyən edilmiş qanunvericilik sisteminin tərkib hissəsi olub, Azərbaycan Respublikasının bütün ərazisində birbaşa hüquqi qüvvəyə malikdir.
 
 ---
 
-<span style="color:red">2. Bu Məcəllənin tətbiqi zamanı əmək müqaviləsinin tərəflərinin hüquqlarının və mənafelərinin müdafiə olunmasını təmin edən, onların məsuliyyətə cəlb olunmasını istisna edən və ya yüngülləşdirən müddəaların qüvvəsinin geriyə şamil edilməsinə yol verilir. Azərbaycan Respublikasının Əmək Məcəlləsinə</span>
+2. Bu Məcəllənin tətbiqi zamanı əmək müqaviləsinin tərəflərinin hüquqlarının və mənafelərinin müdafiə olunmasını təmin edən, onların məsuliyyətə cəlb olunmasını istisna edən və ya yüngülləşdirən müddəaların qüvvəsinin geriyə şamil edilməsinə yol verilir. Azərbaycan Respublikasının Əmək Məcəlləsinə
 
 ---
 
-<span style="color:red">ƏLAVƏLƏR Azərbaycan Respublikasının Əmək Məcəlləsinə 1-ci əlavə Əmək müqaviləsinin (kontraktın) nümunəvi forması * §1. Əmək müqaviləsini (kontraktı) bağlayan tərəflər haqqında məlumatlar[312]</span>
+ƏLAVƏLƏR Azərbaycan Respublikasının Əmək Məcəlləsinə 1-ci əlavə Əmək müqaviləsinin (kontraktın) nümunəvi forması * §1. Əmək müqaviləsini (kontraktı) bağlayan tərəflər haqqında məlumatlar[312]
 
 ---
 
-<span style="color:red">1. 1. Bu Əmək müqaviləsi (kontraktı), (bundan sonra ismin müvafiq halında «Əmək müqaviləsi») işəgötürənin səlahiyyətlərini həyata keçirən[313] ____________________________________________________________________________ (idarənin, müəssisənin, təşkilatın adı, vergi ödəyicisinin eyniləşdirmə nömrəsi (VÖEN), faktiki fəaliyyət göstərdiyi ünvanı) İşəgötürəni ________________________________________________________________ (vəzifəsinin adı, adı, atasının adı və soyadı) __________________________________________________________________________ilə (işəgötürən fiziki şəxs olduqda onun adı, atasının adı, soyadı, vergi ödəyicisinin eyniləşdirmə nömrəsi (VÖEN), faktiki fəaliyyət göstərdiyi ünvanı, sığortaedənin uçot nömrəsi (SUN), sosial sığorta nömrəsi (SSN), şəxsiyyətini təsdiq edən sənədin adı, onun seriyası, nömrəsi, pin kodu və ya fərdi identifikasiya nömrəsi (FİN), verildiyi tarix, şəxsiyyət vəsiqəsini verən orqanın adı) İşçi _______________________________________________________________________ (adı, atasının adı və soyadı) ____________________________________________________________________________ (vətəndaşlığı, şəxsiyyətini təsdiq edən sənədin adı, onun seriya və nömrəsi, pin kodu, verildiyi tarix və onu verən orqanın adı) ___________________________________________________________________________ (təhsili, ixtisası, sənəti, peşəsi, bitirdiyi təhsil müəssisəsinin adı, ilk dəfə əmək fəaliyyətinə başlayanlar və “Dövlət sirri haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq barələrində məlumatların məxfiləşdirilməsi nəzərdə tutulan şəxslər istisna olmaqla, sosial sığorta nömrəsi (SSN))[314] arasında «____»«_________________» __________ il tarixində Azərbaycan Respublikasının Əmək Məcəlləsinə (bundan sonra "Əmək Məcəlləsi") müvafiq olaraq bağlanmışdır.</span>
+1. 1. Bu Əmək müqaviləsi (kontraktı), (bundan sonra ismin müvafiq halında «Əmək müqaviləsi») işəgötürənin səlahiyyətlərini həyata keçirən[313] ____________________________________________________________________________ (idarənin, müəssisənin, təşkilatın adı, vergi ödəyicisinin eyniləşdirmə nömrəsi (VÖEN), faktiki fəaliyyət göstərdiyi ünvanı) İşəgötürəni ________________________________________________________________ (vəzifəsinin adı, adı, atasının adı və soyadı) __________________________________________________________________________ilə (işəgötürən fiziki şəxs olduqda onun adı, atasının adı, soyadı, vergi ödəyicisinin eyniləşdirmə nömrəsi (VÖEN), faktiki fəaliyyət göstərdiyi ünvanı, sığortaedənin uçot nömrəsi (SUN), sosial sığorta nömrəsi (SSN), şəxsiyyətini təsdiq edən sənədin adı, onun seriyası, nömrəsi, pin kodu və ya fərdi identifikasiya nömrəsi (FİN), verildiyi tarix, şəxsiyyət vəsiqəsini verən orqanın adı) İşçi _______________________________________________________________________ (adı, atasının adı və soyadı) ____________________________________________________________________________ (vətəndaşlığı, şəxsiyyətini təsdiq edən sənədin adı, onun seriya və nömrəsi, pin kodu, verildiyi tarix və onu verən orqanın adı) ___________________________________________________________________________ (təhsili, ixtisası, sənəti, peşəsi, bitirdiyi təhsil müəssisəsinin adı, ilk dəfə əmək fəaliyyətinə başlayanlar və “Dövlət sirri haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq barələrində məlumatların məxfiləşdirilməsi nəzərdə tutulan şəxslər istisna olmaqla, sosial sığorta nömrəsi (SSN))[314] arasında «____»«_________________» __________ il tarixində Azərbaycan Respublikasının Əmək Məcəlləsinə (bundan sonra "Əmək Məcəlləsi") müvafiq olaraq bağlanmışdır.
 
 ---
 
-<span style="color:red">1. 2. İşçi _________________________________________________________________ (iş yerinin adı, faktiki fəaliyyət göstərdiyi ünvan, onun əsas iş yeri və ya əlavə iş yeri olması barədə qeyd, vəzifənin, peşənin adı)[315] vəzifəsinə (peşəsinə), işə qəbul (təyin) edilir.</span>
+1. 2. İşçi _________________________________________________________________ (iş yerinin adı, faktiki fəaliyyət göstərdiyi ünvan, onun əsas iş yeri və ya əlavə iş yeri olması barədə qeyd, vəzifənin, peşənin adı)[315] vəzifəsinə (peşəsinə), işə qəbul (təyin) edilir.
 
 ---
 
-<span style="color:red">1. 3. Bu Əmək müqaviləsi hüquqi qüvvəyə minən gündən yaranmış əmək münasibətləri, tərəflərin hüquqları, vəzifələri və məsuliyyəti Əmək Məcəlləsi ilə müəyyən edilmiş qaydalarla və prinsiplərlə tənzimlənir. [316] §2. Əmək müqaviləsinin müddəti</span>
+1. 3. Bu Əmək müqaviləsi hüquqi qüvvəyə minən gündən yaranmış əmək münasibətləri, tərəflərin hüquqları, vəzifələri və məsuliyyəti Əmək Məcəlləsi ilə müəyyən edilmiş qaydalarla və prinsiplərlə tənzimlənir. [316] §2. Əmək müqaviləsinin müddəti
 
 ---
 
-<span style="color:red">2. 1. Bu Əmək müqaviləsi müddətsiz bağlanmışdır. ____________________________ (hə, yox)</span>
+2. 1. Bu Əmək müqaviləsi müddətsiz bağlanmışdır. ____________________________ (hə, yox)
 
 ---
 
-<span style="color:red">2. 2. İşin birinci __________ həftəsi (ayı) sınaq müddəti hesab edilir. Sınaq müddəti ərzində tərəflərdən biri digərini __________ gün əvvəl xəbərdarlıq etməklə Əmək müqaviləsini birtərəfli qaydada poza bilər.</span>
+2. 2. İşin birinci __________ həftəsi (ayı) sınaq müddəti hesab edilir. Sınaq müddəti ərzində tərəflərdən biri digərini __________ gün əvvəl xəbərdarlıq etməklə Əmək müqaviləsini birtərəfli qaydada poza bilər.
 
 ---
 
-<span style="color:red">2. 3. Bu Əmək müqaviləsi ________________________________səbəbə görə «____»_____________ il tarixindən «____»______________il tarixinədək «____» «__________________»______________il (ay) müddətinə bağlanmışdır.</span>
+2. 3. Bu Əmək müqaviləsi ________________________________səbəbə görə «____»_____________ il tarixindən «____»______________il tarixinədək «____» «__________________»______________il (ay) müddətinə bağlanmışdır.
 
 ---
 
-<span style="color:red">2. 4. İşçi «__»«_______________»________________il tarixindən işə başlayır. §3. İşçinin əmək funksiyası</span>
+2. 4. İşçi «__»«_______________»________________il tarixindən işə başlayır. §3. İşçinin əmək funksiyası
 
 ---
 
-<span style="color:red">3. 1. İşçi aşağıdakı əmək funksiyasının icrasını öhdəsinə götürür:</span>
+3. 1. İşçi aşağıdakı əmək funksiyasının icrasını öhdəsinə götürür:
 
 ---
 
-<span style="color:red">a) _____________________________________________________________________;</span>
+a) _____________________________________________________________________;
 
 ---
 
-<span style="color:red">b) _____________________________________________________________________;</span>
+b) _____________________________________________________________________;
 
 ---
 
-<span style="color:red">c) …____________________________________________________________________; (əmək funksiyası tam təfsilatı ilə sadalanmalıdır)</span>
+c) …____________________________________________________________________; (əmək funksiyası tam təfsilatı ilə sadalanmalıdır)
 
 ---
 
-<span style="color:red">3. 2. Bu əmək funksiyasından hər hansı birinin və ya bir neçəsinin dəyişdirilməsinə, habelə onlara əlavə funksiyanın daxil edilməsinə yalnız tərəflərin razılığı ilə yol verilir.</span>
+3. 2. Bu əmək funksiyasından hər hansı birinin və ya bir neçəsinin dəyişdirilməsinə, habelə onlara əlavə funksiyanın daxil edilməsinə yalnız tərəflərin razılığı ilə yol verilir.
 
 ---
 
-<span style="color:red">3. 3. İşçi Əmək Məcəlləsinin 10-cu Maddəsi ilə müəyyən edilmiş əsas vəzifələrinin və bu əmək funksiyasının vaxtında, keyfiyyətlə yerinə yetirilməsinə əməl etməlidir.</span>
+3. 3. İşçi Əmək Məcəlləsinin 10-cu Maddəsi ilə müəyyən edilmiş əsas vəzifələrinin və bu əmək funksiyasının vaxtında, keyfiyyətlə yerinə yetirilməsinə əməl etməlidir.
 
 ---
 
-<span style="color:red">3. 4. İşçi əmək funksiyasının icrası zamanı işəgötürənin istehsal fəaliyyəti ilə bağlı özünün ixtiraları, səmərələşdirici təklifləri barədə dərhal ona məlumat verməlidir. İşəgötürən öz növbəsində həmin ixtiraların, işçinin müəlliflik hüququnun və mülkiyyətçinin mənafeyinin qorunması üçün konkret tədbirlər görməlidir. §4. Əmək şəraitinin şərtləri İşəgötürən aşağıdakı əmək şəraiti yaradılmasını və onun şərtlərinin təmin olunmasını öhdəsinə götürür: Əmək haqqı üzrə</span>
+3. 4. İşçi əmək funksiyasının icrası zamanı işəgötürənin istehsal fəaliyyəti ilə bağlı özünün ixtiraları, səmərələşdirici təklifləri barədə dərhal ona məlumat verməlidir. İşəgötürən öz növbəsində həmin ixtiraların, işçinin müəlliflik hüququnun və mülkiyyətçinin mənafeyinin qorunması üçün konkret tədbirlər görməlidir. §4. Əmək şəraitinin şərtləri İşəgötürən aşağıdakı əmək şəraiti yaradılmasını və onun şərtlərinin təmin olunmasını öhdəsinə götürür: Əmək haqqı üzrə
 
 ---
 
-<span style="color:red">4. 1. İşçiyə hər ay ____________ məbləğdə əmək haqqı ödənilir;</span>
+4. 1. İşçiyə hər ay ____________ məbləğdə əmək haqqı ödənilir;
 
 ---
 
-<span style="color:red">4. 2. Əmək haqqı: - _____________ manat məbləğində tarif haqqından (vəzifə maaşından); - tarif haqqına (vəzifə maaşına) ____________________ faizi miqdarda əlavədən ibarətdir;</span>
+4. 2. Əmək haqqı: - _____________ manat məbləğində tarif haqqından (vəzifə maaşından); - tarif haqqına (vəzifə maaşına) ____________________ faizi miqdarda əlavədən ibarətdir;
 
 ---
 
-<span style="color:red">4. 3. İşçiyə ______________ məbləğdə __________________________ mükafat verilir; (aylıq, rüblük, illik)</span>
+4. 3. İşçiyə ______________ məbləğdə __________________________ mükafat verilir; (aylıq, rüblük, illik)
 
 ---
 
-<span style="color:red">4. 4. İşçi əmək funksiyasını əmək _______________________________ (zərərli, ağır, yeraltı və s. ) şəraitli iş yerində icra etdiyi üçün onun əmək haqqına ______________ məbləğdə əlavə müəyyən edilir;</span>
+4. 4. İşçi əmək funksiyasını əmək _______________________________ (zərərli, ağır, yeraltı və s. ) şəraitli iş yerində icra etdiyi üçün onun əmək haqqına ______________ məbləğdə əlavə müəyyən edilir;
 
 ---
 
-<span style="color:red">4. 5. İşçiyə iş vaxtından artıq vaxtda, istirahət, səsvermə, ümumxalq hüzn günü və iş günü hesab edilməyən bayram günlərində işlədikdə _____________ məbləğdə və ya _____________ qayda ilə hesablanmış Əmək Məcəlləsində nəzərdə tutulandan artıq əlavə əmək haqqı verilir; [317]</span>
+4. 5. İşçiyə iş vaxtından artıq vaxtda, istirahət, səsvermə, ümumxalq hüzn günü və iş günü hesab edilməyən bayram günlərində işlədikdə _____________ məbləğdə və ya _____________ qayda ilə hesablanmış Əmək Məcəlləsində nəzərdə tutulandan artıq əlavə əmək haqqı verilir; [317]
 
 ---
 
-<span style="color:red">4. 6. Əmək haqqı: - həftədə bir dəfə ____________________________________ (həftənin günü) - ayda iki dəfə ____________________________________________ (ayın maaş verilən günləri) - ayda bir dəfə ______________________________________ ödənilir; (ayın günü) - əmək haqqı və digər ödənclər işçinin __________________________________________ (bankın adı) bankdakı hesabına köçürülür;</span>
+4. 6. Əmək haqqı: - həftədə bir dəfə ____________________________________ (həftənin günü) - ayda iki dəfə ____________________________________________ (ayın maaş verilən günləri) - ayda bir dəfə ______________________________________ ödənilir; (ayın günü) - əmək haqqı və digər ödənclər işçinin __________________________________________ (bankın adı) bankdakı hesabına köçürülür;
 
 ---
 
-<span style="color:red">4. 7. Tərəflərin əmək haqqının ödənilməsi barədə razılığa gəldikləri digər şərtlər: ______________________________________________________________________________</span>
+4. 7. Tərəflərin əmək haqqının ödənilməsi barədə razılığa gəldikləri digər şərtlər: ______________________________________________________________________________
 
 ---
 
-<span style="color:red">4. 8. Əmək haqqından yalnız qanunvericiliklə müəyyən edilmiş hallarda və qaydada tutulmalara yol verilir. Həmin tutulmalar haqqında işçi qabaqcadan məlumatlandırılır. Əməyin mühafizəsi üzrə</span>
+4. 8. Əmək haqqından yalnız qanunvericiliklə müəyyən edilmiş hallarda və qaydada tutulmalara yol verilir. Həmin tutulmalar haqqında işçi qabaqcadan məlumatlandırılır. Əməyin mühafizəsi üzrə
 
 ---
 
-<span style="color:red">4. 9. İşçinin sağlamlığının, əməyinin mühafizəsinin təmin olunması üçün sanitariya və gigiyena normalarına cavab verən iş yeri və iş şəraiti yaradılır;</span>
+4. 9. İşçinin sağlamlığının, əməyinin mühafizəsinin təmin olunması üçün sanitariya və gigiyena normalarına cavab verən iş yeri və iş şəraiti yaradılır;
 
 ---
 
-<span style="color:red">4. 10. İşçi _______________ xüsusi mühafizə vasitələri ilə təmin edilir;</span>
+4. 10. İşçi _______________ xüsusi mühafizə vasitələri ilə təmin edilir;
 
 ---
 
-<span style="color:red">4. 11. İşçi zərərli amillərindən sağlamlığının mühafizəsi üçün xüsusi _______________ qida məhsulları ilə təmin edilir;</span>
+4. 11. İşçi zərərli amillərindən sağlamlığının mühafizəsi üçün xüsusi _______________ qida məhsulları ilə təmin edilir;
 
 ---
 
-<span style="color:red">4. 12. İşçi əməyin mühafizəsi normaları ilə _______________ bir dəfədən az olmayaraq təlimatlandırılır;</span>
+4. 12. İşçi əməyin mühafizəsi normaları ilə _______________ bir dəfədən az olmayaraq təlimatlandırılır;
 
 ---
 
-<span style="color:red">4. 13. İşçi özünün və iş yoldaşlarının həyatının və sağlamlığının qorunması üçün müəyyən edilmiş əməyin mühafizəsi qaydalarına və normalarına əməl etməyə borcludur;</span>
+4. 13. İşçi özünün və iş yoldaşlarının həyatının və sağlamlığının qorunması üçün müəyyən edilmiş əməyin mühafizəsi qaydalarına və normalarına əməl etməyə borcludur;
 
 ---
 
-<span style="color:red">4. 14. İşəgötürən işçini istehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığortalamalıdır. İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində işçinin həyatına və sağlamlığına dəyən zərərlə bağlı onun peşə əmək qabiliyyətinin itirilməsinə və ya ölümünə görə qanunvericiliklə müəyyən olunmuş qaydada və məbləğdə sığorta ödənişi verilir; [318]</span>
+4. 14. İşəgötürən işçini istehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığortalamalıdır. İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində işçinin həyatına və sağlamlığına dəyən zərərlə bağlı onun peşə əmək qabiliyyətinin itirilməsinə və ya ölümünə görə qanunvericiliklə müəyyən olunmuş qaydada və məbləğdə sığorta ödənişi verilir; [318]
 
 ---
 
-<span style="color:red">4. 15. İşəgötürənin təqsiri üzündən əməyin mühafizəsi normaları və qaydaları pozulduğuna görə işçi həlak olarsa, onun himayəsində olan şəxslər qarşısında işəgötürən qanunvericilikdə nəzərdə tutulan qaydada maddi məsuliyyət daşıyır; İş və istirahət vaxtı üzrə</span>
+4. 15. İşəgötürənin təqsiri üzündən əməyin mühafizəsi normaları və qaydaları pozulduğuna görə işçi həlak olarsa, onun himayəsində olan şəxslər qarşısında işəgötürən qanunvericilikdə nəzərdə tutulan qaydada maddi məsuliyyət daşıyır; İş və istirahət vaxtı üzrə
 
 ---
 
-<span style="color:red">4. 16. İşçi gündə 8 saatdan, həftə ərzində isə 40 saatdan çox olmayaraq işləyir;</span>
+4. 16. İşçi gündə 8 saatdan, həftə ərzində isə 40 saatdan çox olmayaraq işləyir;
 
 ---
 
-<span style="color:red">4. 17. İş saat _____________ başlanır, saat _____________ qurtarır;</span>
+4. 17. İş saat _____________ başlanır, saat _____________ qurtarır;
 
 ---
 
-<span style="color:red">4. 18. Nahar vaxtı saat _____________ - dan saat _____________ - dəkdir;</span>
+4. 18. Nahar vaxtı saat _____________ - dan saat _____________ - dəkdir;
 
 ---
 
-<span style="color:red">4. 19. İşçi hər gün _____________ saat natamam iş günü işləyir;</span>
+4. 19. İşçi hər gün _____________ saat natamam iş günü işləyir;
 
 ---
 
-<span style="color:red">4. 20. İşçi həftədə __________ gün natamam iş həftəsi ilə işləyir;</span>
+4. 20. İşçi həftədə __________ gün natamam iş həftəsi ilə işləyir;
 
 ---
 
-<span style="color:red">4. 21. İş __________ növbəlidir: - Birinci növbə saat __________ başlanır və saat __________ qurtarır; - İkinci növbə saat __________ başlanır və saat __________ qurtarır; - Üçüncü növbə saat __________ başlanır və saat __________ qurtarır;</span>
+4. 21. İş __________ növbəlidir: - Birinci növbə saat __________ başlanır və saat __________ qurtarır; - İkinci növbə saat __________ başlanır və saat __________ qurtarır; - Üçüncü növbə saat __________ başlanır və saat __________ qurtarır;
 
 ---
 
-<span style="color:red">4. 22. İşə gəlib getməsi üçün nəqliyyatla təmin edilir ________________; (hə, yox)</span>
+4. 22. İşə gəlib getməsi üçün nəqliyyatla təmin edilir ________________; (hə, yox)
 
 ---
 
-<span style="color:red">4. 23. İstirahət günləri hər həftənin __________ günləridir;</span>
+4. 23. İstirahət günləri hər həftənin __________ günləridir;
 
 ---
 
-<span style="color:red">4. 24. İşçiyə iş vaxtından artıq işlərin yerinə yetirilməsinə görə qanunvericilikdə nəzərdə tutulan məbləğdən __________ artıq məbləğdə haqq ödənilir;</span>
+4. 24. İşçiyə iş vaxtından artıq işlərin yerinə yetirilməsinə görə qanunvericilikdə nəzərdə tutulan məbləğdən __________ artıq məbləğdə haqq ödənilir;
 
 ---
 
-<span style="color:red">4. 25. İşçi iş vaxtından kənar vaxtda və ya işəgötürənin razılığı ilə iş vaxtı ərzində işəgötürənlə rəqabətdə olmayan müəssisədə əlavə iş yerində əvəzçilik üzrə işləyə bilər. Məzuniyyət üzrə</span>
+4. 25. İşçi iş vaxtından kənar vaxtda və ya işəgötürənin razılığı ilə iş vaxtı ərzində işəgötürənlə rəqabətdə olmayan müəssisədə əlavə iş yerində əvəzçilik üzrə işləyə bilər. Məzuniyyət üzrə
 
 ---
 
-<span style="color:red">4. 26. İşçinin iş ilini _______________________________________________________ (birinci iş ili başlanan və bitən gün, ay və il) aylardan ibarət dövr əhatə edir və ona hər növbəti iş ili üçün müddəti Əmək Məcəlləsi ilə müəyyən edilmiş əmək məzuniyyəti verilir.</span>
+4. 26. İşçinin iş ilini _______________________________________________________ (birinci iş ili başlanan və bitən gün, ay və il) aylardan ibarət dövr əhatə edir və ona hər növbəti iş ili üçün müddəti Əmək Məcəlləsi ilə müəyyən edilmiş əmək məzuniyyəti verilir.
 
 ---
 
-<span style="color:red">4. 27. Əsas məzuniyyətinin müddəti __________ təqvim günüdür;</span>
+4. 27. Əsas məzuniyyətinin müddəti __________ təqvim günüdür;
 
 ---
 
-<span style="color:red">4. 28. Əlavə məzuniyyət müddəti: - əmək stajına görə __________ təqvim günü; - əmək şəraitinin xarakterinə görə __________ təqvim günü; - 14 yaşadək ikidən çox uşağı olan qadına __________ təqvim günü; - kollektiv müqavilə (saziş) üzrə __________ təqvim günü;</span>
+4. 28. Əlavə məzuniyyət müddəti: - əmək stajına görə __________ təqvim günü; - əmək şəraitinin xarakterinə görə __________ təqvim günü; - 14 yaşadək ikidən çox uşağı olan qadına __________ təqvim günü; - kollektiv müqavilə (saziş) üzrə __________ təqvim günü;
 
 ---
 
-<span style="color:red">4. 29. Əmək məzuniyyətinin ümumi müddəti __________ təqvim günü;</span>
+4. 29. Əmək məzuniyyətinin ümumi müddəti __________ təqvim günü;
 
 ---
 
-<span style="color:red">4. 30. Əmək məzuniyyətinə çıxarkən: - __________ məbləğdə sosial-məişət müavinəti verilir; - bundan savayı sanatoriya-kurort müalicəsi, turizm səfərlərinə getməsi, məzuniyyətin daha mənalı keçirilməsi üçün ________________________ tədbirlər görülür. (konkret tədbir və ya pul ödənci)</span>
+4. 30. Əmək məzuniyyətinə çıxarkən: - __________ məbləğdə sosial-məişət müavinəti verilir; - bundan savayı sanatoriya-kurort müalicəsi, turizm səfərlərinə getməsi, məzuniyyətin daha mənalı keçirilməsi üçün ________________________ tədbirlər görülür. (konkret tədbir və ya pul ödənci)
 
 ---
 
-<span style="color:red">4. 31. Təhsil almaqla əlaqədar ödənişli məzuniyyətlər Əmək Məcəlləsində nəzərdə tutulan müddətdə verilir və işəgötürən bununla yanaşı işçinin təhsilini artırmaq üçün zəruri tədbirləri görməyi öhdəsinə götürür.</span>
+4. 31. Təhsil almaqla əlaqədar ödənişli məzuniyyətlər Əmək Məcəlləsində nəzərdə tutulan müddətdə verilir və işəgötürən bununla yanaşı işçinin təhsilini artırmaq üçün zəruri tədbirləri görməyi öhdəsinə götürür.
 
 ---
 
-<span style="color:red">4. 32. Ödənişsiz məzuniyyətdən Əmək Məcəlləsi ilə müəyyən edilmiş hallarda, habelə işəgötürənlə razılıq əsasında istifadə edilir. Bədən tərbiyəsi və idman üzrə[319]</span>
+4. 32. Ödənişsiz məzuniyyətdən Əmək Məcəlləsi ilə müəyyən edilmiş hallarda, habelə işəgötürənlə razılıq əsasında istifadə edilir. Bədən tərbiyəsi və idman üzrə[319]
 
 ---
 
-<span style="color:red">4. 33. İşçiyə bədən tərbiyəsi və idmanla, o cümlədən iş rejimi şəraitində və işdən sonrakı reabilitasiya və peşəkar-tətbiqi məşqlərlə, idman-sağlamlıq turizmi ilə məşğul ola bilməsi üçün şərait yaradılır.</span>
+4. 33. İşçiyə bədən tərbiyəsi və idmanla, o cümlədən iş rejimi şəraitində və işdən sonrakı reabilitasiya və peşəkar-tətbiqi məşqlərlə, idman-sağlamlıq turizmi ilə məşğul ola bilməsi üçün şərait yaradılır.
 
 ---
 
-<span style="color:red">4. 34. İşçinin bədən tərbiyəsi və idman şəraiti məsələləri üzrə şərtlər: ______________________________________________________________________________ Tərəflərin müəyyən etdiyi, habelə kollektiv müqavilədə (sazişdə) nəzərdə tutulan digər əlavə şərtlər[320]</span>
+4. 34. İşçinin bədən tərbiyəsi və idman şəraiti məsələləri üzrə şərtlər: ______________________________________________________________________________ Tərəflərin müəyyən etdiyi, habelə kollektiv müqavilədə (sazişdə) nəzərdə tutulan digər əlavə şərtlər[320]
 
 ---
 
-<span style="color:red">4. 35. ____________________________________________________________________;</span>
+4. 35. ____________________________________________________________________;
 
 ---
 
-<span style="color:red">4. 36. ____________________________________________________________________;</span>
+4. 36. ____________________________________________________________________;
 
 ---
 
-<span style="color:red">4. 37. ____________________________________________________________________; (bütün əlavə şərtlər təfsilatı ilə sadalanmalıdır). §5. Birinin digərinə vurduğu ziyana görə tərəflərin qarşılıqlı maddi məsuliyyəti</span>
+4. 37. ____________________________________________________________________; (bütün əlavə şərtlər təfsilatı ilə sadalanmalıdır). §5. Birinin digərinə vurduğu ziyana görə tərəflərin qarşılıqlı maddi məsuliyyəti
 
 ---
 
-<span style="color:red">5. 1. Bu Əmək müqaviləsinin tərəflərindən biri digərinin əmlakına, səhhətinə, maddi, istehsal, kommersiya maraqlarına, qanunla qorunan mənafelərinə ziyan vurarsa, digər tərəf qarşısında qanunvericiliklə müəyyən olunmuş qaydada maddi və mənəvi məsuliyyət daşıyır.</span>
+5. 1. Bu Əmək müqaviləsinin tərəflərindən biri digərinin əmlakına, səhhətinə, maddi, istehsal, kommersiya maraqlarına, qanunla qorunan mənafelərinə ziyan vurarsa, digər tərəf qarşısında qanunvericiliklə müəyyən olunmuş qaydada maddi və mənəvi məsuliyyət daşıyır.
 
 ---
 
-<span style="color:red">5. 2. Tərəflər istehsal və icra riski istisna olmaqla biri digərinə ziyan vurarsa, dəyən zərəri könüllü şəkildə digər tərəfə ödəməyi öhdəsinə götürürlər. Əgər bir tərəf digər tərəfin hüquqlarını pozaraq qarşılıqlı şəkildə dəyən zərərin ödənilməsi razılığına gəlməzsə, ziyan dəyən tərəf məhkəmə qaydasında ziyanın ödənilməsini təmin etmək hüququna malikdir.</span>
+5. 2. Tərəflər istehsal və icra riski istisna olmaqla biri digərinə ziyan vurarsa, dəyən zərəri könüllü şəkildə digər tərəfə ödəməyi öhdəsinə götürürlər. Əgər bir tərəf digər tərəfin hüquqlarını pozaraq qarşılıqlı şəkildə dəyən zərərin ödənilməsi razılığına gəlməzsə, ziyan dəyən tərəf məhkəmə qaydasında ziyanın ödənilməsini təmin etmək hüququna malikdir.
 
 ---
 
-<span style="color:red">5. 3. Tərəflər məhkəməyə müraciət etmədən ziyan vurmadan əmələ gələn öhdəliklərinin özləri tərəfindən həllinə üstünlük verirlər. §6. Sosial müdafiə məsələləri</span>
+5. 3. Tərəflər məhkəməyə müraciət etmədən ziyan vurmadan əmələ gələn öhdəliklərinin özləri tərəfindən həllinə üstünlük verirlər. §6. Sosial müdafiə məsələləri
 
 ---
 
-<span style="color:red">6. 1. İşçinin məcburi dövlət sosial sığortası üçün qanunvericiliklə müəyyən olunmuş qaydada hər ay __________ məbləğdə sığorta haqqı ödənilir və işəgötürən tərəfindən o, __________ məbləğdə əlavə sığorta edilir;</span>
+6. 1. İşçinin məcburi dövlət sosial sığortası üçün qanunvericiliklə müəyyən olunmuş qaydada hər ay __________ məbləğdə sığorta haqqı ödənilir və işəgötürən tərəfindən o, __________ məbləğdə əlavə sığorta edilir;
 
 ---
 
-<span style="color:red">6. 2. İşçinin sosial müdafiə olunması, güzəşt və imtiyazları, məcburi dövlət sosial sığorta, işsizlikdən sığorta, tibbi sığorta və istehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta hüququ təmin edilir; [321]</span>
+6. 2. İşçinin sosial müdafiə olunması, güzəşt və imtiyazları, məcburi dövlət sosial sığorta, işsizlikdən sığorta, tibbi sığorta və istehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta hüququ təmin edilir; [321]
 
 ---
 
-<span style="color:red">6. 3. İşçiyə əmək qabiliyyətinin müvəqqəti itirilməsi ilə əlaqədar qanunvericiliklə müəyyən edilmiş qaydada və məbləğdə müavinət verilir. [322] §7. Mülkiyyət münasibətlərinin tənzimlənməsi</span>
+6. 3. İşçiyə əmək qabiliyyətinin müvəqqəti itirilməsi ilə əlaqədar qanunvericiliklə müəyyən edilmiş qaydada və məbləğdə müavinət verilir. [322] §7. Mülkiyyət münasibətlərinin tənzimlənməsi
 
 ---
 
-<span style="color:red">7. 1. İşçi iş vaxtı ərzində həm onun bilavasitə istifadəsinə verilən, həm də başqa istehsal vasitələrinin — maşın, mexanizm, avadanlıq, cihaz və alətlərin, qurğu, habelə işəgötürənin mülkiyyətində olan digər əmlakın qorunmasına cavabdehdir;</span>
+7. 1. İşçi iş vaxtı ərzində həm onun bilavasitə istifadəsinə verilən, həm də başqa istehsal vasitələrinin — maşın, mexanizm, avadanlıq, cihaz və alətlərin, qurğu, habelə işəgötürənin mülkiyyətində olan digər əmlakın qorunmasına cavabdehdir;
 
 ---
 
-<span style="color:red">7. 2. İşçinin müəssisənin mülkiyyətində __________ qədər payı var və işəgötürənlə mülkiyyət münasibətləri həmin paya mütənasib olaraq qanunvericiliklə müəyyən edilən qaydada tənzimlənir;</span>
+7. 2. İşçinin müəssisənin mülkiyyətində __________ qədər payı var və işəgötürənlə mülkiyyət münasibətləri həmin paya mütənasib olaraq qanunvericiliklə müəyyən edilən qaydada tənzimlənir;
 
 ---
 
-<span style="color:red">7. 3. İşçi müəssisənin mülkiyyətindəki payına görə nizamnamə ilə müəyyən edilən __________ məbləğdə dividend almaq hüququna malikdir;</span>
+7. 3. İşçi müəssisənin mülkiyyətindəki payına görə nizamnamə ilə müəyyən edilən __________ məbləğdə dividend almaq hüququna malikdir;
 
 ---
 
-<span style="color:red">7. 4. İşçi əmək funksiyasının icrası zamanı özünün aşağıdakı şəxsi əmlakından istifadə edir:</span>
+7. 4. İşçi əmək funksiyasının icrası zamanı özünün aşağıdakı şəxsi əmlakından istifadə edir:
 
 ---
 
-<span style="color:red">a) ______________________________________________________________________;</span>
+a) ______________________________________________________________________;
 
 ---
 
-<span style="color:red">b)… ____________________________________________________________________;</span>
+b)… ____________________________________________________________________;
 
 ---
 
-<span style="color:red">7. 5. İşəgötürən işçinin əmlakının mühafizəsinə və aşınmasına görə əvəzinin ödənilməsinə cavabdehdir;</span>
+7. 5. İşəgötürən işçinin əmlakının mühafizəsinə və aşınmasına görə əvəzinin ödənilməsinə cavabdehdir;
 
 ---
 
-<span style="color:red">7. 6. İşçi işəgötürənin kommersiya və istehsal sirrinin qorunmasına cavabdehdir və bu sirləri yaymağa görə qanunvericilikdə və bu Əmək müqaviləsində nəzərdə tutulan məsuliyyət daşıyır. §8. Əmək müqaviləsinə dəyişikliklər və əlavələr edilməsi barədə məlumatlar</span>
+7. 6. İşçi işəgötürənin kommersiya və istehsal sirrinin qorunmasına cavabdehdir və bu sirləri yaymağa görə qanunvericilikdə və bu Əmək müqaviləsində nəzərdə tutulan məsuliyyət daşıyır. §8. Əmək müqaviləsinə dəyişikliklər və əlavələr edilməsi barədə məlumatlar
 
 ---
 
-<span style="color:red">8. 1. Bu Əmək müqaviləsinə birtərəfli qaydada aparılmış dəyişikliklərin, əlavələrin, düzəlişlərin hüquqi qüvvəsi yoxdur.</span>
+8. 1. Bu Əmək müqaviləsinə birtərəfli qaydada aparılmış dəyişikliklərin, əlavələrin, düzəlişlərin hüquqi qüvvəsi yoxdur.
 
 ---
 
-<span style="color:red">8. 2. Bu Əmək müqaviləsinə aşağıdakı dəyişikliklər, əlavələr edilmişdir:</span>
+8. 2. Bu Əmək müqaviləsinə aşağıdakı dəyişikliklər, əlavələr edilmişdir:
 
 ---
 
-<span style="color:red">a);</span>
+a);
 
 ---
 
-<span style="color:red">b);</span>
+b);
 
 ---
 
-<span style="color:red">c) …(bütün dəyişikliklər və əlavələr təfsilatı ilə sadalanmalıdır)</span>
+c) …(bütün dəyişikliklər və əlavələr təfsilatı ilə sadalanmalıdır)
 
 ---
 
-<span style="color:red">8. 3. Tərəfimizdən razılaşdırılmış dəyişikliklər və əlavələr dərhal (……… gündən gec olmayaraq) qüvvəyə minir və bu Əmək müqaviləsinin tərkib hissəsini təşkil edir. İmzalar: ________________________________ İşəgötürən ________________________________ İşçi §9. Əmək müqaviləsinə xitam verilməsi</span>
+8. 3. Tərəfimizdən razılaşdırılmış dəyişikliklər və əlavələr dərhal (……… gündən gec olmayaraq) qüvvəyə minir və bu Əmək müqaviləsinin tərkib hissəsini təşkil edir. İmzalar: ________________________________ İşəgötürən ________________________________ İşçi §9. Əmək müqaviləsinə xitam verilməsi
 
 ---
 
-<span style="color:red">9. 1. Bu Əmək müqaviləsi Əmək Məcəlləsinin 68, 69, 70, 73, 74 və 75-ci Maddələrində nəzərdə tutulan əsaslarla və qaydalara ciddi əməl olunmaqla tərəflərin birinin təşəbbüsü ilə ləğv edilə bilər;</span>
+9. 1. Bu Əmək müqaviləsi Əmək Məcəlləsinin 68, 69, 70, 73, 74 və 75-ci Maddələrində nəzərdə tutulan əsaslarla və qaydalara ciddi əməl olunmaqla tərəflərin birinin təşəbbüsü ilə ləğv edilə bilər;
 
 ---
 
-<span style="color:red">9. 2. İşəgötürən tərəfindən bu Əmək müqaviləsi ləğv edilərkən işçi qanunvericilikdə nəzərdə tutulan hallarda xəbərdar edilir;</span>
+9. 2. İşəgötürən tərəfindən bu Əmək müqaviləsi ləğv edilərkən işçi qanunvericilikdə nəzərdə tutulan hallarda xəbərdar edilir;
 
 ---
 
-<span style="color:red">9. 3. İşçi tərəfindən bu əmək müqaviləsi ləğv edilməzdən əvvəl işəgötürən azı bir təqvim ayı qabaqcadan xəbərdar edilməlidir;</span>
+9. 3. İşçi tərəfindən bu əmək müqaviləsi ləğv edilməzdən əvvəl işəgötürən azı bir təqvim ayı qabaqcadan xəbərdar edilməlidir;
 
 ---
 
-<span style="color:red">9. 4. İşəgötürən tərəfindən zor işlədilərək, hədə-qorxu gələrək, yaxud hər hansı başqa üsulla işçinin iradəsinin əleyhinə bu Əmək müqaviləsini ləğv etməyə onun məcbur edilməsinə yol verilmir;</span>
+9. 4. İşəgötürən tərəfindən zor işlədilərək, hədə-qorxu gələrək, yaxud hər hansı başqa üsulla işçinin iradəsinin əleyhinə bu Əmək müqaviləsini ləğv etməyə onun məcbur edilməsinə yol verilmir;
 
 ---
 
-<span style="color:red">9. 5. Əmək müqaviləsinə xitam verilməsi barədə tərəflərin müəyyən etdiyi hallar: ________________________________________________________________________ ________________________________________________________________________ §10. Yekun qaydalar</span>
+9. 5. Əmək müqaviləsinə xitam verilməsi barədə tərəflərin müəyyən etdiyi hallar: ________________________________________________________________________ ________________________________________________________________________ §10. Yekun qaydalar
 
 ---
 
-<span style="color:red">10. 1. Bu Əmək müqaviləsinin qüvvədə olduğu müddət ərzində tərəflər yaranan əmək mübahisələrinin həllinə qarşılıqlı anlaşma və razılıq yolu ilə biri digərinin hüquqlarını pozmadan nail olacaqlar. Tərəflər əmək mübahisələrinin həlli haqqında razılığa gəlmədikdə, mübahisənin məhkəmə qaydasında araşdırılması hüququndan istifadə edəcəklər.</span>
+10. 1. Bu Əmək müqaviləsinin qüvvədə olduğu müddət ərzində tərəflər yaranan əmək mübahisələrinin həllinə qarşılıqlı anlaşma və razılıq yolu ilə biri digərinin hüquqlarını pozmadan nail olacaqlar. Tərəflər əmək mübahisələrinin həlli haqqında razılığa gəlmədikdə, mübahisənin məhkəmə qaydasında araşdırılması hüququndan istifadə edəcəklər.
 
 ---
 
-<span style="color:red">10. 2. Bu Əmək müqaviləsi iki nüsxədə tərtib edilib, onlardan biri işçidə, digəri isə işəgötürəndə saxlanılır.</span>
+10. 2. Bu Əmək müqaviləsi iki nüsxədə tərtib edilib, onlardan biri işçidə, digəri isə işəgötürəndə saxlanılır.
 
 ---
 
-<span style="color:red">10. 3. Tərəflər bu Əmək müqaviləsi üzrə öhdəliklərinin icrasını üçüncü şəxslərə həvalə edə bilməzlər.</span>
+10. 3. Tərəflər bu Əmək müqaviləsi üzrə öhdəliklərinin icrasını üçüncü şəxslərə həvalə edə bilməzlər.
 
 ---
 
-<span style="color:red">10. 4. Tərəflər bu Əmək müqaviləsi ilə nəzərdə tutulmamış, habelə bilavasitə Əmək Məcəlləsi ilə müəyyən edilən hallar istisna olunmaqla üçüncü şəxslər qarşısında biri digərinin öhdəliklərinə görə cavabdehlik daşımırlar.</span>
+10. 4. Tərəflər bu Əmək müqaviləsi ilə nəzərdə tutulmamış, habelə bilavasitə Əmək Məcəlləsi ilə müəyyən edilən hallar istisna olunmaqla üçüncü şəxslər qarşısında biri digərinin öhdəliklərinə görə cavabdehlik daşımırlar.
 
 ---
 
-<span style="color:red">10. 5. Tərəflər bu Əmək müqaviləsinin şərtlərini, Əmək Məcəlləsi ilə müəyyən edilən vəzifələrini, habelə biri digərinin qanuni mənafelərini və hüquqlarını pozarsa, təqsirkar tərəfin məsuliyyətə cəlb edilməsini müvafiq dövlət orqanlarından, mülkiyyətçidən tələb etmək hüququna malikdirlər.</span>
+10. 5. Tərəflər bu Əmək müqaviləsinin şərtlərini, Əmək Məcəlləsi ilə müəyyən edilən vəzifələrini, habelə biri digərinin qanuni mənafelərini və hüquqlarını pozarsa, təqsirkar tərəfin məsuliyyətə cəlb edilməsini müvafiq dövlət orqanlarından, mülkiyyətçidən tələb etmək hüququna malikdirlər.
 
 ---
 
-<span style="color:red">10. 6. Bu Əmək müqaviləsinin şərtlərini, bu şərtlərdən irəli gələn öhdəliklərimizi vicdanla yerinə yetirəcək, şəxsi, maddi, maliyyə, istehsal maraqlarımıza, habelə ictimai, birliklərdə və siyasi partiyalarda müstəqil iştirakımıza qarşılıqlı hörmət göstərəcəyik. §11. Tərəflərin imzaları və ünvanları:</span>
+10. 6. Bu Əmək müqaviləsinin şərtlərini, bu şərtlərdən irəli gələn öhdəliklərimizi vicdanla yerinə yetirəcək, şəxsi, maddi, maliyyə, istehsal maraqlarımıza, habelə ictimai, birliklərdə və siyasi partiyalarda müstəqil iştirakımıza qarşılıqlı hörmət göstərəcəyik. §11. Tərəflərin imzaları və ünvanları:
 
 ---
 
-<span style="color:red">11. 1. İşəgötürənin vəzifəsi, adı, atasının adı və soyadı, habelə müştərisi olduğu bankın adı, hesablaşma hesablarının nömrələri, kodu, sahibkarlıq fəaliyyəti ilə məşğul olmağa hüquq verən xüsusi razılığın məlumatları göstərilməklə hüquqi ünvanı: Möhürü İmzası:</span>
+11. 1. İşəgötürənin vəzifəsi, adı, atasının adı və soyadı, habelə müştərisi olduğu bankın adı, hesablaşma hesablarının nömrələri, kodu, sahibkarlıq fəaliyyəti ilə məşğul olmağa hüquq verən xüsusi razılığın məlumatları göstərilməklə hüquqi ünvanı: Möhürü İmzası:
 
 ---
 
-<span style="color:red">11. 2. İşçinin adı, atasının adı və soyadı göstərilməklə ünvanı: İmzası: Tarix: Qeyd: Əmək Məcəlləsinin 43-cü Maddəsində nəzərdə tutulan əmək müqaviləsinin məzmununa daxil olan şərtlər, məlumatlar həmin müqavilə tərtib edilərkən hökmən göstərilməlidir. Bu nümunədə göstərilən əlavə müddəaların, şərtlərin hər biri, konkret hallarda işəgötürən və işçi tərəfindən əmək müqaviləsi bağlanarkən razılaşdırılaraq tərtib edilir. Lakin bütün hallarda işəgötürən əmək müqaviləsinin məzmununu bu nümunədə göstərilən qaydada dolğun şəkildə tərtib etməyə borcludur. İşəgötürən bu nümunəyə tam uyğun olan əmək müqaviləsinin formalarını kifayət miqdarda nəşriyyat üsulu ilə hazırlanmasını təmin etməlidir. Əmək müqaviləsinin formasındakı boş yerlər əl ilə və ya makinada, kompüterdə səliqə ilə yazılmalıdır, məlumatların pozulmasına, qaralanmasına yol verilməməlidir. Azərbaycan Respublikasının Əmək Məcəlləsinə 2-ci əlavə İlin soyuq vaxtında açıq havada və ya isidilməyən örtülü binalarda, habelə isti havalarda işin dayandırılması və işçilərə fasilələrin verilməsi şərtləri</span>
+11. 2. İşçinin adı, atasının adı və soyadı göstərilməklə ünvanı: İmzası: Tarix: Qeyd: Əmək Məcəlləsinin 43-cü Maddəsində nəzərdə tutulan əmək müqaviləsinin məzmununa daxil olan şərtlər, məlumatlar həmin müqavilə tərtib edilərkən hökmən göstərilməlidir. Bu nümunədə göstərilən əlavə müddəaların, şərtlərin hər biri, konkret hallarda işəgötürən və işçi tərəfindən əmək müqaviləsi bağlanarkən razılaşdırılaraq tərtib edilir. Lakin bütün hallarda işəgötürən əmək müqaviləsinin məzmununu bu nümunədə göstərilən qaydada dolğun şəkildə tərtib etməyə borcludur. İşəgötürən bu nümunəyə tam uyğun olan əmək müqaviləsinin formalarını kifayət miqdarda nəşriyyat üsulu ilə hazırlanmasını təmin etməlidir. Əmək müqaviləsinin formasındakı boş yerlər əl ilə və ya makinada, kompüterdə səliqə ilə yazılmalıdır, məlumatların pozulmasına, qaralanmasına yol verilməməlidir. Azərbaycan Respublikasının Əmək Məcəlləsinə 2-ci əlavə İlin soyuq vaxtında açıq havada və ya isidilməyən örtülü binalarda, habelə isti havalarda işin dayandırılması və işçilərə fasilələrin verilməsi şərtləri
 
 ---
 
-<span style="color:red">1. Havanın temperaturu 41 dərəcə Selsidən çox olan hava şəraitində açıq havada və sərinləşdirici qurğular olmayan örtülü binalarda, otaqlarda və digər iş yerlərində bütün növ işlərin görülməsi dayandırılır və işçilərə sərinləşmək üçün imkan yaradılmaqla fasilələr verilir. [323]</span>
+1. Havanın temperaturu 41 dərəcə Selsidən çox olan hava şəraitində açıq havada və sərinləşdirici qurğular olmayan örtülü binalarda, otaqlarda və digər iş yerlərində bütün növ işlərin görülməsi dayandırılır və işçilərə sərinləşmək üçün imkan yaradılmaqla fasilələr verilir. [323]
 
 ---
 
-<span style="color:red">2. Küləyin gücü 6 bal və daha artıq olduqda, quruda kranlarla görülən bütün növ işlər dayandırılır.</span>
+2. Küləyin gücü 6 bal və daha artıq olduqda, quruda kranlarla görülən bütün növ işlər dayandırılır.
 
 ---
 
-<span style="color:red">3. Tikinti işləri görüldükdə aşağıdakı hallarda işlər dayandırılır:</span>
+3. Tikinti işləri görüldükdə aşağıdakı hallarda işlər dayandırılır:
 
 ---
 
-<span style="color:red">3. 1. küləyin gücü 2 baldan artıq olduqda — kranlar qurulması üzrə quraşdırma işləri;</span>
+3. 1. küləyin gücü 2 baldan artıq olduqda — kranlar qurulması üzrə quraşdırma işləri;
 
 ---
 
-<span style="color:red">3. 2. küləyin gücü 3 baldan artıq olduqda — qaldırıcıların quraşdırılması və sökülməsi işləri;</span>
+3. 2. küləyin gücü 3 baldan artıq olduqda — qaldırıcıların quraşdırılması və sökülməsi işləri;
 
 ---
 
-<span style="color:red">3. 3. küləyin gücü 6 baldan artıq olduqda — taxta-şalban işi, habelə taxta-şalbanın sökülməsi;</span>
+3. 3. küləyin gücü 6 baldan artıq olduqda — taxta-şalban işi, habelə taxta-şalbanın sökülməsi;
 
 ---
 
-<span style="color:red">3. 4. küləyin gücü 3 baldan artıq olduqda — daşınan taxta-şalbanın yerinin dəyişdirilməsi işləri.</span>
+3. 4. küləyin gücü 3 baldan artıq olduqda — daşınan taxta-şalbanın yerinin dəyişdirilməsi işləri.
 
 ---
 
-<span style="color:red">4. Dənizdə işləyərkən aşağıdakı hallarda işlər dayandırılır:</span>
+4. Dənizdə işləyərkən aşağıdakı hallarda işlər dayandırılır:
 
 ---
 
-<span style="color:red">4. 1. küləyin gücü 4 baldan artıq olduqda — ayrı-ayrı özüllərdə kran gəmiləri vasitəsilə görülən tikinti- quraşdırma və sökmə işləri;</span>
+4. 1. küləyin gücü 4 baldan artıq olduqda — ayrı-ayrı özüllərdə kran gəmiləri vasitəsilə görülən tikinti- quraşdırma və sökmə işləri;
 
 ---
 
-<span style="color:red">4. 2. küləyin gücü 4 baldan artıq olduqda — daimi dəniz özülləri və estakadayanı meydançaları yanındakı buxtalarda barjlara, kran gəmilərinə yükvurma və yükboşaltma işləri;</span>
+4. 2. küləyin gücü 4 baldan artıq olduqda — daimi dəniz özülləri və estakadayanı meydançaları yanındakı buxtalarda barjlara, kran gəmilərinə yükvurma və yükboşaltma işləri;
 
 ---
 
-<span style="color:red">4. 3. küləyin gücü 8 baldan artıq olduqda — qazma işləri aparılan quyularda alətlərin quyulardan qaldırılması ilə əlaqədar bütün işlər;</span>
+4. 3. küləyin gücü 8 baldan artıq olduqda — qazma işləri aparılan quyularda alətlərin quyulardan qaldırılması ilə əlaqədar bütün işlər;
 
 ---
 
-<span style="color:red">4. 4. küləyin gücü 6 baldan artıq olduqda — daimi dəniz özüllərində istismar edilən quyularda işlər;</span>
+4. 4. küləyin gücü 6 baldan artıq olduqda — daimi dəniz özüllərində istismar edilən quyularda işlər;
 
 ---
 
-<span style="color:red">4. 5. küləyin gücü 6 baldan artıq olduqda — daimi dəniz özüllərində estakadayanı meydançalarda quyuların əsaslı və cari yeraltı təmir işləri;</span>
+4. 5. küləyin gücü 6 baldan artıq olduqda — daimi dəniz özüllərində estakadayanı meydançalarda quyuların əsaslı və cari yeraltı təmir işləri;
 
 ---
 
-<span style="color:red">4. 6. küləyin gücü 8 baldan artıq olduqda — özülün və ya estakadayanı meydançanın döşəməsi üstündəki işlər;</span>
+4. 6. küləyin gücü 8 baldan artıq olduqda — özülün və ya estakadayanı meydançanın döşəməsi üstündəki işlər;
 
 ---
 
-<span style="color:red">4. 7. küləyin gücü 8 baldan artıq olduqda — özülün və ya estakadayanı meydançanın döşəməsi altındakı işlər;</span>
+4. 7. küləyin gücü 8 baldan artıq olduqda — özülün və ya estakadayanı meydançanın döşəməsi altındakı işlər;
 
 ---
 
-<span style="color:red">4. 8. küləyin gücü 4 baldan artıq olduqda — qaynaq tikişinin aşağı vəziyyətdə qoyulduğu bütün növ qaynaq işləri;</span>
+4. 8. küləyin gücü 4 baldan artıq olduqda — qaynaq tikişinin aşağı vəziyyətdə qoyulduğu bütün növ qaynaq işləri;
 
 ---
 
-<span style="color:red">4. 9. küləyin gücü 3 baldan artıq olduqda — qaynaq tikişinin şaquli vəziyyətində qoyulduğu bütün növ qaynaq işləri;</span>
+4. 9. küləyin gücü 3 baldan artıq olduqda — qaynaq tikişinin şaquli vəziyyətində qoyulduğu bütün növ qaynaq işləri;
 
 ---
 
-<span style="color:red">4. 10. küləyin gücü 3 baldan artıq olduqda — qaynaq tikişin tavan vəziyyətdə qoyulduğu bütün növ qaynaq işləri;</span>
+4. 10. küləyin gücü 3 baldan artıq olduqda — qaynaq tikişin tavan vəziyyətdə qoyulduğu bütün növ qaynaq işləri;
 
 ---
 
-<span style="color:red">4. 11. küləyin gücü 5 baldan artıq olduqda — ayrı-ayrı özüllərdə üzən vasitələr, qurğular olmadan tikinti- quraşdırma və sökmə işləri;</span>
+4. 11. küləyin gücü 5 baldan artıq olduqda — ayrı-ayrı özüllərdə üzən vasitələr, qurğular olmadan tikinti- quraşdırma və sökmə işləri;
 
 ---
 
-<span style="color:red">4. 12. küləyin gücü 4 baldan artıq olduqda — estakada tikən kranla quraşdırma işləri;</span>
+4. 12. küləyin gücü 4 baldan artıq olduqda — estakada tikən kranla quraşdırma işləri;
 
 ---
 
-<span style="color:red">4. 13. küləyin gücü 5 baldan artıq olduqda — kopyor vasitəsilə dayaqlar vurulması işləri;</span>
+4. 13. küləyin gücü 5 baldan artıq olduqda — kopyor vasitəsilə dayaqlar vurulması işləri;
 
 ---
 
-<span style="color:red">4. 14. küləyin gücü 4 baldan artıq olduqda — dəniz neft-mədən qurğularının sökülməsi işləri;</span>
+4. 14. küləyin gücü 4 baldan artıq olduqda — dəniz neft-mədən qurğularının sökülməsi işləri;
 
 ---
 
-<span style="color:red">4. 15. küləyin gücü 5 baldan artıq olduqda — daimi dəniz özüllərində buruqların quraşdırılması, sökülməsi və dorların qaldırılması (endirilməsi) işləri;</span>
+4. 15. küləyin gücü 5 baldan artıq olduqda — daimi dəniz özüllərində buruqların quraşdırılması, sökülməsi və dorların qaldırılması (endirilməsi) işləri;
 
 ---
 
-<span style="color:red">4. 16. küləyin gücü 5 baldan artıq olduqda — traversin sürgü qollarının, mancanaq dəzgahının asma kanatının təmiri və dəyişdirilməsi, buruqda və ya dorda diyircəklərin, kran-blokun dəyişdirilməsi, tali kanatının təchizatı, dərinlik ölçmələri və quyuların debitinin ölçülməsi işləri;</span>
+4. 16. küləyin gücü 5 baldan artıq olduqda — traversin sürgü qollarının, mancanaq dəzgahının asma kanatının təmiri və dəyişdirilməsi, buruqda və ya dorda diyircəklərin, kran-blokun dəyişdirilməsi, tali kanatının təchizatı, dərinlik ölçmələri və quyuların debitinin ölçülməsi işləri;
 
 ---
 
-<span style="color:red">4. 17. küləyin gücü 5 baldan artıq olduqda — estakada meydançalarında quyuların cari və əsaslı təmiri üçün səyyar aqreqatların dorlarının qaldırılması işləri;</span>
+4. 17. küləyin gücü 5 baldan artıq olduqda — estakada meydançalarında quyuların cari və əsaslı təmiri üçün səyyar aqreqatların dorlarının qaldırılması işləri;
 
 ---
 
-<span style="color:red">4. 18. küləyin gücü 10 baldan artıq olduqda — quyunun yuyulması işlərindən başqa buruqda bütün işlər.</span>
+4. 18. küləyin gücü 10 baldan artıq olduqda — quyunun yuyulması işlərindən başqa buruqda bütün işlər.
 
 ---
 
-<span style="color:red">5. Havanın temperaturu Selsi ilə mənfi 10 dərəcə və daha aşağı olduqda və eyni zamanda küləyin gücü 3 baldan artıq olduqda açıq havada bütün növ işlər dayandırılır və ya işçilərə isinmək üçün fasilələr verilir.</span>
+5. Havanın temperaturu Selsi ilə mənfi 10 dərəcə və daha aşağı olduqda və eyni zamanda küləyin gücü 3 baldan artıq olduqda açıq havada bütün növ işlər dayandırılır və ya işçilərə isinmək üçün fasilələr verilir.
 
 ---
 
-<span style="color:red">6. İstehsalın fasiləsiz xarakterli olması ilə əlaqədar işi dayandırmağın qeyri-mümkün olduğu yerlərdə işin dayandırılması bir-birini əvəz edən növbələr müəyyən olunması ilə əvəz edilir. Növbələrin bir-birini əvəz etməsi həmkarlar ittifaqları təşkilatının razılığı ilə işəgötürən tərəfindən müəyyən olunur.</span>
+6. İstehsalın fasiləsiz xarakterli olması ilə əlaqədar işi dayandırmağın qeyri-mümkün olduğu yerlərdə işin dayandırılması bir-birini əvəz edən növbələr müəyyən olunması ilə əvəz edilir. Növbələrin bir-birini əvəz etməsi həmkarlar ittifaqları təşkilatının razılığı ilə işəgötürən tərəfindən müəyyən olunur.
 
 ---
 
-<span style="color:red">7. İlin soyuq vaxtında örtülü, lakin isidilməyən binalarda temperatur Selsi ilə müsbət 14 dərəcədən aşağı olduqda, işçilərə fasilələr verilir və ya iş dayandırılır. [324]</span>
+7. İlin soyuq vaxtında örtülü, lakin isidilməyən binalarda temperatur Selsi ilə müsbət 14 dərəcədən aşağı olduqda, işçilərə fasilələr verilir və ya iş dayandırılır. [324]
 
 ---
 
-<span style="color:red">8. İşlərin dayandırılması və isinmək üçün fasilələr verilməsi, habelə bu fasilələrin sayının və müddətinin müəyyən edilməsi işəgötürənlə həmkarlar ittifaqları təşkilatının birgə qərarı ilə həyata keçirilir. * Bu sənəd tərəflərin iradəsindən asılı olaraq eyni hüquqi məna kəsb edən «Əmək müqaviləsi» və ya «Əmək kontraktı» formasında tərtib edilir.</span>
+8. İşlərin dayandırılması və isinmək üçün fasilələr verilməsi, habelə bu fasilələrin sayının və müddətinin müəyyən edilməsi işəgötürənlə həmkarlar ittifaqları təşkilatının birgə qərarı ilə həyata keçirilir. * Bu sənəd tərəflərin iradəsindən asılı olaraq eyni hüquqi məna kəsb edən «Əmək müqaviləsi» və ya «Əmək kontraktı» formasında tərtib edilir.
 
 ---
 
-<span style="color:red">İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI 1 fevral 1999-cu il 618-IQ nömrəli “Azərbaycan Respublikası Əmək Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 1999-cu il, № 4, Maddə 213) ilə təsdiq edilmişdir. Məcəlləyə əlavə və dəyişikliklər etmiş qanunlar</span>
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI 1 fevral 1999-cu il 618-IQ nömrəli “Azərbaycan Respublikası Əmək Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 1999-cu il, № 4, Maddə 213) ilə təsdiq edilmişdir. Məcəlləyə əlavə və dəyişikliklər etmiş qanunlar
 
 ---
 
-<span style="color:red">1. 20 fevral 2001-ci il tarixli 88-IIQD nömrəli "Yoluxucu xəstəliklərin immunoprofilaktikası haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 3, Maddə 143 )</span>
+1. 20 fevral 2001-ci il tarixli 88-IIQD nömrəli "Yoluxucu xəstəliklərin immunoprofilaktikası haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 3, Maddə 143 )
 
 ---
 
-<span style="color:red">2. 27 mart 2001-ci il tarixli 107-IIQD nömrəli “Azərbaycan Respublikasının Mülki-Prosessual Məcəlləsinin tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 6, Maddə 362)</span>
+2. 27 mart 2001-ci il tarixli 107-IIQD nömrəli “Azərbaycan Respublikasının Mülki-Prosessual Məcəlləsinin tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 6, Maddə 362)
 
 ---
 
-<span style="color:red">3. 5 oktyabr 2001-ci il tarixli 178-IIQD nömrəli "Məcburi köçkünlərin və onlara bərabər tutulan şəxslərin sosial müdafiəsi haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 11, Maddə 672)</span>
+3. 5 oktyabr 2001-ci il tarixli 178-IIQD nömrəli "Məcburi köçkünlərin və onlara bərabər tutulan şəxslərin sosial müdafiəsi haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 11, Maddə 672)
 
 ---
 
-<span style="color:red">4. 5 oktyabr 2001-ci il tarixli 186-IIQD nömrəli “Azərbaycan Respublikası Əmək Məcəlləsinin 77-ci Maddəsinin 5-ci hissəsində dəyişiklik edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 11, Maddə 679)</span>
+4. 5 oktyabr 2001-ci il tarixli 186-IIQD nömrəli “Azərbaycan Respublikası Əmək Məcəlləsinin 77-ci Maddəsinin 5-ci hissəsində dəyişiklik edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 11, Maddə 679)
 
 ---
 
-<span style="color:red">5. 12 oktyabr 2001-ci il tarixli 195-IIQD nömrəli "Valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqların sosial müdafiəsi haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 1, Maddə 2)</span>
+5. 12 oktyabr 2001-ci il tarixli 195-IIQD nömrəli "Valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqların sosial müdafiəsi haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 1, Maddə 2)
 
 ---
 
-<span style="color:red">6. 15 noyabr 2001-ci il tarixli 214-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 12, Maddə 731)</span>
+6. 15 noyabr 2001-ci il tarixli 214-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 12, Maddə 731)
 
 ---
 
-<span style="color:red">7. 23 aprel 2002-ci il tarixli 311-IIQD nömrəli "Azərbaycan Respublikasının Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikası Qanununun və bu Qanunla təsdiq edilmiş Azərbaycan Respublikası Mülki Məcəlləsinin tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi və bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 5, Maddə 241 )</span>
+7. 23 aprel 2002-ci il tarixli 311-IIQD nömrəli "Azərbaycan Respublikasının Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikası Qanununun və bu Qanunla təsdiq edilmiş Azərbaycan Respublikası Mülki Məcəlləsinin tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi və bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 5, Maddə 241 )
 
 ---
 
-<span style="color:red">8. 24 may 2002-ci il tarixli 333-IIQD nömrəli "Azərbaycan Respublikasının Cəzaların İcrası Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi və bəzi normativ hüquqi aktlarının qüvvədən düşmüş hesab edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 6, Maddə 328 )</span>
+8. 24 may 2002-ci il tarixli 333-IIQD nömrəli "Azərbaycan Respublikasının Cəzaların İcrası Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi və bəzi normativ hüquqi aktlarının qüvvədən düşmüş hesab edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 6, Maddə 328 )
 
 ---
 
-<span style="color:red">9. 3 dekabr 2002-ci il tarixli 391-IIQD nömrəli “Dövlət sosial sığorta sistemində fərdi uçot haqqında” Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının Əmək Məcəlləsinə dəyişiklik və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2003-cü il, № 1, Maddə 9 )</span>
+9. 3 dekabr 2002-ci il tarixli 391-IIQD nömrəli “Dövlət sosial sığorta sistemində fərdi uçot haqqında” Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının Əmək Məcəlləsinə dəyişiklik və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2003-cü il, № 1, Maddə 9 )
 
 ---
 
-<span style="color:red">10. 24 dekabr 2002-ci il tarixli 409-IIQD nömrəli “Məhkəmə qərarlarının icrası haqqında” Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2003-cü il, № 1, Maddə 23 )</span>
+10. 24 dekabr 2002-ci il tarixli 409-IIQD nömrəli “Məhkəmə qərarlarının icrası haqqında” Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2003-cü il, № 1, Maddə 23 )
 
 ---
 
-<span style="color:red">11. 30 dekabr 2003-cü il tarixli 568-IIQD nömrəli “Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında "Azərbaycan Respublikası Qanununun tətbiq edilməsi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunlarına dəyişikliklər və əlavələr edilməsi və bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 2, Maddə 57)</span>
+11. 30 dekabr 2003-cü il tarixli 568-IIQD nömrəli “Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında "Azərbaycan Respublikası Qanununun tətbiq edilməsi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunlarına dəyişikliklər və əlavələr edilməsi və bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 2, Maddə 57)
 
 ---
 
-<span style="color:red">12. 30 dekabr 2003-cü il tarixli 569-IIQD nömrəli "Azərbaycan Respublikasının Seçki Məcəlləsinin tətbiq edilməsi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi və Azərbaycan Respublikasının bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, Maddə 10)</span>
+12. 30 dekabr 2003-cü il tarixli 569-IIQD nömrəli "Azərbaycan Respublikasının Seçki Məcəlləsinin tətbiq edilməsi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi və Azərbaycan Respublikasının bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, Maddə 10)
 
 ---
 
-<span style="color:red">13. 5 mart 2004-cü il tarixli 598-IIQD nömrəli “Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsinin tətbiq edilməsi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 3, Maddə 133 )</span>
+13. 5 mart 2004-cü il tarixli 598-IIQD nömrəli “Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsinin tətbiq edilməsi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 3, Maddə 133 )
 
 ---
 
-<span style="color:red">14. 30 aprel 2004-cü il tarixli 643-IIQD nömrəli “Dövlət rüsumu haqqında” Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi və bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 7, Maddə 505)</span>
+14. 30 aprel 2004-cü il tarixli 643-IIQD nömrəli “Dövlət rüsumu haqqında” Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi və bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 7, Maddə 505)
 
 ---
 
-<span style="color:red">15. 21 may 2004-cü il tarixli 675-IIQD nömrəli "Şəkərli diabet xəstəliyinə tutulmuş şəxslərə dövlət qayğısı haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikası Əmək Məcəlləsinin 79-cu Maddəsində dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 6, Maddə 413 )</span>
+15. 21 may 2004-cü il tarixli 675-IIQD nömrəli "Şəkərli diabet xəstəliyinə tutulmuş şəxslərə dövlət qayğısı haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikası Əmək Məcəlləsinin 79-cu Maddəsində dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 6, Maddə 413 )
 
 ---
 
-<span style="color:red">16. 1 sentyabr 2004-cü il tarixli 729-IIQD nömrəli “Azərbaycan Respublikasının Əmək Məcəlləsinə bəzi əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 9, Maddə 672 )</span>
+16. 1 sentyabr 2004-cü il tarixli 729-IIQD nömrəli “Azərbaycan Respublikasının Əmək Məcəlləsinə bəzi əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 9, Maddə 672 )
 
 ---
 
-<span style="color:red">17. 3 dekabr 2004-cü il tarixli 795-IIQD nömrəli “Azərbaycan Respublikasının Əmək Məcəlləsində dəyişiklik edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, Maddə 981)</span>
+17. 3 dekabr 2004-cü il tarixli 795-IIQD nömrəli “Azərbaycan Respublikasının Əmək Məcəlləsində dəyişiklik edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, Maddə 981)
 
 ---
 
-<span style="color:red">18. 4 mart 2005-ci il tarixli 848-IIQD nömrəli “Azərbaycan Respublikası Əmək Məcəlləsinin 120-ci Maddəsinə əlavə edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 3, Maddə 151 )</span>
+18. 4 mart 2005-ci il tarixli 848-IIQD nömrəli “Azərbaycan Respublikası Əmək Məcəlləsinin 120-ci Maddəsinə əlavə edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 3, Maddə 151 )
 
 ---
 
-<span style="color:red">19. 4 mart 2005-ci il tarixli 856-IIQD nömrəli “Fövqəladə vəziyyət haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi və bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005- ci il, № 4, Maddə 278)</span>
+19. 4 mart 2005-ci il tarixli 856-IIQD nömrəli “Fövqəladə vəziyyət haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi və bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005- ci il, № 4, Maddə 278)
 
 ---
 
-<span style="color:red">20. 15 aprel 2005-ci il tarixli 888-IIQD nömrəli “Azərbaycan Respublikasının Əmək Məcəlləsinə əlavə edilməsi haqqında ” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, Maddə 560 )</span>
+20. 15 aprel 2005-ci il tarixli 888-IIQD nömrəli “Azərbaycan Respublikasının Əmək Məcəlləsinə əlavə edilməsi haqqında ” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, Maddə 560 )
 
 ---
 
-<span style="color:red">21. 1 sentyabr 2005-ci il tarixli 980-IIQD nömrəli “Məhkəmə-Hüquq Şurası haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 oktyabr 2005-ci il )</span>
+21. 1 sentyabr 2005-ci il tarixli 980-IIQD nömrəli “Məhkəmə-Hüquq Şurası haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 oktyabr 2005-ci il )
 
 ---
 
-<span style="color:red">22. 30 sentyabr 2005-ci il tarixli 1023-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 11, Maddə 1001)</span>
+22. 30 sentyabr 2005-ci il tarixli 1023-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 11, Maddə 1001)
 
 ---
 
-<span style="color:red">23. 30 dekabr 2005-ci il tarixli 44-IIIQD“Azərbaycan Respublikasının Əmək Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 6 yanvar 2006-cı il )</span>
+23. 30 dekabr 2005-ci il tarixli 44-IIIQD“Azərbaycan Respublikasının Əmək Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 6 yanvar 2006-cı il )
 
 ---
 
-<span style="color:red">24. 03 mart 2006-cı il tarixli 73-IIIQD nömrəli "Azərbaycan Respublikasının Hərbi nəqliyyat vəzifəsi haqqında Əsasnamə”nin təsdiq edilməsi barədə Azərbaycan Respublikası Qanununun qüvvəyə minməsi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişiklik edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2006-cı il, № 05, Maddə 385)</span>
+24. 03 mart 2006-cı il tarixli 73-IIIQD nömrəli "Azərbaycan Respublikasının Hərbi nəqliyyat vəzifəsi haqqında Əsasnamə”nin təsdiq edilməsi barədə Azərbaycan Respublikası Qanununun qüvvəyə minməsi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişiklik edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2006-cı il, № 05, Maddə 385)
 
 ---
 
-<span style="color:red">25. 10 oktyabr 2006-cı il tarixli 155-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 11, Maddə 923)</span>
+25. 10 oktyabr 2006-cı il tarixli 155-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 11, Maddə 923)
 
 ---
 
-<span style="color:red">26. 10 oktyabr 2006-cı il tarixli 152-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 12, Maddə 1004)</span>
+26. 10 oktyabr 2006-cı il tarixli 152-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 12, Maddə 1004)
 
 ---
 
-<span style="color:red">27. 8 dekabr 2006-cı il tarixli 194-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2006-cı il, № 12, Maddə 1025)</span>
+27. 8 dekabr 2006-cı il tarixli 194-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2006-cı il, № 12, Maddə 1025)
 
 ---
 
-<span style="color:red">28. 19 dekabr 2006-cı il tarixli 204-IIIQD nömrəli Qanun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 12, Maddə 1030)</span>
+28. 19 dekabr 2006-cı il tarixli 204-IIIQD nömrəli Qanun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 12, Maddə 1030)
 
 ---
 
-<span style="color:red">29. 6 mart 2007-ci il tarixli 260-IIIQD nömrəli Azərbaycan Respublikasının Qanunu(Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 5, Maddə 401)</span>
+29. 6 mart 2007-ci il tarixli 260-IIIQD nömrəli Azərbaycan Respublikasının Qanunu(Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 5, Maddə 401)
 
 ---
 
-<span style="color:red">30. 17 aprel 2007-ci il tarixli 316-IIIQD nömrəli Azərbaycan Respublikasının Qanunu(Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 5, Maddə 437)</span>
+30. 17 aprel 2007-ci il tarixli 316-IIIQD nömrəli Azərbaycan Respublikasının Qanunu(Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 5, Maddə 437)
 
 ---
 
-<span style="color:red">31. 17 aprel 2007-ci il tarixli 313-IIIQD nömrəli Azərbaycan Respublikasının Qanunu(Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 6, Maddə 560)</span>
+31. 17 aprel 2007-ci il tarixli 313-IIIQD nömrəli Azərbaycan Respublikasının Qanunu(Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 6, Maddə 560)
 
 ---
 
-<span style="color:red">32. 16 iyun 2007-ci il tarixli 389-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 8, Maddə 756)</span>
+32. 16 iyun 2007-ci il tarixli 389-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 8, Maddə 756)
 
 ---
 
-<span style="color:red">33. 1 oktyabr 2007-ci il tarixli 424-IIIQD nömrəli Azərbaycan Respublikası Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 11, Maddə 1049)</span>
+33. 1 oktyabr 2007-ci il tarixli 424-IIIQD nömrəli Azərbaycan Respublikası Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 11, Maddə 1049)
 
 ---
 
-<span style="color:red">34. 9 oktyabr 2007-ci il tarixli 430-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 11, Maddə 1053)</span>
+34. 9 oktyabr 2007-ci il tarixli 430-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 11, Maddə 1053)
 
 ---
 
-<span style="color:red">35. 1 fevral 2008-ci il tarixli 540-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2008-ci il, № 3, Maddə 156)</span>
+35. 1 fevral 2008-ci il tarixli 540-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2008-ci il, № 3, Maddə 156)
 
 ---
 
-<span style="color:red">36. 16 may 2008-ci il tarixli 608-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008-ci il, №7, Maddə 600)</span>
+36. 16 may 2008-ci il tarixli 608-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008-ci il, №7, Maddə 600)
 
 ---
 
-<span style="color:red">37. 13 iyun 2008-ci il tarixli 648-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008-ci il, №7, Maddə 602)</span>
+37. 13 iyun 2008-ci il tarixli 648-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008-ci il, №7, Maddə 602)
 
 ---
 
-<span style="color:red">38. 2 oktyabr 2008-ci il tarixli 697 -IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 oktyabr 2008-ci il, № 242, Azərbaycan Respublikasının qanunvericilik toplusu, 2008-ci il, № 10, Maddə 887)</span>
+38. 2 oktyabr 2008-ci il tarixli 697 -IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 oktyabr 2008-ci il, № 242, Azərbaycan Respublikasının qanunvericilik toplusu, 2008-ci il, № 10, Maddə 887)
 
 ---
 
-<span style="color:red">39. 2 oktyabr 2008-ci il tarixli 699-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 noyabr 2008-ci il, № 257, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008-ci il, № 11, Maddə 960)</span>
+39. 2 oktyabr 2008-ci il tarixli 699-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 noyabr 2008-ci il, № 257, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008-ci il, № 11, Maddə 960)
 
 ---
 
-<span style="color:red">40. 16 dekabr 2008-ci il tarixli 743-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti 15 fevral 2009-cu il, № 36, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009-cu il, №02, Maddə 48)</span>
+40. 16 dekabr 2008-ci il tarixli 743-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti 15 fevral 2009-cu il, № 36, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009-cu il, №02, Maddə 48)
 
 ---
 
-<span style="color:red">41. 24 fevral 2009-cu il tarixli 771-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 may 2009-cu il, № 105, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009-cu il, № 05, Maddə 294)</span>
+41. 24 fevral 2009-cu il tarixli 771-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 may 2009-cu il, № 105, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009-cu il, № 05, Maddə 294)
 
 ---
 
-<span style="color:red">42. 28 aprel 2009-cu il tarixli 807-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 iyun 2009-cu il, № 137, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009-cu il, № 06, Maddə 399)</span>
+42. 28 aprel 2009-cu il tarixli 807-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 iyun 2009-cu il, № 137, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009-cu il, № 06, Maddə 399)
 
 ---
 
-<span style="color:red">43. 4 dekabr 2009-cu il tarixli 927-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti 24 dekabr 2009-cu il, № 286)</span>
+43. 4 dekabr 2009-cu il tarixli 927-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti 24 dekabr 2009-cu il, № 286)
 
 ---
 
-<span style="color:red">44. 20 oktyabr 2009-cu il tarixli 891-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti 25 dekabr 2009-cu il, № 287)</span>
+44. 20 oktyabr 2009-cu il tarixli 891-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti 25 dekabr 2009-cu il, № 287)
 
 ---
 
-<span style="color:red">45. 4 dekabr 2009-cu il tarixli 924-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti 13 fevral 2010-cu il, № 34 )</span>
+45. 4 dekabr 2009-cu il tarixli 924-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti 13 fevral 2010-cu il, № 34 )
 
 ---
 
-<span style="color:red">46. 01 fevral 2010-cu il tarixli 950-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 24 fevral 2010-cu il, № 43, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010-cu il, №2, Maddə 75)</span>
+46. 01 fevral 2010-cu il tarixli 950-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 24 fevral 2010-cu il, № 43, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010-cu il, №2, Maddə 75)
 
 ---
 
-<span style="color:red">47. 5 mart 2010-cu il tarixli 971-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 aprel 2010-cu il, № 82, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010-cu il, № 04, Maddə 275)</span>
+47. 5 mart 2010-cu il tarixli 971-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 aprel 2010-cu il, № 82, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010-cu il, № 04, Maddə 275)
 
 ---
 
-<span style="color:red">48. 21 dekabr 2010-cu il tarixli 36-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti 23 yanvar 2011-ci il, № 16, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 1, Maddə 11)</span>
+48. 21 dekabr 2010-cu il tarixli 36-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti 23 yanvar 2011-ci il, № 16, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 1, Maddə 11)
 
 ---
 
-<span style="color:red">49. 21 dekabr 2010-cu il tarixli 37-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 fevral 2011-ci il, № 39, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 02, Maddə 70)</span>
+49. 21 dekabr 2010-cu il tarixli 37-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 fevral 2011-ci il, № 39, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 02, Maddə 70)
 
 ---
 
-<span style="color:red">50. 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 18 fevral 2011-ci il, № 38, “Azərbaycan” qəzeti, 20 fevral 2011-ci il, № 40, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 02, Maddə 71)</span>
+50. 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 18 fevral 2011-ci il, № 38, “Azərbaycan” qəzeti, 20 fevral 2011-ci il, № 40, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 02, Maddə 71)
 
 ---
 
-<span style="color:red">51. 17 may 2011-ci il tarixli 127-IVQD Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 9 iyun 2011-ci il, № 117, “Azərbaycan” qəzeti, 10 iyun 2011-ci il, № 124, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 06, Maddə 464)</span>
+51. 17 may 2011-ci il tarixli 127-IVQD Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 9 iyun 2011-ci il, № 117, “Azərbaycan” qəzeti, 10 iyun 2011-ci il, № 124, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 06, Maddə 464)
 
 ---
 
-<span style="color:red">52. 10 iyun 2011-ci il tarixli 140-IVQD Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 5 iyul 2011-ci il, № 143, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 07, Maddə 598)</span>
+52. 10 iyun 2011-ci il tarixli 140-IVQD Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 5 iyul 2011-ci il, № 143, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 07, Maddə 598)
 
 ---
 
-<span style="color:red">53. 16 oktyabr 2012-ci il tarixli 446-IVQD Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 01 dekabr 2012-ci il, № 268, “Azərbaycan” qəzeti, 02 dekabr 2012-ci il, № 269, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012-ci il, № 11, Maddə 1054)</span>
+53. 16 oktyabr 2012-ci il tarixli 446-IVQD Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 01 dekabr 2012-ci il, № 268, “Azərbaycan” qəzeti, 02 dekabr 2012-ci il, № 269, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012-ci il, № 11, Maddə 1054)
 
 ---
 
-<span style="color:red">54. 21 dekabr 2012-ci il tarixli 525-IVQD Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 6 fevral 2013-cü il, № 27; “Azərbaycan” qəzeti, 10 fevral 2013-cü il, № 31; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013-cü il, № 02, Maddə 89)</span>
+54. 21 dekabr 2012-ci il tarixli 525-IVQD Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 6 fevral 2013-cü il, № 27; “Azərbaycan” qəzeti, 10 fevral 2013-cü il, № 31; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013-cü il, № 02, Maddə 89)
 
 ---
 
-<span style="color:red">55. 28 dekabr 2012-ci il tarixli 540-IVQD Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 8 fevral 2013-cü il, № 29; “Azərbaycan” qəzeti, 10 fevral 2013-cü il, № 31; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013-cü il, № 02, Maddə 101)</span>
+55. 28 dekabr 2012-ci il tarixli 540-IVQD Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 8 fevral 2013-cü il, № 29; “Azərbaycan” qəzeti, 10 fevral 2013-cü il, № 31; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013-cü il, № 02, Maddə 101)
 
 ---
 
-<span style="color:red">56. 30 sentyabr 2013-cü il tarixli 749-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 16 noyabr 2013-cü il, № 251; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013-cü il, № 11, Maddə 1268)</span>
+56. 30 sentyabr 2013-cü il tarixli 749-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 16 noyabr 2013-cü il, № 251; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013-cü il, № 11, Maddə 1268)
 
 ---
 
-<span style="color:red">57. 27 dekabr 2013-cü il tarixli 875-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 5 fevral 2014-cü il, № 24, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2014-cü il, № 2, Maddə 92)</span>
+57. 27 dekabr 2013-cü il tarixli 875-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 5 fevral 2014-cü il, № 24, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2014-cü il, № 2, Maddə 92)
 
 ---
 
-<span style="color:red">58. 30 sentyabr 2014-cü il tarixli 1042-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 05 noyabr 2014-cü il, № 241, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2014-cü il, № 10, Maddə 1162)</span>
+58. 30 sentyabr 2014-cü il tarixli 1042-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 05 noyabr 2014-cü il, № 241, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2014-cü il, № 10, Maddə 1162)
 
 ---
 
-<span style="color:red">59. 17 oktyabr 2014-cü il tarixli 1059-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 23 noyabr 2014-cü il, № 256; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2014-cü il, № 11, Maddə 1339)</span>
+59. 17 oktyabr 2014-cü il tarixli 1059-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 23 noyabr 2014-cü il, № 256; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2014-cü il, № 11, Maddə 1339)
 
 ---
 
-<span style="color:red">60. 28 noyabr 2014-cü il tarixli 1117-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 24 dekabr 2014-cü il, № 282, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2014-cü il, № 12, Maddə 1527)</span>
+60. 28 noyabr 2014-cü il tarixli 1117-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 24 dekabr 2014-cü il, № 282, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2014-cü il, № 12, Maddə 1527)
 
 ---
 
-<span style="color:red">61. 30 dekabr 2014-cü il tarixli 1165-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 4 fevral 2015-ci il, № 026, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, № 2, Maddə 97 )</span>
+61. 30 dekabr 2014-cü il tarixli 1165-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 4 fevral 2015-ci il, № 026, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, № 2, Maddə 97 )
 
 ---
 
-<span style="color:red">62. 13 fevral 2015-ci il tarixli 1188-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 20 mart 2015-ci il, № 063, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, № 3, Maddə 250 )</span>
+62. 13 fevral 2015-ci il tarixli 1188-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 20 mart 2015-ci il, № 063, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, № 3, Maddə 250 )
 
 ---
 
-<span style="color:red">63. 28 aprel 2015-ci il tarixli 1268-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 05 iyun 2015-ci il, № 119, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, № 06, Maddə 680)</span>
+63. 28 aprel 2015-ci il tarixli 1268-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 05 iyun 2015-ci il, № 119, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, № 06, Maddə 680)
 
 ---
 
-<span style="color:red">64. 29 dekabr 2015-ci il tarixli 77-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 fevral 2016-cı il, № 38; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 02, I kitab, Maddə 190)</span>
+64. 29 dekabr 2015-ci il tarixli 77-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 fevral 2016-cı il, № 38; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 02, I kitab, Maddə 190)
 
 ---
 
-<span style="color:red">65. 29 dekabr 2015-ci il tarixli 91-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 fevral 2016-cı il, № 38; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 02, I kitab, Maddə 201)</span>
+65. 29 dekabr 2015-ci il tarixli 91-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 fevral 2016-cı il, № 38; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 02, I kitab, Maddə 201)
 
 ---
 
-<span style="color:red">66. 17 may 2016-cı il tarixli 252-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 22 may 2016-cı il, № 110, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 5, Maddə 847)</span>
+66. 17 may 2016-cı il tarixli 252-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 22 may 2016-cı il, № 110, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 5, Maddə 847)
 
 ---
 
-<span style="color:red">67. 14 oktyabr 2016-cı il tarixli 339-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 20 noyabr 2016-cı il, № 257, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 11, Maddə 1767)</span>
+67. 14 oktyabr 2016-cı il tarixli 339-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 20 noyabr 2016-cı il, № 257, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 11, Maddə 1767)
 
 ---
 
-<span style="color:red">68. 25 aprel 2017-ci il tarixli 622-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 iyun 2017-ci il, № 130, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 6, Maddə 1031)</span>
+68. 25 aprel 2017-ci il tarixli 622-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 iyun 2017-ci il, № 130, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 6, Maddə 1031)
 
 ---
 
-<span style="color:red">69. 31 may 2017-ci il tarixli 675-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 iyun 2017-ci il, № 130, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 6, Maddə 1048)</span>
+69. 31 may 2017-ci il tarixli 675-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 iyun 2017-ci il, № 130, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 6, Maddə 1048)
 
 ---
 
-<span style="color:red">70. 13 iyun 2017-ci il tarixli 716-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 iyul 2017-ci il, № 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 12, I kitab, Maddə 2187)</span>
+70. 13 iyun 2017-ci il tarixli 716-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 iyul 2017-ci il, № 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 12, I kitab, Maddə 2187)
 
 ---
 
-<span style="color:red">71. 31 oktyabr 2017-ci il tarixli 821-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 dekabr 2017-ci il, № 275, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 12, I kitab, Maddə 2189 )</span>
+71. 31 oktyabr 2017-ci il tarixli 821-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 dekabr 2017-ci il, № 275, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 12, I kitab, Maddə 2189 )
 
 ---
 
-<span style="color:red">72. 15 dekabr 2017-ci il tarixli 931-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 2 fevral 2018-ci il, № 24, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 1, Maddə 13)</span>
+72. 15 dekabr 2017-ci il tarixli 931-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 2 fevral 2018-ci il, № 24, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 1, Maddə 13)
 
 ---
 
-<span style="color:red">73. 1 may 2018-ci il tarixli 1096-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 29 iyun 2018-ci il, № 141, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, №6, Maddə 1155)</span>
+73. 1 may 2018-ci il tarixli 1096-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 29 iyun 2018-ci il, № 141, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, №6, Maddə 1155)
 
 ---
 
-<span style="color:red">74. 18 may 2018-ci il tarixli 1144-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 11 iyul 2018-ci il, № 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, №7, I kitab, Maddə 1380)</span>
+74. 18 may 2018-ci il tarixli 1144-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 11 iyul 2018-ci il, № 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, №7, I kitab, Maddə 1380)
 
 ---
 
-<span style="color:red">75. 12 iyun 2018-ci il tarixli 1188-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 149, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, Maddə 1408)</span>
+75. 12 iyun 2018-ci il tarixli 1188-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 149, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, Maddə 1408)
 
 ---
 
-<span style="color:red">76. 28 dekabr 2018-ci il tarixli 1418-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 3 fevral 2019-cu il, № 27, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 01, Maddə 35)</span>
+76. 28 dekabr 2018-ci il tarixli 1418-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 3 fevral 2019-cu il, № 27, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 01, Maddə 35)
 
 ---
 
-<span style="color:red">77. 28 dekabr 2018-ci il tarixli 1448-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 dekabr 2018-ci il, № 296, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 12, I kitab, Maddə 2532 )</span>
+77. 28 dekabr 2018-ci il tarixli 1448-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 dekabr 2018-ci il, № 296, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 12, I kitab, Maddə 2532 )
 
 ---
 
-<span style="color:red">78. 19 fevral 2019-cu il tarixli 1507-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 aprel 2019-cu il, № 82, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 4, Maddə 570)</span>
+78. 19 fevral 2019-cu il tarixli 1507-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 aprel 2019-cu il, № 82, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 4, Maddə 570)
 
 ---
 
-<span style="color:red">79. 29 mart 2019-cu il tarixli 1551-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, № 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, Maddə 796)</span>
+79. 29 mart 2019-cu il tarixli 1551-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, № 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, Maddə 796)
 
 ---
 
-<span style="color:red">80. 9 aprel 2019-cu il tarixli 1562-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 5 may 2019-cu il, № 98, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, Maddə 804)</span>
+80. 9 aprel 2019-cu il tarixli 1562-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 5 may 2019-cu il, № 98, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, Maddə 804)
 
 ---
 
-<span style="color:red">81. 13 iyun 2019-cu il tarixli 1607-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 iyul 2019-cu il, № 161, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, №7, Maddə 1182)</span>
+81. 13 iyun 2019-cu il tarixli 1607-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 iyul 2019-cu il, № 161, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, №7, Maddə 1182)
 
 ---
 
-<span style="color:red">82. 12 iyul 2019-cu il tarixli 1659-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 23 avqust 2019-cu il, № 183, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, №8, Maddə 1380)</span>
+82. 12 iyul 2019-cu il tarixli 1659-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 23 avqust 2019-cu il, № 183, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, №8, Maddə 1380)
 
 ---
 
-<span style="color:red">83. 3 dekabr 2019-cu il tarixli 1732-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 yanvar 2020-ci il, № 7, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 1, Maddə 1)</span>
+83. 3 dekabr 2019-cu il tarixli 1732-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 yanvar 2020-ci il, № 7, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 1, Maddə 1)
 
 ---
 
-<span style="color:red">84. 1 may 2020-ci il tarixli 72-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 1 iyun 2020-ci il, № 102, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, №5, Maddə 522)</span>
+84. 1 may 2020-ci il tarixli 72-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 1 iyun 2020-ci il, № 102, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, №5, Maddə 522)
 
 ---
 
-<span style="color:red">85. 19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 iyul 2020-ci il, № 136, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, Maddə 832)</span>
+85. 19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 iyul 2020-ci il, № 136, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, Maddə 832)
 
 ---
 
-<span style="color:red">86. 30 sentyabr 2020-ci il tarixli 171-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 noyabr 2020-ci il, № 238, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, Maddə 1322)</span>
+86. 30 sentyabr 2020-ci il tarixli 171-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 noyabr 2020-ci il, № 238, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, Maddə 1322)
 
 ---
 
-<span style="color:red">87. 6 oktyabr 2020-ci il tarixli 182-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 noyabr 2020-ci il, № 238, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, Maddə 1332)</span>
+87. 6 oktyabr 2020-ci il tarixli 182-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 noyabr 2020-ci il, № 238, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, Maddə 1332)
 
 ---
 
-<span style="color:red">88. 6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, Maddə 1335)</span>
+88. 6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, Maddə 1335)
 
 ---
 
-<span style="color:red">89. 20 noyabr 2020-ci il tarixli 199-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 6 yanvar 2021-ci il, № 1, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 12, I kitab, Maddə 1424)</span>
+89. 20 noyabr 2020-ci il tarixli 199-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 6 yanvar 2021-ci il, № 1, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 12, I kitab, Maddə 1424)
 
 ---
 
-<span style="color:red">90. 18 dekabr 2020-ci il tarixli 217-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 yanvar 2021-ci il, № 7, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 1, Maddə 2)</span>
+90. 18 dekabr 2020-ci il tarixli 217-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 yanvar 2021-ci il, № 7, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 1, Maddə 2)
 
 ---
 
-<span style="color:red">91. 2 aprel 2021-ci il tarixli 286-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 may 2021-ci il, № 97, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 5, Maddə 427)</span>
+91. 2 aprel 2021-ci il tarixli 286-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 may 2021-ci il, № 97, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 5, Maddə 427)
 
 ---
 
-<span style="color:red">92. 23 aprel 2021-ci il tarixli 301-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 iyun 2021-ci il, № 122, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 6, I kitab, Maddə 541)</span>
+92. 23 aprel 2021-ci il tarixli 301-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 iyun 2021-ci il, № 122, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 6, I kitab, Maddə 541)
 
 ---
 
-<span style="color:red">93. 23 aprel 2021-ci il tarixli 298-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 iyun 2021-ci il, № 125, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 6, I kitab, Maddə 539)</span>
+93. 23 aprel 2021-ci il tarixli 298-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 iyun 2021-ci il, № 125, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 6, I kitab, Maddə 539)
 
 ---
 
-<span style="color:red">94. 27 may 2021-ci il tarixli 334-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 iyul 2021-ci il, № 144, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, Maddə 698)</span>
+94. 27 may 2021-ci il tarixli 334-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 iyul 2021-ci il, № 144, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, Maddə 698)
 
 ---
 
-<span style="color:red">95. 9 iyul 2021-ci il tarixli 360-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2021-ci il, № 152, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, Maddə 711)</span>
+95. 9 iyul 2021-ci il tarixli 360-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2021-ci il, № 152, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, Maddə 711)
 
 ---
 
-<span style="color:red">96. 22 iyun 2021-ci il tarixli 348-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 21 avqust 2021-ci il, № 175, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 8, Maddə 894) (2022-ci il iyulun 1-dən qüvvəyə minir)</span>
+96. 22 iyun 2021-ci il tarixli 348-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 21 avqust 2021-ci il, № 175, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 8, Maddə 894) (2022-ci il iyulun 1-dən qüvvəyə minir)
 
 ---
 
-<span style="color:red">97. 29 oktyabr 2021-ci il tarixli 389-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 noyabr 2021-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 11, Maddə 1203)</span>
+97. 29 oktyabr 2021-ci il tarixli 389-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 noyabr 2021-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 11, Maddə 1203)
 
 ---
 
-<span style="color:red">98. 13 may 2022-ci il tarixli 529-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 10 iyun 2022-ci il, № 121, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №6, Maddə 582)</span>
+98. 13 may 2022-ci il tarixli 529-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 10 iyun 2022-ci il, № 121, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №6, Maddə 582)
 
 ---
 
-<span style="color:red">99. 5 noyabr 2022-ci il tarixli 626-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı 24 noyabr 2022-ci il, “Azərbaycan” qəzeti, 25 noyabr 2022-ci il, № 257, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 11, Maddə 1239)</span>
+99. 5 noyabr 2022-ci il tarixli 626-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı 24 noyabr 2022-ci il, “Azərbaycan” qəzeti, 25 noyabr 2022-ci il, № 257, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 11, Maddə 1239)
 
 ---
 
-<span style="color:red">100. 5 noyabr 2022-ci il tarixli 629-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 30 noyabr 2022-ci il, “Azərbaycan” qəzeti, 1 dekabr 2022-ci il, № 262, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 11, Maddə 1240)</span>
+100. 5 noyabr 2022-ci il tarixli 629-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 30 noyabr 2022-ci il, “Azərbaycan” qəzeti, 1 dekabr 2022-ci il, № 262, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 11, Maddə 1240)
 
 ---
 
-<span style="color:red">101. 29 noyabr 2022-ci il tarixli 659-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 12 yanvar 2023-cü il, “Azərbaycan” qəzeti, 13 yanvar 2023-cü il, № 7, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 1, Maddə 14)</span>
+101. 29 noyabr 2022-ci il tarixli 659-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 12 yanvar 2023-cü il, “Azərbaycan” qəzeti, 13 yanvar 2023-cü il, № 7, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 1, Maddə 14)
 
 ---
 
-<span style="color:red">102. 9 dekabr 2022-ci il tarixli 684-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 28 dekabr 2022-ci il, “Azərbaycan” qəzeti, 29 dekabr 2022-ci il, № 286, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 12, Maddə 1392) (Bu Qanun 2023-cü il yanvarın 1-dən 2028-ci il yanvarın 1-dək qüvvədədir. )</span>
+102. 9 dekabr 2022-ci il tarixli 684-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 28 dekabr 2022-ci il, “Azərbaycan” qəzeti, 29 dekabr 2022-ci il, № 286, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 12, Maddə 1392) (Bu Qanun 2023-cü il yanvarın 1-dən 2028-ci il yanvarın 1-dək qüvvədədir. )
 
 ---
 
-<span style="color:red">103. 27 dekabr 2022-ci il tarixli 776-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 1 fevral 2023-cü il, “Azərbaycan” qəzeti, 2 fevral 2023-cü il, № 23, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 2, Maddə 207)</span>
+103. 27 dekabr 2022-ci il tarixli 776-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 1 fevral 2023-cü il, “Azərbaycan” qəzeti, 2 fevral 2023-cü il, № 23, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 2, Maddə 207)
 
 ---
 
-<span style="color:red">104. 24 fevral 2023-cü il tarixli 833-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 10 mart 2023-cü il, “Azərbaycan” qəzeti, 11 mart 2023-cü il, № 54, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 3, Maddə 338)</span>
+104. 24 fevral 2023-cü il tarixli 833-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 10 mart 2023-cü il, “Azərbaycan” qəzeti, 11 mart 2023-cü il, № 54, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 3, Maddə 338)
 
 ---
 
-<span style="color:red">105. 23 iyun 2023-cü il tarixli 924-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 iyul 2023-cü il, “Azərbaycan” qəzeti, 18 iyul 2023-cü il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 7, Maddə 904)</span>
+105. 23 iyun 2023-cü il tarixli 924-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 iyul 2023-cü il, “Azərbaycan” qəzeti, 18 iyul 2023-cü il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 7, Maddə 904)
 
 ---
 
-<span style="color:red">106. 6 iyun 2023-cü il tarixli 909-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 24 iyul 2023-cü il, “Azərbaycan” qəzeti, 25 iyul 2023-cü il, № 154, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 7, Maddə 896)</span>
+106. 6 iyun 2023-cü il tarixli 909-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 24 iyul 2023-cü il, “Azərbaycan” qəzeti, 25 iyul 2023-cü il, № 154, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 7, Maddə 896)
 
 ---
 
-<span style="color:red">107. 24 oktyabr 2023-cü il tarixli 1017-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 18 noyabr 2023-cü il, “Azərbaycan” qəzeti, 19 noyabr 2023-cü il, № 252, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 11, Maddə 1489)</span>
+107. 24 oktyabr 2023-cü il tarixli 1017-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 18 noyabr 2023-cü il, “Azərbaycan” qəzeti, 19 noyabr 2023-cü il, № 252, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 11, Maddə 1489)
 
 ---
 
-<span style="color:red">108. 22 dekabr 2023-cü il tarixli 1063-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 yanvar 2024-cü il, “Azərbaycan” qəzeti, 16 yanvar 2024-cü il, № 8) Konstitusiya Məhkəməsinin Qərarları KMQ1 Azərbaycan Respublikası Konstitusiya Məhkəməsinin 23 fevral 2000-ci il tarixli qərarına əsasən Azərbaycan Respublikası Əmək Məcəlləsinin 143-cü Maddəsinin birinci hissəsinin, bu məcəllənin 70-ci Maddəsinin «a» və «ç» bəndləri ilə əlaqədar əmək münasibətlərinə xitam verilərkən məzuniyyət hüququnu məhdudlaşdıran müddəaları Azərbaycan Respublikası Konstitusiyasının 25, 37-ci Maddələrinə və 149-cu Maddəsinin I hissəsinə uyğun olmadığı üçün qüvvədən düşmüş hesab edilmişdir. (“Azərbaycan” qəzeti, 1 mart 2000-ci il ) KMQ2 Azərbaycan Respublikası Konstitusiya Məhkəməsinin 29 noyabr 2000-ci il tarixli qərarı «Azərbaycan Respublikası Əmək Məcəlləsinin 116-cı Maddəsinin ikinci hissəsində əmək stajına görə əlavə məzuniyyətin müddətini məhdudlaşdıran «bir müəssisədə» müddəası Azərbaycan Respublikası Konstitusiyasının 25-ci Maddəsinin I hissəsinə və 149-cu Maddəsinin I hissəsinə uyğun olmadığından qüvvədən düşmüş hesab edilsin» (“Azərbaycan” qəzeti, 1 dekabr 2000-ci il, № 276, Azərbaycan Respublikası Konstitusiya Məhkəməsinin Məlumatı №2/2001) KMQ3 Azərbaycan Respublikası Konstitusiya Məhkəməsinin 29 noyabr 2002-ci il tarixli qərarına əsasən əmək müqaviləsinə xitam verilərkən 1999-cu il iyulun 1-dək istifadə olunmamış məzuniyyətlərə görə pul əvəzi həmin dövrdə qüvvədə olan qanunvericiliklə, həmin tarixdən sonra istifadə olunmamış məzuniyyətlərə görə pul əvəzi isə qüvvədə olan Əmək Məcəlləsinin 144-cü Maddəsinin ikinci hissəsinə müvafiq olaraq ödənilməlidir. ( «Azərbaycan» qəzeti, 01 noyabr № 277 2002-ci il, Azərbaycan Respublikası Konstitusiya Məhkəməsinin Məlumatı 1/2003) KMQ4 Azərbaycan Respublikası Konstitusiya Məhkəməsinin 17 iyun 2003-cü il tarixli qərarına əsasən Azərbaycan Respublikası Əmək Məcəlləsinin 136-cı Maddəsinin birinci hissəsinə müvafiq olaraq işçiyə əsas məzuniyyət yalnız bu məcəllənin 115-ci Maddəsində nəzərdə tutulan, əmək şəraitinə və əmək funksiyalarının xüsusiyyətlərinə, habelə həmin məcəllənin 116-cı Maddəsində müəyyənləşdirilən əmək stajına görə əlavə məzuniyyətlərlə cəmlənərək birlikdə verilməlidir. Bu Maddənin ikinci hissəsinə əsasən işçinin eyni vaxtda həm əmək şəraitinə və əmək funksiyasının xüsusiyyətlərinə həm də əmək stajına görə Azərbaycan Respublikası Əmək Məcəlləsinin 115 və 116-cı Maddələrində nəzərdə tutulan iki və daha çox əlavə məzuniyyətə hüququ olduqda, bu Maddələrin ayrılıqda hər biri üzrə əldə etdiyi daha çox müddətli bir əlavə məzuniyyət onun əsas məzuniyyətinə birləşdirilir. (“Azərbaycan” qəzeti, 19 iyun № 138 2003-cü il, Azərbaycan Respublikası Konstitusiya Məhkəməsinin Məlumatı 3/2003) KMQ5 Azərbaycan Respublikası Konstitusiya Məhkəməsinin 19 aprel 2001-ci il tarixli qərarına əsasən Azərbaycan Respublikası Əmək Məcəlləsinin 132-ci Maddəsinin ikinci hissəsinin azadlıqdan məhrum etmədən islah işlərinə məhkum edilən şəxslərin cəza çəkdiyi müddətin məzuniyyət hüququ verən əmək stajına daxil edilməməsinə dair müddəası Azərbaycan Respublikası Konstitusiyasının 37-ci Maddəsinə uyğun olmadığına görə qüvvədən düşmüş hesab edilmişdir. (“Azərbaycan” qəzeti, 27 aprel 2001- ci il № 94, Azərbaycan Respublikası Konstitusiya Məhkəməsinin Məlumatı №3/2001) KMQ6 1. Əmək müqaviləsi işçi ilə mülkiyyətçi və ya onun təyin (müvəkkil) etdiyi müəssisənin rəhbəri, habelə səlahiyyətli orqan tərəfindən bağlanmışdırsa, işçinin çalışdığı filial və ya nümayəndəliyin ləğvi zamanı əmək müqaviləsi Azərbaycan Respublikası Əmək Məcəlləsinin 70-ci Maddəsinin “b” bəndində nəzərdə tutulan işçilərin sayı və ya ştatların ixtisar edilməsi əsası ilə ləğv edilməlidir. Əmək müqaviləsi işçinin çalışdığı iş yeri üzrə mülkiyyətçinin müvəkkil etdiyi müəssisənin rəhbəri ilə bağlanmışdırsa, işçinin çalışdığı filial və ya nümayəndəlik ləğv edilərkən həmin müqavilə Azərbaycan Respublikası Əmək Məcəlləsinin 70-ci Maddəsinin “a” bəndində nəzərdə tutulan müəssisənin ləğv edilməsi əsası ilə ləğv edilməlidir.</span>
+108. 22 dekabr 2023-cü il tarixli 1063-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 yanvar 2024-cü il, “Azərbaycan” qəzeti, 16 yanvar 2024-cü il, № 8) Konstitusiya Məhkəməsinin Qərarları KMQ1 Azərbaycan Respublikası Konstitusiya Məhkəməsinin 23 fevral 2000-ci il tarixli qərarına əsasən Azərbaycan Respublikası Əmək Məcəlləsinin 143-cü Maddəsinin birinci hissəsinin, bu məcəllənin 70-ci Maddəsinin «a» və «ç» bəndləri ilə əlaqədar əmək münasibətlərinə xitam verilərkən məzuniyyət hüququnu məhdudlaşdıran müddəaları Azərbaycan Respublikası Konstitusiyasının 25, 37-ci Maddələrinə və 149-cu Maddəsinin I hissəsinə uyğun olmadığı üçün qüvvədən düşmüş hesab edilmişdir. (“Azərbaycan” qəzeti, 1 mart 2000-ci il ) KMQ2 Azərbaycan Respublikası Konstitusiya Məhkəməsinin 29 noyabr 2000-ci il tarixli qərarı «Azərbaycan Respublikası Əmək Məcəlləsinin 116-cı Maddəsinin ikinci hissəsində əmək stajına görə əlavə məzuniyyətin müddətini məhdudlaşdıran «bir müəssisədə» müddəası Azərbaycan Respublikası Konstitusiyasının 25-ci Maddəsinin I hissəsinə və 149-cu Maddəsinin I hissəsinə uyğun olmadığından qüvvədən düşmüş hesab edilsin» (“Azərbaycan” qəzeti, 1 dekabr 2000-ci il, № 276, Azərbaycan Respublikası Konstitusiya Məhkəməsinin Məlumatı №2/2001) KMQ3 Azərbaycan Respublikası Konstitusiya Məhkəməsinin 29 noyabr 2002-ci il tarixli qərarına əsasən əmək müqaviləsinə xitam verilərkən 1999-cu il iyulun 1-dək istifadə olunmamış məzuniyyətlərə görə pul əvəzi həmin dövrdə qüvvədə olan qanunvericiliklə, həmin tarixdən sonra istifadə olunmamış məzuniyyətlərə görə pul əvəzi isə qüvvədə olan Əmək Məcəlləsinin 144-cü Maddəsinin ikinci hissəsinə müvafiq olaraq ödənilməlidir. ( «Azərbaycan» qəzeti, 01 noyabr № 277 2002-ci il, Azərbaycan Respublikası Konstitusiya Məhkəməsinin Məlumatı 1/2003) KMQ4 Azərbaycan Respublikası Konstitusiya Məhkəməsinin 17 iyun 2003-cü il tarixli qərarına əsasən Azərbaycan Respublikası Əmək Məcəlləsinin 136-cı Maddəsinin birinci hissəsinə müvafiq olaraq işçiyə əsas məzuniyyət yalnız bu məcəllənin 115-ci Maddəsində nəzərdə tutulan, əmək şəraitinə və əmək funksiyalarının xüsusiyyətlərinə, habelə həmin məcəllənin 116-cı Maddəsində müəyyənləşdirilən əmək stajına görə əlavə məzuniyyətlərlə cəmlənərək birlikdə verilməlidir. Bu Maddənin ikinci hissəsinə əsasən işçinin eyni vaxtda həm əmək şəraitinə və əmək funksiyasının xüsusiyyətlərinə həm də əmək stajına görə Azərbaycan Respublikası Əmək Məcəlləsinin 115 və 116-cı Maddələrində nəzərdə tutulan iki və daha çox əlavə məzuniyyətə hüququ olduqda, bu Maddələrin ayrılıqda hər biri üzrə əldə etdiyi daha çox müddətli bir əlavə məzuniyyət onun əsas məzuniyyətinə birləşdirilir. (“Azərbaycan” qəzeti, 19 iyun № 138 2003-cü il, Azərbaycan Respublikası Konstitusiya Məhkəməsinin Məlumatı 3/2003) KMQ5 Azərbaycan Respublikası Konstitusiya Məhkəməsinin 19 aprel 2001-ci il tarixli qərarına əsasən Azərbaycan Respublikası Əmək Məcəlləsinin 132-ci Maddəsinin ikinci hissəsinin azadlıqdan məhrum etmədən islah işlərinə məhkum edilən şəxslərin cəza çəkdiyi müddətin məzuniyyət hüququ verən əmək stajına daxil edilməməsinə dair müddəası Azərbaycan Respublikası Konstitusiyasının 37-ci Maddəsinə uyğun olmadığına görə qüvvədən düşmüş hesab edilmişdir. (“Azərbaycan” qəzeti, 27 aprel 2001- ci il № 94, Azərbaycan Respublikası Konstitusiya Məhkəməsinin Məlumatı №3/2001) KMQ6 1. Əmək müqaviləsi işçi ilə mülkiyyətçi və ya onun təyin (müvəkkil) etdiyi müəssisənin rəhbəri, habelə səlahiyyətli orqan tərəfindən bağlanmışdırsa, işçinin çalışdığı filial və ya nümayəndəliyin ləğvi zamanı əmək müqaviləsi Azərbaycan Respublikası Əmək Məcəlləsinin 70-ci Maddəsinin “b” bəndində nəzərdə tutulan işçilərin sayı və ya ştatların ixtisar edilməsi əsası ilə ləğv edilməlidir. Əmək müqaviləsi işçinin çalışdığı iş yeri üzrə mülkiyyətçinin müvəkkil etdiyi müəssisənin rəhbəri ilə bağlanmışdırsa, işçinin çalışdığı filial və ya nümayəndəlik ləğv edilərkən həmin müqavilə Azərbaycan Respublikası Əmək Məcəlləsinin 70-ci Maddəsinin “a” bəndində nəzərdə tutulan müəssisənin ləğv edilməsi əsası ilə ləğv edilməlidir.
 
 ---
 
-<span style="color:red">2. Azərbaycan Respublikası Əmək Məcəlləsinin 294-cü Maddəsinin 2-ci hissəsinin tələbinə görə, fərdi əmək mübahisələrinə məhkəməyə qədər baxan orqanın yaradılması yalnız kollektiv müqavilələrdə nəzərdə tutulmalı və bu orqan müəssisələrdə həmkarlar ittifaqları təşkilatının nəzdində yaradılmalıdır.</span>
+2. Azərbaycan Respublikası Əmək Məcəlləsinin 294-cü Maddəsinin 2-ci hissəsinin tələbinə görə, fərdi əmək mübahisələrinə məhkəməyə qədər baxan orqanın yaradılması yalnız kollektiv müqavilələrdə nəzərdə tutulmalı və bu orqan müəssisələrdə həmkarlar ittifaqları təşkilatının nəzdində yaradılmalıdır.
 
 ---
 
-<span style="color:red">3. Fərdi əmək mübahisələrinə məhkəməyə qədər baxan orqan və məhkəmələr mübahisələrin həllində Azərbaycan Respublikası Əmək Məcəlləsinin 296-cı Maddəsində müəyyən edilən iddia müddətlərini tətbiq edərkən bu Qərarın təsviri-əsaslandırıcı hissəsində əks olunan hüquqi mövqeləri nəzərə almalıdırlar. (Azərbaycan Respublikası Konstitusiya Məhkəməsi Plenumunun 30 iyul 2021-ci il tarixli Qərarı – “Respublika” qəzeti 7 sentyabr 2021-ci il, № 189) KMQ7 1. Azərbaycan Respublikası Əmək Məcəlləsinin 62-ci Maddəsinin 1-ci hissəsinin “c” bəndinə uyğun olaraq, işəgötürən mülkiyyətçinin və işçilərin mənafeyini qorumaq, baş verə biləcək əməyin mühafizəsi qaydalarının pozulmasının qarşısını almaq və əmək intizamını təmin etmək məqsədi ilə bilavasitə iş yerində və iş vaxtı ərzində baş vermiş cinayət tərkibi olan ictimai-təhlükəli əməllərə və ya inzibati xətalara görə işçini aşağıdakı hallarda özünün əsaslandırılmış qərarı ilə işdən kənar edə bilər:</span>
+3. Fərdi əmək mübahisələrinə məhkəməyə qədər baxan orqan və məhkəmələr mübahisələrin həllində Azərbaycan Respublikası Əmək Məcəlləsinin 296-cı Maddəsində müəyyən edilən iddia müddətlərini tətbiq edərkən bu Qərarın təsviri-əsaslandırıcı hissəsində əks olunan hüquqi mövqeləri nəzərə almalıdırlar. (Azərbaycan Respublikası Konstitusiya Məhkəməsi Plenumunun 30 iyul 2021-ci il tarixli Qərarı – “Respublika” qəzeti 7 sentyabr 2021-ci il, № 189) KMQ7 1. Azərbaycan Respublikası Əmək Məcəlləsinin 62-ci Maddəsinin 1-ci hissəsinin “c” bəndinə uyğun olaraq, işəgötürən mülkiyyətçinin və işçilərin mənafeyini qorumaq, baş verə biləcək əməyin mühafizəsi qaydalarının pozulmasının qarşısını almaq və əmək intizamını təmin etmək məqsədi ilə bilavasitə iş yerində və iş vaxtı ərzində baş vermiş cinayət tərkibi olan ictimai-təhlükəli əməllərə və ya inzibati xətalara görə işçini aşağıdakı hallarda özünün əsaslandırılmış qərarı ilə işdən kənar edə bilər:
 
 ---
 
-<span style="color:red">a) Azərbaycan Respublikası Cinayət-Prosessual Məcəlləsinin 90 və 91-ci Maddələrinə müvafiq olaraq, şübhəli şəxs qismində tanınma və ya təqsirləndirilən şəxs qismində cəlb etmə barədə cinayət prosesini həyata keçirən orqanın qərarı olduqda;</span>
+a) Azərbaycan Respublikası Cinayət-Prosessual Məcəlləsinin 90 və 91-ci Maddələrinə müvafiq olaraq, şübhəli şəxs qismində tanınma və ya təqsirləndirilən şəxs qismində cəlb etmə barədə cinayət prosesini həyata keçirən orqanın qərarı olduqda;
 
 ---
 
-<span style="color:red">b) Azərbaycan Respublikası İnzibati Xətalar Məcəlləsinin 99. 4-cü Maddəsinə uyğun olaraq inzibati xəta haqqında iş üzrə icraatın başlanması barədə müvafiq akt qəbul edildikdə. (Azərbaycan Respublikası Konstitusiya Məhkəməsi Plenumunun 12 yanvar 2022-ci il tarixli qərarı – “Respublika” qəzeti, 23 fevral 2022-ci il, № 41) KMQ8 Azərbaycan Respublikasının Əmək Məcəlləsində və prokurorluq orqanlarında qulluq keçmə qaydalarını və şərtlərini müəyyən edən qanunvericilikdə əmək münasibətlərinin subyektlərin hüquq və mənafelərinin mütənasib və ağlabatan tarazlığı əsasında nizamlanmasının zəruriliyi nəzərə alınmaqla, Azərbaycan Respublikasının Prokurorluğuna ilk dəfə qulluğa qəbul olunmaq üçün müsabiqədən müvəffəqiyyətlə keçmiş namizədlərin icbari təlimə cəlb edildiyi müddət ərzində iş yeri və orta əmək haqqının saxlanılması məsələsinin tənzimlənməsi Azərbaycan Respublikasının Milli Məclisinə tövsiyə olunsun. (Azərbaycan Respublikası Konstitusiya Məhkəməsi Plenumunun 29 iyul 2022-ci il tarixli qərarı – Azərbaycan Respublikas ı Konstitusiya Məhkəməsinin rəsmi internet saytı, 21 sentyabr 2022-ci il, “Respublika” qəzeti, 21 sentyabr 2022-ci il, № 204) KMQ9 1. Əmək münasibətlərinin subyektlərin hüquq və mənafelərinin bərabərliyi prinsipi əsasında nizamlanmasını nəzərə alaraq, Azərbaycan Respublikası Əmək Məcəlləsinin 172-ci Maddəsinin 5-ci hissəsində nəzərdə tutulmuş “hər gecikdirilmiş gün üçün işçiyə əmək haqqının azı bir faizi məbləğində ödənc verilməlidir” müddəası fərdi əmək mübahisəsinin yarandığı hala da şamil edilir.</span>
+b) Azərbaycan Respublikası İnzibati Xətalar Məcəlləsinin 99. 4-cü Maddəsinə uyğun olaraq inzibati xəta haqqında iş üzrə icraatın başlanması barədə müvafiq akt qəbul edildikdə. (Azərbaycan Respublikası Konstitusiya Məhkəməsi Plenumunun 12 yanvar 2022-ci il tarixli qərarı – “Respublika” qəzeti, 23 fevral 2022-ci il, № 41) KMQ8 Azərbaycan Respublikasının Əmək Məcəlləsində və prokurorluq orqanlarında qulluq keçmə qaydalarını və şərtlərini müəyyən edən qanunvericilikdə əmək münasibətlərinin subyektlərin hüquq və mənafelərinin mütənasib və ağlabatan tarazlığı əsasında nizamlanmasının zəruriliyi nəzərə alınmaqla, Azərbaycan Respublikasının Prokurorluğuna ilk dəfə qulluğa qəbul olunmaq üçün müsabiqədən müvəffəqiyyətlə keçmiş namizədlərin icbari təlimə cəlb edildiyi müddət ərzində iş yeri və orta əmək haqqının saxlanılması məsələsinin tənzimlənməsi Azərbaycan Respublikasının Milli Məclisinə tövsiyə olunsun. (Azərbaycan Respublikası Konstitusiya Məhkəməsi Plenumunun 29 iyul 2022-ci il tarixli qərarı – Azərbaycan Respublikas ı Konstitusiya Məhkəməsinin rəsmi internet saytı, 21 sentyabr 2022-ci il, “Respublika” qəzeti, 21 sentyabr 2022-ci il, № 204) KMQ9 1. Əmək münasibətlərinin subyektlərin hüquq və mənafelərinin bərabərliyi prinsipi əsasında nizamlanmasını nəzərə alaraq, Azərbaycan Respublikası Əmək Məcəlləsinin 172-ci Maddəsinin 5-ci hissəsində nəzərdə tutulmuş “hər gecikdirilmiş gün üçün işçiyə əmək haqqının azı bir faizi məbləğində ödənc verilməlidir” müddəası fərdi əmək mübahisəsinin yarandığı hala da şamil edilir.
 
 ---
 
-<span style="color:red">2. Azərbaycan Respublikası Əmək Məcəlləsinin 296-cı Maddəsinin 4-cü hissəsinə uyğun olaraq, işçi, hüququnun pozulduğunu aşkar etdiyi gündən 1 il ərzində ödəncin verilməsi barədə məhkəməyə müraciət edə bilər. (Azərbaycan Respublikası Konstitusiya Məhkəməsi Plenumunun 11 aprel 2023-cü il tarixli qərarı – “Respublika” qəzeti, 19 may 2023-cü il, № 104) KMQ10 Azərbaycan Respublikası Konstitusiyasının 12, 16 və 35-ci Maddələrinin, habelə Azərbaycan Respublikası Əmək Məcəlləsinin 175 və 176-cı Maddələrinin hüquqi mahiyyəti və təyinatına uyğun olaraq, əmək haqqının sosial-iqtisadi funksiyasının təmin edilməsi baxımından kreditorla bağlanmış könüllü razılaşmaya əsasən borclunun əmək haqqından akseptsiz qaydada tutmanın əlli faiz həddində aparılması mümkün hesab edilsin. (Azərbaycan Respublikası Konstitusiya Məhkəməsi Plenumunun 20 iyul 2023-cü il tarixli qərarı – “Respublika” qəzeti, 29 iyul 2023-cü il, № 158) KMQ11 1. Azərbaycan Respublikası Konstitusiyasının əmək müqaviləsinin məcburi qaydada bağlanılmasının yolverilməzliyini təsbit edən 35-ci Maddəsi Azərbaycan Respublikası Əmək Məcəlləsinin 7-ci Maddəsinin 2-3 və 2-4-cü hissələrinə əsasən şəxsin sərbəst seçimi əsasında yaratmış olduğu əmək münasibətlərinin əmək müqaviləsi ilə rəsmiləşdirilməsinin məcburiliyini istisna etmir.</span>
+2. Azərbaycan Respublikası Əmək Məcəlləsinin 296-cı Maddəsinin 4-cü hissəsinə uyğun olaraq, işçi, hüququnun pozulduğunu aşkar etdiyi gündən 1 il ərzində ödəncin verilməsi barədə məhkəməyə müraciət edə bilər. (Azərbaycan Respublikası Konstitusiya Məhkəməsi Plenumunun 11 aprel 2023-cü il tarixli qərarı – “Respublika” qəzeti, 19 may 2023-cü il, № 104) KMQ10 Azərbaycan Respublikası Konstitusiyasının 12, 16 və 35-ci Maddələrinin, habelə Azərbaycan Respublikası Əmək Məcəlləsinin 175 və 176-cı Maddələrinin hüquqi mahiyyəti və təyinatına uyğun olaraq, əmək haqqının sosial-iqtisadi funksiyasının təmin edilməsi baxımından kreditorla bağlanmış könüllü razılaşmaya əsasən borclunun əmək haqqından akseptsiz qaydada tutmanın əlli faiz həddində aparılması mümkün hesab edilsin. (Azərbaycan Respublikası Konstitusiya Məhkəməsi Plenumunun 20 iyul 2023-cü il tarixli qərarı – “Respublika” qəzeti, 29 iyul 2023-cü il, № 158) KMQ11 1. Azərbaycan Respublikası Konstitusiyasının əmək müqaviləsinin məcburi qaydada bağlanılmasının yolverilməzliyini təsbit edən 35-ci Maddəsi Azərbaycan Respublikası Əmək Məcəlləsinin 7-ci Maddəsinin 2-3 və 2-4-cü hissələrinə əsasən şəxsin sərbəst seçimi əsasında yaratmış olduğu əmək münasibətlərinin əmək müqaviləsi ilə rəsmiləşdirilməsinin məcburiliyini istisna etmir.
 
 ---
 
-<span style="color:red">2. Azərbaycan Respublikası Əmək Məcəlləsinin 7-ci Maddəsinin 2-3-cü hissəsində göstərilən hallarda, o cümlədən işəgötürənin əsas fəaliyyət sahəsinə aid işlərin (xidmətlərin) yerinə yetirilməsi ilə əlaqədar tərəflər arasında yaranan münasibətlərin əmək münasibətləri olub-olmaması Azərbaycan Respublikası Konstitusiya Məhkəməsi Plenumunun bu Qərarında əks olunmuş hüquqi mövqelər nəzərə alınmaqla, həmin münasibətlərin xarakteri və həqiqi mahiyyəti, işin faktiki halları araşdırılaraq məhkəmələr tərəfindən müəyyən edilməlidir. (Azərbaycan Respublikası Konstitusiya Məhkəməsi Plenumunun 20 oktyabr 2023-cü il tarixli qərarı – “Respublika” qəzeti, 28 oktyabr 2023-cü il, № 236) KMQ12 Azərbaycan Respublikası Konstitusiyasının 35-ci Maddəsinin VI hissəsinin tələbləri baxımından Azərbaycan Respublikası Əmək Məcəlləsinin 208-ci Maddəsinə əsasən həmin Məcəllə ilə və digər normativ hüquqi aktlarla müəyyən edilmiş əməyin mühafizəsi normaları və qaydalarının hərbi qulluqçulara münasibətdə onların məhz müəssisələrdə işə cəlb edildiyi halda tətbiq olunması Azərbaycan Respublikası Əmək Məcəlləsinin 6-cı Maddəsinin “a” bəndi ilə ziddiyyət təşkil etmir. (Azərbaycan Respublikası Konstitusiya Məhkəməsi Plenumunun 30 oktyabr 2023-cü il tarixli qərarı – “Respublika” qəzeti, 1 noyabr 2023-cü il, № 239) KMQ13 1. Azərbaycan Respublikası Əmək Məcəlləsinin 47-ci Maddəsinin “f” bəndi həmin Maddənin digər bəndlərində nəzərdə tutulmuş hallar olmadığı təqdirdə, tərəflərin hüquq bərabərliyi şəraitində azad iradə ifadələri və qarşılıqlı razılığı əsasında müddətli əmək müqaviləsini bağlamaq imkanını ehtiva etməklə, Azərbaycan Respublikası Konstitusiyasının 25-ci Maddəsinin I hissəsinə və 35-ci Maddəsinin I-IV və VIII hissələrinə uyğun hesab edilsin.</span>
+2. Azərbaycan Respublikası Əmək Məcəlləsinin 7-ci Maddəsinin 2-3-cü hissəsində göstərilən hallarda, o cümlədən işəgötürənin əsas fəaliyyət sahəsinə aid işlərin (xidmətlərin) yerinə yetirilməsi ilə əlaqədar tərəflər arasında yaranan münasibətlərin əmək münasibətləri olub-olmaması Azərbaycan Respublikası Konstitusiya Məhkəməsi Plenumunun bu Qərarında əks olunmuş hüquqi mövqelər nəzərə alınmaqla, həmin münasibətlərin xarakteri və həqiqi mahiyyəti, işin faktiki halları araşdırılaraq məhkəmələr tərəfindən müəyyən edilməlidir. (Azərbaycan Respublikası Konstitusiya Məhkəməsi Plenumunun 20 oktyabr 2023-cü il tarixli qərarı – “Respublika” qəzeti, 28 oktyabr 2023-cü il, № 236) KMQ12 Azərbaycan Respublikası Konstitusiyasının 35-ci Maddəsinin VI hissəsinin tələbləri baxımından Azərbaycan Respublikası Əmək Məcəlləsinin 208-ci Maddəsinə əsasən həmin Məcəllə ilə və digər normativ hüquqi aktlarla müəyyən edilmiş əməyin mühafizəsi normaları və qaydalarının hərbi qulluqçulara münasibətdə onların məhz müəssisələrdə işə cəlb edildiyi halda tətbiq olunması Azərbaycan Respublikası Əmək Məcəlləsinin 6-cı Maddəsinin “a” bəndi ilə ziddiyyət təşkil etmir. (Azərbaycan Respublikası Konstitusiya Məhkəməsi Plenumunun 30 oktyabr 2023-cü il tarixli qərarı – “Respublika” qəzeti, 1 noyabr 2023-cü il, № 239) KMQ13 1. Azərbaycan Respublikası Əmək Məcəlləsinin 47-ci Maddəsinin “f” bəndi həmin Maddənin digər bəndlərində nəzərdə tutulmuş hallar olmadığı təqdirdə, tərəflərin hüquq bərabərliyi şəraitində azad iradə ifadələri və qarşılıqlı razılığı əsasında müddətli əmək müqaviləsini bağlamaq imkanını ehtiva etməklə, Azərbaycan Respublikası Konstitusiyasının 25-ci Maddəsinin I hissəsinə və 35-ci Maddəsinin I-IV və VIII hissələrinə uyğun hesab edilsin.
 
 ---
 
-<span style="color:red">2. Məhkəmələr Azərbaycan Respublikası Əmək Məcəlləsinin 47-ci Maddəsinin “f” bəndi ilə bağlı işlərə baxarkən müqavilə tərəflərinin həqiqi iradə ifadələrini bu Qərarın təsviri-əsaslandırıcı hissəsində əks olunan hüquqi mövqelərə uyğun olaraq araşdırıb nəticəyə gəlməlidirlər. (Azərbaycan Respublikası Konstitusiya Məhkəməsi Plenumunun 31 yanvar 2024-cü il tarixli qərarı – “Respublika” qəzeti, 7 fevral 2024-cü il, № 26)</span>
+2. Məhkəmələr Azərbaycan Respublikası Əmək Məcəlləsinin 47-ci Maddəsinin “f” bəndi ilə bağlı işlərə baxarkən müqavilə tərəflərinin həqiqi iradə ifadələrini bu Qərarın təsviri-əsaslandırıcı hissəsində əks olunan hüquqi mövqelərə uyğun olaraq araşdırıb nəticəyə gəlməlidirlər. (Azərbaycan Respublikası Konstitusiya Məhkəməsi Plenumunun 31 yanvar 2024-cü il tarixli qərarı – “Respublika” qəzeti, 7 fevral 2024-cü il, № 26)
 
 ---
 
-## <span style="color:red">MƏCƏLLƏYƏ EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI</span>
+## MƏCƏLLƏYƏ EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 ---
 

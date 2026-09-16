@@ -20,16 +20,16 @@ Each recipient installs the plugin on their own computer. Use an up-to-date Code
 
 - The complete plugin in [`kontaktlaw/`](kontaktlaw/), including `.codex-plugin/plugin.json`.
 - Eight Azerbaijani legal knowledge files and their source hashes.
-- 42 GPT and Gemini prompt snapshots captured on 15 September 2026.
+- Twelve Codex-adapted legal workflows. Gemini prompts and inactive website stages are excluded.
 - A legal-review skill and a read-only Python knowledge search helper.
 - A ZIP containing the same plugin files, published as a release asset.
 
 ## Scope and sources
 
-Knowledge and prompts are snapshots. The law corpus headers report 9 June 2026; verify current law against official sources when needed. The plugin does not connect to the KontaktLaw website's accounts, stored documents, OCR, Firebase, or model providers. Credentials and customer documents are not included.
+Knowledge and prompts are snapshots. The law corpus headers report 9 June 2026; verify current law against official sources when needed. The plugin does not connect to external services. Credentials and customer documents are not included.
 
 This repository is public and discoverable. Anyone can download the bundled knowledge and prompts. This is GitHub distribution for local installation, not a listing in the ChatGPT marketplace.
 
 ## Validation
 
-Package validation checks the manifest, eight law-file hashes, 42 prompt hashes, 14,078 literal chunk line ranges, article lookup, Azerbaijani/ASCII search equivalence, invalid read handling, and ZIP/source consistency. These checks do not establish that the law snapshot is current or that model responses have passed end-to-end testing.
+Package validation checks the manifest, eight law-file hashes, twelve active prompt stages, 16,515 literal chunk line ranges, all 2,302 article headings, Azerbaijani/ASCII search equivalence, invalid read handling, and ZIP/source consistency. These checks do not establish that the law snapshot is current or that model responses have passed end-to-end testing.

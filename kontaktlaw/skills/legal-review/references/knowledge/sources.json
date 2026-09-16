@@ -1,5 +1,5 @@
 {
-  "packaged_on": "2026-09-15",
+  "packaged_on": "2026-09-16",
   "sources": [
     {
       "file": "602-IIQ - Elektron imza və elektron sənəd haqqında_rag_chunks.md",
@@ -7,8 +7,8 @@
       "official_url": "https://e-qanun.az/framework/5916",
       "official_pdf": "https://frameworks.e-qanun.az/5/5916.pdf",
       "snapshot_date": "2026-06-09",
-      "bytes": 70403,
-      "sha256": "f4c5a48c4bdc6d98dfb1b9e3d30057f83455e6b423f8489166adbf0cecdf3af5",
+      "bytes": 60048,
+      "sha256": "b04205471b340b61383fd92922a72639c6e6d9bca7ddab54cc7c0ff0c71e2099",
       "lines": 1478
     },
     {
@@ -17,8 +17,8 @@
       "official_url": "https://e-qanun.az/framework/46944",
       "official_pdf": "https://frameworks.e-qanun.az/46/46944.pdf",
       "snapshot_date": "2026-06-09",
-      "bytes": 2318600,
-      "sha256": "d5f4095a0ee73f0cdb48cb120fb54260f05dc6f8e2bf3a42ddbdbfddb0c930dd",
+      "bytes": 2208301,
+      "sha256": "f3e0251bcc216afb804606c47d888f3bc9d692eb952a0afae1bf212e3ab8c7ad",
       "lines": 32238
     },
     {
@@ -27,8 +27,8 @@
       "official_url": "https://e-qanun.az/framework/46948",
       "official_pdf": "https://frameworks.e-qanun.az/46/46948.pdf",
       "snapshot_date": "2026-06-09",
-      "bytes": 1807838,
-      "sha256": "f50186dd1493488472c1bb05a9ec72e21dfb7d055402b7a71b487a1441fdbb4c",
+      "bytes": 1741218,
+      "sha256": "077179e4005fcbf59745a4d8f465d50125f1d458314ee7b04e981ebe418383a4",
       "lines": 20230
     },
     {
@@ -37,8 +37,8 @@
       "official_url": "https://e-qanun.az/framework/46943",
       "official_pdf": "https://frameworks.e-qanun.az/46/46943.pdf",
       "snapshot_date": "2026-06-09",
-      "bytes": 684616,
-      "sha256": "0ab56aad28563d015a7b80ad00362a862af288bdc678e1200eb5735b53ec7877",
+      "bytes": 661117,
+      "sha256": "ca4becff5fd03129c84bb8df52f78978f3e55ae2ba248953c272d0d897345a7a",
       "lines": 8542
     },
     {
@@ -47,8 +47,8 @@
       "official_url": "https://e-qanun.az/framework/53369",
       "official_pdf": "https://frameworks.e-qanun.az/53/53369.pdf",
       "snapshot_date": "2026-06-09",
-      "bytes": 119359,
-      "sha256": "2770ac8666bf7d11a5e8ac88bd3d2a0f5bb1cea0773bc9d547264ab98714229b",
+      "bytes": 110461,
+      "sha256": "f42626deee07722a09ca689b09b4fa1d406063a54b40a64a05b046b692c870de",
       "lines": 1294
     },
     {
@@ -57,8 +57,8 @@
       "official_url": "https://e-qanun.az/framework/10406",
       "official_pdf": "https://frameworks.e-qanun.az/10/10406.pdf",
       "snapshot_date": "2026-06-09",
-      "bytes": 31937,
-      "sha256": "de4df375e902337e8e014aaafcdc32705ab76d7d2bdee1ad9c01f8103ed04861",
+      "bytes": 27968,
+      "sha256": "5b8f2309dc01b766dba081ded3abb3688d7cfb19f14547d98478332508316bce",
       "lines": 582
     },
     {
@@ -67,8 +67,8 @@
       "official_url": "https://e-qanun.az/framework/19675",
       "official_pdf": "https://frameworks.e-qanun.az/19/19675.pdf",
       "snapshot_date": "2026-06-09",
-      "bytes": 48597,
-      "sha256": "e40457532de765fb1534a1acee96bac969245a11da91b4a588117e1e4ba6fbfe",
+      "bytes": 48658,
+      "sha256": "9625cd7b7537924b840ff7ba42da23f3ce4137ff5be3b8e1d43f1a6a059f5ff2",
       "lines": 846
     },
     {
@@ -77,8 +77,8 @@
       "official_url": "https://e-qanun.az/framework/9479",
       "official_pdf": "https://frameworks.e-qanun.az/9/9479.pdf",
       "snapshot_date": "2026-06-09",
-      "bytes": 88335,
-      "sha256": "73922c3ff71b566cc5407335d8b230bf114e45a4ac2cfedf78b2dfbad02e16c5",
+      "bytes": 83839,
+      "sha256": "8843ca3b934e8f1d3b9e7d964194ccd43dd30a4ce6f122f2744d3fe0dd0fd475",
       "lines": 866
     }
   ]
