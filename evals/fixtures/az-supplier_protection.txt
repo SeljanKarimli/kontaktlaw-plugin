@@ -1,0 +1,5 @@
+1. Sidr Alıcı MMC ilə Söyüd Təchizatçı MMC stul təchizatı barədə razılaşır.
+2. Çatdırılma ödənişdən 10 gün sonra edilir.
+3. Alıcının səbəb olduğu gecikməyə görə Təchizatçıya cərimə tətbiq edilmir.
+4. Alıcı ödənişi qeyri-müəyyən müddətə gecikdirə bilər; faiz və Təchizatçı üçün xitam hüququ yoxdur.
+5. Ödənişədək mülkiyyət Təchizatçıda qalır.

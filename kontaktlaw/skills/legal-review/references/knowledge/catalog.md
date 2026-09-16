@@ -1,6 +1,6 @@
 # KontaktLaw legal knowledge
 
-Eight original MDs copied byte-for-byte. All headers report an update date of 9 June 2026. These dates describe the supplied corpus, not independent verification of the current legal text. Preserve amendment/deletion annotations and check their context before relying on a provision.
+Eight original MDs copied byte-for-byte. All headers report an update date of 9 June 2026. These dates describe the supplied corpus, not independent verification of the current legal text. Red spans identify differences from an earlier local copy, not legal amendment status. Preserve genuine source amendment footnotes and inspect their context before relying on a provision.
 
 | Law | Bundled file | Official source |
 | --- | --- | --- |

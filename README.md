@@ -1,35 +1,45 @@
 # KontaktLaw plugin
 
-An installable Codex plugin for contract review, Azerbaijani legal-source lookup, grammar correction, summaries, clause explanations, and drafting.
+Contract review, grammar correction, summaries, clause explanations and drafting for Codex, with eight Azerbaijani legal-source snapshots.
 
-## Install with Codex
+**1.1.0 is a release candidate, not an approved release.** See [release gates](docs/RELEASE-GATES.md). [Version 1.0.0 remains available](https://github.com/SeljanKarimli/kontaktlaw-plugin/releases/tag/v1.0.0) for rollback.
 
-Copy this prompt into Codex on the computer where you want to use the plugin:
+## Install the existing release
 
-> Use plugin-creator to install KontaktLaw from https://github.com/SeljanKarimli/kontaktlaw-plugin into my personal marketplace. The plugin is in the kontaktlaw folder. Download or clone the repository, inspect the plugin, validate it, register it in my default personal marketplace, and install it. Preserve other plugins and any existing local changes. Tell me how to invoke KontaktLaw in a new task.
+Ask Codex with plugin-creator:
 
-Start a new task after installation. Invoke KontaktLaw, supply your document, and specify the party whose interests should be protected or request a general review.
+> Install KontaktLaw from https://github.com/SeljanKarimli/kontaktlaw-plugin at full commit cb2608e8d495fa3b7c1a67fde72745676598d2ba. The plugin is in the kontaktlaw folder. Validate it, register it in my personal marketplace and install it. Preserve unrelated plugins and local changes. Tell me how to invoke it in a new task.
 
-## Download the ZIP
+The [v1.0.0 ZIP](https://github.com/SeljanKarimli/kontaktlaw-plugin/releases/download/v1.0.0/kontaktlaw-1.0.0.zip) has SHA-256 `2b19af9b06f24870600f85efe7578231236dce80445cf5f531e8280640e43ff8`. Compare with `Get-FileHash -Algorithm SHA256` on Windows or `sha256sum` on Linux before extracting.
 
-[Download KontaktLaw 1.0.0](https://github.com/SeljanKarimli/kontaktlaw-plugin/releases/download/v1.0.0/kontaktlaw-1.0.0.zip), or visit the [release page](https://github.com/SeljanKarimli/kontaktlaw-plugin/releases/tag/v1.0.0). Extract the ZIP into a folder named `kontaktlaw`, then ask Codex to use plugin-creator to install that folder in your personal marketplace.
+Version 1.1.0 instructions will identify its full tested commit and versioned checksum manifest after its gates pass. Do not treat an unpinned branch as an approved release.
 
-Each recipient installs the plugin on their own computer. Use an up-to-date Codex installation with plugin support and the plugin-creator skill. The bundled knowledge search helper needs Python 3 and no additional packages. The plugin runs with the host assistant's configured model and tools; no separate KontaktLaw API key is required.
+## Candidate changes
 
-## Included
+- Twelve coherent active stages; historical GPT/Gemini and inactive stages live in the repository archive, outside the installable plugin.
+- HTML-aware indexing, exact bounded excerpts, article and filename normalization, integrity checks and corpus coverage inventory.
+- Separate grammar and substantive revision modes, with evidence checks against document instructions and forged citations.
+- Portable tests, deterministic packaging, isolated installation checks and Windows/Linux CI.
+- Twenty-four synthetic multilingual fixtures, with critical cases repeated three times. Model evaluation and legal sign-off are separate release requirements.
 
-- The complete plugin in [`kontaktlaw/`](kontaktlaw/), including `.codex-plugin/plugin.json`.
-- Eight Azerbaijani legal knowledge files and their source hashes.
-- 42 GPT and Gemini prompt snapshots captured on 15 September 2026.
-- A legal-review skill and a read-only Python knowledge search helper.
-- A ZIP containing the same plugin files, published as a release asset.
+## Development
 
-## Scope and sources
+Python 3.11+; no runtime third-party Python packages:
 
-Knowledge and prompts are snapshots. The law corpus headers report 9 June 2026; verify current law against official sources when needed. The plugin does not connect to the KontaktLaw website's accounts, stored documents, OCR, Firebase, or model providers. Credentials and customer documents are not included.
+```text
+python -B -m unittest discover -s tests -v
+python -B scripts/validate.py --output build/coverage.json
+python -B scripts/package.py --candidate --output build/release
+```
 
-This repository is public and discoverable. Anyone can download the bundled knowledge and prompts. This is GitHub distribution for local installation, not a listing in the ChatGPT marketplace.
+Package from a clean committed checkout. Archives and evaluations are excluded from the ZIP. The manifest records the full commit, corpus hashes and packaged files. See [evaluation protocol](evals/README.md) and [monthly source review](docs/CORPUS-MAINTENANCE.md).
 
-## Validation
+`scripts/install.py` stages a checksum-verified ZIP, preserves unrelated files, refuses modified existing installations and retains the previous version. It does not register a marketplace or change the installed cache; use plugin-creator to register the folder. Staging checks do not replace an actual host installation test.
 
-Package validation checks the manifest, eight law-file hashes, 42 prompt hashes, 14,078 literal chunk line ranges, article lookup, Azerbaijani/ASCII search equivalence, invalid read handling, and ZIP/source consistency. These checks do not establish that the law snapshot is current or that model responses have passed end-to-end testing.
+## Data and limitations
+
+The search helper is read-only and offline. Document reading, official-source browsing and requested edits use the host assistant's tools and model. Documents and retrieved text may be processed by the host provider according to its account settings; this plugin provides no separate privacy guarantee. Remove unnecessary personal or confidential information first. No KontaktLaw website account, database, OCR or API connection is included.
+
+Outputs require professional review and can miss risks or misinterpret clauses. Bundled law is a 9 June 2026 snapshot, not verified current law. Download success and integrity do not establish legal currency. Local red spans are not official amendment markers.
+
+Owned code and prompts use [MIT](kontaktlaw/LICENSE). [Third-party material](kontaktlaw/THIRD_PARTY_NOTICES.md) is treated separately. This public repository is discoverable and is not a ChatGPT marketplace listing.

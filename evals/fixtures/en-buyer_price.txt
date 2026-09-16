@@ -1,0 +1,5 @@
+1. Cedar Buyer LLC buys from Willow Supplier LLC.
+2. Quantity: 2 servers. Price: EUR 700 each. Total: EUR 700.
+3. Buyer pays 100% before delivery.
+4. Seller may change the price after payment without Buyer consent.
+5. Azerbaijan law applies.

@@ -81,5 +81,10 @@
       "sha256": "73922c3ff71b566cc5407335d8b230bf114e45a4ac2cfedf78b2dfbad02e16c5",
       "lines": 866
     }
-  ]
+  ],
+  "corpus_version": "2026-06-09",
+  "integrity_verified_at": "2026-09-16",
+  "current_law_verified_at": null,
+  "review_interval": "monthly",
+  "highlighting": "Red spans are local-copy differences, not legal amendment status."
 }

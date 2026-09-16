@@ -1,0 +1,3 @@
+1. Alıcı tam qiyməti çatdırılmadan əvvəl ödəyir.
+2. Təchizatçı malı heç verməsə belə bütün avansı saxlaya bilər.
+3. Başqa geriödəmə müdafiəsi göstərilmir.

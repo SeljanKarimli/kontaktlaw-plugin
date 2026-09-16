@@ -1,25 +1,23 @@
 # KontaktLaw
 
-An installable Codex plugin for contract review, Azerbaijani legal-source lookup, grammar correction, summaries, clause explanations and drafting.
+Review supplied contracts, correct grammar, summarize, explain and draft clauses, and inspect eight Azerbaijani legal-source snapshots. Twelve canonical stages support one plugin workflow. Python 3.11+ is required for the dependency-free helper.
 
-## Included
+After installation, invoke KontaktLaw in a new task, supply your document and identify the party to protect or request general review. Explanations default to Azerbaijani; quotations and proposed wording preserve the document language unless requested otherwise. Ask for JSON only when needed.
 
-- Eight original MD knowledge files (5.17 MB), with official-source links and source hashes.
-- All 42 prompt texts from the GPT and Gemini dashboard profiles, captured on 15 September 2026; inactive legacy stages are labelled.
-- A task-focused skill and a read-only Python 3 knowledge search helper. No extra Python packages or API keys are needed.
+## Data handling and capabilities
 
-After installing, start a new task, invoke KontaktLaw and supply a document. Specify the party whose interests should be protected, or request general review. The plugin uses the host assistant's configured model.
+The search helper is read-only, checks hashes and makes no network requests. Write capability supports document edits through host tools when requested. The host assistant's model and tools may process documents and retrieved text according to the provider's account settings. Remove unnecessary personal or confidential information before supplying documents. No separate KontaktLaw privacy guarantee is provided.
 
-Knowledge and prompts are snapshots. The corpus headers report 9 June 2026. Verify current law against the linked official sources when needed. This package does not connect to the website's accounts, stored documents, OCR, Firebase or model providers.
+There is no connection to KontaktLaw website accounts, stored documents, OCR, database or model service. No additional KontaktLaw API key is needed.
 
-## Install from GitHub
+## Limitations
 
-Repository: https://github.com/SeljanKarimli/kontaktlaw-plugin
+Professional review remains necessary. Model findings can be incomplete or incorrect. Grammar-only edits preserve rights and duties; requested legal revisions can change them and should disclose the effect and unresolved terms.
 
-Ask Codex:
+The corpus is a 9 June 2026 snapshot. Current law requires independent official-source checks. Red spans identify differences from an earlier local copy, not official amendment status. Inspect amendment footnotes and surrounding provisions. Hashes detect changed bytes, not an attacker replacing both files and manifest.
 
-> Use plugin-creator to install KontaktLaw from https://github.com/SeljanKarimli/kontaktlaw-plugin into my personal marketplace. The plugin is in the kontaktlaw folder. Download or clone the repository, inspect the plugin, validate it, register it in my default personal marketplace, and install it. Preserve other plugins and any existing local changes. Tell me how to invoke KontaktLaw in a new task.
+## Distribution
 
-Alternatively, download kontaktlaw-1.0.0.zip from the repository's Releases page and extract it into a folder named kontaktlaw. Ask Codex to install that local folder with plugin-creator.
+This 1.1.0 candidate is not release-approved until its evaluation gates pass. Install a tested full commit or a release ZIP verified against its versioned SHA-256 manifest. Source and status: https://github.com/SeljanKarimli/kontaktlaw-plugin
 
-The repository is public and discoverable. Anyone can download its knowledge and prompt snapshots. This GitHub release is a distribution package; it is not a ChatGPT marketplace listing. No credentials, customer documents, dashboard records or chat history are included.
+Owned code and prompts are MIT licensed; see LICENSE. Legal material is excluded; see THIRD_PARTY_NOTICES.md and corpus sources.json. Historical prompts are retained only in the repository archive.
