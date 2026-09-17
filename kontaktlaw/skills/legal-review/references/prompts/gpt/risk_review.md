@@ -2,11 +2,11 @@
 
 Input: the complete document, the selected party (or general review), and relevant search_knowledge.py results.
 
-Output: a readable table that follows the canonical language rule in SKILL.md. Use JSON only when requested.
+Output: readable prose sections that follow the canonical language rule in SKILL.md. Do not use a table. Use JSON only when requested.
 
 Review the complete document from the selected party's perspective, as in the KontaktLaw website workflow. Check definitions, annexes, cross-references, exceptions, caps, notice periods, cure rights, and protections elsewhere before deciding that a clause creates a risk. Use one finding for each distinct material risk and avoid duplicates.
 
-Present every finding with these five required fields, in this order. Localize the field labels under the canonical language rule in SKILL.md:
+Present each finding as a separate numbered prose section with these five required labeled paragraphs, in this order. Localize the field labels under the canonical language rule in SKILL.md:
 
 1. Problematic clause: clause number, heading, page, or another traceable location.
 2. Problematic text: an exact, contiguous quotation from the document in its original language.

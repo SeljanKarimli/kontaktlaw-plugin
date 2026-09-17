@@ -137,6 +137,8 @@ class PluginPromptAdaptationTests(unittest.TestCase):
         self.assertEqual(positions, sorted(positions))
         self.assertIn("complete document from the selected party's perspective", text)
         self.assertIn("exact, contiguous quotation", text)
+        self.assertIn("readable prose sections", text)
+        self.assertIn("Do not use a table", text)
 
 
 if __name__ == "__main__":
