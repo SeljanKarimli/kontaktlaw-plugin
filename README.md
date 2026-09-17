@@ -30,6 +30,15 @@ Knowledge and prompts are snapshots. The law corpus headers report 9 June 2026; 
 
 This repository is public and discoverable. Anyone can download the bundled knowledge and prompts. This is GitHub distribution for local installation, not a listing in the ChatGPT marketplace.
 
+## Legal limitation and data flow
+
+**Bu pluginin cavabları hüquqi məsləhət deyil.** They are automated review assistance and may be incomplete or incorrect. Verify consequential decisions with current official sources and a qualified lawyer.
+
+- The Python knowledge helper reads only the bundled law snapshots on the user's computer and returns matching source ranges.
+- Documents, questions, and generated answers are processed by the host assistant under the host provider's settings and data policies.
+- When the user requests current-law verification, available browsing tools may send a minimized legal search query to official websites. Private contract text, party identifiers, and unnecessary personal information must not be included in those queries.
+- The plugin has no separate account, backend, telemetry, or document store. Users should remove unnecessary personal information before supplying documents.
+
 ## License
 
 Publisher-owned code and prompts are available under the [MIT License](LICENSE). Bundled legislation and other third-party material are excluded from that grant; see [Third-party legal sources](THIRD_PARTY_NOTICES.md).

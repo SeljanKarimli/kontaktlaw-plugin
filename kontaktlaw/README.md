@@ -12,6 +12,15 @@ After installing, start a new task, invoke KontaktLaw and supply a document. Spe
 
 Knowledge and prompts are snapshots. The corpus headers report 9 June 2026. Verify current law against the linked official sources when needed. This package does not connect to external services.
 
+## Legal limitation and data flow
+
+**Bu pluginin cavabları hüquqi məsləhət deyil.** They are automated review assistance and may be incomplete or incorrect. Verify consequential decisions with current official sources and a qualified lawyer.
+
+- The Python knowledge helper reads only the bundled law snapshots on the user's computer and returns matching source ranges.
+- Documents, questions, and generated answers are processed by the host assistant under the host provider's settings and data policies.
+- When the user requests current-law verification, available browsing tools may send a minimized legal search query to official websites. Private contract text, party identifiers, and unnecessary personal information must not be included in those queries.
+- The plugin has no separate account, backend, telemetry, or document store. Users should remove unnecessary personal information before supplying documents.
+
 ## Install from GitHub
 
 Repository: https://github.com/SeljanKarimli/kontaktlaw-plugin

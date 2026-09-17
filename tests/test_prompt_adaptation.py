@@ -107,6 +107,23 @@ class PluginPromptAdaptationTests(unittest.TestCase):
         self.assertIn("Azerbaijani by default", skill)
         self.assertNotIn("Azerbaijani by default", guide)
 
+    def test_legal_limitation_and_data_flow_are_documented(self):
+        paths = [
+            REPO / "README.md",
+            REPO / "kontaktlaw/README.md",
+            REPO / "kontaktlaw/skills/legal-review/SKILL.md",
+        ]
+        for path in paths:
+            text = path.read_text(encoding="utf-8")
+            self.assertTrue(
+                "not legal advice" in text.lower()
+                or "hüquqi məsləhət deyil" in text.lower(),
+                path.name,
+            )
+            self.assertIn("host provider", text.lower(), path.name)
+            self.assertIn("personal information", text.lower(), path.name)
+            self.assertIn("official websites", text.lower(), path.name)
+
 
 if __name__ == "__main__":
     unittest.main()
