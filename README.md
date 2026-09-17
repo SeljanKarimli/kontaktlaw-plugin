@@ -30,6 +30,10 @@ Knowledge and prompts are snapshots. The law corpus headers report 9 June 2026; 
 
 This repository is public and discoverable. Anyone can download the bundled knowledge and prompts. This is GitHub distribution for local installation, not a listing in the ChatGPT marketplace.
 
+## License
+
+Publisher-owned code and prompts are available under the [MIT License](LICENSE). Bundled legislation and other third-party material are excluded from that grant; see [Third-party legal sources](THIRD_PARTY_NOTICES.md).
+
 ## Validation
 
 Package validation checks the manifest, eight law-file hashes, twelve active prompt stages, 16,515 literal chunk line ranges, all 2,302 article headings, Azerbaijani/ASCII search equivalence, invalid read handling, and ZIP/source consistency. These checks do not establish that the law snapshot is current or that model responses have passed end-to-end testing.

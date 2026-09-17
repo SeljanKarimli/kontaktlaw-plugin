@@ -23,3 +23,7 @@ Ask Codex:
 Alternatively, download kontaktlaw-1.0.0.zip from the repository's Releases page and extract it into a folder named kontaktlaw. Ask Codex to install that local folder with plugin-creator.
 
 The repository is public and discoverable. Anyone can download its knowledge and workflows. This GitHub release is a distribution package; it is not a ChatGPT marketplace listing. No credentials, customer documents, or chat history are included.
+
+## License
+
+Publisher-owned code and prompts are available under the [MIT License](LICENSE). Bundled legislation and other third-party material are excluded from that grant; see [Third-party legal sources](THIRD_PARTY_NOTICES.md).
