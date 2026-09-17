@@ -124,6 +124,20 @@ class PluginPromptAdaptationTests(unittest.TestCase):
             self.assertIn("personal information", text.lower(), path.name)
             self.assertIn("official websites", text.lower(), path.name)
 
+    def test_risk_review_has_five_required_finding_fields(self):
+        text = (PROMPTS / "risk_review.md").read_text(encoding="utf-8")
+        required = (
+            "Problematic clause",
+            "Problematic text",
+            "Risk explanation",
+            "Legal basis",
+            "Short correction proposal",
+        )
+        positions = [text.index(field) for field in required]
+        self.assertEqual(positions, sorted(positions))
+        self.assertIn("complete document from the selected party's perspective", text)
+        self.assertIn("exact, contiguous quotation", text)
+
 
 if __name__ == "__main__":
     unittest.main()
