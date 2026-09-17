@@ -138,7 +138,9 @@ class PluginPromptAdaptationTests(unittest.TestCase):
         self.assertIn("complete document from the selected party's perspective", text)
         self.assertIn("exact, contiguous quotation", text)
         self.assertIn("readable prose sections", text)
-        self.assertIn("Do not use a table", text)
+        self.assertIn("Never use a Markdown table", text)
+        self.assertIn("Do not compress findings into a table", text)
+        self.assertIn("### Risk 1", text)
 
 
 if __name__ == "__main__":
