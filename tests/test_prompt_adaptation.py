@@ -129,7 +129,7 @@ class PluginPromptAdaptationTests(unittest.TestCase):
             self.assertIn("personal information", text.lower(), path.name)
             self.assertIn("official websites", text.lower(), path.name)
 
-    def test_risk_review_has_five_required_finding_fields(self):
+    def test_risk_review_has_exact_required_finding_format(self):
         text = (PROMPTS / "risk_review.md").read_text(encoding="utf-8")
         required = (
             "Problematic clause",
@@ -145,7 +145,10 @@ class PluginPromptAdaptationTests(unittest.TestCase):
         self.assertIn("readable prose sections", text)
         self.assertIn("Never use a Markdown table", text)
         self.assertIn("Do not compress findings into a table", text)
-        self.assertIn("### Risk 1", text)
+        self.assertIn("Müqavilə **[seçilmiş tərəf və onun rolu]**", text)
+        self.assertIn("### 1. [Riskin qısa adı]", text)
+        self.assertIn("**Risk səviyyəsi:**", text)
+        self.assertIn("Do not add an executive summary", text)
 
 
 if __name__ == "__main__":

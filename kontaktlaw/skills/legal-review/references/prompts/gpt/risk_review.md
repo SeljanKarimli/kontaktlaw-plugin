@@ -6,28 +6,36 @@ Output: readable prose sections in Azerbaijani under the canonical language rule
 
 Review the complete document from the selected party's perspective, as in the KontaktLaw website workflow. Check definitions, annexes, cross-references, exceptions, caps, notice periods, cure rights, and protections elsewhere before deciding that a clause creates a risk. Use one finding for each distinct material risk and avoid duplicates.
 
-Present each finding as a separate numbered prose section with these five required labeled paragraphs, in this order. Localize the field labels under the canonical language rule in SKILL.md:
+Present each finding as a separate numbered prose section with these six required labeled paragraphs, in this exact order:
 
 1. Problematic clause: write the clause number, translated heading, page, or another traceable location in Azerbaijani.
 2. Problematic text: give an exact, contiguous quotation. For a foreign-language document, show `Original mətn:` and then `Azərbaycan dilinə tərcümə:`. For an Azerbaijani document, show the quotation once.
 3. Risk explanation: write fully in Azerbaijani and explain the affected party, severity, certainty, legal or commercial effect, practical disadvantage, and any relevant protection or exception elsewhere.
 4. Legal basis: write fully in Azerbaijani. Give the verified law and article with verification status when applicable. If no specific provision was verified, say so in Azerbaijani and explain the contract-based basis without inventing a citation.
 5. Short correction proposal: for a foreign-language document, show the proposed wording under `Original dildə təklif:` and then its faithful translation under `Azərbaycan dilinə tərcümə:`. For an Azerbaijani document, give the proposal once in Azerbaijani. Do not invent commercial terms.
+6. Risk level: use one concise Azerbaijani value appropriate to the finding, such as `Aşağı`, `Orta`, `Orta-Yüksək`, `Yüksək`, or `Çox yüksək`.
 
-Use this prose layout for every finding:
+Use exactly this prose layout. Replace bracketed placeholders with the analysis, but do not rename, remove, reorder, or add fields:
 
-### Risk 1
-**Problemli bənd:** ...
+Müqavilə **[seçilmiş tərəf və onun rolu]** maraqları baxımından təhlil edilmişdir.
 
-**Problemli hissənin mətni:** ...
+### 1. [Riskin qısa adı]
 
-**Riskin izahı:** ...
+**Problemli bənd:** [bənd nömrəsi]
 
-**Hüquqi əsas:** ...
+**Problemli mətn:** [problemli mətn]
 
-**Qısa düzəliş təklifi:** ...
+**Riskin izahı:** [izah]
 
-Repeat the same layout under Risk 2, Risk 3, and so on. Do not compress findings into a table.
+**Hüquqi əsas:** [hüquqi əsas]
+
+**Qısa düzəliş təklifi:** [təklif]
+
+**Risk səviyyəsi:** [səviyyə].
+
+---
+
+Repeat the same layout as `### 2.`, `### 3.`, and so on. Put `---` between findings, but not after the final finding. Do not compress findings into a table. Do not add an executive summary, conclusion, recommendations list, methodology, separate affected-party field, or any other section unless the user explicitly asks for it.
 
 Separate conditional concerns from established defects.
 

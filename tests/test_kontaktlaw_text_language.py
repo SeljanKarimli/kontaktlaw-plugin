@@ -41,6 +41,23 @@ class KontaktLawTextLanguageTests(unittest.TestCase):
             self.assertIn("Never use a Markdown table", text)
             self.assertIn("Do not compress findings into a table", text)
 
+    def test_exact_six_field_risk_layout_is_locked(self):
+        required = (
+            "**Problemli bənd:**",
+            "**Problemli mətn:**",
+            "**Riskin izahı:**",
+            "**Hüquqi əsas:**",
+            "**Qısa düzəliş təklifi:**",
+            "**Risk səviyyəsi:**",
+        )
+        for _, prompt_path in PLUGINS:
+            text = prompt_path.read_text(encoding="utf-8")
+            positions = [text.index(field) for field in required]
+            self.assertEqual(positions, sorted(positions))
+            self.assertIn("Müqavilə **[seçilmiş tərəf və onun rolu]**", text)
+            self.assertIn("### 1. [Riskin qısa adı]", text)
+            self.assertIn("Do not add an executive summary", text)
+
 
 if __name__ == "__main__":
     unittest.main()
