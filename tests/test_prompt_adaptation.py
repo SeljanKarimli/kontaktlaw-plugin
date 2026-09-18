@@ -94,8 +94,13 @@ class PluginPromptAdaptationTests(unittest.TestCase):
     def test_prompt_instructions_use_one_language_and_one_output_rule(self):
         for name in ACTIVE:
             text = (PROMPTS / name).read_text(encoding="utf-8")
-            self.assertTrue(text.isascii(), f"{name}: prompt instructions must be English")
+            if name != "risk_review.md":
+                self.assertTrue(text.isascii(), f"{name}: prompt instructions must be English")
             self.assertIn("canonical language rule in SKILL.md", text, name)
+
+        risk_text = (PROMPTS / "risk_review.md").read_text(encoding="utf-8")
+        self.assertIn("Problemli bənd", risk_text)
+        self.assertIn("Azərbaycan dilinə tərcümə", risk_text)
 
         skill = (REPO / "kontaktlaw/skills/legal-review/SKILL.md").read_text(
             encoding="utf-8"
@@ -104,7 +109,7 @@ class PluginPromptAdaptationTests(unittest.TestCase):
             REPO / "kontaktlaw/skills/legal-review/references/prompt-guide.md"
         ).read_text(encoding="utf-8")
         self.assertIn("## Output language", skill)
-        self.assertIn("Azerbaijani by default", skill)
+        self.assertIn("Azerbaijani is the primary output language", skill)
         self.assertNotIn("Azerbaijani by default", guide)
 
     def test_legal_limitation_and_data_flow_are_documented(self):
