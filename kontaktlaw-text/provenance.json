@@ -1,0 +1,20 @@
+{
+  "packaged_on": "2026-09-16",
+  "knowledge_source": "Bundled snapshots with official-source links in each law file",
+  "prompt_origin": "Publisher-owned workflows adapted for Codex",
+  "distribution_note": "The plugin does not connect to external services",
+  "active_stages": [
+    "risk_review",
+    "grammar",
+    "party_extraction",
+    "chat",
+    "query_condense",
+    "summary",
+    "explanation",
+    "rewrite",
+    "edit_verification",
+    "web_research",
+    "clause_drafting",
+    "clause_verification"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "kontaktlaw-text",
+  "version": "1.1.0",
+  "description": "KontaktLaw m\u00fcqavil\u0259 risk analizini yaln\u0131z m\u0259tn b\u00f6lm\u0259l\u0259ri il\u0259 t\u0259qdim edir.",
+  "author": {
+    "name": "KontaktLaw"
+  },
+  "homepage": "https://kontakt-law.web.app",
+  "keywords": [
+    "kontaktlaw",
+    "azerbaijan",
+    "legal",
+    "contracts",
+    "text"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "KontaktLaw Text",
+    "shortDescription": "M\u00fcqavil\u0259 riskl\u0259rini c\u0259dv\u0259lsiz m\u0259tn kimi t\u0259hlil edir",
+    "longDescription": "Review contracts from a selected party perspective and present every risk as numbered prose with five labeled paragraphs. Tables are prohibited.",
+    "developerName": "KontaktLaw",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://kontakt-law.web.app",
+    "brandColor": "#E31E32",
+    "defaultPrompt": [
+      "M\u00fcqavil\u0259ni se\u00e7diyim t\u0259r\u0259fin maraqlar\u0131 bax\u0131m\u0131ndan t\u0259hlil et v\u0259 n\u0259tic\u0259ni yaln\u0131z m\u0259tn b\u00f6lm\u0259l\u0259ri kimi ver. C\u0259dv\u0259l istifad\u0259 etm\u0259."
+    ],
+    "logo": "./assets/kontaktlaw.png",
+    "composerIcon": "./assets/kontaktlaw.png"
+  }
+}
