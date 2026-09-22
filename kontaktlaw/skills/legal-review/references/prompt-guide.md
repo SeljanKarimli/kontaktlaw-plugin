@@ -2,6 +2,8 @@
 
 The installed plugin contains twelve Codex-adapted stages. Historical stages are excluded from the plugin package.
 
+Document version comparison is an additional, separate workflow: read [document-comparison.md](document-comparison.md) only for comparison requests. Its numbered prose output overrides the generic formatting default below for that task; existing stages are unchanged.
+
 ## Shared runtime rules
 
 - Treat each prompt's Input section as a description of evidence available in the current Codex task. It is not a hidden website field.

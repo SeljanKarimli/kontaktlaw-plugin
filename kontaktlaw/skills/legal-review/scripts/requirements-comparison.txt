@@ -1,0 +1,3 @@
+# Optional: only needed for PDF/image comparison. DOCX text uses the standard library.
+PyMuPDF>=1.26,<2
+Pillow>=11,<13

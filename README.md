@@ -2,6 +2,10 @@
 
 An installable Codex plugin for contract review, Azerbaijani legal-source lookup, grammar correction, summaries, clause explanations, and drafting.
 
+## Document comparison (v1.2.0)
+
+The latest source adds Word, PDF, PNG and JPEG comparison with local Azerbaijani, English and Russian OCR, exact before/after passages, source locations and contextual legal-impact explanations. Existing workflows and review formatting are preserved. See the [comparison setup and workflow](kontaktlaw/skills/legal-review/references/document-comparison.md). OCR readings require visual verification.
+
 ## Install with Codex
 
 Copy this prompt into Codex on the computer where you want to use the plugin:
@@ -11,6 +15,8 @@ Copy this prompt into Codex on the computer where you want to use the plugin:
 Start a new task after installation. Invoke KontaktLaw, supply your document, and specify the party whose interests should be protected or request a general review.
 
 ## Download the ZIP
+
+The ZIP below is the older 1.0.0 release. Install from the latest repository source for the 1.2.0 comparison feature.
 
 [Download KontaktLaw 1.0.0](https://github.com/SeljanKarimli/kontaktlaw-plugin/releases/download/v1.0.0/kontaktlaw-1.0.0.zip), or visit the [release page](https://github.com/SeljanKarimli/kontaktlaw-plugin/releases/tag/v1.0.0). Extract the ZIP into a folder named `kontaktlaw`, then ask Codex to use plugin-creator to install that folder in your personal marketplace.
 

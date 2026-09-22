@@ -2,15 +2,26 @@
 
 An installable Codex plugin for contract review, Azerbaijani legal-source lookup, grammar correction, summaries, clause explanations and drafting.
 
+Version 1.2 adds document comparison with local OCR and contextual legal-impact explanations. All existing workflows remain available.
+
 ## Included
 
 - Eight processed MD knowledge snapshots with official-source links and source hashes. Local diff markup is removed while numbered legal footnotes are preserved.
 - Twelve Codex-adapted legal workflows. Gemini prompts and inactive website stages are excluded.
 - A task-focused skill and a read-only Python 3 knowledge search helper. No extra Python packages or API keys are needed.
+- An additional comparison workflow for DOCX, PDF, PNG and JPEG, including mixed-format pairs. PDF/image comparison requires optional packages; OCR requires local Tesseract with Azerbaijani, English and Russian language packs. Existing features retain their dependency-free setup.
 
 After installing, start a new task, invoke KontaktLaw and supply a document. Specify the party whose interests should be protected, or request general review. The plugin uses the host assistant's configured model.
 
 Knowledge and prompts are snapshots. The corpus headers report 9 June 2026. Verify current law against the linked official sources when needed. This package does not connect to external services.
+
+## Compare documents
+
+Supply the earlier and later documents and ask: “Bu iki sənədi müqayisə et, dəyişiklikləri və onların hüquqi təsirini izah et.” The plugin shows exact old/new passages and their locations in numbered Azerbaijani prose. OCR readings require visual verification; unreadable portions are disclosed.
+
+See the [comparison workflow and setup](skills/legal-review/references/document-comparison.md). The helper never edits originals. It writes internal comparison JSON and OCR review images only to the specified output location; keep confidential outputs outside the plugin. There is no cloud OCR account or separate model API.
+
+Developer checks: install `tests/requirements.txt`, then run `python -m unittest discover -s tests -v`. OCR integration checks require `KONTAKTLAW_RUN_OCR_TESTS=1`, Tesseract and the three language packs; set `KONTAKTLAW_TESSERACT` if needed. Test fixtures use Arial on Windows; elsewhere set `KONTAKTLAW_TEST_FONT` to a Unicode TrueType font. The source package does not replace an installed plugin automatically.
 
 ## Legal limitation and data flow
 

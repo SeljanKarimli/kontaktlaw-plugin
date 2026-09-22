@@ -1,6 +1,6 @@
 ---
 name: legal-review
-description: Review contracts from a selected party's perspective, answer document questions, correct legal-text grammar, and research Azerbaijani law using KontaktLaw's bundled sources and workflows.
+description: Review contracts from a selected party's perspective, answer document questions, correct legal-text grammar, research Azerbaijani law, and compare document versions with local OCR for scans and images using KontaktLaw's bundled sources and workflows.
 ---
 
 # KontaktLaw
@@ -27,8 +27,13 @@ Read [the prompt guide](references/prompt-guide.md), then only the GPT prompt fi
 | Rewrite existing text | rewrite; edit_verification |
 | Propose missing protections | clause_drafting; clause_verification |
 | Legal-source research | web_research and the knowledge workflow below |
+| Compare document versions, including scans | [Document comparison](references/document-comparison.md) |
 
 A request for a summary or explanation should stay focused on that task. Keep grammar findings separate from legal risks. Use legacy prompts only when the user specifically requests an older workflow.
+
+## Document comparison
+
+For two-version comparison, read [the document comparison workflow](references/document-comparison.md). It accepts Word, PDF and image inputs, extracts text locally with optional Tesseract OCR, and supplies source-linked changes for contextual legal interpretation. Follow its comparison-specific prose format; the contract risk-review format below continues to apply to risk reviews. Do not load comparison dependencies for other tasks. OCR text remains unverified until visually checked against the supplied source.
 
 ## Contract review
 

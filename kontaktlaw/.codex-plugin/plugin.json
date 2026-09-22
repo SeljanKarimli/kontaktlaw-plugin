@@ -1,7 +1,7 @@
 {
   "name": "kontaktlaw",
-  "version": "1.1.0",
-  "description": "Azərbaycan hüquqi bilikləri və KontaktLaw promptları ilə müqavilə analizi və sənəd redaktəsi.",
+  "version": "1.2.0",
+  "description": "Azərbaycan hüquqi bilikləri və KontaktLaw promptları ilə müqavilə analizi və sənəd redaktəsi. OCR dəstəyi ilə sənəd müqayisəsi və dəyişikliklərin hüquqi təsiri.",
   "author": {
     "name": "KontaktLaw"
   },
@@ -10,13 +10,15 @@
     "kontaktlaw",
     "azerbaijan",
     "legal",
-    "contracts"
+    "contracts",
+    "document-comparison",
+    "ocr"
   ],
   "skills": "./skills/",
   "interface": {
     "displayName": "KontaktLaw",
     "shortDescription": "Müqavilə analizi və Azərbaycan hüquqi bilikləri",
-    "longDescription": "Review contracts from a selected party perspective, check grammar, explain and rewrite clauses, and cite the eight bundled Azerbaijani legal MDs. Includes twelve Codex-adapted legal workflows without website runtime dependencies.",
+    "longDescription": "Review contracts from a selected party perspective, check grammar, explain and rewrite clauses, and cite the eight bundled Azerbaijani legal MDs. Includes twelve Codex-adapted legal workflows without website runtime dependencies. Also compare Word, PDF and scanned image versions with local OCR, source-linked changes and contextual legal-impact explanations.",
     "developerName": "KontaktLaw",
     "category": "Productivity",
     "capabilities": [
@@ -28,7 +30,8 @@
     "defaultPrompt": [
       "Müqaviləni seçdiyim tərəfin maraqları baxımından yoxla.",
       "Mətndə hüquqi mənanı dəyişmədən qrammatik səhvləri düzəlt.",
-      "Sualıma MDs qanun bazasından mənbə göstərərək cavab ver."
+      "Sualıma MDs qanun bazasından mənbə göstərərək cavab ver.",
+      "İki sənədi OCR dəstəyi ilə müqayisə et, dəyişiklikləri və hüquqi təsirini izah et."
     ],
     "logo": "./assets/kontaktlaw.png",
     "composerIcon": "./assets/kontaktlaw.png"
