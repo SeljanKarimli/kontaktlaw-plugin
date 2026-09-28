@@ -2,7 +2,7 @@
 
 An installable Codex plugin for contract review, Azerbaijani legal-source lookup, grammar correction, summaries, clause explanations and drafting.
 
-Version 1.2 adds document comparison with local OCR and contextual legal-impact explanations. All existing workflows remain available.
+The current update adds automatic grammar → party selection → risk review and a local clause viewer. Version comparison with local OCR and the existing focused workflows remain available.
 
 ## Included
 
@@ -11,7 +11,18 @@ Version 1.2 adds document comparison with local OCR and contextual legal-impact 
 - A task-focused skill and a read-only Python 3 knowledge search helper. No extra Python packages or API keys are needed.
 - An additional comparison workflow for DOCX, PDF, PNG and JPEG, including mixed-format pairs. PDF/image comparison requires optional packages; OCR requires local Tesseract with Azerbaijani, English and Russian language packs. Existing features retain their dependency-free setup.
 
-After installing, start a new task, invoke KontaktLaw and supply a document. Specify the party whose interests should be protected, or request general review. The plugin uses the host assistant's configured model.
+After installing or updating, start a new task and submit a legal document. You do not need to name KontaktLaw: its skill permits implicit selection by Codex. Selection is host-controlled, not a guaranteed background upload listener. An explicit request for a summary, comparison, question or another focused task takes precedence. The plugin uses the host assistant's configured model; no separate model API key is required.
+
+## Automatic review and clickable clauses
+
+1. Read the complete available document and correct clear grammar errors in a separate text working copy, preserving legal meaning. Keep the original unchanged and record all corrections.
+2. Offer identified party names/roles as clickable choices in Codex, with **Ümumi baxış**. Reuse a party already selected by the user.
+3. Analyze risks using the existing Azerbaijani six-paragraph format and legal-source requirements.
+4. Open the local viewer in Codex's right-hand browser panel. Its **Problemli bənd** buttons scroll to the matching clause and highlight it. Switch between original and corrected text without losing the selected passage; inspect grammar changes and download corrected text.
+
+The viewer preserves readable paragraph and table structure, not original Word/PDF pagination. Unverified OCR quotations and uncertain matches have disabled navigation. Repeated clauses are located by paragraph, exact quotation and occurrence, not a global text search. An unchanged attachment resumes completed stages. Review artifacts are stored locally outside the plugin; they are not included in a plugin update or release.
+
+The helper and host workflow are documented in [Automatic review and clause viewer](skills/legal-review/references/automatic-review.md). The read-only viewer uses Python's standard-library HTTP server on `127.0.0.1` with a private capability URL, no directory listing and no write endpoints. It shuts down after two hours without requests and can be reopened. Keep its URL private. Corrected downloads are UTF-8 text; the uploaded file is never overwritten.
 
 Knowledge and prompts are snapshots. The corpus headers report 9 June 2026. Verify current law against the linked official sources when needed. This package does not connect to external services.
 
@@ -23,6 +34,8 @@ See the [comparison workflow and setup](skills/legal-review/references/document-
 
 Developer checks: install `tests/requirements.txt`, then run `python -m unittest discover -s tests -v`. OCR integration checks require `KONTAKTLAW_RUN_OCR_TESTS=1`, Tesseract and the three language packs; set `KONTAKTLAW_TESSERACT` if needed. Test fixtures use Arial on Windows; elsewhere set `KONTAKTLAW_TEST_FONT` to a Unicode TrueType font. The source package does not replace an installed plugin automatically.
 
+Rendered viewer checks additionally use `tests/requirements-browser.txt`. Set `KONTAKTLAW_RUN_BROWSER_TESTS=1` and `KONTAKTLAW_BROWSER` to an installed Chromium browser executable (or install Playwright Chromium), then run the same test command. `KONTAKTLAW_SCREENSHOTS` optionally retains synthetic screenshots outside the plugin. Tests cover quotation navigation, repeated occurrences, Unicode offsets, original/corrected selection, downloads, table cells, disabled uncertain links and desktop/narrow/mobile layouts. Actual automatic skill selection and clickable party prompts require a fresh Codex task; see the invocation scenarios in the workflow guide.
+
 ## Legal limitation and data flow
 
 **Bu pluginin cavabları hüquqi məsləhət deyil.** They are automated review assistance and may be incomplete or incorrect. Verify consequential decisions with current official sources and a qualified lawyer.
@@ -30,7 +43,7 @@ Developer checks: install `tests/requirements.txt`, then run `python -m unittest
 - The Python knowledge helper reads only the bundled law snapshots on the user's computer and returns matching source ranges.
 - Documents, questions, and generated answers are processed by the host assistant under the host provider's settings and data policies.
 - When the user requests current-law verification, available browsing tools may send a minimized legal search query to official websites. Private contract text, party identifiers, and unnecessary personal information must not be included in those queries.
-- The plugin has no separate account, backend, telemetry, or document store. Users should remove unnecessary personal information before supplying documents.
+- The plugin has no separate account, hosted backend, telemetry, or remote document store. The optional viewer serves local review artifacts only on this computer. Users should remove unnecessary personal information before supplying documents.
 
 ## Install from GitHub
 

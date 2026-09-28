@@ -1,6 +1,6 @@
 ---
 name: legal-review
-description: Review contracts from a selected party's perspective, answer document questions, correct legal-text grammar, research Azerbaijani law, and compare document versions with local OCR for scans and images using KontaktLaw's bundled sources and workflows.
+description: Use when a user submits or uploads a contract or legal document, including an attachment-only message without naming KontaktLaw. Automatically check grammar in a working copy, offer party selection, then review risks with clickable highlighted clauses in a local viewer. Also handle explicit legal-document questions, summaries, grammar, Azerbaijani-law research and version comparison; focused requests take precedence over the automatic sequence. Do not trigger for unrelated nonlegal attachments.
 ---
 
 # KontaktLaw
@@ -14,6 +14,10 @@ This is the canonical language rule for every workflow. Azerbaijani is the prima
 For an Azerbaijani document, write every part of the finding in Azerbaijani. For a document in another language, show the exact problematic quotation first in the original language and immediately below it provide an Azerbaijani translation. Write the proposed correction first in the document's original language and immediately below it provide an Azerbaijani translation. Keep the **Problemli bənd**, **Riskin izahı**, and **Hüquqi əsas** paragraphs fully in Azerbaijani, translating a foreign clause title where needed while preserving its clause number. Do not replace the original quotation with a translation or present an Azerbaijani document twice.
 
 ## Select the task
+
+For a newly submitted legal document without a narrower instruction, follow [Automatic review and clause viewer](references/automatic-review.md): grammar working copy → clickable party choice → risk review → right-hand viewer. Read the complete available document before editing. Never require the user to name this plugin. Implicit invocation is host-selected, not a background upload event or a guarantee that every attachment activates the skill.
+
+An explicit summary, explanation, document question, grammar-only request, comparison, or other focused request overrides this default sequence. Do not repeat completed stages for an unchanged attachment; resume its review state. Do not infer that every PDF or Word file is legal. A pasted contract can use the same analysis sequence; without a file, provide the existing text workflow unless a viewer is requested.
 
 Read [the prompt guide](references/prompt-guide.md), then only the GPT prompt files relevant to the request. These are static instructions, not a connection to OpenAI or another provider. Use the host's configured model.
 
@@ -41,6 +45,8 @@ Read the complete document, including relevant tables, annexes, definitions and 
 
 Establish the selected party from the user's request and document. If it is unspecified, ask which party to protect, offering general review; meanwhile identify the parties and relevant clauses. Never silently choose a client. General review must name the party affected by each risk.
 
+For the automatic sequence, finish grammar first, then use the host's available clickable question interface with the identified names/roles and `Ümumi baxış`. Prefer `request_user_input_async` when available outside Plan mode; use `request_user_input` only when supported by the active mode. Offer a text choice if neither tool is available. An unanswered selection is not authorization to choose a party; wait for the user's answer before perspective-specific risk analysis. Reuse an explicitly stated perspective.
+
 For each proposed risk, assess the full clause, conditions, exceptions and protections elsewhere. Keep materially adverse legal or commercial effects for the selected party. Do not label a clause harmful merely because it contains a risk keyword or benefits the other party. Distinguish plausible uncertainty from a demonstrated problem. Keep separate effects separate and mark repetitions.
 
 Ground every finding in an exact, contiguous document quotation and a traceable location. Explain the affected party, practical disadvantage, severity and smallest useful wording change. Comments are negotiation context; original/revised text are alternatives, not proof of which version was accepted.
@@ -50,6 +56,8 @@ Infer governing law only from an express clause or explicit user context, never 
 Begin with `Müqavilə **[seçilmiş tərəf və onun rolu]** maraqları baxımından təhlil edilmişdir.` Present one finding per numbered heading in the form `### 1. [Riskin qısa adı]`. Never use a Markdown table, HTML table, columns, or pipe-separated rows. Under every heading, write exactly six labeled paragraphs in this order: **Problemli bənd**, **Problemli mətn**, **Riskin izahı**, **Hüquqi əsas**, **Qısa düzəliş təklifi**, and **Risk səviyyəsi**. Separate findings with `---`, but do not place it after the final finding. Do not add an executive summary, conclusion, methodology, recommendations list, separate affected-party field, or another section unless the user explicitly requests it. The exact quotation and translation rules remain mandatory: in a foreign-language document, **Problemli mətn** contains the original followed by its Azerbaijani translation, and **Qısa düzəliş təklifi** contains the original-language proposal followed by its Azerbaijani translation; in an Azerbaijani document, write each once in Azerbaijani. Use JSON only when explicitly requested. Do not claim the website's server validators ran here.
 
 Before returning each legal finding, check that its quotation is exact, the affected party is correct, relevant exceptions elsewhere were considered, the disadvantage is material, and every specific legal reference is supported by inspected bundled or official source text. Keep conditional concerns separate from established defects.
+
+In the automatic workflow, also publish these same six paragraphs in the local viewer, with validated passage anchors. The viewer is a companion to the chat findings, not a replacement for their format. A short viewer link may follow the final finding. Internal helper JSON is an implementation artifact and is not the user-facing JSON output restricted above.
 
 ## Knowledge lookup and citations
 
@@ -83,4 +91,4 @@ This package includes legal knowledge and review workflows. It does not connect 
 
 When the task could influence a consequential legal decision, state briefly that the plugin's output is not legal advice and recommend verification with current official sources and a qualified lawyer.
 
-The knowledge helper reads bundled files locally. The host assistant processes supplied documents, questions, and generated answers under the host provider's settings and data policies. Optional current-law research may send a minimized legal query to official websites through available browsing tools. Never include private contract text, party identifiers, deal terms, or unnecessary personal information in a web query. The plugin has no separate account, backend, telemetry, or document store. Encourage the user to remove unnecessary personal information before supplying a document.
+The knowledge helper reads bundled files locally. The host assistant processes supplied documents, questions, and generated answers under the host provider's settings and data policies. Optional current-law research may send a minimized legal query to official websites through available browsing tools. Never include private contract text, party identifiers, deal terms, or unnecessary personal information in a web query. The plugin has no separate account, hosted backend, telemetry, or remote document store. The optional viewer runs a read-only loopback service and saves review artifacts locally outside the plugin; its capability URL is private and must not be shared. Encourage the user to remove unnecessary personal information before supplying a document.

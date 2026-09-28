@@ -1,7 +1,7 @@
 {
   "name": "kontaktlaw",
-  "version": "1.2.0",
-  "description": "Azərbaycan hüquqi bilikləri və KontaktLaw promptları ilə müqavilə analizi və sənəd redaktəsi. OCR dəstəyi ilə sənəd müqayisəsi və dəyişikliklərin hüquqi təsiri.",
+  "version": "1.2.0+codex.20260928072337",
+  "description": "Hüquqi sənəd yükləndikdə qrammatika yoxlaması, tərəf seçimi və risk təhlili. Kliklənən bəndlər və vurğulanan mətn ilə yerli sənəd baxışı; OCR dəstəkli müqayisə.",
   "author": {
     "name": "KontaktLaw"
   },
@@ -18,7 +18,7 @@
   "interface": {
     "displayName": "KontaktLaw",
     "shortDescription": "Müqavilə analizi və Azərbaycan hüquqi bilikləri",
-    "longDescription": "Review contracts from a selected party perspective, check grammar, explain and rewrite clauses, and cite the eight bundled Azerbaijani legal MDs. Includes twelve Codex-adapted legal workflows without website runtime dependencies. Also compare Word, PDF and scanned image versions with local OCR, source-linked changes and contextual legal-impact explanations.",
+    "longDescription": "Submit a legal document to start grammar correction in a working copy, choose a party, then review risks. Open the local document viewer in Codex and click Problemli bənd to scroll to and highlight the exact passage, with original/corrected views and a text download. Implicit activation is host-selected. Retains twelve legal workflows, Azerbaijani legal sources and OCR-assisted document comparison; no hosted backend or separate model API is required.",
     "developerName": "KontaktLaw",
     "category": "Productivity",
     "capabilities": [
