@@ -51,7 +51,9 @@ Repository: https://github.com/SeljanKarimli/kontaktlaw-plugin
 
 Ask Codex:
 
-> Use plugin-creator to install KontaktLaw from https://github.com/SeljanKarimli/kontaktlaw-plugin into my personal marketplace. The plugin is in the kontaktlaw folder. Download or clone the repository, inspect the plugin, validate it, register it in my default personal marketplace, and install it. Preserve other plugins and any existing local changes. Tell me how to invoke KontaktLaw in a new task.
+> Use plugin-creator to install KontaktLaw from https://github.com/SeljanKarimli/kontaktlaw-plugin into my personal marketplace.
+>
+> The plugin is in the kontaktlaw folder. Download or clone the repo, validate the plugin, register it in my personal marketplace, and install it. Preserve my other plugins and existing local changes. Then explain how to use KontaktLaw in a new task.
 
 Alternatively, download kontaktlaw-1.0.0.zip from the repository's Releases page and extract it into a folder named kontaktlaw. Ask Codex to install that local folder with plugin-creator.
 

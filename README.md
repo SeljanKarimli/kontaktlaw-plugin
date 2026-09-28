@@ -4,7 +4,7 @@ An installable Codex plugin for contract review, Azerbaijani legal-source lookup
 
 ## Automatic review and clause viewer
 
-The current KontaktLaw source adds grammar correction in a separate working copy, clickable party selection, and risk review with a local document viewer in Codex's right-hand browser panel. Click **Problemli bənd** to scroll to and highlight the exact clause, switch between original and corrected text, inspect grammar changes, and download corrected text. The uploaded document remains unchanged.
+KontaktLaw preserves the original Word design while applying verified grammar corrections to a separate DOCX copy. It asks which party to protect through Codex's question interface, then opens the complete Word pages beside the legal findings and highlights risky clauses. The uploaded document remains unchanged.
 
 Submitting a legal document can activate the installed skill without mentioning KontaktLaw. Automatic selection is controlled by Codex; it is not a guaranteed background upload listener. Explicit summary, comparison, explanation, and other focused requests take precedence. Start a new task after updating. See the [automatic review workflow](kontaktlaw/skills/legal-review/references/automatic-review.md) and [plugin guide](kontaktlaw/README.md).
 
@@ -16,9 +16,11 @@ The latest source adds Word, PDF, PNG and JPEG comparison with local Azerbaijani
 
 Copy this prompt into Codex on the computer where you want to use the plugin:
 
-> Use plugin-creator to install KontaktLaw from https://github.com/SeljanKarimli/kontaktlaw-plugin into my personal marketplace. The plugin is in the kontaktlaw folder. Download or clone the repository, inspect the plugin, validate it, register it in my default personal marketplace, and install it. Preserve other plugins and any existing local changes. Tell me how to invoke KontaktLaw in a new task.
+> Use plugin-creator to install KontaktLaw from https://github.com/SeljanKarimli/kontaktlaw-plugin into my personal marketplace.
+>
+> The plugin is in the kontaktlaw folder. Download or clone the repo, validate the plugin, register it in my personal marketplace, and install it. Preserve my other plugins and existing local changes. Then explain how to use KontaktLaw in a new task.
 
-Start a new task after installation and submit a legal document. KontaktLaw first checks grammar, then offers party selection before risk review. If Codex does not select the skill automatically, explicitly invoke KontaktLaw. You can also specify a party or request general review up front.
+Start a new task after installation and attach a legal Word document. KontaktLaw can activate from the attachment without an `@KontaktLaw` mention. It first checks grammar, then asks which party to protect before risk review. You can also specify a party or request general review up front.
 
 ## Download the ZIP
 
