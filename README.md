@@ -19,8 +19,12 @@ Copy this prompt into Codex on the computer where you want to use the plugin:
 > Use plugin-creator to install KontaktLaw from https://github.com/SeljanKarimli/kontaktlaw-plugin into my personal marketplace.
 >
 > The plugin is in the kontaktlaw folder. Download or clone the repo, validate the plugin, register it in my personal marketplace, and install it. Preserve my other plugins and existing local changes. Then explain how to use KontaktLaw in a new task.
+>
+> On Windows, also install `kontaktlaw/skills/legal-review/scripts/requirements-layout.txt` into the Python runtime used for the review and run `check_layout_runtime.py`. Confirm that Microsoft Word is installed and the preflight succeeds, because the complete Word-page viewer and risk highlights require them. Do not claim the UI is ready if the preflight fails.
 
 Start a new task after installation and attach a legal Word document. KontaktLaw can activate from the attachment without an `@KontaktLaw` mention. It first checks grammar, then asks which party to protect before risk review. You can also specify a party or request general review up front.
+
+The complete Word-page viewer currently requires Windows, Microsoft Word, and the packages in `requirements-layout.txt`. The legal analysis and extracted-text fallback remain available when native Word rendering is unavailable, but that fallback does not reproduce the original page design.
 
 ## Download the ZIP
 

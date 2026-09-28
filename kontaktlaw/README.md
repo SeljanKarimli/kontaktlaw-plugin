@@ -54,6 +54,8 @@ Ask Codex:
 > Use plugin-creator to install KontaktLaw from https://github.com/SeljanKarimli/kontaktlaw-plugin into my personal marketplace.
 >
 > The plugin is in the kontaktlaw folder. Download or clone the repo, validate the plugin, register it in my personal marketplace, and install it. Preserve my other plugins and existing local changes. Then explain how to use KontaktLaw in a new task.
+>
+> On Windows, also install `skills/legal-review/scripts/requirements-layout.txt` into the Python runtime used for the review and run `skills/legal-review/scripts/check_layout_runtime.py`. Confirm that Microsoft Word is installed and the preflight succeeds, because the complete Word-page viewer and risk highlights require them. Do not claim the UI is ready if the preflight fails.
 
 Alternatively, download kontaktlaw-1.0.0.zip from the repository's Releases page and extract it into a folder named kontaktlaw. Ask Codex to install that local folder with plugin-creator.
 
