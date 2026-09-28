@@ -88,13 +88,16 @@ def prepare(source, directory, mode='auto', languages='aze+eng+rus', executable=
         existing = load(directory)
         if existing['input'] != identity:
             raise ReviewError('This directory belongs to a different input/version. Choose a new directory.')
+        if existing.get('source_path') != str(source):
+            existing['source_path'] = str(source)
+            save(directory, existing)
         return existing
     document = extract(source, OCR(mode, languages, executable, tessdata,
                                   directory / 'ocr-evidence'), revision)
     if document['sha256'] != identity['sha256']:
         raise ReviewError('Source changed during preparation; retry with a stable copy.')
     # Keep the extractor's table/cell locators and paragraph IDs across both versions.
-    state = {'schema_version': SCHEMA, 'input': identity, 'name': document['name'],
+    state = {'schema_version': SCHEMA, 'input': identity, 'name': document['name'], 'source_path': str(source),
              'document_id': identity['sha256'], 'original_version': digest(identity),
              'coverage': document['coverage'], 'comments': document.get('comments', []),
              'tables': document.get('tables', []), 'original': document['spans'],
@@ -292,6 +295,7 @@ def public_state(state):
     keys = ['schema_version', 'name', 'document_id', 'document_version', 'stage', 'parties',
             'selected_party', 'findings', 'corrections', 'verified_ocr']
     data = {key: state[key] for key in keys}
+    data['is_word'] = state['name'].lower().endswith('.docx')
     data['coverage'] = {'extraction_complete': state['coverage']['extraction_complete'],
                         'warnings': state['coverage'].get('warnings', [])}
     data['tables'] = [{'locator': t['locator'], 'row_sizes': [len(row) for row in t['rows']]}
@@ -332,11 +336,31 @@ def make_server(directory, token=None, port=0):
                     mime = {'index.html': 'text/html', 'viewer.js': 'text/javascript',
                             'viewer.css': 'text/css'}[filename]
                 elif resource == 'review.json':
-                    content = json.dumps(public_state(load(directory)), ensure_ascii=False).encode()
+                    state = load(directory)
+                    data = public_state(state)
+                    data['word_download'] = (directory / 'corrected.docx').exists()
+                    data['layout_available'] = False
+                    if (directory / 'layout.json').exists():
+                        layout = read_json(directory / 'layout.json')
+                        data['layout_available'] = all(layout.get(k) == state.get(k) for k in ('document_version','findings_packet','selected_party'))
+                    content = json.dumps(data, ensure_ascii=False).encode()
                     mime = 'application/json'
                 elif resource == 'corrected.txt':
                     content = corrected_download(load(directory))
                     mime, attachment = 'text/plain', True
+                elif resource == 'layout.json':
+                    layout = read_json(directory / resource)
+                    current = load(directory)
+                    if any(layout.get(k) != current.get(k) for k in ('document_version', 'findings_packet', 'selected_party')):
+                        raise ValueError('Stale preview')
+                    content = json.dumps(layout).encode()
+                    mime = 'application/json'
+                elif resource == 'corrected.docx':
+                    content = (directory / resource).read_bytes()
+                    mime, attachment = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', True
+                elif re.fullmatch(r'(original|corrected)-page-[1-9][0-9]*\.png', resource):
+                    content = (directory / resource).read_bytes()
+                    mime = 'image/png'
                 else:
                     self.send_error(404)
                     return
@@ -346,9 +370,9 @@ def make_server(directory, token=None, port=0):
                 self.send_header('Cache-Control', 'no-store')
                 self.send_header('X-Content-Type-Options', 'nosniff')
                 self.send_header('Referrer-Policy', 'no-referrer')
-                self.send_header('Content-Security-Policy', "default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'")
+                self.send_header('Content-Security-Policy', "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'")
                 if attachment:
-                    self.send_header('Content-Disposition', 'attachment; filename="kontaktlaw-corrected.txt"')
+                    self.send_header('Content-Disposition', 'attachment; filename="kontaktlaw-' + resource + '"')
                 self.end_headers()
                 self.wfile.write(content)
             except (OSError, ValueError, KeyError):
@@ -435,9 +459,10 @@ def main(argv=None):
     findings = sub.add_parser('findings')
     findings.add_argument('--packet', required=True)
     sub.add_parser('status')
+    sub.add_parser('render')
     server = sub.add_parser('serve')
     server.add_argument('--background', action='store_true')
-    for command in (p, grammar, select, findings, sub.choices['status'], server):
+    for command in (p, grammar, select, findings, sub.choices['status'], sub.choices['render'], server):
         command.add_argument('--out', required=True)
     args = parser.parse_args(argv)
     try:
@@ -451,6 +476,12 @@ def main(argv=None):
             state = load(args.out)
             if args.command == 'grammar':
                 state = apply_grammar(state, read_json(args.packet))
+                if state['name'].lower().endswith('.docx'):
+                    from word_layout import corrected_docx
+                    corrected_docx(state['source_path'], output_dir(args.out)/'corrected.docx', state)
+            elif args.command == 'render':
+                from word_layout import render_pages
+                render_pages(args.out, state)
             elif args.command == 'select':
                 state = select_party(state, args.party)
             elif args.command == 'findings':
@@ -459,7 +490,7 @@ def main(argv=None):
                 save(args.out, state)
         print(json.dumps({k: state[k] for k in ('stage', 'original_version', 'document_version', 'selected_party')}, ensure_ascii=False))
         return 0
-    except (ReviewError, ComparisonError, OSError, ValueError, KeyError, TypeError) as exc:
+    except (ReviewError, ComparisonError, OSError, ValueError, KeyError, TypeError, ImportError, subprocess.SubprocessError) as exc:
         print(f'Review not completed: {exc}', file=sys.stderr)
         return 2
 

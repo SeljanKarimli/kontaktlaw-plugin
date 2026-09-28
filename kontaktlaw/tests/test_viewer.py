@@ -94,9 +94,9 @@ class ViewerTests(unittest.TestCase):
         self.page.get_by_role('button',name='Qrammatika').click()
         self.page.get_by_role('button',name='Sənəddə göstər',exact=True).click()
         self.page.get_by_role('button',name='Düzəldilmiş',exact=True).click()
-        self.assertEqual(self.page.locator('#span-s2 mark').inner_text(),'Alıcı ödənişi')
+        self.assertIn('Alıcı ödənişi',self.page.locator('#span-s2 mark').all_text_contents())
         self.page.get_by_role('button',name='Orijinal',exact=True).click()
-        self.assertEqual(self.page.locator('#span-s2 mark').inner_text(),'Alıcı  ödənişi')
+        self.assertIn('Alıcı  ödənişi',self.page.locator('#span-s2 mark').all_text_contents())
         with self.page.expect_download() as info:
             self.page.get_by_role('link',name='Mətni endir').click()
         self.assertIn('Alıcı ödənişi',Path(info.value.path()).read_text(encoding='utf-8-sig'))

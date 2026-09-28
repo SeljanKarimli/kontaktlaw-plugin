@@ -1,7 +1,7 @@
 'use strict';
 const $ = id => document.getElementById(id);
 const labels = ['Problemli bənd', 'Problemli mətn', 'Riskin izahı', 'Hüquqi əsas', 'Qısa düzəliş təklifi', 'Risk səviyyəsi'];
-let review, version = 'corrected', selection = null;
+let review, layout, version = 'corrected', selection = null;
 function node(tag, text, className) {
   const el = document.createElement(tag);
   if (text !== undefined) el.textContent = text;
@@ -42,6 +42,12 @@ function showSelection(anchors, id, title) {
   for (const el of document.querySelectorAll('.finding')) el.classList.toggle('active', el.id === id);
   renderDocument();
   $('selection-status').textContent = `${version === 'corrected' ? 'Düzəldilmiş' : 'Orijinal'} · ${title}`;
+  if (layout) {
+    const box = layout.versions[version].risks[id]?.[0];
+    if (box) $(`page-${box.page}`).scrollIntoView({block:'start',behavior:'smooth'});
+    else $('selection-status').textContent += ' · Səhifədə dəqiq yer təsdiqlənməyib.';
+    return;
+  }
   const first = anchors[0];
   if (first) {
     const target = $(`span-${first.span_id}`);
@@ -58,7 +64,7 @@ function sourceElement(span) {
   const p = node('p', undefined, 'source-text');
   // Python offsets count Unicode code points; Array.from preserves those offsets.
   const chars = Array.from(span.text);
-  let ranges = (selection?.anchors || []).filter(a => a.span_id === span.id).map(a => a[version]);
+  let ranges = [...review.findings.flatMap(r => r.anchors), ...(selection?.anchors || [])].filter(a => a.span_id === span.id).map(a => a[version]);
   ranges = ranges.filter(r => chars.slice(r.start, r.end).join('') === r.quote).sort((a,b) => a.start-b.start);
   const merged = [];
   for (const r of ranges) {
@@ -71,12 +77,35 @@ function sourceElement(span) {
     p.append(node('mark',chars.slice(r.start,r.end).join(''))); cursor = r.end;
   }
   p.append(document.createTextNode(chars.slice(cursor).join(''))); el.append(p);
-  el.classList.toggle('selected', merged.length > 0);
+  el.classList.toggle('selected', Boolean(selection?.anchors.some(a => a.span_id === span.id)));
   if (span.method === 'ocr') el.append(node('div', review.verified_ocr.includes(span.id) ? 'OCR · vizual yoxlanılıb' : 'OCR · vizual yoxlama tələb olunur', 'ocr-label'));
   return el;
 }
 function renderDocument() {
   const root = $('document'); root.replaceChildren();
+  root.classList.toggle('page-view', Boolean(layout));
+  if (layout) {
+    const current = layout.versions[version];
+    current.pages.forEach((page,index) => {
+      const sheet = node('section',undefined,'word-page'); sheet.id = `page-${index+1}`;
+      const img = node('img'); img.src = page.image; img.alt = `${index+1}-ci səhifə`; img.loading = 'lazy';
+      img.width = Math.round(page.width*1.5); img.height = Math.round(page.height*1.5); sheet.append(img);
+      for (const risk of review.findings) for (const box of current.risks[risk.id] || []) {
+        if (box.page !== index+1) continue;
+        const mark = node('button',undefined,'risk-highlight'); mark.title = risk.title;
+        mark.setAttribute('aria-label',risk.title); mark.classList.toggle('active',selection?.id === risk.id);
+        Object.assign(mark.style,{left:box.x+'%',top:box.y+'%',width:box.width+'%',height:box.height+'%'});
+        mark.addEventListener('click',() => {
+          selection = {id:risk.id,anchors:risk.anchors,title:risk.title};
+          $('risks-tab').click(); $(risk.id).scrollIntoView({block:'center',behavior:'smooth'});
+          for (const el of document.querySelectorAll('.finding')) el.classList.toggle('active',el.id === risk.id);
+          renderDocument();
+        }); sheet.append(mark);
+      }
+      root.append(sheet,node('p',`${index+1} / ${current.pages.length}`,'page-number'));
+    });
+    return;
+  }
   let lastTable = null, table = null, cells = new Map();
   for (const span of review[version]) {
     const match = span.locator.match(/^(.*?, table \d+), row (\d+), cell (\d+), paragraph/);
@@ -162,6 +191,21 @@ async function init() {
     const response = await fetch('review.json',{cache:'no-store'});
     if (!response.ok) throw new Error('load');
     review = await response.json(); $('filename').textContent = review.name;
+    if (review.is_word) {
+      try {
+        if (review.layout_available) {
+          const pages = await fetch('layout.json',{cache:'no-store'});
+          if (pages.ok) layout = await pages.json();
+        }
+      } catch (_) { /* Explicit unavailable state below; never claim layout fidelity. */ }
+      if (review.word_download) {
+        $('download').href = 'corrected.docx'; $('download').download = 'kontaktlaw-corrected.docx';
+        $('download').textContent = 'Word faylını endir';
+      }
+      $('view-note').textContent = layout ? 'Tam sənəd · Word səhifələri · Risklər sarı rənglə vurğulanır' : 'Word səhifələri hazırlanmayıb. Aşağıda yalnız mətn görünüşüdür; tam görünüş üçün Codex-dən səhifələri hazırlamasını istəyin.';
+      if (layout && !layout.page_count_matches) $('view-note').textContent += ' · Düzəlişdən sonra səhifə sayı dəyişib; tərtibat yoxlanmalıdır.';
+      if (layout?.versions[version].unresolved.length) $('view-note').textContent += ' · Bəzi risklərin səhifədə yeri təsdiqlənməyib.';
+    }
     const party = review.parties.find(p => p.id === review.selected_party);
     $('perspective').textContent = party ? `Müqavilə ${party.name} (${party.role}) maraqları baxımından ${review.stage === 'complete' ? 'təhlil edilmişdir' : 'təhlil edilir'}.` : review.selected_party === 'general' ? 'Ümumi baxış · Hər riskdə təsirə məruz qalan tərəf göstərilir.' : 'Tərəf seçimi Codex-də aparılır.';
     if (!review.coverage.extraction_complete || review.coverage.warnings.length) {

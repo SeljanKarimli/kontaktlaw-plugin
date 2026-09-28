@@ -15,14 +15,14 @@ After installing or updating, start a new task and submit a legal document. You 
 
 ## Automatic review and clickable clauses
 
-1. Read the complete available document and correct clear grammar errors in a separate text working copy, preserving legal meaning. Keep the original unchanged and record all corrections.
-2. Offer identified party names/roles as clickable choices in Codex, with **Ümumi baxış**. Reuse a party already selected by the user.
+1. Read the complete available document and correct clear grammar errors in a separate Word working copy without changing its design or formatting, preserving legal meaning. Keep the original unchanged and record all corrections.
+2. Call the Codex question tool with identified party names/roles as clickable choices, with **Ümumi baxış**. Reuse a party already selected by the user.
 3. Analyze risks using the existing Azerbaijani six-paragraph format and legal-source requirements.
-4. Open the local viewer in Codex's right-hand browser panel. Its **Problemli bənd** buttons scroll to the matching clause and highlight it. Switch between original and corrected text without losing the selected passage; inspect grammar changes and download corrected text.
+4. Open the local viewer in Codex's right-hand browser panel. Its **Problemli bənd** buttons scroll to the matching clause and highlight it. Show every page rendered by Microsoft Word, highlight risks immediately, switch between original and corrected versions, and download the corrected DOCX.
 
-The viewer preserves readable paragraph and table structure, not original Word/PDF pagination. Unverified OCR quotations and uncertain matches have disabled navigation. Repeated clauses are located by paragraph, exact quotation and occurrence, not a global text search. An unchanged attachment resumes completed stages. Review artifacts are stored locally outside the plugin; they are not included in a plugin update or release.
+The Word viewer uses native Word page images, retaining the original page design. DOCX edits preserve formatting and non-text package parts; compare both rendered versions to verify that text edits have not caused reflow. Full-page rendering requires Windows Microsoft Word and `scripts/requirements-layout.txt`. Unverified OCR quotations and uncertain matches have disabled navigation. Text anchors use paragraph, exact quotation and occurrence. Ambiguous or unresolvable page-image highlights remain explicitly unlinked. An unchanged attachment resumes completed stages. Review artifacts are stored locally outside the plugin; they are not included in a plugin update or release.
 
-The helper and host workflow are documented in [Automatic review and clause viewer](skills/legal-review/references/automatic-review.md). The read-only viewer uses Python's standard-library HTTP server on `127.0.0.1` with a private capability URL, no directory listing and no write endpoints. It shuts down after two hours without requests and can be reopened. Keep its URL private. Corrected downloads are UTF-8 text; the uploaded file is never overwritten.
+The helper and host workflow are documented in [Automatic review and clause viewer](skills/legal-review/references/automatic-review.md). The read-only viewer uses Python's standard-library HTTP server on `127.0.0.1` with a private capability URL, no directory listing and no write endpoints. It shuts down after two hours without requests and can be reopened. Keep its URL private. Word downloads are DOCX; non-Word text fallback downloads are UTF-8 text; the uploaded file is never overwritten.
 
 Knowledge and prompts are snapshots. The corpus headers report 9 June 2026. Verify current law against the linked official sources when needed. This package does not connect to external services.
 

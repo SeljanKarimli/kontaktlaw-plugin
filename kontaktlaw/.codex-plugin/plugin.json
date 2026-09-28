@@ -1,6 +1,6 @@
 {
   "name": "kontaktlaw",
-  "version": "1.2.0+codex.20260928072337",
+  "version": "1.2.1",
   "description": "Hüquqi sənəd yükləndikdə qrammatika yoxlaması, tərəf seçimi və risk təhlili. Kliklənən bəndlər və vurğulanan mətn ilə yerli sənəd baxışı; OCR dəstəkli müqayisə.",
   "author": {
     "name": "KontaktLaw"
@@ -18,7 +18,7 @@
   "interface": {
     "displayName": "KontaktLaw",
     "shortDescription": "Müqavilə analizi və Azərbaycan hüquqi bilikləri",
-    "longDescription": "Submit a legal document to start grammar correction in a working copy, choose a party, then review risks. Open the local document viewer in Codex and click Problemli bənd to scroll to and highlight the exact passage, with original/corrected views and a text download. Implicit activation is host-selected. Retains twelve legal workflows, Azerbaijani legal sources and OCR-assisted document comparison; no hosted backend or separate model API is required.",
+    "longDescription": "Submit a legal document to correct grammar in a format-preserving Word copy, choose the protected party through a Codex question, then review risks beside the complete Word pages with highlighted clauses and a corrected DOCX download. Implicit activation is host-selected. Retains twelve legal workflows, Azerbaijani legal sources and OCR-assisted document comparison; no hosted backend or separate model API is required.",
     "developerName": "KontaktLaw",
     "category": "Productivity",
     "capabilities": [
