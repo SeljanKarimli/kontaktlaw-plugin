@@ -44,3 +44,9 @@ Publisher-owned code and prompts are available under the [MIT License](LICENSE).
 ## Website JSON profile (2.0 preview)
 
 KontaktLaw now returns website-compatible JSON by default. Shared schemas and examples are in `skills/legal-review/references/website-contract.json` and `website-examples.json`. The immutable evidence exchange stays internal; `website-result` converts source offsets to UTF-16 and retains rejected findings with reasons. KontaktLaw Text keeps its existing prose presentation. This preview does not certify model accuracy or activate an installed worker.
+
+## Optional Word viewer and local comparison
+
+The existing complete-page Word viewer and OCR comparison helpers remain available when explicitly requested. JSON remains the default KontaktLaw output. Read [viewer prerequisites](skills/legal-review/references/automatic-review.md) before opening it. On Windows install `skills/legal-review/scripts/requirements-layout.txt` into the Python runtime used for review and run `skills/legal-review/scripts/check_layout_runtime.py`; Microsoft Word must be installed. Do not claim layout support when that check fails. The original document is never overwritten. Viewer artifacts stay outside the plugin and are served only through a private loopback URL.
+
+The local comparison helper uses native extraction and optional Tesseract; see [comparison setup](skills/legal-review/references/document-comparison.md). Run `python -m unittest discover -s kontaktlaw/tests -v` from the repository for its regression tests. OCR and rendered viewer tests remain opt-in as described in the test files.

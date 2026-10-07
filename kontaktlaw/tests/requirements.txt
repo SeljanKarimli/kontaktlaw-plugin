@@ -1,0 +1,2 @@
+-r ../skills/legal-review/scripts/requirements-comparison.txt
+python-docx>=1.2,<2

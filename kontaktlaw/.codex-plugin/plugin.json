@@ -1,7 +1,7 @@
 {
   "name": "kontaktlaw",
   "version": "2.0.0-preview.2",
-  "description": "Azərbaycan hüquqi bilikləri və KontaktLaw promptları ilə müqavilə analizi və sənəd redaktəsi.",
+  "description": "Hüquqi sənəd yükləndikdə qrammatika yoxlaması, tərəf seçimi və risk təhlili. Kliklənən bəndlər və vurğulanan mətn ilə yerli sənəd baxışı; OCR dəstəkli müqayisə.",
   "author": {
     "name": "KontaktLaw"
   },
@@ -10,13 +10,15 @@
     "kontaktlaw",
     "azerbaijan",
     "legal",
-    "contracts"
+    "contracts",
+    "document-comparison",
+    "ocr"
   ],
   "skills": "./skills/",
   "interface": {
     "displayName": "KontaktLaw",
     "shortDescription": "Müqavilə analizi və Azərbaycan hüquqi bilikləri",
-    "longDescription": "Review contracts from a selected party perspective, check grammar, explain and rewrite clauses, and cite the eight bundled Azerbaijani legal MDs. Includes twelve Codex-adapted legal workflows without website runtime dependencies.",
+    "longDescription": "Review uploaded legal documents and return versioned website-compatible JSON with validated evidence, risk findings, automatic grammar corrections and OCR-aware comparison. An optional local Word viewer preserves complete pages and highlighted clauses. Uses the host model; implicit activation is host-selected.",
     "developerName": "KontaktLaw",
     "category": "Productivity",
     "capabilities": [
@@ -28,7 +30,8 @@
     "defaultPrompt": [
       "Müqaviləni seçdiyim tərəfin maraqları baxımından yoxla.",
       "Mətndə hüquqi mənanı dəyişmədən qrammatik səhvləri düzəlt.",
-      "Sualıma MDs qanun bazasından mənbə göstərərək cavab ver."
+      "Sualıma MDs qanun bazasından mənbə göstərərək cavab ver.",
+      "İki sənədi OCR dəstəyi ilə müqayisə et, dəyişiklikləri və hüquqi təsirini izah et."
     ],
     "logo": "./assets/kontaktlaw.png",
     "composerIcon": "./assets/kontaktlaw.png"

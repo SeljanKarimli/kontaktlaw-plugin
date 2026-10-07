@@ -1,6 +1,6 @@
 ---
 name: legal-review
-description: Review contracts from a selected party's perspective, answer document questions, correct legal-text grammar, and research Azerbaijani law using KontaktLaw's bundled sources and workflows.
+description: Use when a user submits or uploads a contract or legal document, including an attachment-only message. Review contracts from a selected party's perspective, answer document questions, correct legal-text grammar, and research Azerbaijani law using KontaktLaw's bundled sources and workflows.
 ---
 
 # KontaktLaw
@@ -83,3 +83,7 @@ This package includes legal knowledge and review workflows. It does not connect 
 When the task could influence a consequential legal decision, state briefly that the plugin's output is not legal advice and recommend verification with current official sources and a qualified lawyer.
 
 The knowledge helper reads bundled files locally. The host assistant processes supplied documents, questions, and generated answers under the host provider's settings and data policies. Optional current-law research may send a minimized legal query to official websites through available browsing tools. Never include private contract text, party identifiers, deal terms, or unnecessary personal information in a web query. The plugin has no separate account, hosted backend, or telemetry. User-authorized templates and outputs may be saved only in an explicitly selected local workspace. Encourage the user to remove unnecessary personal information before supplying a document.
+
+## Optional local Word viewer
+
+The website JSON contract is the default. When the user explicitly requests the local Word viewer, read references/automatic-review.md for the legacy viewer adapter and its layout preflight. Its prose packets are only a viewer transport, never the default result. Keep the original and use the core apply-docx --all-grammar pipeline for automatic corrections; do not reinstate the legacy viewer grammar approval gates.

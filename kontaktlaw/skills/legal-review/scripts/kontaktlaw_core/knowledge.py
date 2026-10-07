@@ -6,14 +6,26 @@ from collections import Counter
 import html
 import json
 import math
+import os
 from pathlib import Path
 import re
 import sys
 import unicodedata
 
+def local_path(path):
+    """Support long corpus filenames inside versioned Windows plugin caches."""
+    path = Path(path).resolve()
+    value = str(path)
+    if os.name == 'nt' and not value.startswith('\\\\?\\'):
+        value = '\\\\?\\UNC\\' + value[2:] if value.startswith('\\\\') else '\\\\?\\' + value
+        return Path(value)
+    return path
+
+
 ROOT = Path(__file__).resolve().parents[1] / 'references' / 'knowledge'
 if not ROOT.exists():
     ROOT = Path(__file__).resolve().parents[2] / 'references' / 'knowledge'
+ROOT = local_path(ROOT)
 LAW_DIR = ROOT / 'MDs'
 
 # Reviewed vocabulary expansion, deliberately finite: no opaque fuzzy authority matching.

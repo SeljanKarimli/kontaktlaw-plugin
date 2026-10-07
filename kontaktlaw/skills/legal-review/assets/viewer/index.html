@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="az">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>KontaktLaw · Sənəd baxışı</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="viewer.css">
+  <script src="viewer.js" defer></script>
+</head>
+<body>
+  <header class="topbar"><div class="brand">Kontakt<span>Law</span></div><span class="private">Yerli sənəd baxışı</span></header>
+  <section class="summary">
+    <h1 id="filename">Sənəd yüklənir…</h1>
+    <p id="perspective"></p>
+    <p class="note" id="view-note">Sənəd baxışı</p>
+    <details id="coverage" hidden><summary>Oxunma məhdudiyyətləri</summary><ul id="warnings"></ul></details>
+  </section>
+  <main>
+    <aside class="review-pane" aria-label="Yoxlama nəticələri">
+      <div class="pane-heading"><h2>Yoxlama nəticələri</h2><span id="risk-count" class="badge"></span></div>
+      <nav class="tabs" aria-label="Yoxlama növü">
+        <button id="risks-tab" aria-pressed="true">Hüquqi risklər</button>
+        <button id="grammar-tab" aria-pressed="false">Qrammatika <span id="grammar-count"></span></button>
+      </nav>
+      <div class="findings-scroll"><section id="risks"></section><section id="grammar" hidden></section></div>
+    </aside>
+    <section class="document-pane" aria-label="Müqavilə mətni">
+      <div class="document-toolbar">
+        <div class="tabs" aria-label="Sənəd versiyası">
+          <button id="corrected-tab" aria-pressed="true">Düzəldilmiş</button>
+          <button id="original-tab" aria-pressed="false">Orijinal</button>
+        </div>
+        <a id="download" href="corrected.txt" download="kontaktlaw-corrected.txt">Mətni endir</a>
+      </div>
+      <p id="selection-status" class="selection-status" role="status" aria-live="polite">Bəndə keçmək üçün nəticədəki “Problemli bənd” keçidinə klikləyin.</p>
+      <div id="document-scroll" class="document-scroll"><article id="document" aria-label="Sənəd"></article></div>
+    </section>
+  </main>
+  <p id="error" class="error" role="alert" hidden></p>
+</body>
+</html>

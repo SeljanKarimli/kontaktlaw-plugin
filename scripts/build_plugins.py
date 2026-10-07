@@ -15,6 +15,8 @@ def main():
         target=ROOT/plugin/'skills'/skill
         skill_text=(ROOT/'shared/SKILL.template.md').read_text(encoding='utf-8').replace('__SKILL_NAME__',skill).replace('__DISPLAY_NAME__','KontaktLaw Text' if plugin=='kontaktlaw-text' else 'KontaktLaw')
         if plugin == 'kontaktlaw':
+            skill_text=skill_text.replace('description: Review contracts', 'description: Use when a user submits or uploads a contract or legal document, including an attachment-only message. Review contracts')
+            skill_text += '\n## Optional local Word viewer\n\nThe website JSON contract is the default. When the user explicitly requests the local Word viewer, read references/automatic-review.md for the legacy viewer adapter and its layout preflight. Its prose packets are only a viewer transport, never the default result. Keep the original and use the core apply-docx --all-grammar pipeline for automatic corrections; do not reinstate the legacy viewer grammar approval gates.\n'
             skill_text=skill_text.replace('Internal JSON records do not change the prose-only user output rule.', 'The website JSON contract controls presentation; evidence records remain internal.')
             start=skill_text.index('Begin with `Müqavilə')
             end=skill_text.index('\nBefore returning', start)
@@ -52,7 +54,7 @@ def main():
             else:dest.parent.mkdir(parents=True,exist_ok=True);dest.write_bytes(content)
         wrappers={
             'kontaktlaw.py':'from kontaktlaw_core.cli import main\nif __name__ == "__main__":\n    import sys\n    if hasattr(sys.stdout, "reconfigure"): sys.stdout.reconfigure(encoding="utf-8")\n    main()\n',
-            'search_knowledge.py':'import sys\nfrom pathlib import Path\nsys.path.insert(0, str(Path(__file__).resolve().parent))\nfrom kontaktlaw_core.knowledge import *\nif __name__ == "__main__":\n    if hasattr(sys.stdout, "reconfigure"): sys.stdout.reconfigure(encoding="utf-8")\n    main()\n'}
+            'search_knowledge.py':'import sys\nfrom pathlib import Path\nsys.path.insert(0, str(Path(__file__).resolve().parent))\nfrom kontaktlaw_core import knowledge as core\nfrom kontaktlaw_core.knowledge import *\nif __name__ == "__main__":\n    if hasattr(sys.stdout, "reconfigure"): sys.stdout.reconfigure(encoding="utf-8")\n    core.main()\nelse:\n    sys.modules[__name__] = core\n'}
         for filename,content in wrappers.items():
             dest=target/'scripts'/filename
             if args.check:
