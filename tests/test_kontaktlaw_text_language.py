@@ -8,10 +8,7 @@ PLUGINS = (
         REPO / "kontaktlaw-text/skills/legal-review-text/SKILL.md",
         REPO / "kontaktlaw-text/skills/legal-review-text/references/prompts/gpt/risk_review.md",
     ),
-    (
-        REPO / "kontaktlaw/skills/legal-review/SKILL.md",
-        REPO / "kontaktlaw/skills/legal-review/references/prompts/gpt/risk_review.md",
-    ),
+
 )
 
 

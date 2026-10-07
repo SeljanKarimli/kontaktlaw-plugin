@@ -2,11 +2,15 @@
 
 An installable Codex plugin for contract review, Azerbaijani legal-source lookup, grammar correction, summaries, clause explanations and drafting.
 
+## Preview status
+
+Version 2.0.0-preview.1 adds shared evidence validation, structured extraction, comparisons, approved templates, source-update staging and a separate Office companion. This preview has not passed lawyer-labelled model evaluations or live Microsoft Office acceptance testing. No accuracy or platform-parity claim is made. Read the skill evidence workflow for commands.
+
 ## Included
 
 - Eight processed MD knowledge snapshots with official-source links and source hashes. Local diff markup is removed while numbered legal footnotes are preserved.
 - Twelve Codex-adapted legal workflows. Gemini prompts and inactive website stages are excluded.
-- A task-focused skill and a read-only Python 3 knowledge search helper. No extra Python packages or API keys are needed.
+- A task-focused skill and a read-only Python 3 knowledge search helper. Core tools need no extra packages or API keys. PDF extraction and DOCX report creation require the optional scripts/requirements-document.txt dependencies.
 
 After installing, start a new task, invoke KontaktLaw and supply a document. Specify the party whose interests should be protected, or request general review. The plugin uses the host assistant's configured model.
 
@@ -19,7 +23,7 @@ Knowledge and prompts are snapshots. The corpus headers report 9 June 2026. Veri
 - The Python knowledge helper reads only the bundled law snapshots on the user's computer and returns matching source ranges.
 - Documents, questions, and generated answers are processed by the host assistant under the host provider's settings and data policies.
 - When the user requests current-law verification, available browsing tools may send a minimized legal search query to official websites. Private contract text, party identifiers, and unnecessary personal information must not be included in those queries.
-- The plugin has no separate account, backend, telemetry, or document store. Users should remove unnecessary personal information before supplying documents.
+- The plugin has no separate account, hosted backend, or telemetry. The explicit local workspace stores only user-authorized templates and outputs. Users should remove unnecessary personal information before supplying documents.
 
 ## Install from GitHub
 

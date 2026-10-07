@@ -1,0 +1,81 @@
+{
+  "risk": {
+    "findings": []
+  },
+  "grammar": {
+    "findings": [
+      {
+        "clause_number": null,
+        "quote": "Platfroma",
+        "source_anchor": "Platfroma işləyir.",
+        "suggested_clause": "Platforma",
+        "issue": "Yazı səhvi",
+        "analysis": "Hərflərin sırası düzəldilir.",
+        "confidence": 0.95,
+        "azerbaijani_explanation": null
+      }
+    ]
+  },
+  "comparison": {
+    "summary": "Ödəniş müddəti dəyişib.",
+    "limitations": [],
+    "findings": [
+      {
+        "location": "1",
+        "beforeQuote": "Ödəniş 10 günə edilir.",
+        "afterQuote": "Ödəniş 15 günə edilir.",
+        "explanation": "Müddət uzadılıb.",
+        "effect": "adverse",
+        "affectedParty": "Satıcı",
+        "impact": "Ödəniş gec alınır.",
+        "recommendation": "Müddəti razılaşdırın."
+      }
+    ]
+  },
+  "review": {
+    "query": "review",
+    "documentName": "synthetic.txt",
+    "answer": "",
+    "model": "gpt-6.1-sol",
+    "generatedAt": "2026-10-07T00:00:00Z",
+    "references": [],
+    "documentReview": {
+      "documentName": "synthetic.txt",
+      "documentText": "😀 He are ready.",
+      "sourceDocumentText": "😀 He are ready.",
+      "findings": [
+        {
+          "id": "g",
+          "quote": "are",
+          "issue": "Qrammatik düzəliş",
+          "riskLevel": "low",
+          "status": "legal_risk",
+          "riskType": "technical_inconsistency",
+          "confidence": 0.6,
+          "legalBasis": "",
+          "referenceIndexes": [],
+          "recommendation": "Avtomatik tətbiq edilir.",
+          "suggested_clause": "is",
+          "replacement": "is",
+          "detection_source": "grammar",
+          "remediation_mode": "auto_apply",
+          "source_span": {
+            "start": 6,
+            "end": 9,
+            "text": "are"
+          }
+        }
+      ],
+      "rejectedFindings": [],
+      "humanReview": [],
+      "provenance": {
+        "pluginVersion": "2.0.0-preview.2",
+        "schemaVersion": "website-2.0",
+        "model": "gpt-6.1-sol",
+        "reasoning": "low",
+        "documentHash": "f9630656e9687a1c2d69e5beed8868fe0c8f7fd14ff3b7be562be1e5fb717d6b",
+        "promptFingerprint": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+      }
+    }
+  }
+}

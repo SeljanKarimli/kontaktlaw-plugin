@@ -1,17 +1,21 @@
 ---
 name: legal-review-text
-description: Review contracts from a selected party's perspective and present legal risks only as numbered prose sections, never tables; also answer document questions, correct grammar, and research Azerbaijani law.
+description: Review contracts from a selected party's perspective, answer document questions, correct legal-text grammar, and research Azerbaijani law using KontaktLaw's bundled sources and workflows.
 ---
 
 # KontaktLaw Text
 
-Use the supplied document and the bundled Azerbaijani legislation to produce evidence-based legal review in prose-only format. Never use tables for risk analysis.
+Use the supplied document and the bundled Azerbaijani legislation to produce evidence-based legal review.
 
 ## Output language
 
 This is the canonical language rule for every workflow. Azerbaijani is the primary output language. Write headings, clause identification, risk explanations, legal grounds, verification notes, summaries, and all other analysis in fluent Azerbaijani. An explicit user language request overrides this default.
 
 For an Azerbaijani document, write every part of the finding in Azerbaijani. For a document in another language, show the exact problematic quotation first in the original language and immediately below it provide an Azerbaijani translation. Write the proposed correction first in the document's original language and immediately below it provide an Azerbaijani translation. Keep the **Problemli bənd**, **Riskin izahı**, and **Hüquqi əsas** paragraphs fully in Azerbaijani, translating a foreign clause title where needed while preserving its clause number. Do not replace the original quotation with a translation or present an Azerbaijani document twice.
+
+## Validated tools and daily workflow
+
+Read [the evidence workflow](references/evidence-workflow.md) for every document review, structured edit, comparison, template draft, obligation register, or Office handoff. Use the local extraction and validation commands before presenting findings or applying changes. Internal JSON records do not change the prose-only user output rule.
 
 ## Select the task
 
@@ -78,4 +82,4 @@ This package includes legal knowledge and review workflows. It does not connect 
 
 When the task could influence a consequential legal decision, state briefly that the plugin's output is not legal advice and recommend verification with current official sources and a qualified lawyer.
 
-The knowledge helper reads bundled files locally. The host assistant processes supplied documents, questions, and generated answers under the host provider's settings and data policies. Optional current-law research may send a minimized legal query to official websites through available browsing tools. Never include private contract text, party identifiers, deal terms, or unnecessary personal information in a web query. The plugin has no separate account, backend, telemetry, or document store. Encourage the user to remove unnecessary personal information before supplying a document.
+The knowledge helper reads bundled files locally. The host assistant processes supplied documents, questions, and generated answers under the host provider's settings and data policies. Optional current-law research may send a minimized legal query to official websites through available browsing tools. Never include private contract text, party identifiers, deal terms, or unnecessary personal information in a web query. The plugin has no separate account, hosted backend, or telemetry. User-authorized templates and outputs may be saved only in an explicitly selected local workspace. Encourage the user to remove unnecessary personal information before supplying a document.

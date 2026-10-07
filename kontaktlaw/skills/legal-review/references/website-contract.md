@@ -1,0 +1,17 @@
+# KontaktLaw website JSON contract — website-2.0
+
+KontaktLaw returns raw JSON by default, without Markdown fences or the six-paragraph prose wrapper. KontaktLaw Text retains its prose output. Read `website-contract.json` for the task's exact response shape and `website-examples.json` for synthetic examples.
+
+For a website worker request, return its supplied stage schema exactly: risk, grammar, comparison, or the explicitly supplied auxiliary schema. Do not repeat extraction, party selection, or editing performed by the website. The installed native plugin must perform the reasoning.
+
+For a direct review in Codex, retain the immutable exchange and reviewed evidence internally. Produce the website review response with `python scripts/kontaktlaw.py website-result result.json --original intake.json --model ACTUAL_MODEL --reasoning ACTUAL_REASONING --prompt-fingerprint SHA256_OF_EFFECTIVE_INSTRUCTIONS --out website-result.json`. Return that JSON. Do not invent provenance. Exact output identity across independently sampled model runs is not promised.
+
+Use explicit selected-party scope. In general review attribute each risk to an actual contract party, never party-general. Keep only material adverse effects supported by the complete contract; check definitions, exceptions, annexes and cross-references. Separate conditional concerns from established defects. Preserve rejected candidates and their reasons. Exact quotations, correct party attribution and evidence remain mandatory; do not fabricate citations. De-duplicate the same causal effect, not merely similar topics.
+
+For grammar, detect every genuine grammatical/spelling error, preserve the intended meaning in your proposals, and supply minimal original-language replacements. Every exactly located suggestion is applied automatically; do not omit suggestions solely because of confidence or a repeated word. A repeated phrase is identifiable by its source span. An empty replacement explicitly deletes the quote. Preserve immutable original positions, undo history and original DOCX formatting. Recheck the corrected draft, reconcile overlaps, and repair locations at most twice. Keep unresolved items visible instead of claiming completion. Legal proposals remain separate and are not automatically applied as grammar. For direct DOCX correction use `python scripts/kontaktlaw.py apply-docx original.docx result.json --out corrected.docx --all-grammar`; the original remains immutable. Resolve unsupported document structures through the available document tools and report any unresolved edits, never a false complete status.
+
+Exchange positions count Unicode code points; website positions count UTF-16 code units. Always use the conversion helper; an emoji before a clause changes these offsets. Never change source text to make a position match.
+
+## OCR quality
+
+OCR transcribes visible evidence; grammar correction happens afterwards. Retain raw and verified text with page and provider provenance. Do not infer unreadable digits, names, negations, dates, percentages, identifiers or table cells. Preserve Azerbaijani letters, page order, clauses, table rows and empty/missing pages. Flag unreadable fields explicitly. Use an available second OCR/vision pass on uncertain pages, at most once per page. Report disagreements even when the second output looks plausible. Confidence is not measured accuracy. Measure word/character error rates and exact critical-field matches against ground truth; do not claim that instructions or schema validation certify OCR accuracy.

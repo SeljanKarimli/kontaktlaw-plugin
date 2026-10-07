@@ -1,0 +1,4 @@
+# Optional document adapters. Core exchange and legal lookup use the standard library.
+PyMuPDF>=1.24,<2
+python-docx>=1.1,<2
+# Scanned PDF OCR also requires Tesseract and aze/eng/rus language packs.

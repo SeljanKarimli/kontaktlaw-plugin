@@ -4,7 +4,7 @@ import unittest
 
 
 REPO = Path(__file__).resolve().parents[1]
-PROMPTS = REPO / "kontaktlaw/skills/legal-review/references/prompts/gpt"
+PROMPTS = REPO / "kontaktlaw-text/skills/legal-review-text/references/prompts/gpt"
 ACTIVE = {
     "risk_review.md",
     "grammar.md",

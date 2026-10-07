@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:kontaktlaw:exchange:1.0",
+  "title": "KontaktLaw exchange 1.0",
+  "description": "Structural contract. Run the Python/TypeScript validators for hashes, source provenance, coverage and edit targeting. Passing does not certify legal accuracy.",
+  "type": "object",
+  "required": ["schema_version", "task", "language", "selected_party", "document", "coverage", "findings", "evidence", "edits", "obligations"],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "task": {"enum": ["review", "research", "grammar", "draft", "compare", "obligations", "summary", "reply"]},
+    "language": {"enum": ["az", "en", "ru"]},
+    "selected_party": {"type": ["string", "null"]},
+    "document": {
+      "type": "object", "required": ["id", "name", "sha256", "spans"],
+      "properties": {
+        "id": {"type": "string", "minLength": 1}, "name": {"type": "string"},
+        "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+        "spans": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/span"}}
+      }
+    },
+    "coverage": {"type": "object", "required": ["extraction_complete", "reviewed_span_ids", "missing_annexes", "warnings"], "properties": {
+      "extraction_complete": {"type": "boolean"}, "review_complete": {"type": "boolean"},
+      "reviewed_span_ids": {"type": "array", "uniqueItems": true, "items": {"type": "string"}},
+      "missing_annexes": {"type": "array", "items": {"type": "string"}}, "warnings": {"type": "array", "items": {"type": "string"}}
+    }},
+    "findings": {"type": "array", "items": {"$ref": "#/$defs/finding"}},
+    "evidence": {"type": "array", "items": {"$ref": "#/$defs/evidence"}},
+    "edits": {"type": "array", "items": {"$ref": "#/$defs/edit"}},
+    "obligations": {"type": "array", "items": {"type": "object", "required": ["span_id", "quote", "responsible_party", "trigger", "deadline", "description"]}},
+    "summary": {"type": "string"}, "reply": {"type": "string"}
+  },
+  "$defs": {
+    "span": {"type": "object", "required": ["id", "text", "locator"], "properties": {"id": {"type": "string"}, "text": {"type": "string"}, "locator": {"type": "string"}, "variant": {"enum": ["current", "original", "revised", "context", "unresolved"]}}},
+    "finding": {"type": "object", "required": ["id", "span_id", "quote", "kind", "affected_party", "evidence_ids"], "properties": {"id": {"type": "string"}, "span_id": {"type": "string"}, "quote": {"type": "string", "minLength": 1}, "kind": {"enum": ["legal", "commercial", "conditional"]}, "affected_party": {"type": "string", "minLength": 1}, "evidence_ids": {"type": "array", "items": {"type": "string"}}}},
+    "evidence": {"type": "object", "required": ["id", "title", "locator", "quote", "source_text", "source_sha256", "status"], "properties": {"id": {"type": "string"}, "title": {"type": "string"}, "locator": {"type": "string"}, "quote": {"type": "string", "minLength": 1}, "source_text": {"type": "string"}, "source_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"}, "status": {"enum": ["snapshot", "official_inspected", "unverified"]}, "current_law_verified": {"const": false}}},
+    "edit": {"type": "object", "required": ["id", "span_id", "start", "end", "quote", "replacement", "mode"], "properties": {"id": {"type": "string"}, "span_id": {"type": "string"}, "start": {"type": "integer", "minimum": 0}, "end": {"type": "integer", "minimum": 1}, "quote": {"type": "string", "minLength": 1}, "replacement": {"type": "string"}, "mode": {"enum": ["grammar", "legal"]}}}
+  }
+}
