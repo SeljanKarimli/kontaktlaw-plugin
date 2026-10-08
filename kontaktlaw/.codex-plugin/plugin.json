@@ -1,6 +1,6 @@
 {
   "name": "kontaktlaw",
-  "version": "2.0.0-preview.2",
+  "version": "2.0.0-preview.3",
   "description": "Hüquqi sənəd yükləndikdə qrammatika yoxlaması, tərəf seçimi və risk təhlili. Kliklənən bəndlər və vurğulanan mətn ilə yerli sənəd baxışı; OCR dəstəkli müqayisə.",
   "author": {
     "name": "KontaktLaw"

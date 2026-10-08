@@ -69,7 +69,7 @@
       "rejectedFindings": [],
       "humanReview": [],
       "provenance": {
-        "pluginVersion": "2.0.0-preview.2",
+        "pluginVersion": "2.0.0-preview.3",
         "schemaVersion": "website-2.0",
         "model": "gpt-6.1-sol",
         "reasoning": "low",

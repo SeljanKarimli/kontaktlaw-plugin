@@ -40,6 +40,8 @@ Use Azerbaijani unless the user requests another language. Use the selected part
 
 Return the versioned comparison JSON defined by website-contract.md and website-contract.json. Convert internal evidence explicitly, including Unicode code-point offsets to JavaScript UTF-16 offsets. Preserve source quotations and rejected findings with reasons. Carry OCR and coverage limitations in the structured result. An empty change set is not proof of equivalence when coverage is incomplete. Keep source documents unchanged unless corrections are explicitly requested.
 
+The JSON values displayed to users must use plain Azerbaijani. Translate extraction metadata into meaningful limitations: say whether text recognition was used, whether revisions were provided, and what was not visually checked. Do not echo property names, booleans, nulls, empty arrays, XML filenames or internal paragraph IDs in explanations or locations. Use the actual clause, annex or table heading as the location; preserve internal locators only in evidence records. Exact document quotations remain unchanged.
+
 ## One-time setup
 
 Python 3.10 or later is required. Ordinary DOCX text comparison uses the Python standard library. For PDF extraction and images, install the optional packages in the interpreter that will run the helper:

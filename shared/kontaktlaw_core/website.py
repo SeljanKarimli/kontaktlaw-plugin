@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from .exchange import require_valid, digest, validate
 
 SCHEMA_VERSION = 'website-2.0'
-PLUGIN_VERSION = '2.0.0-preview.2'
+PLUGIN_VERSION = '2.0.0-preview.3'
 
 def utf16_length(text):
     return len(text.encode('utf-16-le')) // 2

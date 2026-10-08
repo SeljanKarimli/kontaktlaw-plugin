@@ -1,6 +1,6 @@
 {
   "schemaVersion": "website-2.0",
-  "pluginVersion": "2.0.0-preview.2",
+  "pluginVersion": "2.0.0-preview.3",
   "risk": {
     "name": "whole_document_risks",
     "strict": true,

@@ -4,7 +4,7 @@ An installable Codex plugin for contract review, Azerbaijani legal-source lookup
 
 ## Preview status
 
-Version 2.0.0-preview.2 adds shared evidence validation, structured extraction, comparisons, approved templates, source-update staging and a separate Office companion. This preview has not passed lawyer-labelled model evaluations or live Microsoft Office acceptance testing. No accuracy or platform-parity claim is made. Read the skill evidence workflow for commands.
+Version 2.0.0-preview.3 adds shared evidence validation, structured extraction, comparisons, approved templates, source-update staging and a separate Office companion. This preview has not passed lawyer-labelled model evaluations or live Microsoft Office acceptance testing. No accuracy or platform-parity claim is made. Read the skill evidence workflow for commands.
 
 ## Included
 
